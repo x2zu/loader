@@ -1,4 +1,4 @@
-game.Loaded:Wait()
+```game.Loaded:Wait()
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local creator = MarketplaceService:GetProductInfo(game.PlaceId).Creator.CreatorTargetId
@@ -6,11 +6,11 @@ local creator = MarketplaceService:GetProductInfo(game.PlaceId).Creator.CreatorT
 local script_key = false
 
 local supportedGames = {
-    [101949297449238] = "https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Build%20An%20Island.lua", -- Build Island
-    [18172550962] = "https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Pixel%20Blade.lua", -- Pixel Blade
-    [94682676231618] = "https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/My%20Fishing%20Pier.lua", -- My Fishing Pier
-    [126884695634066] = "https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/BloxFruits.lua", -- Blox Fruits
-    [136755111277466] = "https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Anime%20Shadow2.lua", -- Anime Shadow 2
+    [101949297449238] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Build%20An%20Island.lua",
+    [18172550962] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Pixel%20Blade.lua",
+    [94682676231618] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/My%20Fishing%20Pier.lua",
+    [126884695634066] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/BloxFruits.lua",
+    [136755111277466] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Anime%20Shadow2.lua",
 }
 
 if creator == 2753915549 or supportedGames[game.PlaceId] then
@@ -24,3 +24,4 @@ if creator == 2753915549 or supportedGames[game.PlaceId] then
 else
     warn("Script not supported this game!")
 end
+```
