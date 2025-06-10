@@ -1,4 +1,4 @@
-```game.Loaded:Wait()
+game.Loaded:Wait()
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local creator = MarketplaceService:GetProductInfo(game.PlaceId).Creator.CreatorTargetId
@@ -24,4 +24,4 @@ if creator == 2753915549 or supportedGames[game.PlaceId] then
 else
     warn("Script not supported this game!")
 end
-```
+
