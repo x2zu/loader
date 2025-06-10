@@ -3,6 +3,8 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
+local MarketplaceService = game:GetService("MarketplaceService")
+local creator = MarketplaceService:GetProductInfo(game.PlaceId).Creator.CreatorTargetId
 local supportedGames = {
     [101949297449238] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Build%20An%20Island.lua",
     [18172550962] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Pixel%20Blade.lua",
@@ -11,22 +13,14 @@ local supportedGames = {
     [136755111277466] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Anime%20Shadow2.lua",
 }
 
-local allowedPixelBladePlaceIds = {
-    [18172553902] = true,
-    [6161049307] = true,
-    [18172550962] = true,
-}
+if creator == 2753915549 or supportedGames[game.PlaceId] then
+    local url = supportedGames[game.PlaceId]
 
-local gameId = game.GameId
-local placeId = game.PlaceId
-
-if supportedGames[gameId] then
-    -- Special handling for Pixel Blade
-    if gameId == 18172550962 then
-        if allowedPixelBladePlaceIds[placeId] then
-            loadstring(game:HttpGet(supportedGames[gameId]))()
-        end
+    if url == "" then
+        warn("Url doesnt found in this game!:", game.PlaceId)
     else
-        loadstring(game:HttpGet(supportedGames[gameId]))()
+        loadstring(game:HttpGet(url))()
     end
+else
+    warn("Script not supported this game!")
 end
