@@ -11,7 +11,7 @@ local games = {
 }
 
 if games[creator] then
-    print("Game supported! loading..")
+    print("Please wait, daddyhh~ loading..")
     loadstring(game:HttpGet(games[creator]))()
 else
     warn("Unsupported game.")
