@@ -11,7 +11,6 @@ local games = {
     [35980748] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/My%20Fishing%20Pier.lua', -- My Fishing Pier
     [3739465] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Dungeon%20Heroes.lua', -- Dungeon Heroes
     [35812225] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Anime%20Shadow2.lua', -- Anime Shadow 2
-    [33768122] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Build%20An%20Island.lua', -- Build An Island
     [4372130] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/BloxFruits.lua', -- Blox Fruits
     [35789249] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/GrowAGarden.lua', -- Grow A Garden
 }
