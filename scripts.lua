@@ -1,36 +1,21 @@
--- Wait until the game is fully loaded
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
+print("Supported game!")
+local creator = game.CreatorId
 
--- Supported GameId to Script URL mapping
-local supportedGames = {
-    [101949297449238] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Build%20An%20Island.lua",
-    [18172550962] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Pixel%20Blade.lua",
-    [94682676231618] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/My%20Fishing%20Pier.lua",
-    [126884695634066] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/BloxFruits.lua",
-    [136755111277466] = "https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Anime%20Shadow2.lua",
+local games = {
+    [18172550962] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Pixel%20Blade.lua', -- Pixel Blade
+    [94682676231618] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/My%20Fishing%20Pier.lua', -- My Fishing Pier
+    [94845773826960] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Dungeon%20Heroes.lua', -- Dungeon Heroes
+    [136755111277466] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Anime%20Shadow2.lua', -- Anime Shadow 2
+    [101949297449238] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Build%20An%20Island.lua', -- Build An Island
+    [2753915549] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/BloxFruits.lua', -- Blox Fruits
+    [126884695634066] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/GrowAGarden.lua', -- Grow A Garden
 }
 
--- Allowed PlaceIds specifically for Pixel Blade
-local allowedPixelBladePlaceIds = {
-    [18172553902] = true,
-    [6161049307] = true,
-    [18172550962] = true,
-}
-
--- Get current GameId and PlaceId
-local gameId = game.GameId
-local placeId = game.PlaceId
-
--- Check if the game is supported
-if supportedGames[gameId] then
-    -- Special handling for Pixel Blade
-    if gameId == 18172550962 then
-        if allowedPixelBladePlaceIds[placeId] then
-            loadstring(game:HttpGet(supportedGames[gameId]))()
-        end
-    else
-        loadstring(game:HttpGet(supportedGames[gameId]))()
-    end
+if games[creator] then
+    loadstring(game:HttpGet(games[creator]))()
+else
+    warn("Unsupported game")
 end
