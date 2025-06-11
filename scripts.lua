@@ -4,8 +4,6 @@ if not game:IsLoaded() then
 end
 
 print("Supported game!")
-print("CreatorId terbaca:", game.CreatorId) -- Tambahkan ini untuk debug
-
 local creator = game.CreatorId
 
 local games = {
@@ -13,8 +11,8 @@ local games = {
 }
 
 if games[creator] then
-    print("Game didukung, memuat script...")
+    print("Game supported! loading..")
     loadstring(game:HttpGet(games[creator]))()
 else
-    warn("Unsupported game. CreatorId saat ini:", creator)
+    warn("Unsupported game.")
 end
