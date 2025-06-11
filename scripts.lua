@@ -2,20 +2,19 @@ repeat task.wait() until game.Players.LocalPlayer and game.Players.LocalPlayer.C
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
+
 print("Supported game!")
+print("CreatorId terbaca:", game.CreatorId) -- Tambahkan ini untuk debug
+
 local creator = game.CreatorId
+
 local games = {
-    [8605341] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Pixel%20Blade.lua', -- Pixel Blade
-    [94682676231618] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/My%20Fishing%20Pier.lua', -- My Fishing Pier
-    [94845773826960] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Dungeon%20Heroes.lua', -- Dungeon Heroes
-    [136755111277466] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Anime%20Shadow2.lua', -- Anime Shadow 2
-    [101949297449238] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Build%20An%20Island.lua', -- Build An Island
-    [2753915549] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/BloxFruits.lua', -- Blox Fruits
-    [126884695634066] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/GrowAGarden.lua', -- Grow A Garden
+    [8605341] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Pixel%20Blade.lua',
 }
 
 if games[creator] then
+    print("Game didukung, memuat script...")
     loadstring(game:HttpGet(games[creator]))()
 else
-    warn("Unsupported game")
+    warn("Unsupported game. CreatorId saat ini:", creator)
 end
