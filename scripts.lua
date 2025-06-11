@@ -6,6 +6,7 @@ local creator = game.CreatorId
 
 local games = {
     [18172550962] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Pixel%20Blade.lua', -- Pixel Blade
+    [6161049307] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Pixel%20Blade.lua', -- Pixel Blade
     [94682676231618] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/My%20Fishing%20Pier.lua', -- My Fishing Pier
     [94845773826960] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/Dungeon%20Heroes.lua', -- Dungeon Heroes
     [136755111277466] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Anime%20Shadow2.lua', -- Anime Shadow 2
