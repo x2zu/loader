@@ -14,6 +14,7 @@ local games = {
     [4372130] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/BloxFruits.lua', -- Blox Fruits
     [35789249] = 'https://raw.githubusercontent.com/x2zu/loader/main/ObfSource/GrowAGarden.lua', -- Grow A Garden
     [35860275] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/OneTouch.lua', -- One Touch
+    [34063840] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/AnimeRising.lua', -- Anime Rising
 }
 
 if games[creator] then
