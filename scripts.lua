@@ -18,6 +18,7 @@ local games = {
     [35815907] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/StealABrainrot.lua', -- Steal A Brainrot ( Discontinued )
     [12836673] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/BladeBall.lua', -- Blade Ball
     [6042520] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/99Nights.lua', -- 99 Nights
+    [35289532] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Dig.lua', -- Dig
     }
 
 if games[creator] then
