@@ -19,7 +19,6 @@ local games = {
     [12836673] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/BladeBall.lua', -- Blade Ball
     [6042520] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/99Nights.lua', -- 99 Nights
     [35289532] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Dig.lua', -- Dig
-    [35289532] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/BestFeatureDig.lua', -- Best Feature Dig
     [3959677] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/StealAPets.lua', -- Steal A Pets
     [12398672] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/InkGame.lua', -- InkGame
     }
