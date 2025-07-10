@@ -7,7 +7,6 @@ print("Supported game!")
 local creator = game.CreatorId
 
 local games = {
-    [35860275] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/OneTouch.lua', -- One Touch
     [35815907] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/StealABrainrot.lua', -- Steal A Brainrot
     [35289532] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Dig.lua', -- Dig
     [36097789] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/MySingingBrainrot.lua', -- My Singing Brainrot
