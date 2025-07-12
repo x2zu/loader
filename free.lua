@@ -10,6 +10,7 @@ local games = {
     [35815907] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/StealABrainrot.lua', -- Steal A Brainrot
     [35289532] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Dig.lua', -- Dig
     [36097789] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/MySingingBrainrot.lua', -- My Singing Brainrot
+    [6042520] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/99Nights.lua', -- 99 Nights
     }
 
 if games[creator] then
@@ -18,3 +19,4 @@ if games[creator] then
 else
     warn("Unsupported game.")
 end
+
