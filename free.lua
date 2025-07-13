@@ -11,8 +11,10 @@ local games = {
     [35289532] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/Dig.lua', -- Dig
     [36097789] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/MySingingBrainrot.lua', -- My Singing Brainrot
     [6042520] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/ObfSource/99Nights.lua', -- 99 Nights
+    [35860275] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/RandomGames/OneTouch.lua', -- One Touch
+    
     }
-
+https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/RandomGames/OneTouch.lua
 if games[creator] then
     print("Please wait, daddyhh~ loading..")
     loadstring(game:HttpGet(games[creator]))()
