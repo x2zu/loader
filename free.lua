@@ -14,7 +14,6 @@ local games = {
     [35860275] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/RandomGames/OneTouch.lua', -- One Touch
     
     }
-https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/RandomGames/OneTouch.lua
 if games[creator] then
     print("Please wait, daddyhh~ loading..")
     loadstring(game:HttpGet(games[creator]))()
