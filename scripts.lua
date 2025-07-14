@@ -9,6 +9,7 @@ local creator = game.CreatorId
 local games = {
     [35815907] = 'https://api.luarmor.net/files/v3/loaders/9241b4f2109da4b022659da0416590c9.lua', -- Steal A Brainrot
     [35289532] = 'https://api.luarmor.net/files/v3/loaders/48cd8b3c6232e05c413ef2be2ab089f9.lua', -- Dig
+    [36097789] = 'https://api.luarmor.net/files/v3/loaders/dc3f04fe723109806cdcddd81d2ede59.lua', -- My Singing Brainrot
     
     }
 if games[creator] then
