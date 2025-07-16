@@ -13,6 +13,7 @@ local games = {
     [6042520]  = 'https://api.luarmor.net/files/v3/loaders/b918ceed6b4ed96e1e6b25e0f3686f6d.lua', -- 99 Nights
     [12398672] = 'https://api.luarmor.net/files/v3/loaders/67d568cc89eb0645549d8b5896934d5f.lua', -- Ink Games
     [35789249] = 'https://api.luarmor.net/files/v3/loaders/b93e4effaa843cb2c20f15ab3b7670cd.lua', -- Grow A Garden
+    [9275288] = 'https://api.luarmor.net/files/v3/loaders/df9794a5edfcf119da293041f9368ce5.lua', -- Hide The Body
 } 
 
 if games[creator] then 
