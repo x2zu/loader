@@ -1,3 +1,12 @@
+--[[
+__   __ _____  _______   _ 
+\ \ / // __  \|___  / | | |
+ \ V / `' / /'   / /| | | |
+ /   \   / /    / / | | | |
+/ /^\ \./ /___./ /__| |_| |
+\/   \/\_____/\_____/\___/
+]]
+
 repeat task.wait() until game.Players.LocalPlayer and game.Players.LocalPlayer.Character
 if not game:IsLoaded() then
     game.Loaded:Wait()
