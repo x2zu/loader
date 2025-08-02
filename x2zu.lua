@@ -16,7 +16,7 @@ print("Supported game!")
 local creator = game.CreatorId
 
 local games = {
-    [35888785] = 'https://api.luarmor.net/files/v3/loaders/5855fb7c80db4b87e10fc66309916005.lua', -- Prospecting
+    [35888785] = 'https://raw.githubusercontent.com/x2zu/loader/main/games/Prospecting.lua', -- Prospecting
 } 
 
 if games[creator] then 
@@ -24,4 +24,5 @@ if games[creator] then
     loadstring(game:HttpGet(games[creator]))()
 else
     warn("Unsupported game.")
+
 end
