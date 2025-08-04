@@ -24,6 +24,7 @@ local games = {
     [35789249] = 'https://api.luarmor.net/files/v3/loaders/b93e4effaa843cb2c20f15ab3b7670cd.lua', -- Grow A Garden
     [9275288] = 'https://api.luarmor.net/files/v3/loaders/df9794a5edfcf119da293041f9368ce5.lua', -- Hide The Body
     [35888785] = 'https://api.luarmor.net/files/v3/loaders/5855fb7c80db4b87e10fc66309916005.lua', -- Prospecting
+    [3385385] = 'https://api.luarmor.net/files/v3/loaders/d03f35f5c3c18cc4d689583e0a8f6b7b.lua', -- Hypershot
 } 
 
 if games[creator] then 
@@ -32,3 +33,4 @@ if games[creator] then
 else
     warn("Unsupported game.")
 end
+
