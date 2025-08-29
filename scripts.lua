@@ -25,7 +25,7 @@ local games = {
     [3385385] = 'https://api.luarmor.net/files/v3/loaders/d03f35f5c3c18cc4d689583e0a8f6b7b.lua', -- Hypershot
     [35102746] = 'https://api.luarmor.net/files/v3/loaders/e0706dfb0d6f7d6c3f6fae1825b32cb1.lua', -- Fish It
     [6042520] = 'https://api.luarmor.net/files/v3/loaders/f2a3f1471a865ec3bee16c2e639f0466.lua', -- 99 Nights
-    [36015593] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/games/HuntyZombie.lua', -- Hunty Zombie
+    [36015593] = 'https://raw.githubusercontent.com/x2zu/loader/main/games/HuntyZombie.lua', -- Hunty Zombie
  
 } 
 
@@ -35,6 +35,7 @@ if games[creator] then
 else
     warn("Unsupported game.")
 end
+
 
 
 
