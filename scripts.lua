@@ -13,24 +13,17 @@ if not game:IsLoaded() then
 end
 
 print("Supported game!")
-local creator = game.CreatorId
+
+local gameId = game.PlaceId
 
 local games = {
-    [35102746] = 'https://api.luarmor.net/files/v3/loaders/d577db7077756aa9249772848de92121.lua', -- Fish It
-    [34869880] = 'https://api.luarmor.net/files/v3/loaders/d577db7077756aa9249772848de92121.lua', -- Plants Vs Brainrots
- 
-} 
+    [121864768012064] = 'https://api.luarmor.net/files/v3/loaders/d577db7077756aa9249772848de92121.lua', -- Fish It
+    [127742093697776] = 'https://api.luarmor.net/files/v3/loaders/d577db7077756aa9249772848de92121.lua', -- Plants Vs Brainrots
+}
 
-if games[creator] then 
+if games[gameId] then 
     print("Please wait, daddyhh~ loading..")
-    loadstring(game:HttpGet(games[creator]))()
+    loadstring(game:HttpGet(games[gameId]))()
 else
     warn("Unsupported game.")
 end
-
-
-
-
-
-
-
