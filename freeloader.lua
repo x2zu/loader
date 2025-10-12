@@ -26,5 +26,5 @@ if games[gameId] then
     print("Please wait, daddyhh~ loading..")
     loadstring(game:HttpGet(games[gameId]))()
 else
-    warn("Unsupported game join supported games!.")
+    warn("Unsupported game.")
 end
