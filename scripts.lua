@@ -28,3 +28,4 @@ if games[gameId] then
 else
     warn("Unsupported game.")
 end
+
