@@ -20,7 +20,7 @@ local gameId = game.PlaceId
 local games = {
     [121864768012064] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/Fisxeeddddd.lua', -- Fish It
     [127742093697776] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/Pevebes', -- Plants Vs Brainrots
-}
+    [122826953758426] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/RaiseAnimals.lua', -- Raise Animals
 
 if games[gameId] then 
     print("Please wait, daddyhh~ loading..")
