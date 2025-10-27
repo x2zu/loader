@@ -18,7 +18,7 @@ print("Supported game!")
 local gameId = game.GameId
 
 local games = {
-    [121864768012064] = 'https://api.luarmor.net/files/v3/loaders/91c92d3c217d524123cd466ca83c4f16.lua', -- Fish It
+    [6701277882] = 'https://api.luarmor.net/files/v3/loaders/91c92d3c217d524123cd466ca83c4f16.lua', -- Fish It
     [5750914919] = 'https://api.luarmor.net/files/v3/loaders/978109b2813eaafe5878888c42527259.lua', -- Fisch
 }
 
@@ -28,4 +28,5 @@ if games[gameId] then
 else
     warn("Unsupported game.")
 end
+
 
