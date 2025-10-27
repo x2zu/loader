@@ -1,5 +1,4 @@
-
---[[
+--[[ 
 __   __ _____  _______   _ 
 \ \ / // __  \|___  / | | |
  \ V / `' / /'   / /| | | |
@@ -8,6 +7,7 @@ __   __ _____  _______   _
 \/   \/\_____/\_____/\___/
 ]]
 
+-- Wait until player and character are loaded
 repeat task.wait() until game.Players.LocalPlayer and game.Players.LocalPlayer.Character
 if not game:IsLoaded() then
     game.Loaded:Wait()
@@ -15,7 +15,7 @@ end
 
 print("Supported game!")
 
-local gameId = game.PlaceId
+local gameId = game.GameId
 
 local games = {
     [121864768012064] = 'https://api.luarmor.net/files/v3/loaders/91c92d3c217d524123cd466ca83c4f16.lua', -- Fish It
@@ -28,10 +28,3 @@ if games[gameId] then
 else
     warn("Unsupported game.")
 end
-
-
-
-
-
-
-
