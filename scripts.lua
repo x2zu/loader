@@ -1,5 +1,3 @@
-
-
 --[[
 __   __ _____  _______   _ 
 \ \ / // __  \|___  / | | |
@@ -29,3 +27,4 @@ if games[gameId] then
 else
     warn("Unsupported game.")
 end
+
