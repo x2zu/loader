@@ -1,3 +1,12 @@
+--[[
+__   __ _____  _______   _ 
+\ \ / // __  \|___  / | | |
+ \ V / `' / /'   / /| | | |
+ /   \   / /    / / | | | |
+/ /^\ \./ /___./ /__| |_| |
+\/   \/\_____/\_____/\___/
+]]
+
 repeat task.wait() until game.Players.LocalPlayer and game.Players.LocalPlayer.Character
 if not game:IsLoaded() then
     game.Loaded:Wait()
@@ -5,19 +14,16 @@ end
 
 print("Supported game!")
 
-local gameId = game.GameId  
+local gameId = game.PlaceId
 
 local games = {
-    [6701277882] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/FishItFree.lua', -- Fish It
-    [5750914919] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/Fisch.lua', -- Fisch
+    [121864768012064] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/FishItFree.lua', -- Fish It
+    [131716211654599] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/Fisch.lua', -- Fisch
 }
 
 if games[gameId] then 
     print("Please wait, daddyhh~ loading..")
-    loadstring(game:HttpGet(games[gameId], true))()
+    loadstring(game:HttpGet(games[gameId]))()
 else
     warn("Unsupported game.")
 end
-
-
-
