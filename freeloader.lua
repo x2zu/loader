@@ -5,7 +5,7 @@ end
 
 print("Supported game!")
 
-local gameId = game.GameId  -- Ganti dari PlaceId ke GameId (UniverseId)
+local gameId = game.GameId  
 
 local games = {
     [121864768012064] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/FishItFree.lua', -- Fish It
@@ -18,3 +18,4 @@ if games[gameId] then
 else
     warn("Unsupported game.")
 end
+
