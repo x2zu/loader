@@ -8,7 +8,7 @@ print("Supported game!")
 local gameId = game.GameId  
 
 local games = {
-    [121864768012064] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/FishItFree.lua', -- Fish It
+    [6701277882] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/FishItFree.lua', -- Fish It
     [5750914919] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/Fisch.lua', -- Fisch
 }
 
@@ -18,5 +18,6 @@ if games[gameId] then
 else
     warn("Unsupported game.")
 end
+
 
 
