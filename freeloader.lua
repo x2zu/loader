@@ -9,7 +9,7 @@ local gameId = game.GameId
 
 local games = {
     [121864768012064] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/FishItFree.lua', -- Fish It
-    [16732694052] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/Fisch.lua', -- Fisch
+    [5750914919] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/Fisch.lua', -- Fisch
 }
 
 if games[gameId] then 
@@ -18,4 +18,5 @@ if games[gameId] then
 else
     warn("Unsupported game.")
 end
+
 
