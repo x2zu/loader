@@ -11,7 +11,7 @@ repeat task.wait() until game.Players.LocalPlayer and game.Players.LocalPlayer.C
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
-
+print("Supported game!")
 local creatorId = game.CreatorId
 local communityCreators = {
     [35102746] = 'https://api.luarmor.net/files/v3/loaders/91c92d3c217d524123cd466ca83c4f16.lua', -- Fish Atelier (Fish It)
@@ -26,3 +26,4 @@ if communityCreators[creatorId] then
 else
     warn("Unsupported game.")
 end
+
