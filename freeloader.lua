@@ -15,9 +15,9 @@ end
 print("Supported game!")
 local creatorId = game.CreatorId
 local communityCreators = {
-    [7381705] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/Fisch.lua',
+    [7381705] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/Fisch.lua', -- Fisch
     [35102746] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/FishItFree.lua', -- Fish It
-    [8818124] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/ViolanceFree.lua', Violance District
+    [8818124] = 'https://raw.githubusercontent.com/xwwwwwwwwwwwwwwwwwwwqd/loader/main/GamesData/ViolanceFree.lua', -- Violance District
 }
 
 if communityCreators[creatorId] then 
@@ -26,6 +26,7 @@ if communityCreators[creatorId] then
 else
     warn("Unsupported game.")
 end
+
 
 
 
