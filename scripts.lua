@@ -17,6 +17,7 @@ local communityCreators = {
     [35102746] = 'https://api.luarmor.net/files/v4/loaders/91c92d3c217d524123cd466ca83c4f16.lua', -- Fish It
     [7381705] = 'https://api.luarmor.net/files/v3/loaders/6bc668603e3c93919387e564af72fd88.lua', -- Fisch
     [8818124] = 'https://api.luarmor.net/files/v3/loaders/49a49c2667090f88ed7589c2c00c9d31.lua', -- Violance District
+    [34898222] = 'https://api.luarmor.net/files/v4/loaders/4776257499f0e4e4f627f873ab3a0548.lua', -- Abyss
 }
 
 if communityCreators[creatorId] then 
@@ -25,6 +26,7 @@ if communityCreators[creatorId] then
 else
     warn("Unsupported game.")
 end
+
 
 
 
