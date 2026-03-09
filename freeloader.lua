@@ -17,6 +17,7 @@ local creatorId = game.CreatorId
 local communityCreators = {
     [7381705] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/UI/FischFreeNemesis.lua', -- Fisch
     [35102746] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/UI/obfuscated_script-1770551344769.lua', -- Fish It
+    [1066523035] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/UI/PREMTITANFISHING.lua' -- Titan Fishing
 }
 
 if communityCreators[creatorId] then 
@@ -25,6 +26,7 @@ if communityCreators[creatorId] then
 else
     warn("Unsupported game.")
 end
+
 
 
 
