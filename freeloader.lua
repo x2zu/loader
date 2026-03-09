@@ -62,13 +62,3 @@ if communityCreators[creatorId] then
 else
     warn("Unsupported game.")
 end
-
-
-
-
-
-
-
-
-
-
