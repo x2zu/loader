@@ -1,4 +1,4 @@
---[[
+--[[ 
 __   __ _____  _______   _ 
 \ \ / // __  \|___  / | | |
  \ V / `' / /'   / /| | | |
@@ -7,12 +7,52 @@ __   __ _____  _______   _
 \/   \/\_____/\_____/\___/
 ]]
 
+local executor = "Unknown"
+
+pcall(function()
+    if identifyexecutor then
+        executor = identifyexecutor()
+    elseif getexecutorname then
+        executor = getexecutorname()
+    end
+end)
+
+executor = string.lower(tostring(executor))
+
+local blocked = {
+    "xeno",
+    "solara"
+}
+
+for _,v in ipairs(blocked) do
+    if string.find(executor, v) then
+        game.Players.LocalPlayer:Kick("Executor not supported. Please use a high UNC executor.")
+        return
+    end
+end
+
+local requiredFunctions = {
+    "getgc",
+    "hookfunction",
+    "getgenv"
+}
+
+for _,func in ipairs(requiredFunctions) do
+    if not getfenv()[func] then
+        game.Players.LocalPlayer:Kick("Your executor does not support required UNC level.")
+        return
+    end
+end
+
 repeat task.wait() until game.Players.LocalPlayer and game.Players.LocalPlayer.Character
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
+
 print("Supported game!")
+
 local creatorId = game.CreatorId
+
 local communityCreators = {
     [35102746] = 'https://api.luarmor.net/files/v4/loaders/91c92d3c217d524123cd466ca83c4f16.lua', -- Fish It
     [7381705] = 'https://api.luarmor.net/files/v3/loaders/6bc668603e3c93919387e564af72fd88.lua', -- Fisch
@@ -27,17 +67,3 @@ if communityCreators[creatorId] then
 else
     warn("Unsupported game.")
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
