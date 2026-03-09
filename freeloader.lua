@@ -1,5 +1,4 @@
-
---[[
+--[[ 
 __   __ _____  _______   _ 
 \ \ / // __  \|___  / | | |
  \ V / `' / /'   / /| | | |
@@ -7,6 +6,43 @@ __   __ _____  _______   _
 / /^\ \./ /___./ /__| |_| |
 \/   \/\_____/\_____/\___/
 ]]
+
+local executor = "Unknown"
+
+pcall(function()
+    if identifyexecutor then
+        executor = identifyexecutor()
+    elseif getexecutorname then
+        executor = getexecutorname()
+    end
+end)
+
+executor = string.lower(tostring(executor))
+
+local blocked = {
+    "xeno",
+    "solara"
+}
+
+for _,v in ipairs(blocked) do
+    if string.find(executor, v) then
+        game.Players.LocalPlayer:Kick("Executor not supported. Please use a high UNC executor.")
+        return
+    end
+end
+
+local requiredFunctions = {
+    "getgc",
+    "hookfunction",
+    "getgenv"
+}
+
+for _,func in ipairs(requiredFunctions) do
+    if not getfenv()[func] then
+        game.Players.LocalPlayer:Kick("Your executor does not support required UNC level.")
+        return
+    end
+end
 
 repeat task.wait() until game.Players.LocalPlayer and game.Players.LocalPlayer.Character
 if not game:IsLoaded() then
@@ -26,6 +62,7 @@ if communityCreators[creatorId] then
 else
     warn("Unsupported game.")
 end
+
 
 
 
