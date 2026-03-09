@@ -18,6 +18,7 @@ local communityCreators = {
     [7381705] = 'https://api.luarmor.net/files/v3/loaders/6bc668603e3c93919387e564af72fd88.lua', -- Fisch
     [8818124] = 'https://api.luarmor.net/files/v3/loaders/49a49c2667090f88ed7589c2c00c9d31.lua', -- Violance District
     [460048752] = 'https://api.luarmor.net/files/v4/loaders/162545b55841f58c896e6de5dbdd3ba5.lua', -- Garden Horizon
+    [1066523035] = 'https://api.luarmor.net/files/v4/loaders/698cf9d8e549b30186ae959ea9bd8ea6.lua' -- Titan Fishing
 }
 
 if communityCreators[creatorId] then 
@@ -26,6 +27,7 @@ if communityCreators[creatorId] then
 else
     warn("Unsupported game.")
 end
+
 
 
 
