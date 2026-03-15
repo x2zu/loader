@@ -121,7 +121,7 @@ end
 -- ── KEY VALID: LOAD GAME SCRIPT ───────────────────────────────
 local creatorId = game.CreatorId
 local communityCreators = {
-    [7381705]    = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/UI/FischFreeNemesis.lua',
+    [12836673]    = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/UI/BladeBall.lua',
     [35102746]   = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/UI/obfuscated_script-1770551344769.lua',
     [1066523035] = 'https://raw.githubusercontent.com/x2zu/loader/refs/heads/main/UI/TitanFishing.lua'
 }
