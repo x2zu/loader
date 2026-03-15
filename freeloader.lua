@@ -6,7 +6,7 @@ print("Supported game!")
 
 -- ── LOAD NEMESISUI DULU ──────────────────────────────────────
 local NemesisUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/x2zu/OPEN-SOURCE-UI-ROBLOX/refs/heads/main/ui-main/ui-main/main.lua"))()
-getgenv().NemesisUI = NemesisUI  -- share ke game script
+getgenv().NemesisUI = NemesisUI  -- share ke semua game script
 
 -- ── FUNGSI VALIDASI KEY ──────────────────────────────────────
 local function validateKey(key)
@@ -29,7 +29,7 @@ end
 -- ── CEK KEY ──────────────────────────────────────────────────
 local sk = getgenv().script_key or script_key or ""
 
--- Coba load saved key dari file
+-- Coba load saved key dari file jika tidak ada script_key
 if sk == "" then
     pcall(function()
         if isfile and isfile("Nemesis_ValidKey.txt") then
@@ -61,12 +61,14 @@ end
 
 -- ── TAMPIL GUI KEY JIKA BELUM VALID ──────────────────────────
 if not keyValid then
-    local resolved = NemesisUI:Window({
+    -- Pakai buildKeySystem standalone dari NemesisUI
+    local keyDone = false
+    NemesisUI:Window({
         Title = "Nemesis",
         KeySystem = {
             Title        = "Nemesis",
             Icon         = "117121414363374",
-            AutoSaveLoad = false,
+            AutoSaveLoad = false,  -- kita handle sendiri di sini
             GetKeyLinks  = {
                 { Name = "Website",     Url = "https://www.nemesishub.xyz/" },
                 { Name = "Direct Link", Url = "https://www.nemesishub.xyz/" },
@@ -74,11 +76,23 @@ if not keyValid then
             Placeholder = "Paste your key here...",
             Default     = "",
             Buttons     = {
-                { Name = "Exit",    Style = "secondary", Callback = function() end },
-                { Name = "Discord", Style = "discord",   Callback = function()
-                    pcall(function() setclipboard("https://discord.gg/nemesis") end)
-                end },
-                { Name = "Get Key", Style = "secondary", Callback = function() end },
+                {
+                    Name  = "Exit",
+                    Style = "secondary",
+                    Callback = function(key) end,
+                },
+                {
+                    Name  = "Discord",
+                    Style = "discord",
+                    Callback = function(key)
+                        pcall(function() setclipboard("https://discord.gg/nemesis") end)
+                    end,
+                },
+                {
+                    Name  = "Get Key",
+                    Style = "secondary",
+                    Callback = function(key) end,
+                },
                 {
                     Name  = "Submit",
                     Style = "primary",
@@ -87,17 +101,21 @@ if not keyValid then
                             pcall(function()
                                 if writefile then
                                     writefile("Nemesis_ValidKey.txt", key)
+                                    print("[Nemesis] Key saved!")
                                 end
                             end)
                             getgenv().script_key = key
+                            keyDone = true
                             return true   -- ✅ key valid, tutup GUI
                         end
                         return false      -- ❌ key invalid
-                    end
+                    end,
                 },
             },
         },
     })
+    -- Tunggu sampai key selesai divalidasi
+    repeat task.wait(0.1) until keyDone
 end
 
 -- ── KEY VALID: LOAD GAME SCRIPT ───────────────────────────────
