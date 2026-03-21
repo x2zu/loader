@@ -20,6 +20,7 @@ local creatorId = game.CreatorId
 local communityCreators = {
         [12836673]   = "https://raw.githubusercontent.com/x2zu/loader/main/UI/BladeBall.lua", 
         [35102746]   = "https://raw.githubusercontent.com/x2zu/loader/main/UI/obfuscated_script-1770551344769.lua", -- Fish It
+        [1002185259]    = 'https://api.luarmor.net/files/v4/loaders/3ffb6ffd4d3a34de745876cf07db0cd1.lua', -- Sailor Piece
 }
 
 if communityCreators[creatorId] then 
