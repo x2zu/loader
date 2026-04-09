@@ -1,8 +1,6 @@
 -- defaulticons.lua
 
 local defaulticons = {
-    nexa     = "rbxassetid://0",
-    vikai     = "rbxassetid://0",
     alert     = "rbxassetid://73186275216515",
     bag       = "rbxassetid://8601111810",
     boss      = "rbxassetid://13132186360",
@@ -17,7 +15,6 @@ local defaulticons = {
     gamepad   = "rbxassetid://84173963561612",
     gps       = "rbxassetid://17824309485",
     idea      = "rbxassetid://16833255748",
-    lexshub   = "rbxassetid://71947103252559",
     loop      = "rbxassetid://122032243989747",
     menu      = "rbxassetid://6340513838",
     next      = "rbxassetid://12662718374",
