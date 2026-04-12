@@ -3,7 +3,7 @@ local HttpService = game:GetService("HttpService")
 local Players     = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
-local BASE = "https://raw.githubusercontent.com/x2zu/OPEN-SOURCE-UI-ROBLOX/main/ui-main/ui-main/"
+local BASE = "https://raw.githubusercontent.com/x2zu/loader/main/ui-main/main.lua"
 local function load(path) return loadstring(game:HttpGet(BASE .. path))() end
 
 -- Modules
