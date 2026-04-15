@@ -18,12 +18,10 @@ print("Supported game!")
 local creatorId = game.CreatorId
 
 local communityCreators = {
-    [35102746] = 'https://api.luarmor.net/files/v4/loaders/91c92d3c217d524123cd466ca83c4f16.lua', -- Fish It
-    [7381705] = 'https://api.luarmor.net/files/v3/loaders/6bc668603e3c93919387e564af72fd88.lua', -- Fisch
     [8818124] = 'https://api.luarmor.net/files/v3/loaders/49a49c2667090f88ed7589c2c00c9d31.lua', -- Violance District
-    [460048752] = 'https://api.luarmor.net/files/v4/loaders/162545b55841f58c896e6de5dbdd3ba5.lua', -- Garden Horizon
     [12836673]    = 'https://api.luarmor.net/files/v4/loaders/efb0cd190f8a22cd3a625d8bb72c0449.lua', -- Blade Ball
     [1002185259]    = 'https://api.luarmor.net/files/v4/loaders/91763d409370ae9688fc1f0b6dd886fb.lua', -- Sailor Piece
+    [534034976]    = 'https://api.luarmor.net/files/v4/loaders/17a756a631c557aaad68d4b5be1e6889.lua', -- Anime Apocalypse
 }
 
 if communityCreators[creatorId] then 
