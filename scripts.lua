@@ -22,6 +22,7 @@ local communityCreators = {
     [12836673]    = 'https://api.luarmor.net/files/v4/loaders/efb0cd190f8a22cd3a625d8bb72c0449.lua', -- Blade Ball
     [1002185259]    = 'https://api.luarmor.net/files/v4/loaders/91763d409370ae9688fc1f0b6dd886fb.lua', -- Sailor Piece
     [534034976]    = 'https://api.luarmor.net/files/v4/loaders/17a756a631c557aaad68d4b5be1e6889.lua', -- Anime Apocalypse
+    [548854077]    = 'https://api.luarmor.net/files/v4/loaders/20c4dfc8ed6ce78ba598fcf64f8a2f90.lua', -- Bees
 }
 
 if communityCreators[creatorId] then 
