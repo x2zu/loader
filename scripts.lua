@@ -12,11 +12,7 @@ repeat task.wait() until game.Players.LocalPlayer and game.Players.LocalPlayer.C
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
-
-print("Supported game!")
-
 local creatorId = game.CreatorId
-
 local communityCreators = {
     [8818124] = 'https://api.luarmor.net/files/v3/loaders/49a49c2667090f88ed7589c2c00c9d31.lua', -- Violance District
     [12836673]    = 'https://api.luarmor.net/files/v4/loaders/efb0cd190f8a22cd3a625d8bb72c0449.lua', -- Blade Ball
@@ -25,6 +21,7 @@ local communityCreators = {
     [548854077]    = 'https://api.luarmor.net/files/v4/loaders/20c4dfc8ed6ce78ba598fcf64f8a2f90.lua', -- Bees
     [959433345]    = 'https://api.luarmor.net/files/v4/loaders/15cf8c434f2125a409df0816b17762a8.lua', -- gatau lupa
     [56920323]    = 'https://api.luarmor.net/files/v4/loaders/fa795b44121acf9b08666e1bb91ae99b.lua', -- Shells
+    [559846885]    = 'https://api.luarmor.net/files/v4/loaders/819ff3bd693ad97203f77bcc35ab4688.lua', -- Iron Soul Dungeon
 }
 
 if communityCreators[creatorId] then 
