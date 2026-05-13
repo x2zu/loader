@@ -22,6 +22,7 @@ local communityCreators = {
     [959433345]    = 'https://api.luarmor.net/files/v4/loaders/15cf8c434f2125a409df0816b17762a8.lua', -- gatau lupa
     [56920323]    = 'https://api.luarmor.net/files/v4/loaders/fa795b44121acf9b08666e1bb91ae99b.lua', -- Shells
     [559846885]    = 'https://api.luarmor.net/files/v4/loaders/819ff3bd693ad97203f77bcc35ab4688.lua', -- Iron Soul Dungeon
+    [509055872]    = 'https://api.luarmor.net/files/v4/loaders/8a009fe90c61cdda3614a6a7b21e01fe.lua', -- Wizard Alchemy
 }
 
 if communityCreators[creatorId] then 
