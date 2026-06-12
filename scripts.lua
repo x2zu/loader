@@ -25,6 +25,7 @@ local communityCreators = {
     [509055872]    = 'https://api.luarmor.net/files/v4/loaders/8a009fe90c61cdda3614a6a7b21e01fe.lua', -- Wizard Alchemy
     [32555738]    = 'https://api.luarmor.net/files/v4/loaders/3431e42288bb1a468de2f74eda512b9e.lua', -- Fishu
     [4619164]    = 'https://api.luarmor.net/files/v4/loaders/cdc1dff6e08cda01f94524ba12eed58a.lua', -- Sell Lemons
+    [432538536]    = 'https://api.luarmor.net/files/v4/loaders/cc0d96e73f2c3fdf3e019ac625219a65.lua', -- Grow A Garden 2
 }
 
 if communityCreators[creatorId] then 
