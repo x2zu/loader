@@ -1363,7 +1363,7 @@ getgenv().Library = {
         local Self = self
 
         local Cfg = {
-            Title = Data.Title or "Aether.lua";
+            Title = Data.Title or "x2zu.lua";
             SubText = Data.SubText or "Baseplate";
             Size = Data.Size or UDim2.fromOffset(775, 531);
             Image = Data.Image or "rbxassetid://95259225424429";
