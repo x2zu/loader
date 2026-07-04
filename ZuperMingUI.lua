@@ -8,7 +8,3911 @@ __   __ _____  _______   _
 
            Modified by: x2zu
       Discord: discord.gg/nemesishub
-  in the end you ended up here to take my idea
-use .l or .deobfprom or .deobprom to get this source lmao fuck u
+   yes ofc open source cause this leakead source
 ]]
-return(function(nN,nQ,nA,...)if not nN then nN=getfenv end if not nN then nN=(function()local nB=getfenv;local ns=(nB and nB())or(nB and nB(0))or nil;if ns then return ns[string.char(103,101,116,102,101,110,118)]end;local no=((_ENV or _G)or{});return no[string.char(103,101,116,102,101,110,118)]end)()end if not nQ then nQ=setmetatable end if not nQ then nQ=(function()local nB=nN or getfenv;local ns=(nB and nB())or(nB and nB(0))or nil;if ns then return ns[string.char(115,101,116,109,101,116,97,116,97,98,108,101)]end;local no=((_ENV or _G)or{});return no[string.char(115,101,116,109,101,116,97,116,97,98,108,101)]end)()end if not nA then nA=rawget end if not nA then nA=(function()local nB=nN or getfenv;local ns=(nB and nB())or(nB and nB(0))or nil;if ns then return ns[string.char(114,97,119,103,101,116)]end;local no=((_ENV or _G)or{});return no[string.char(114,97,119,103,101,116)]end)()end local nZ="**,^oq;PGrb9PrgJMhw~i<Q5x(N3pcELcTT>LTQ5pd`pXjiuma*-;fcYIGRf[O*?0@ccVNK2_,B0ee#Zurq@q2ErB24d`$dWv&vg,j`RgaL%Jr,_1^[dr!hvPmzj~R(aalZ^5YW>Hnf<Y^*O4dAD4ae7i$wQMm6]M+Sj7=jB]f|atLg#6,kw*M1~<O45})MfETvhVC|Sz1}S?h7Og7F?nE+hN9(a+YE^]zHb}WR1]O3^RL/D]5VV@ot7{or3-5Y^}*1r:$/o/2B%_,M-1eR+GvkAeS|=bjERP:6)5|h7u}crW;!h{*iX[^Qcm6}^E8Y1IrRglVWf#U,bXy:1BQ7N{@B,M,m-HpJNtwL3cwL$s7`mzfTmlS?-V%Lr<Gu7zca0bFgy)N!Aa3.V+r#pHocA%4q!Z^vObLtC<1x!P~h)a0Ga3S33og@hL3SM,^rNwLNW/-f-`P2zL;[@e`=yA8f-DtD*%%/axdZ3U4>>TpRo<P>5W>2}!-K}rO/~X|ba=M03N2EL{!N?<rFmW>w<]>UR4U=NW}8ZU+}C*7vAEfrlnrf2!o/,O$?NmnI3/wmkW7leL3?/+X[3Q%8fPOQ>mK0&a:9w>jDJj3T-}^@}u>~ZLuC>]_^6E^nc2dryJmwYkoewGrjpF?0km/.Rcc;x.X)aq)2v4?i:0O,N#X&3,lv^e.gl#rYTldQ^1[=G&C<-#Mar=)O$/7,&=fw{jflWX9E>]#F?H1n,SZYrUYAd^q>JIS]B/2Z_GanhE^/xEt_f(V?M-_7x[>A@[hyS45zWRo{hi(SX`,}EQ]+^VK*<jk~G,P<i{a_owf@~ShTZ)MAL)E,hRU?#^LNt[1owz3j:}^d]}>:2[@Yo85Mu,dOE_KSWO+3Mar*jbcxa`B8^)S^ebrOX4SK(a^}y`@m+ITcYF{mGe7`R0=iF!SDa.4Qqsj0u^-kF%%?a/Yc4RN5#P3^|Z^kxAd<@=Q4}++~)*Mw5NJl.f)Ycn9jzTUQ$*nO$m[ki0Oq{*-]5KAEKYNLzU3JY8^:iELDi*~uL>8mLks-po&O$`)4Fu3d*3v@5o?i3&1[f29|KLf9W;b2|X$Bb6O)(I/stP[u|*!_E`/qcDSF>x~,5tlI+1ke1*vk]919JF3$H}s-ae_yrE4ibC$4a<6Q$#{fY&aqA=rW;kdP4LMa29?g)nv2ol<Hd{1IU_j81seY7B>53o4LrBdm/RJYY}Py2BauWv3Tb+^5ajrYE(0;LX-`N>MQ|WjYcU3cH8^qx+^U]V/-(sb8+W,*N&<#f_.W>{_m/!>4841lJv7&xs3QGFrM.%SVE[Wi~}LCas{IW8jB>{3GBufE+,h>!$y4eQ$h1#Ii3e)^^CDj^]IF?1-3^q[1e.7(W33x/#{.aq2c^!+mLa=P=nV6$4dR9^Qh^xU!-vXTh?8^2z,^<Cp*#FyS`K{=U`N}<s3{tsrk*"local np=65536 local b5={};local b2={};b2[(71185-4162)]=b2 local jf=4294967296 local ju=2147483647 local jC=63+137 local jK=42098+31100+26801 local na,nw,nL,nk,n0,b4={},{},{},{},{},nil na[10435-4731]=nw nw[10924-6455]=nL nL[8075-5287]=na local nW=function(jz,jm,jG)local jh=((jz+jm)*jG)%ju return jh-jh%1 end local nD=((50*7607+152*1978-676908)%jf)local nI=function(jS,jr,jE,jt)if jt and jt>0 then local jq=nW(jr,nD,jt)jS[jq]=jE return true end return jS[jr]end local nT=function(ji,jM)local jR=0 for jd in pairs(ji)do jR=jR+1 end return jR==jM end local nU=function(jc,jv,jN)if jc and jv and jN then local jQ=nW(jN,nD,1)if jc[jQ]then jv[jQ]=jc[jQ]end end return jv end local ny=function(jA,js)if js and js>0 and jA then return jA[nW(js,nD,2)]end return nil end local jF={[4]="\59\114\148\189\125\94\93\201\214\143\56\20\171\200\200\87\252\80\24\45\93\211\52\179\213\88\231\247\107\248\8\38\213\86\29\231\144\195\202\152\45\158\203\90\53\159\149\239\102\116\101\58\127\129\234\83\239\83\62\65\162\158\49\219\54\110\66\73\5\124\23\10\235\48\5\242\32\137\111\71\9\71\227\146\69\193\96\24\187\123\48\104\182\239\149\209\147\3\78\42\104\210\45\223\174\116\193\125\75\134\64\6\46\128\237\51\87\201\227\71\148\150\81\98\59\80\213\249\231\52\17\173\18\128\223\12\173\48\212\150\15\43\14\200\162\89\245\120\116\202\151\200\19\88\253\98\43\77\61\166\25\152\75\94\181\35\65\82\27\93\207\2\109\117\17\154\221\139\5\39\135\140\89\42\248\155\123\177\116\202\55\14\127\68\64\55\41\8\181\178\104\117\219\254\243\152\113\21\47\166\126\148\200\27\83\32\58\131\154\65\133\86\210\146\118\54\123\217\171\1\57\40\25\241\244\74\253\181\109\168\91",[6]="\18\204\71\178\18\159\74\187\73\84\71\140\6\40\29\247\170\117\170\130\80\97\120\176\107\179\79\193\105\105\127\102\9\149\246\106\33\150\27\137\76\82\18\241\118\118\223\108\57\52\169\95\143\116\0\56\25\51\115\143\109\199\0\180\15\221\72\85\136\123\189\93\242\28\92\240\89\210\51\173\225\160\23\213\168\31\247\168\208\139\45\240\254\114\234\167\95\117\75\5\77\225\88\110\183\66\218\9\168\84\215\153\79\203\205\52\124\218\5\227\42\158\39\107\79\126\157\165\75\112\73\159\120\64\33\29\20\71\205\85\234\244\56\20\170\254\108\2\158\174\98\121\240\54\167\32\46\247\63\38\17\231\121\103\26\242\68\251\161\153\203\70\30\1\251\234\105\243\167\112\112\94\146\111\93\203\39\245\232\101\216\147\212\200\51\197\75\215\76\134\130\29\0\142\93\54\157\185\252\33\11\19\221\121\163\229\227\104\42\152\219\166\170\228\50\17\123\224\135\50\139\74\194\206\49\240\192\201\95\73\85",[1]="\89\61\65\170\75\67\242\117\135\189\59\183\41\199\153\42\41\206\174\142\177\247\37\48\84\20\95\128\33\135\213\100\217\104\44\181\206\78\73\157\212\101\36\69\239\164\210\148\68\173\160\16\179\241\58\68\177\185\90\199\254\93\88\21\78\63\239\38\53\70\173\56\147\83\216\0\130\76\101\9\21\179\25\92\212\75\96\16\135\113\139\124\143\77\132\112\121\45\231\77\231\74\146\212\173\211\95\72\141\27\174\202\105\180\250\8\94\35\117\8\38\45\57\113\95\47\103\59\204\73\89\243\28\209\89\97\165\215\184\115\38\37\76\218\108\51\215\154\7\9\231\184\56\35\2\171\135\0\145\218\88\145\92\189\203\44\39\227\179\138\94\193\223\165\14\152\252\44\41\80\180\190\93\255\150\160\59\136\76\84\89\37\133\247\123\41\101\136\143\32\232\38\5\118\22\194\147\172\48\157\110\43\159\54\162\176\246\146\39\221\116\13\191\134\35\1\38\161\15\96\94\17\201\141\200\57\65\227\18\210\56",[2]="\164\95\217\243\102\122\193\2\112\4\163\106\27\186\84\159\46\200\165\26\142\125\164\1\85\182\141\163\208\205\86\177\67\147\136\243\245\10\137\89\213\209\253\205\207\33\213\116\235\195\201\72\114\53\75\43\139\188\136\167\184\212\211\119\255\88\29\109\176\168\144\214\152\122\100\91\209\150\18\45\208\220\195\32\44\82\247\70\113\244\61\175\131\234\51\168\12\71\103\244\131\239\159\222\87\96\74\25\65\216\69\14\113\30\179\222\214\28\130\150\251\105\60\81\245\80\126\202\64\154\107\126\175\142\231\249\74\51\146\231\203\20\223\160\38\201\170\105\148\75\221\225\84\114\184\34\89\105\107\222\127\62\111\10\87\148\46\74\4\240\193\226\79\154\213\146\19\133\127\49\88\191\210\193\83\163\159\138\110\198\137\10\37\37\78\148\224\89\61\5\7\91\172\93\132\4\226\7\225\51\164\181\31\27\59\36\71\37\124\129\21\102\160\229\161\17\191\172\33\88\99\13\47\202\166\34\138\192\135\117\53",[3]="\133\244\120\27\188\87\191\22\80\130\93\125\46\119\1\173\64\90\133\30\127\3\158\215\218\243\137\203\254\178\233\203\140\46\154\186\141\75\117\93\126\146\183\96\178\111\114\198\115\200\78\25\108\141\107\85\133\165\148\86\62\242\74\181\51\63\52\227\221\161\233\63\1\202\150\64\146\108\5\38\184\138\48\75\123\232\97\83\128\201\190\85\110\34\8\28\43\86\185\34\82\227\96\134\104\50\190\33\97\207\206\26\63\1\185\197\37\154\246\162\62\47\162\207\39\200\116\106\126\183\34\240\213\246\99\5\106\170\30\107\188\33\198\158\103\119\90\224\119\149\220\57\13\211\172\237\93\167\182\24\20\236\7\234\216\66\229\156\45\39\199\154\61\249\39\173\160\252\47\170\176\200\163\79\204\158\39\182\142\175\209\106\209\249\79\236\161\16\19\218\3\228\211\174\23\240\208\216\156\22\206\148\5\75\49\25\43\183\54\221\81\94\59\117\160\189\79\211\55\210\71\213\67\161\30\104\149\150\166\129\120",[5]="\140\13\100\160\126\213\13\211\95\113\181\17\124\199\232\140\120\138\214\136\167\238\197\170\196\236\51\144\169\173\158\53\37\167\124\172\63\218\10\250\150\194\228\149\180\228\247\239\183\219\175\153\184\75\148\195\216\8\118\200\3\252\193\51\85\204\211\233\108\238\152\161\239\50\60\77\126\177\174\242\251\124\108\232\150\99\6\21\202\166\27\191\92\19\233\226\240\68\117\120\43\122\151\192\90\253\172\6\217\170\195\99\85\156\225\67\1\166\69\208\251\237\36\166\116\55\39\23\179\188\187\13\72\207\136\242\214\23\37\160\237\54\252\7\213\166\154\156\68\35\159\195\233\93\79\216\20\232\11\51\105\16\86\246\196\148\1\97\9\35\35\23\6\151\190\88\86\45\216\202\197\59\209\142\254\35\71\35\41\66\235\234\170\255\44\116\106\33\77\160\193\168\184\233\108\111\120\15\81\55\78\116\187\115\10\16\98\191\189\226\4\41\9\77\115\143\158\172\51\105\249\175\139\195\246\109\171\139\207\167\206"}local n5=(jF[1]or"")..(jF[2]or"")..(jF[3]or"")..(jF[4]or"")..(jF[5]or"")..(jF[6]or"")local n4=((64*7607+97*1978-668795)%jf)local n6=0 local n7=0 local n8=pcall local n9=rawget local jb=type local jn=(debug and debug.info)or nil local jj=(debug and debug.traceback)or nil local jp=function(jg,je)local fm,fG=0,1 for fh=1,8 do local fS,fr=jg%2,je%2 if fS~=fr then fm=fm+fG end jg,je,fG=(jg-fS)/2,(je-fr)/2,fG*2 end return fm end local n2=function(jl,jH)local jV=1 local jO=n4 local jW=((1664525+42)-42)local jD=((1013904223+42)-42)local jI=((256+42)-42)local jU=((91*7607+89*1978-827833)%jf)local jy=((119*7607+147*1978-1195897)%jf)local jX=((73*7607+120*1978-792383)%jf)local ja=((68*7607+127*1978-768447)%jf)local jw=((65*7607+78*1978+1653961029)%jf)local jL=((131*7607+62*1978-1086439)%jf)local jk=((109*7607+58*1978-921575)%jf)local jT=((jl*jW)+42)%jI if jT==jI then jT=0 end local j6=0 for fh=1,jl do local jo=(string.byte(n5,jV)or 0)+((string.byte(n5,jV+1)or 0)*jI)local j0=(jO+n6+(j6*jX)+(jo%65536)+jU)%jf j0=((j0*jW)+jD+(j6*jL)+((jO%65536)*jk))%jf if j0==0 then j0=(jO+1)%jf end j0=((j0*jW)+jD+(j6*jX)+jw+(jo%65536))%jf local j5=j0%jI local j2=(((j0-j5)/jI)%jI)local j4=(((j0-(j0%65536))/65536)%jI)local j3=(((j0-(j0%16777216))/16777216)%jI)local jB=string.byte(n5,jV+2)local jY=jp(jB,jp(jp(j5,j2),jp(j4,(j3+j6)%jI)))jV=jV+3+jY j6=j6+1 end local jo=(string.byte(n5,jV)or 0)+((string.byte(n5,jV+1)or 0)*jI)local j0=(jO+n6+(j6*jX)+(jo%65536)+jU)%jf j0=((j0*jW)+jD+(j6*jL)+((jO%65536)*jk))%jf if j0==0 then j0=(jO+1)%jf end j0=((j0*jW)+jD+(j6*jX)+jw+(jo%65536))%jf local j5=j0%jI local j2=(((j0-j5)/jI)%jI)local j4=(((j0-(j0%65536))/65536)%jI)local j3=(((j0-(j0%16777216))/16777216)%jI)local jB=string.byte(n5,jV+2)local jY=jp(jB,jp(jp(j5,j2),jp(j4,(j3+j6)%jI)))local jJ={}for jZ=1,jY do j0=((j0*jW)+jD+(j6*jX)+(jZ*jy)+(jY*ja)+(jo%65536)+jw)%jf j5=j0%jI j2=(((j0-j5)/jI)%jI)j4=(((j0-(j0%65536))/65536)%jI)j3=(((j0-(j0%16777216))/16777216)%jI)jB=string.byte(n5,jV+2+jZ)local jP=(jH+(jZ*37)+(jY*13)+(j6*17)+(((jH-(jH%257))/257)%jI))%jI jJ[jZ]=string.char(jp(jB,jp(jp(jp(j5,(j2+jZ)%jI),jp(j4,(j3+j6+jY)%jI)),jP)))end return table.concat(jJ)end local fE=(nN and nN())or(nN and nN(0))or{}local ft=(nN and nN(0))or fE local fx=(nQ and nQ({},{[n2(64,((91*7607+86*1978-800449)%jf))]=fE}))or fE local n1=(fE[n2(7,((83*7607+73*1978-751186)%jf))])or nA local fd=((127+14)-14)local fR=((14*73)+19)%fd if fR==fd then fR=0 end local fi=function(fv,fN)local fQ=n1 and n1(fv,fN)or nil if fQ~=nil then return fQ end fQ=fv[fN]if fQ~=nil then return fQ end if ft and ft~=fv then fQ=n1 and n1(ft,fN)or nil if fQ~=nil then return fQ end fQ=ft[fN]if fQ~=nil then return fQ end end return nil end local fq=function(fN,fQ)if fQ~=nil then fx[fN]=fQ end end local jy=0 local fJ=jb("")local fZ=nil local fp=nil local fg=nil local fW=0 local fD=0 local fI=0 local fT=0 local fe,fZ=n8(function()return n2(53,((124*7607+99*1978-1105640)%jf))end)fe,fp=n8(function()return n2(80,((62*7607+149*1978-721261)%jf))end)fe,fg=n8(function()return n2(114,((100*7607+54*1978-821029)%jf))end)local fC=fZ and fi(fE,fZ)or nil local fK=fp and fi(fE,fp)or nil local fz=fg and fi(fE,fg)or nil do fW=0 if fC~=nil then local fO=fC[n2(58,((119*7607+152*1978-1160019)%jf))]if jb(fO)==fJ then fW=#fO end end jy=(jy*143+fW+35)%ju end do fD=0 local fl=(fK and fK[n2(112,((44*7607+83*1978-461277)%jf))])or nil if fl~=nil and jb(fl)==jb(n8)then local fs,fH=n8(fl,n2(100,((49*7607+130*1978-577169)%jf)))if fs and fH then local fO=fH[n2(58,((119*7607+152*1978-1160019)%jf))]local fY=fH[n2(76,((70*7607+54*1978-607203)%jf))]if jb(fO)==fJ then fD=fD+(#fO*19)end if jb(fY)==fJ then fD=fD+(#fY*7)end n8(function()local fU=fH[n2(78,((134*7607+87*1978-1152895)%jf))];if fH and fU then fU(fH)end end)end end jy=(jy*163+fD+46)%ju end do fI=0 local fV=fC and fC[n2(131,((72*7607+86*1978-655896)%jf))]if fV~=nil and jb(fV)==jb(n8)then local fs,fP=n8(fV,fC,n2(111,((119*7607+98*1978-1065860)%jf)))if fs and fP then local fO=fP[n2(58,((119*7607+152*1978-1160019)%jf))]if jb(fO)==fJ then fI=#fO end end end jy=(jy*170+fI+51)%ju end do fT=0 local fs,fF=n8(function()local fy=fz;local fX=fy and fy[n2(112,((44*7607+83*1978-461277)%jf))];return fX and fX(1,2,3)end)if fs and fF then fT=(fF[n2(94,((49*7607+59*1978-460101)%jf))]*31+fF[n2(89,((118*7607+131*1978-1145940)%jf))]*17+fF[n2(127,((76*7607+69*1978-672630)%jf))]*13)end jy=(jy*210+fT+87)%ju end local fB=((96*7607+151*1978+262235221)%jf)local fo=(jy+ju-fB)%ju n6=(n6+fo)%ju if fo~=0 then n7=n7+1 end fq(n2(7,((83*7607+73*1978-751186)%jf)),fE[n2(7,((83*7607+73*1978-751186)%jf))])fq(n2(17,((79*7607+104*1978-772026)%jf)),fi(fE,n2(17,((79*7607+104*1978-772026)%jf))))fq(n2(23,((115*7607+70*1978-970964)%jf)),fi(fE,n2(23,((115*7607+70*1978-970964)%jf))))fq(n2(1,((51*7607+103*1978-571500)%jf)),fi(fE,n2(1,((51*7607+103*1978-571500)%jf))))fq(n2(34,((52*7607+93*1978-519991)%jf)),fi(fE,n2(34,((52*7607+93*1978-519991)%jf))))fq(n2(0,((44*7607+101*1978-514909)%jf)),fi(fE,n2(0,((44*7607+101*1978-514909)%jf))))fq(n2(30,((136*7607+131*1978-1240883)%jf)),fi(fE,n2(30,((136*7607+131*1978-1240883)%jf))))fq(n2(32,((96*7607+112*1978-895719)%jf)),fi(fE,n2(32,((96*7607+112*1978-895719)%jf))))fq(n2(38,((75*7607+74*1978-715607)%jf)),fi(fE,n2(38,((75*7607+74*1978-715607)%jf))))fq(n2(31,((131*7607+121*1978-1181434)%jf)),fi(fE,n2(31,((131*7607+121*1978-1181434)%jf))))fq(n2(18,((60*7607+92*1978-602565)%jf)),fi(fE,n2(18,((60*7607+92*1978-602565)%jf))))fq(n2(10,((48*7607+67*1978-470415)%jf)),fi(fE,n2(10,((48*7607+67*1978-470415)%jf))))fq(n2(19,((123*7607+81*1978-1058822)%jf)),fi(fE,n2(19,((123*7607+81*1978-1058822)%jf))))fq(n2(42,((83*7607+140*1978-899183)%jf)),fi(fE,n2(42,((83*7607+140*1978-899183)%jf))))fq(n2(44,((47*7607+124*1978-589565)%jf)),fi(fE,n2(44,((47*7607+124*1978-589565)%jf))))fq(n2(16,((128*7607+99*1978-1136037)%jf)),fi(fE,n2(16,((128*7607+99*1978-1136037)%jf))))fq(n2(35,((59*7607+100*1978-585316)%jf)),fi(fE,n2(35,((59*7607+100*1978-585316)%jf))))fq(n2(24,((124*7607+59*1978-1016273)%jf)),fi(fE,n2(24,((124*7607+59*1978-1016273)%jf))))fq(n2(40,((99*7607+57*1978-860703)%jf)),fi(fE,n2(40,((99*7607+57*1978-860703)%jf))))fq(n2(22,((56*7607+80*1978-543293)%jf)),fi(fE,n2(22,((56*7607+80*1978-543293)%jf))))fq(n2(20,((68*7607+86*1978-649067)%jf)),fi(fE,n2(20,((68*7607+86*1978-649067)%jf))))fq(n2(45,((72*7607+116*1978-761806)%jf)),fi(fE,n2(45,((72*7607+116*1978-761806)%jf))))fq(n2(29,((131*7607+140*1978-1222250)%jf)),fi(fE,n2(29,((131*7607+140*1978-1222250)%jf))))fq(n2(46,((83*7607+109*1978-829493)%jf)),fi(fE,n2(46,((83*7607+109*1978-829493)%jf))))fq(n2(2,((120*7607+90*1978-1070021)%jf)),fi(fE,n2(2,((120*7607+90*1978-1070021)%jf))))fq(n2(21,((127*7607+75*1978-1074828)%jf)),fi(fE,n2(21,((127*7607+75*1978-1074828)%jf))))fq(n2(13,((127*7607+63*1978-1060492)%jf)),fi(fE,n2(13,((127*7607+63*1978-1060492)%jf))))fq(n2(8,((44*7607+76*1978-459595)%jf)),fi(fE,n2(8,((44*7607+76*1978-459595)%jf))))fq(n2(26,((116*7607+54*1978-942633)%jf)),fi(fE,n2(26,((116*7607+54*1978-942633)%jf))))fq(n2(14,((88*7607+151*1978-936827)%jf)),fi(fE,n2(14,((88*7607+151*1978-936827)%jf))))fq(n2(3,((103*7607+93*1978-945954)%jf)),fi(fE,n2(3,((103*7607+93*1978-945954)%jf))))fq(n2(4,((104*7607+95*1978-956801)%jf)),fi(fE,n2(4,((104*7607+95*1978-956801)%jf))))fq(n2(6,((136*7607+85*1978-1178911)%jf)),fi(fE,n2(6,((136*7607+85*1978-1178911)%jf))))fq(n2(33,((131*7607+102*1978-1140482)%jf)),fi(fE,n2(33,((131*7607+102*1978-1140482)%jf))))fq(n2(5,((83*7607+82*1978-770590)%jf)),fi(fE,n2(5,((83*7607+82*1978-770590)%jf))))fq(n2(25,((115*7607+149*1978-1124400)%jf)),fi(fE,n2(25,((115*7607+149*1978-1124400)%jf))))fq(n2(12,((96*7607+59*1978-817785)%jf)),fi(fE,n2(12,((96*7607+59*1978-817785)%jf))))fq(n2(15,((71*7607+55*1978-616530)%jf)),fi(fE,n2(15,((71*7607+55*1978-616530)%jf))))fq(n2(43,((132*7607+132*1978-1254060)%jf)),fi(fE,n2(43,((132*7607+132*1978-1254060)%jf))))fq(n2(37,((119*7607+82*1978-1002490)%jf)),fi(fE,n2(37,((119*7607+82*1978-1002490)%jf))))fq(n2(36,((52*7607+91*1978-512461)%jf)),fi(fE,n2(36,((52*7607+91*1978-512461)%jf))))fq(n2(28,((120*7607+134*1978-1128271)%jf)),fi(fE,n2(28,((120*7607+134*1978-1128271)%jf))))fq(n2(9,((91*7607+79*1978-822172)%jf)),fi(fE,n2(9,((91*7607+79*1978-822172)%jf))))fq(n2(41,((104*7607+148*1978-1076762)%jf)),fi(fE,n2(41,((104*7607+148*1978-1076762)%jf))))fq(n2(11,((103*7607+71*1978-895758)%jf)),fi(fE,n2(11,((103*7607+71*1978-895758)%jf))))fq(n2(39,((84*7607+65*1978-764362)%jf)),fi(fE,n2(39,((84*7607+65*1978-764362)%jf))))fq(n2(27,((83*7607+144*1978-868124)%jf)),fi(fE,n2(27,((83*7607+144*1978-868124)%jf))))local n3=((119*7607+138*1978-1130217)%jf)n4=(n4+n3)%ju local fa=rawget local fw=type local fL=pcall local fk=(nN and nN(0))or nil local f0=0 local f5=0 do local f4=(fk and fk[string.char(103,97,109,101)])or(game~=nil and game or nil)local f2=(f4~=nil and fw(f4)~=fw({}))if f2 then f0=f0+1 end f5=(f5*(((0x4B+0x3F))-((5+2)))+(f2 and(((15559*0x1)-0x3C7F)-((24+0x5)))or(((0x3CBC*0x1)-0x3C5F)-((2*16)))))%ju end do local f3=(nN and fk and fw(fk)==fw({})and(_G==nil or fk~=_G))if f3 then f0=f0+1 end f5=(f5*(((0x4B+0x3F))-((5+2)))+(f3 and((0x34)-((0x29-6)))or((59)-((0x2C-14)))))%ju end do local f1=(fk and fk[string.char(73,110,115,116,97,110,99,101)])or(Instance~=nil and Instance or nil)local f7=(f1~=nil and f1[string.char(110,101,119)])or nil local f6=(f7~=nil and fw(f7)==fw(fL))if f6 then f0=f0+1 end f5=(f5*(((0x4B+0x3F))-((5+2)))+(f6 and(((0x92-18))-((1108*0x1)-1077))or((127)-((0x11+0x9)))))%ju end local n6=((((0x2C-8))-((0x11+16)))-f0)n4=(n4-n3)%ju n6=(n6+(n6*(f5+1)))%ju n7=n7+n6 if n6==0 then do local f8=false local f9=(fk and fk[n2(53,((124*7607+99*1978-1105640)%jf))])or(game~=nil and game or nil)if f9~=nil then local ub=f9[n2(131,((72*7607+86*1978-655896)%jf))]if fw(ub)==fw(fL)then local un,uj=fL(ub,f9,n2(111,((119*7607+98*1978-1065860)%jf)))if un and uj and fw(uj)==fw(f9)then f8=true end end end if not f8 then n6=(n6+(f5+1))%ju n7=n7+1 end f5=(f5*(((0x4B+0x3F))-((5+2)))+(f8 and((36)-(25))or((47)-((0x2B-15)))))%ju end end do local uK=0 local uf=(debug and fw(debug)==fw({}))and debug or nil local uu=uf and uf.info local uC=uf and uf.traceback if uu and fw(uu)~=fw(fL)then uK=uK+1 end if uC and fw(uC)~=fw(fL)then uK=uK+1 end if nN and fw(nN)~=fw(fL)then uK=uK+1 end local uz,um=fL(rawget)if uz then uK=uK+1 elseif fw(um)==fw("")then local uG=(string and fw(string)==fw({}))and string or nil local uh=uG and uG.match if uh and uh(um,n2(115,((39*7607+140*1978-522620)%jf)))then uK=uK+1 end else uK=uK+1 end if uu then local uS,ur=fL(function()return uu(4,n2(113,((43*7607+69*1978-421556)%jf)))end)if uS and ur~=nil then local _=ur end end if uK>0 then n7=n7+uK n6=(n6+(uK*(f5+(((22+0xC))-((59603*0x1)-0xE8B8)))))%ju end end do local uM=0 local uR=0 local ud=0 local uc=false local uI=0 local uT=(((13+0x9))-((9+2)))local ui=type local ux=pcall local uE=(debug and ui(debug)==ui({}))and debug or nil local ut=uE and uE.info local uq=uE and uE.traceback local uv=(string and ui(string)==ui({}))and string or nil local uN=uv and uv.match if ut and uq and uN then local uQ,uA=ux(function()return ut(ut,n2(113,((43*7607+69*1978-421556)%jf)))end)if uQ and uA==n2(77,((69*7607+90*1978-667606)%jf))then ud=ud+1 else uM=uM+1 end uQ,uA=ux(function()return ut(uq,n2(113,((43*7607+69*1978-421556)%jf)))end)if uQ and uA==n2(77,((69*7607+90*1978-667606)%jf))then ud=ud+1 else uM=uM+1 end local uF=function()return 1 end uQ,ul=ux(function()return ut(uF,n2(69,((73*7607+130*1978-801786)%jf)))end)if uQ and ui(ul)==ui(0)then ud=ud+1 else uR=uR+1 end uQ,uA=ux(function()return ut(ux,n2(113,((43*7607+69*1978-421556)%jf)))end)if uQ and uA==n2(77,((69*7607+90*1978-667606)%jf))then ud=ud+1 else uM=uM+1 end uQ,uA=ux(function()return ut(uN,n2(113,((43*7607+69*1978-421556)%jf)))end)if uQ and uA==n2(77,((69*7607+90*1978-667606)%jf))then ud=ud+1 else uM=uM+1 end uQ,us=ux(rawget)if uQ then uM=uM+1 elseif ui(us)==ui("")then local uA=uN(us,n2(115,((39*7607+140*1978-522620)%jf)))local ul=uN(us,n2(75,((129*7607+58*1978-1067092)%jf)))or uN(us,n2(74,((110*7607+77*1978-963271)%jf)))if uA then uM=uM+1 end if ul then ud=ud+1 else uM=uM+1 end else uM=uM+1 end local uH=nil local uP=n2(68,((66*7607+151*1978-793001)%jf))local ue,uW=ux(function()return uN(uP,n2(48,((103*7607+94*1978-947573)%jf)))end)if ue and uW==n2(63,((120*7607+108*1978-1067324)%jf))then ud=ud+1 else uM=uM+1 end ue,uW=ux(function()return uN(n2(88,((61*7607+149*1978-751551)%jf)),n2(97,((118*7607+80*1978-1014990)%jf)))end)if ue and uW==n2(54,((99*7607+93*1978-901181)%jf))then ud=ud+1 else uM=uM+1 end ue,uV=ux(function()return uN(n2(128,((107*7607+56*1978-877801)%jf)),n2(118,((108*7607+81*1978-917127)%jf)))end)if ue and uV==n2(61,((124*7607+118*1978-1122942)%jf))then ud=ud+1 else uM=uM+1 end ue,uO=ux(function()return uN(n2(128,((107*7607+56*1978-877801)%jf)),"\94\95\95\110\111\95\109\97\116\99\104\95\95\36")end)if ue and uO==nil then ud=ud+1 else uM=uM+1 end local uY=uv and uv.byte local uB=uv and uv.sub if uY and uB then local ug=#uP local uo=1 while uo<=ug do local uZ=uY(uP,uo)if uZ==58 then local uJ=uo+1 while uJ<=ug do local up=uY(uP,uJ)if up==58 then uH=uB(uP,uo+1,uJ-1)uJ=ug+1 uo=ug+1 end uJ=uJ+1 end end uo=uo+1 end elseif uN then uH=uN(uP,"^[^:]+:(%d+):")end if uH==n2(63,((120*7607+108*1978-1067324)%jf))then ud=ud+1 else uM=uM+1;uc=true end if ud>=(((21005*0x1)-20965)-((0x34-17)))then uQ,uA=ux(function()return ut(4,n2(113,((43*7607+69*1978-421556)%jf)))end)if uQ and uA==n2(77,((69*7607+90*1978-667606)%jf))then uM=uM+1;uc=true elseif uQ and uA~=nil then uR=uR+1 end end uQ,uL=ux(uq)if uQ and ui(uL)==ui("")and uY then local uk=1 for uo=1,#uL do if uY(uL,uo)==10 then uk=uk+1 end end uT=uk+(((29972*0x1)-0x74ED)-((0x2D-11)))end uU,uy=ux(function()local c=0 local uw,ua for uX=1,(((0x25-5))-((2^1)*(2^2)))do uw,ua=ux(function()return ut(uX,n2(113,((43*7607+69*1978-421556)%jf)))end)if(not uw)or ua==nil then break end c=c+1 end return c end)if uU and ui(uy)==ui(0)then uI=uy if uy>uT then uM=uM+1;uc=true end end else uM=uM+1 end if ut and uq then local u0,u5=0,0 local Ci,CM,CR,Cd,Cc=0,0,0,0,0 local u4=function(u7)u7(function()local u9,Cr=ux(function()return ut((((0x17-1))-((0x16D0*0x1)-0x16BD)),n2(113,((43*7607+69*1978-421556)%jf)))end)local Cb,CE=ux(function()return ut((((0xD+5))-((0x9+5))),n2(113,((43*7607+69*1978-421556)%jf)))end)local Cn,Ct=ux(function()return ut((((0xAB7B*0x1)-43880)-((0x8+5))),n2(113,((43*7607+69*1978-421556)%jf)))end)local Cj,Cq=ux(function()return ut((((0x1F-7))-((2^1)*(2^3))),n2(113,((43*7607+69*1978-421556)%jf)))end)local Cf,Cx=ux(function()return ut((((0x1F-5))-((36176*1)-36161)),n2(113,((43*7607+69*1978-421556)%jf)))end)if u9 and Cr==n2(77,((69*7607+90*1978-667606)%jf))then Ci=Ci+1 end if Cb and CE==n2(77,((69*7607+90*1978-667606)%jf))then CM=CM+1 end if Cn and Ct==n2(77,((69*7607+90*1978-667606)%jf))then CR=CR+1 end if Cj and Cq==n2(77,((69*7607+90*1978-667606)%jf))then Cd=Cd+1 end if Cf and Cx==n2(77,((69*7607+90*1978-667606)%jf))then Cc=Cc+1 end if Cf and Cx~=nil then if Cb and CE==n2(77,((69*7607+90*1978-667606)%jf))then u5=u5+1 end if Cn and Ct==n2(77,((69*7607+90*1978-667606)%jf))then u5=u5+1 end if Cj and Cq==n2(77,((69*7607+90*1978-667606)%jf))then u5=u5+1 end end end)end local u3=function(u8)u8()end local u6=function(u8)local function CG()local function Ch()local function CS()u8()end CS()end Ch()end CG()end local u1=function(u8)local Cu=_ENV local CC=Cu and Cu[n2(29,((131*7607+140*1978-1222250)%jf))]or nil local CK=CC and CC[n2(121,((92*7607+124*1978-932010)%jf))]or nil local Cz=CC and CC[n2(103,((134*7607+82*1978-1116676)%jf))]or nil if CK and Cz then local Cm=CK(function()u8()end)Cz(Cm)else u8()end end u4(u3)u4(u6)u4(u1)local Cv=0 if Ci>=(((0x13-7))-((41363*0x1)-0xA189))then Cv=Cv+1 end if CM>=(((0x13-7))-((41363*0x1)-0xA189))then Cv=Cv+1 end if CR>=(((0x13-7))-((41363*0x1)-0xA189))then Cv=Cv+1 end if Cd>=(((0x13-7))-((41363*0x1)-0xA189))then Cv=Cv+1 end if Cc>=(((0x13-7))-((41363*0x1)-0xA189))then Cv=Cv+1 end u0=Cv local u2=(u0>=(((0x8+2))-(9)))or(u5>=(((0x13-7))-((41363*0x1)-0xA189)))if u0>=(((0x8+2))-(9))then uM=uM+1 uc=true elseif u5>=(((0x13-7))-((41363*0x1)-0xA189))then uR=uR+1 end local CQ=(u0*(((0x9+5))-(12)))+u5 if CQ>0 then local CN=((CQ*(((0x24-9))-((31241*0x1)-31219)))+(ud*(((22+0x2))-((20+1))))+((f5%(((0xAB-50))-(0x18)))+(((23+11))-((0x66D2*0x1)-0x66BB))))%((0x10D)-((0x18-6)))if CN<1 then CN=1 end n6=(n6+(CN*((f5%((148)-(17)))+(((0x32-13))-(20)))))%ju if u0>0 then n7=n7+1 end end end local uD=false if uc then uD=true elseif(uM>=(((0xB598*1)-0xB58F)-((5+2)))and ud>=(((0x31-14))-((0x24-5))))or(uR>=(((0xB598*1)-0xB58F)-((5+2)))and ud>=(((33953*1)-0x847E)-((0x14+0xA))))then uD=true end if uD then local _mix=(uM*2)+uR local _pox=uM+((_mix>0)and 1 or 0)n7=n7+_pox n6=(n6+(_mix*(f5+ud+(((0x21+0xD))-(33)))))%ju end end local CV=fi(fE,n2(39,((84*7607+65*1978-764362)%jf)))local CO=CV and fi(CV,n2(81,((89*7607+146*1978-917382)%jf)))local CB=fi(fE,n2(2,((120*7607+90*1978-1070021)%jf)))local CA=fi(fE,n2(33,((131*7607+102*1978-1140482)%jf)))local Cs=CA and fi(CA,n2(124,((107*7607+68*1978-921061)%jf)))local CF=CA and fi(CA,n2(56,((115*7607+80*1978-992245)%jf)))local Cl=fi(fE,n2(7,((83*7607+73*1978-751186)%jf)))local CJ=false local Co=false if CO and CB then local Cg=function()return 1 end local CY=CB(CO,Cg)if CY then CJ=true else n7=1 end end local CZ=false if CJ and CB and Cs then local CY=CB(CO,Cs)if CY then n7=1 else CZ=true end end local Cp=false if CJ and CB and CF then local CY=CB(CO,CF)if CY then n7=1 else Cp=true end end local Ce=CA and fi(CA,n2(104,((104*7607+66*1978-918223)%jf)))if CJ and CB and Ce then local CY=CB(CO,Ce)if CY then n7=1 end end if CZ and Cs then nI(b5,795,Cs,5)end if Cp and CF then nI(b5,506,CF,5)end if CJ and Cs and CO then local CH=Cs(CO,n2(101,((62*7607+114*1978-640398)%jf)))local CP=(CH and type(CH)==n2(35,((59*7607+100*1978-585316)%jf)))and CH[n2(96,((109*7607+81*1978-952383)%jf))]or nil if(not CP)or CP==""then CH=Cs(CO)CP=(CH and type(CH)==n2(35,((59*7607+100*1978-585316)%jf)))and CH[n2(96,((109*7607+81*1978-952383)%jf))]or nil end if CP and CP~=n2(98,((125*7607+63*1978-1030701)%jf))then n7=1 end end if CZ and Cl then local CH=Cs(Cl,n2(101,((62*7607+114*1978-640398)%jf)))local CP=(CH and type(CH)==n2(35,((59*7607+100*1978-585316)%jf)))and CH[n2(96,((109*7607+81*1978-952383)%jf))]or nil if(not CP)or CP==""then CH=Cs(Cl)CP=(CH and type(CH)==n2(35,((59*7607+100*1978-585316)%jf)))and CH[n2(96,((109*7607+81*1978-952383)%jf))]or nil end if CP and CP~=n2(98,((125*7607+63*1978-1030701)%jf))then n7=1 end end if Cp and Cl then local CP=CF(Cl,n2(113,((43*7607+69*1978-421556)%jf)))if CP and CP~=n2(77,((69*7607+90*1978-667606)%jf))then n7=1 end end if CZ and CB then local CH=Cs(CB,n2(101,((62*7607+114*1978-640398)%jf)))local CP=(CH and type(CH)==n2(35,((59*7607+100*1978-585316)%jf)))and CH[n2(96,((109*7607+81*1978-952383)%jf))]or nil if(not CP)or CP==""then CH=Cs(CB)CP=(CH and type(CH)==n2(35,((59*7607+100*1978-585316)%jf)))and CH[n2(96,((109*7607+81*1978-952383)%jf))]or nil end if CP and CP~=n2(98,((125*7607+63*1978-1030701)%jf))then n7=1 elseif CP then Co=true end end if Cp and CB then local CP=CF(CB,n2(113,((43*7607+69*1978-421556)%jf)))if CP and CP~=n2(77,((69*7607+90*1978-667606)%jf))then n7=1 elseif CP then Co=true end end if not Co and CJ and CB and CO then local CY=CB(CO,CB)if CY then n7=1 else Co=true end end if Co and CB then nI(b5,289,CB,5)end local CW=CV and fi(CV,"byte")local CD=false if CZ and CW then local CH=Cs(CW,n2(101,((62*7607+114*1978-640398)%jf)))local CP=(CH and type(CH)==n2(35,((59*7607+100*1978-585316)%jf)))and CH[n2(96,((109*7607+81*1978-952383)%jf))]or nil if(not CP)or CP==""then CH=Cs(CW)CP=(CH and type(CH)==n2(35,((59*7607+100*1978-585316)%jf)))and CH[n2(96,((109*7607+81*1978-952383)%jf))]or nil end if CP and CP~=n2(98,((125*7607+63*1978-1030701)%jf))then n7=1 elseif CP then CD=true end end if not CD and Cp and CW then local CP=CF(CW,n2(113,((43*7607+69*1978-421556)%jf)))if CP and CP~=n2(77,((69*7607+90*1978-667606)%jf))then n7=1 elseif CP then CD=true end end if not CD and CJ and CW and CO and CB then local CY=CB(CO,CW)if CY then n7=1 else CD=true end end local CI=(function()local CT=fi(fE,n2(33,((131*7607+102*1978-1140482)%jf)))local CU=fi(fE,n2(38,((75*7607+74*1978-715607)%jf)))local Ca=fi(fE,n2(2,((120*7607+90*1978-1070021)%jf)))if CT and CU and Ca then local Cy=fi(CT,n2(104,((104*7607+66*1978-918223)%jf)))if Cy then local CX local Cw=Ca(function()CX=Cy(CU,1)end)if Cw and CX~=nil and#CX>0 then return false end end end return true end)()if not CI then n4=0 end local CL=fi(fE,n2(34,((52*7607+93*1978-519991)%jf)))local Ck=fi(fE,"_G")if CL and Ck then local C0=CL(Ck)if C0 then local C5=fi(C0,n2(64,((91*7607+86*1978-800449)%jf)))local C2=fi(C0,n2(73,((105*7607+81*1978-936244)%jf)))if C5 or C2 then return function()end end end end local _dv13=nT(na,nW(8,nD,1))nI(nw,((3706%129)+652),fi(fE,n2(15,((71*7607+55*1978-616530)%jf))),5)nI(nw,(((3988)-(1415))+(-1692)),fi(fE,n2(27,((83*7607+144*1978-868124)%jf))),5)nI(nw,((46)*(7)+(2)),fi(fE,n2(4,((104*7607+95*1978-956801)%jf))),5)nU(nw,nL,((9808%79)+20744))nU(nw,nL,(25399-4043))local _dv25=nT(na,nW(8,nD,1))nI(nw,((10242%121)+234),fi(fE,n2(34,((52*7607+93*1978-519991)%jf))),5)local _dv37=nT(na,nW(8,nD,1))n0[((3460%79)+21701)]=nil nU(nw,nL,(((5700)-(2383))+(17871)))nI(nL,(((1008)*4%283)+329),fi(fE,n2(18,((60*7607+92*1978-602565)%jf))),5)if ny(na,3)then nk[(((130)*4%349)+20563)]=n0 end nI(nw,((250)*(2)+(1)),fi(fE,n2(29,((131*7607+140*1978-1222250)%jf))),5)nU(nw,nL,(((478)*4%569)+20815))if ny(na,3)then nk[(((5424)-(595))+(16355))]=n0 end for k,v in pairs(nw)do if k>(((3898)-(741))+(18193))then break end end for k,v in pairs(nw)do if k>((10261)*(2)+(0))then break end end nI(na,((9594%109)+548),fi(fE,n2(5,((83*7607+82*1978-770590)%jf))),5)nI(na,(((7276)-(2471))+(-3832)),fi(fE,n2(19,((123*7607+81*1978-1058822)%jf))),5)nI(nw,(3011-2117),fi(fE,n2(11,((103*7607+71*1978-895758)%jf))),5)nU(nw,nL,((7794%149)+21428))if ny(na,3)then nk[((8770%85)+21905)]=n0 end nI(nw,(6296-5719),fi(fE,n2(7,((83*7607+73*1978-751186)%jf))),5)for k,v in pairs(nw)do if k>(28647-8101)then break end end for k,v in pairs(nw)do if k>(29273-8317)then break end end nU(nw,nL,(((130)*4%349)+20563))local _dv15=nT(na,nW(8,nD,1))if ny(na,3)then nk[(((6444)-(1719))+(16541))]=n0 end nI(nw,((65)*(6)+(2)),fi(fE,n2(6,((136*7607+85*1978-1178911)%jf))),5)local _dv42=nT(na,nW(8,nD,1))if ny(na,3)then nk[((3009)*(7)+(5))]=n0 end for k,v in pairs(nw)do if k>((10732)*(2)+(0))then break end end nI(na,((47)*(6)+(2)),fi(fE,n2(24,((124*7607+59*1978-1016273)%jf))),5)n0[((5104)*(4)+(2))]=nil if ny(na,3)then nk[((8006%93)+20326)]=n0 end nI(nk,((51)*(6)+(1)),fi(fE,n2(37,((119*7607+82*1978-1002490)%jf))),7)nU(nw,nL,(((3958)-(825))+(17273)))if ny(na,3)then nk[((7244%111)+21645)]=n0 end nI(nk,(3117-2847),fi(fE,n2(38,((75*7607+74*1978-715607)%jf))),7)nI(na,((111)*(4)+(1)),fi(fE,n2(39,((84*7607+65*1978-764362)%jf))),5)nI(nL,((196)*(4)+(0)),fi(fE,n2(16,((128*7607+99*1978-1136037)%jf))),5)nI(na,(7191-6317),fi(fE,n2(44,((47*7607+124*1978-589565)%jf))),5)for k,v in pairs(nw)do if k>((2876)*(7)+(4))then break end end if ny(na,3)then nk[(((1098)*4%481)+20909)]=n0 end n0[(25407-3819)]=nil if ny(na,3)then nk[((2746%109)+20587)]=n0 end n0[((2778%89)+20517)]=nil nU(nw,nL,((1160%107)+20890))nI(nw,(2998-2615),fi(fE,n2(21,((127*7607+75*1978-1074828)%jf))),5)n0[((10959)*(2)+(0))]=nil nI(nw,((9300%123)+563),fi(fE,n2(35,((59*7607+100*1978-585316)%jf))),5)nI(na,(212+74),(fi(fE,n2(122,((71*7607+110*1978-739843)%jf)))or function(_f)return _f end),5)for k,v in pairs(nw)do if k>(((892)*4%219)+20338)then break end end if ny(na,3)then nk[((2707)*(8)+(0))]=n0 end nU(nw,nL,(28131-6443))n0[((2746%109)+20587)]=nil local _dv41=nT(na,nW(8,nD,1))nU(nw,nL,(((1054)*4%213)+21053))local _dv3=nT(na,nW(8,nD,1))nU(nw,nL,((8894%61)+20415))nI(na,(108+97),fi(fE,n2(2,((120*7607+90*1978-1070021)%jf))),5)nI(nL,(((886)*4%601)+124),fi(fE,n2(20,((68*7607+86*1978-649067)%jf))),5)n0[((10704%95)+21338)]=nil local _dv0=nT(na,nW(8,nD,1))for k,v in pairs(nw)do if k>(((4748)-(2279))+(18693))then break end end local C4=(function()local C3=fi(fE,n2(33,((131*7607+102*1978-1140482)%jf)))local C6=fi(fE,n2(37,((119*7607+82*1978-1002490)%jf)))local Kb=fi(fE,n2(2,((120*7607+90*1978-1070021)%jf)))if C3 and C6 and Kb then local C1=fi(C3,n2(124,((107*7607+68*1978-921061)%jf)))local C7=fi(C3,n2(56,((115*7607+80*1978-992245)%jf)))local C9=nil local C8 local Kn=C1 and Kb(function()C8=C1(C6,n2(101,((62*7607+114*1978-640398)%jf)))end)if Kn and C8 and type(C8)==n2(35,((59*7607+100*1978-585316)%jf))then C9=C8[n2(96,((109*7607+81*1978-952383)%jf))]end if(not C9)or C9==""then local Kj=C1 and Kb(function()C8=C1(C6)end)if Kj and C8 and type(C8)==n2(35,((59*7607+100*1978-585316)%jf))then C9=C8[n2(96,((109*7607+81*1978-952383)%jf))]end end if(not C9)or C9==""then if C7 then C9=C7(C6,n2(113,((43*7607+69*1978-421556)%jf)))end end if C9 and C9~=n2(98,((125*7607+63*1978-1030701)%jf))and C9~=n2(77,((69*7607+90*1978-667606)%jf))then return false end end return true end)()if not C4 then n2=C4 end local Kc=(function()local KG=fi(fE,n2(33,((131*7607+102*1978-1140482)%jf)))local Kz=KG and fi(KG,n2(56,((115*7607+80*1978-992245)%jf)))local Km=KG and fi(KG,n2(124,((107*7607+68*1978-921061)%jf)))local Kt=fi(fE,n2(19,((123*7607+81*1978-1058822)%jf)))local Kq=fi(fE,n2(4,((104*7607+95*1978-956801)%jf)))local Kx=fi(fE,n2(2,((120*7607+90*1978-1070021)%jf)))local KM=fi(fE,n2(7,((83*7607+73*1978-751186)%jf)))if not Kt or not Kq or not Kx or not KM then return end local Kf=fi(fE,n2(30,((136*7607+131*1978-1240883)%jf)))if not Kf then local KR=fi(fE,n2(38,((75*7607+74*1978-715607)%jf)))if KR and Kt(KR)==n2(130,((95*7607+115*1978-893253)%jf))then local Ki,Kd=Kx(KR)if Ki and Kd and Kt(Kd)==n2(35,((59*7607+100*1978-585316)%jf))then Kf=fi(Kd,n2(30,((136*7607+131*1978-1240883)%jf)))end if not Kf then local Ki,Kd=Kx(KR,1)if Ki and Kd and Kt(Kd)==n2(35,((59*7607+100*1978-585316)%jf))then Kf=fi(Kd,n2(30,((136*7607+131*1978-1240883)%jf)))end end end end if not Kf then return end if Kt(Kf)~=n2(130,((95*7607+115*1978-893253)%jf))then return end local Ki,Ku=Kx(Kf)if not Ki or not Ku then return end if Kt(Ku)~=n2(35,((59*7607+100*1978-585316)%jf))then return end do local Kv=n2(130,((95*7607+115*1978-893253)%jf))local KN=n2(35,((59*7607+100*1978-585316)%jf))local KA=KM(Ku,n2(43,((132*7607+132*1978-1254060)%jf)))local Ks=KM(Ku,n2(0,((44*7607+101*1978-514909)%jf)))local KF=KM(Ku,n2(40,((99*7607+57*1978-860703)%jf)))local Kl=KM(Ku,n2(17,((79*7607+104*1978-772026)%jf)))local KH=KM(Ku,n2(10,((48*7607+67*1978-470415)%jf)))local KP=KM(Ku,n2(13,((127*7607+63*1978-1060492)%jf)))local KV=KM(Ku,n2(28,((120*7607+134*1978-1128271)%jf)))local KO=KM(Ku,n2(32,((96*7607+112*1978-895719)%jf)))local KY=KM(Ku,n2(25,((115*7607+149*1978-1124400)%jf)))local KB=KM(Ku,n2(12,((96*7607+59*1978-817785)%jf)))local Ko=KM(Ku,n2(3,((103*7607+93*1978-945954)%jf)))local KJ=KM(Ku,n2(23,((115*7607+70*1978-970964)%jf)))local KZ=KG and fi(KG,n2(104,((104*7607+66*1978-918223)%jf)))local KQ=(Kt(KA)==Kv)or(Kt(Ks)==Kv)or(Kt(KF)==Kv)or(Kt(Kl)==Kv)or(Kt(KH)==Kv)or(Kt(KP)==Kv)or(Kt(KV)==Kv)or(Kt(KO)==Kv)or(Kt(KY)==Kv)or(Kt(KB)==Kv)or(Kt(Ko)==Kv)or(Kt(KJ)==Kv)or(Kt(Km)==Kv)if KQ then if Kt(KZ)~=Kv then n4=0 n7=1 return end local Kp=KM(Ku,n2(14,((88*7607+151*1978-936827)%jf)))if Kt(Kp)~=Kv then n4=0 n7=1 return end local Ki,Kg=Kx(Kp)if not Ki or Kt(Kg)~=KN then local Ke,KW=Kx(Kp,true)if Ke and Kt(KW)==KN then Ki=true;Kg=KW end end if not Ki or Kt(Kg)~=KN then n4=0 n7=1 return end local KD=KM(Ku,n2(41,((104*7607+148*1978-1076762)%jf)))if Kt(KD)~=Kv then KD=KM(Ku,n2(42,((83*7607+140*1978-899183)%jf)))end if Kt(KD)~=Kv and KG then KD=fi(KG,n2(41,((104*7607+148*1978-1076762)%jf)))end if Kt(KD)~=Kv and KG then KD=fi(KG,n2(42,((83*7607+140*1978-899183)%jf)))end if Kt(KD)~=Kv then n4=0 n7=1 return end local KT,KI=Kx(KD)if not KT or Kt(KI)~=KN then n4=0 n7=1 return end end end local KK=KM(Ku,n2(23,((115*7607+70*1978-970964)%jf)))if not KK then return end if Kt(KK)~=n2(130,((95*7607+115*1978-893253)%jf))then return end if Kz or Km then local KC=KM(Ku,n2(14,((88*7607+151*1978-936827)%jf)))if KC and Kt(KC)==n2(130,((95*7607+115*1978-893253)%jf))then local Ki,Kh=Kx(KC)if Ki and Kh and Kt(Kh)==n2(35,((59*7607+100*1978-585316)%jf))then local KS=0 local KU=0 local Ky=n2(130,((95*7607+115*1978-893253)%jf))local KX=n2(23,((115*7607+70*1978-970964)%jf))for _,Kr in Kq(Kh)do KU=KU+1 if KU>10000 then break end if Kt(Kr)==Ky then local Ka,KE=false,nil if Kz then Ka,KE=Kx(Kz,Kr,n2(107,((51*7607+119*1978-607334)%jf)))else Ka,Kw=Kx(Km,Kr,n2(107,((51*7607+119*1978-607334)%jf)))KE=Kw and Kw[n2(82,((122*7607+127*1978-1127463)%jf))]end if Ka and KE==KX then KS=KS+1 if KS>=2 then break end end end end if KS>1 then n4=0 n7=1 return end end end end nI(b5,463,KK,5)local KL=fi(fE,n2(39,((84*7607+65*1978-764362)%jf)))if KL then local Kk=fi(KL,"byte")if Kk then Kx(KK,Kk)end end local K0=fi(fE,n2(27,((83*7607+144*1978-868124)%jf)))if K0 then Kx(KK,K0)end local K5=fi(fE,n2(2,((120*7607+90*1978-1070021)%jf)))if K5 then Kx(KK,K5)end local K2=fi(fE,n2(7,((83*7607+73*1978-751186)%jf)))if K2 then Kx(KK,K2)end local K4=fi(fE,n2(16,((128*7607+99*1978-1136037)%jf)))if K4 then Kx(KK,K4)end local K3=fi(fE,n2(4,((104*7607+95*1978-956801)%jf)))if K3 then Kx(KK,K3)end local K6=fi(fE,n2(19,((123*7607+81*1978-1058822)%jf)))if K6 then Kx(KK,K6)end local K1=fi(fE,n2(38,((75*7607+74*1978-715607)%jf)))if K1 then Kx(KK,K1)end local K7=fi(fE,n2(37,((119*7607+82*1978-1002490)%jf)))if K7 then Kx(KK,K7)end end)()nI(b5,(7191-6317),fi(fE,n2(44,((47*7607+124*1978-589565)%jf))),5)nI(b5,((111)*(4)+(1)),fi(fE,n2(39,((84*7607+65*1978-764362)%jf))),5)nI(b5,((9300%123)+563),fi(fE,n2(35,((59*7607+100*1978-585316)%jf))),5)nI(b5,(6296-5719),fi(fE,n2(7,((83*7607+73*1978-751186)%jf))),5)nI(b5,((196)*(4)+(0)),fi(fE,n2(16,((128*7607+99*1978-1136037)%jf))),5)nI(b5,(((3988)-(1415))+(-1692)),fi(fE,n2(27,((83*7607+144*1978-868124)%jf))),5)nI(b5,((10242%121)+234),fi(fE,n2(34,((52*7607+93*1978-519991)%jf))),5)nI(b5,(2998-2615),fi(fE,n2(21,((127*7607+75*1978-1074828)%jf))),5)nI(b5,((9594%109)+548),fi(fE,n2(5,((83*7607+82*1978-770590)%jf))),5)nI(b5,(((7276)-(2471))+(-3832)),fi(fE,n2(19,((123*7607+81*1978-1058822)%jf))),5)nI(b5,((46)*(7)+(2)),fi(fE,n2(4,((104*7607+95*1978-956801)%jf))),5)nI(b5,(((886)*4%601)+124),fi(fE,n2(20,((68*7607+86*1978-649067)%jf))),5)nI(b5,((3706%129)+652),fi(fE,n2(15,((71*7607+55*1978-616530)%jf))),5)nI(b5,(108+97),fi(fE,n2(2,((120*7607+90*1978-1070021)%jf))),5)nI(b5,((65)*(6)+(2)),fi(fE,n2(6,((136*7607+85*1978-1178911)%jf))),5)nI(b5,(((1008)*4%283)+329),fi(fE,n2(18,((60*7607+92*1978-602565)%jf))),5)nI(b5,(3011-2117),fi(fE,n2(11,((103*7607+71*1978-895758)%jf))),5)nI(b5,((47)*(6)+(2)),fi(fE,n2(24,((124*7607+59*1978-1016273)%jf))),5)nI(b5,(212+74),(fi(fE,n2(122,((71*7607+110*1978-739843)%jf)))or function(_f)return _f end),5)nI(b5,((250)*(2)+(1)),fi(fE,n2(29,((131*7607+140*1978-1222250)%jf))),5)nI(b5,((51)*(6)+(1)),fi(fE,n2(37,((119*7607+82*1978-1002490)%jf))),5)nI(b5,(3117-2847),fi(fE,n2(38,((75*7607+74*1978-715607)%jf))),5)local K8=nil K8=function(K9,zb,zn)if not K9 then return end zb=zb or 1 zn=zn or#K9 local zj=zn-zb+1 if zj<=0 then return end if zj>=8 then return K9[zb],K9[zb+1],K9[zb+2],K9[zb+3],K9[zb+4],K9[zb+5],K9[zb+6],K9[zb+7],K8(K9,zb+8,zn)end if zj>=7 then return K9[zb],K9[zb+1],K9[zb+2],K9[zb+3],K9[zb+4],K9[zb+5],K9[zb+6]end if zj>=6 then return K9[zb],K9[zb+1],K9[zb+2],K9[zb+3],K9[zb+4],K9[zb+5]end if zj>=5 then return K9[zb],K9[zb+1],K9[zb+2],K9[zb+3],K9[zb+4]end if zj>=4 then return K9[zb],K9[zb+1],K9[zb+2],K9[zb+3]end if zj>=3 then return K9[zb],K9[zb+1],K9[zb+2]end if zj>=2 then return K9[zb],K9[zb+1]end return K9[zb]end nI(b5,((104)*(8)+(3)),K8,5)local zm=fi(fE,n2(19,((123*7607+81*1978-1058822)%jf)))nI(b5,846,zm,5)local zu=fi(fE,n2(37,((119*7607+82*1978-1002490)%jf)))if zu then nI(b5,374,zu,5)end local zG=fi(fE,n2(2,((120*7607+90*1978-1070021)%jf)))local zh=nW(289,nD,5)if b5[zh]==nil and zG then nI(b5,289,zG,5)end local zC=fi(fE,n2(38,((75*7607+74*1978-715607)%jf)))if zC then nI(b5,697,zC,5)end local zK=fi(fE,n2(7,((83*7607+73*1978-751186)%jf)))nI(b5,264,zK,5)local zz=fi(fE,n2(16,((128*7607+99*1978-1136037)%jf)))nI(b5,579,zz,5)local zS=fi(fE,n2(6,((136*7607+85*1978-1178911)%jf)))local zr=nW(224,nD,5)if b5[zr]==nil and zS then nI(b5,224,zS,5)end local zE=(function()local zt={}local zq=509*5+334 zt[zq]=(nN and nN(0))or{}local zx=zt[zq]b4=b2 zt[zq]=nil return zx end)()local zi=b5[nW(577,nD,5)]or n1 b5[nW(845,nD,5)]=false b5[nW(636,nD,5)]=true b5[nW(843,nD,5)]=false b5[nW(754,nD,5)]=zi(zE,n2(9,((91*7607+79*1978-822172)%jf)))b5[nW(481,nD,5)]=b5[nW(835,nD,5)]b5[nW(200,nD,5)]=({})[100862]b5[nW(114,nD,5)]=false b5[nW(600,nD,5)]=function(zv,zN,zQ)local zA=(zQ or 112)if b5[nW(973,nD,5)](zN)==n2(39,((84*7607+65*1978-764362)%jf))then zA=zA+#zN end local zs=b5[nW(270,nD,5)]and b5[nW(270,nD,5)](0)local zF=zs and(b5[nW(577,nD,5)](zs,zv)or zs[zv])local zl=zF and(b5[nW(577,nD,5)](zF,zN)or zF[zN])if zl~=nil then return zl end local zH=nil local zP=_G if zP and b5[nW(973,nD,5)](zP)==n2(35,((59*7607+100*1978-585316)%jf))then zH=b5[nW(577,nD,5)](zP,zv)or zP[zv]end zl=zH and(b5[nW(577,nD,5)](zH,zN)or zH[zN])if zA>225 then zA=zA%225 end return zl end local zV=b5[nW(600,nD,5)](n2(33,((131*7607+102*1978-1140482)%jf)),n2(124,((107*7607+68*1978-921061)%jf)),113)local zO=b5[nW(600,nD,5)](n2(33,((131*7607+102*1978-1140482)%jf)),n2(56,((115*7607+80*1978-992245)%jf)),176)if b5[nW(973,nD,5)](zO)==n2(130,((95*7607+115*1978-893253)%jf))then local zd=zO b5[nW(929,nD,5)]=function(zM)if b5[nW(973,nD,5)](zM)~=n2(67,((85*7607+55*1978-750538)%jf))then return nil end if zM<1 or zM>5 then return nil end return zd(zM+1,n2(69,((73*7607+130*1978-801786)%jf)))end elseif b5[nW(973,nD,5)](zV)==n2(130,((95*7607+115*1978-893253)%jf))then local zc=zV b5[nW(929,nD,5)]=function(zM)if b5[nW(973,nD,5)](zM)~=n2(67,((85*7607+55*1978-750538)%jf))then return nil end if zM<1 or zM>5 then return nil end local zR=zc(zM+1,n2(69,((73*7607+130*1978-801786)%jf)))return zR and zR[n2(79,((133*7607+68*1978-1104440)%jf))]or nil end end b5[nW(228,nD,5)]=function(zY,zB,zo)local zJ=zY*38-zB local zZ=b5[nW(zJ,nD,5)]if zZ then b2[zo]=zZ end end b5[nW(228,nD,5)](8,20,n2(24,((124*7607+59*1978-1016273)%jf)))b5[nW(228,nD,5)](24,31,n2(27,((83*7607+144*1978-868124)%jf)))b5[nW(228,nD,5)](11,26,n2(6,((136*7607+85*1978-1178911)%jf)))b5[nW(228,nD,5)](26,15,n2(19,((123*7607+81*1978-1058822)%jf)))b5[nW(228,nD,5)](12,11,n2(39,((84*7607+65*1978-764362)%jf)))b5[nW(228,nD,5)](21,14,n2(16,((128*7607+99*1978-1136037)%jf)))b5[nW(228,nD,5)](24,18,n2(11,((103*7607+71*1978-895758)%jf)))b5[nW(228,nD,5)](18,21,n2(20,((68*7607+86*1978-649067)%jf)))b5[nW(228,nD,5)](9,30,n2(34,((52*7607+93*1978-519991)%jf)))b5[nW(228,nD,5)](15,20,n2(5,((83*7607+82*1978-770590)%jf)))b5[nW(228,nD,5)](24,38,n2(44,((47*7607+124*1978-589565)%jf)))b5[nW(228,nD,5)](8,18,n2(122,((71*7607+110*1978-739843)%jf)))b5[nW(228,nD,5)](11,19,n2(18,((60*7607+92*1978-602565)%jf)))b5[nW(228,nD,5)](16,31,n2(7,((83*7607+73*1978-751186)%jf)))b5[nW(228,nD,5)](6,23,n2(2,((120*7607+90*1978-1070021)%jf)))b5[nW(228,nD,5)](14,31,n2(29,((131*7607+140*1978-1222250)%jf)))b5[nW(228,nD,5)](25,21,n2(124,((107*7607+68*1978-921061)%jf)))b5[nW(228,nD,5)](9,18,n2(4,((104*7607+95*1978-956801)%jf)))b5[nW(228,nD,5)](20,14,n2(15,((71*7607+55*1978-616530)%jf)))b5[nW(228,nD,5)](22,1,n2(31,((131*7607+121*1978-1181434)%jf)))local zp=b5[nW(445,nD,5)]and b5[nW(445,nD,5)][n2(116,((124*7607+109*1978-1103373)%jf))]if zp then b2[n2(116,((124*7607+109*1978-1103373)%jf))]=zp end local zg=(40-7)*1000+531 local ze=(187-3)*100+75 b4[zg]=ze b5[nW(228,nD,5)]=({})[100862]b5[nW(483,nD,5)]=function(z2,zy)if not z2 then return nil end if not zy then return nil end local zX=#z2 local za=1 local z5=nil while za<=zX do if zy(z2,za)==58 then local zw=za+1 local zL=0 local zk=false local z0=zy(z2,zw)while zw<=zX and z0 and z0>=48 and z0<=57 do zL=(zL*10)+(z0-48)zk=true zw=zw+1 z0=zy(z2,zw)end if zk and z0==58 then z5=zL end end za=za+1 end return z5 end local _,zW=b5[nW(205,nD,5)](function(...)return(...)()end)local zD=b5[nW(483,nD,5)](zW,b5[nW(445,nD,5)]["byte"])local zT=0 local zU=b5[nW(929,nD,5)]if zU then zT=(function()return zU(1)end)()or 0 end local zI=zD or 0 if zT>0 then zI=zT end if zI<=0 or zI>49157 then zI=0 end b2[(22*4+2)]=zI b2[(1*2+1)]=0 local z4=1899979069 local z3=b2[((200-58-52))]or 0 local z6=(z3>0 and z3<=49157)and 1 or 0 local function z1()return function()end end local z7=(z1()==z1())and 1 or 0 local mb=0 local mn=0 local mf=(zE and zE[n2(114,((100*7607+54*1978-821029)%jf))])or(Vector3int16~=nil and Vector3int16 or nil)local z8,z9=b5[nW(205,nD,5)](function()local t=mf;local n=t and t[n2(112,((44*7607+83*1978-461277)%jf))];return n and n(1,2,3)end)if z8 and z9 then mb=(z9[n2(94,((49*7607+59*1978-460101)%jf))]*31+z9[n2(89,((118*7607+131*1978-1145940)%jf))]*17+z9[n2(127,((76*7607+69*1978-672630)%jf))]*13);mn=1 end local mj=(z4%2147483647)mj=(mj*48271+z6+81)%2147483647 local mz=(zE and zE[n2(53,((124*7607+99*1978-1105640)%jf))])or(game~=nil and game or nil)local mm=(zE and zE[n2(80,((62*7607+149*1978-721261)%jf))])or(Instance~=nil and Instance or nil)local mu=(mz~=nil and b5[nW(973,nD,5)](mz)~=b5[nW(973,nD,5)]({}))and 1 or 0 local mC=(mm~=nil and mm[n2(112,((44*7607+83*1978-461277)%jf))]~=nil and b5[nW(973,nD,5)](mm[n2(112,((44*7607+83*1978-461277)%jf))])==b5[nW(973,nD,5)](b5[nW(205,nD,5)]))and 1 or 0 local mK=0 local mG=mz and mz[n2(131,((72*7607+86*1978-655896)%jf))]or nil local mh=nil z8,mh=b5[nW(205,nD,5)](function()return mG and mG(mz,n2(111,((119*7607+98*1978-1065860)%jf)))end)if z8 and mh and b5[nW(973,nD,5)](mh)==b5[nW(973,nD,5)](mz)then mK=1 end mj=(mj*48271+(mu*11)+81)%2147483647 mj=(mj*48271+(mC*17)+81)%2147483647 mj=(mj*48271+(mK*23)+81)%2147483647 local mS=(mu==0 or mC==0 or mK==0 or mn==0)if mS then local mr=((z4*48271)+(mu*17)+(mC*31)+(mK*43)+mb+97)%2147483647 if mr==0 then mr=1 end mj=(mj+mr)%2147483647 end mj=(mj*48271+mb+81)%2147483647 if mj==0 then mj=1 end b2[((134+-43-88))]=mj b5[nW(355,nD,5)]=function(mE,mt)local mq=b5[nW(577,nD,5)](mE,mt)if mq then return mq end local mx=b5[nW(874,nD,5)]if mx and b5[nW(973,nD,5)](mt)==n2(67,((85*7607+55*1978-750538)%jf))then return b5[nW(577,nD,5)](mx,mt)end return nil end local mM={}b5[nW(881,nD,5)](mM,{[n2(64,((91*7607+86*1978-800449)%jf))]=b5[nW(355,nD,5)]})b5[nW(881,nD,5)](b2,{[n2(64,((91*7607+86*1978-800449)%jf))]=mM})b5[nW(379,nD,5)]=function(mR,md,...)local mc={}local mv=b5[nW(399,nD,5)]('#',...)if b5[nW(973,nD,5)](mR)==n2(130,((95*7607+115*1978-893253)%jf))then mc[1]=mv for mN=1,mv do mc[mN]=mc[mN]end end if b5[nW(973,nD,5)](md)==n2(35,((59*7607+100*1978-585316)%jf))then b5[nW(784,nD,5)](mc,0,md)end end if b5[nW(307,nD,5)]and b5[nW(270,nD,5)]then local mQ=function()end local mA={}b5[nW(307,nD,5)](mQ,mA)if b5[nW(270,nD,5)](mQ)~=mA then b5[nW(307,nD,5)]=({})[100862]end end b5[nW(794,nD,5)]=function(ms,mF,ml,mH)if mH then local mP=b5[nW(307,nD,5)]local mV=b5[nW(270,nD,5)]if mP then mP(ms,mF)if mV and mV(ms)~=mF then b5[nW(307,nD,5)]=({})[100862]b5[nW(270,nD,5)]=({})[100862]end end return ms end local mO=ml and mF and ms if not mO then return b5[nW(577,nD,5)](mF or{},91793)end return({})[100862]end b5[nW(956,nD,5)]=(function(mJ)local _ENV=mJ return function(mY,mB,mo,...)local b5=mY local mg=4294967296 local me=2147483647 local mW=function(mD)repeat mD=(mD*48271+1)%me if mD==0 then mD=1 end until mD==0 end local nW=mY[(0-((71*7607+86*1978-709947)%mg))]local nD=mY[(0-((133*7607+86*1978-1181480)%mg))]local b2=mB local n7=mY[(0-((80*7607+81*1978-767712)%mg))]or 0 local mI=0 local mT=0 local zE=mY[(0-((39*7607+86*1978-466321)%mg))]local nZ=mY[(0-((100*7607+87*1978-932023)%mg))]local np=mY[(0-((104*7607+88*1978-964328)%mg))]local mU={[102]=0,[51]=1,[97]=2,[53]=3,[78]=4,[55]=5,[120]=6,[106]=7,[49]=8,[80]=9,[41]=10,[104]=11,[57]=12,[96]=13,[91]=14,[70]=15,[43]=16,[110]=17,[38]=18,[42]=19,[123]=20,[126]=21,[76]=22,[84]=23,[115]=24,[90]=25,[48]=26,[59]=27,[63]=28,[118]=29,[44]=30,[66]=31,[89]=32,[83]=33,[105]=34,[88]=35,[47]=36,[33]=37,[72]=38,[45]=39,[101]=40,[82]=41,[60]=42,[58]=43,[74]=44,[94]=45,[112]=46,[56]=47,[93]=48,[71]=49,[81]=50,[46]=51,[116]=52,[109]=53,[87]=54,[86]=55,[98]=56,[103]=57,[117]=58,[61]=59,[119]=60,[69]=61,[125]=62,[35]=63,[99]=64,[113]=65,[40]=66,[62]=67,[68]=68,[75]=69,[67]=70,[124]=71,[37]=72,[64]=73,[36]=74,[52]=75,[108]=76,[65]=77,[100]=78,[85]=79,[107]=80,[50]=81,[79]=82,[73]=83,[111]=84,[121]=85,[122]=86,[77]=87,[95]=88,[54]=89,[114]=90}local m3=function(m6)return m6-(m6%1)end local m1=string.byte local function my(mX)local ma={}local mw=1 local mL=-1 local mk=0 local m0=0 local m5=1 while true do local m2=m1(mX,m5)if not m2 then break end local m4=mU[m2]if m4~=nil then if mL<0 then mL=m4 else mL=mL+m4*91 mk=mk+mL*(2^m0)if(mL%8192)>88 then m0=m0+13 else m0=m0+14 end while m0>=8 do ma[mw]=mk%256 mw=mw+1 mk=m3(mk/256)m0=m0-8 end mL=-1 end end m5=m5+1 end if mL>=0 then mk=mk+mL*(2^m0)m0=m0+7 while m0>=8 do ma[mw]=mk%256 mw=mw+1 mk=m3(mk/256)m0=m0-8 end end return ma end do local m7=my(nZ)local m8={}local m9=0 local Gb=0 local Gn=1 local Gj=1 while Gn<=#m7 do local mk=m7[Gn]or 0 m9=m9+(mk%128)*(2^Gb)if mk>=128 then Gb=Gb+7 else m8[Gj]=m9 Gj=Gj+1 m9=0 Gb=0 end Gn=Gn+1 end nZ=m8 end local Gf=2147483647 local Gu=function(a,b)local r=0;local p=1;while a>0 or b>0 do local aa=a%2;local bb=b%2;if aa~=bb then r=r+p end;a=(a-aa)/2;b=(b-bb)/2;p=p*2 end;return r end local GC=function(Gd)local Gx=(Gu(1945948160,1419433936)+1238980973)%Gf local Gi=(Gd*40503)%Gf local GM=(942+(171*7)+(3625%97))%Gf local GR=(Gu(Gx,Gi)+GM)%Gf return(GR*48271)%Gf end local Gr=(Gu(1899979069,303587))%Gf local GE=GC(Gr)%Gf if GE==0 then GE=1 end local Gt=GC(GE)%Gf if Gt==0 then Gt=1 end local GK=(Gu(Gt,nD)+0x9E3779B9)%Gf local Gz={}local nJ={}for Gm=1,#nZ do GK=(GK*48271+1)%Gf local GG=(GK%np)+1 local Gh=0 local GS=GG while Gz[GS]do Gh=Gh+1 if Gh>np then for Gq=1,np do if not Gz[Gq]then GS=Gq break end end break end GS=((GG-1+Gh*Gh)%np)+1 end Gz[GS]=true nJ[nZ[Gm]]=GS end Gz=nil local ne=mY[(0-((60*7607+88*1978-629519)%mg))]if _ENV~=b2 then n7=1;mW((0-((37*7607+87*1978-452984)%mg)))end mI=mI+1 local GQ=0 for GA in pairs(_ENV)do GQ=GQ+1 end if GQ~=(42-17)then n7=1;mW((GQ or 0)+1)end mI=mI+1 Gc=nW(697,nD,5)local Gv=mY[Gc]if Gv then local GN=Gv(1);if GN and GN~=b2 then n7=1;mW(Gc+1)end end local mp=false do local GP=nil local GF=nW(956,nD,5)local GV=mY[GF]if GV and GV~=mo then n7=1;mW(GF+1)end GF=nW(506,nD,5)local Gl=mY[GF]if Gl then GP=Gl(1,"\102")end if not GP then GF=nW(795,nD,5)local GH=mY[GF]if GH then local GO=GH(1,"\102");GP=GO and GO["\102\117\110\99"]end end if GP and GP~=mo then n7=1;mW(GF+1)end end local GI=(function()local GD=0 local Go=b5[nW(973,nD,5)]local GJ=Go(Go)local GZ=Go({})local GY=nW(314,nD,5)local GB=mY[GY]local GT=mY[nW(205,nD,5)]if Go(GB)==GJ and GT then local Gp,Gg,Ge,GW local GU;GU,Gp,Gg=GT(GB,mo,1)local Gy;Gy,Ge,GW=GT(GB,mo,2)if GU then local GX=nil if Go(Gp)==GZ then GX=Gp end if not GX and Go(Gg)==GZ then GX=Gg end local Ga=Gy and((Ge~=nil and Ge~="")or(GW~=nil and GW~=""))if(not Gp and not Gg)then GD=1 elseif Ga then GD=3 elseif GX then GD=2 else GD=4 end end end if(GD==3 or GD==4)then mp=true end end)()local mZ=false local fh=(function()local G7=0 local GL=b5[nW(973,nD,5)]local Gk=GL(GL)local G0=GL({})local G5=GL(0)if GL(mY)~=G0 then mZ=true;G7=1 end if GL(nW)~=Gk then mZ=true;G7=(G7==0 and 2 or G7)end if GL(nD)~=G5 then mZ=true;G7=(G7==0 and 3 or G7)end local G2=nW(577,nD,5)local G4=mY[G2]G2=nW(784,nD,5)local G3=mY[G2]if GL(G4)~=Gk or GL(G3)~=Gk then mZ=true;G7=(G7==0 and 4 or G7)end if not mZ then local G6={};G3(G6,1,2);local G1=G4(G6,1);if G1~=2 then mZ=true;G7=(G7==0 and 5 or G7)end end if GL(mY[(0-((39*7607+86*1978-466321)%mg))])~=G0 then mZ=true;G7=(G7==0 and 6 or G7)end if mZ then n7=1;mW((G7 or 0)+1)end end)()local b0={};local b6 local b1 local b7 local b8 local b9 local nb local nn local bp local bD local nu local nC local nm local nj local nf local nE local nt local nq local nx local ni b0[nJ[33649]]=b0 b0[nJ[48863]]={[(6467-1553)]=b0,[(6418-890)]={b0}}local bY="/oTfarafff`@C,YJP0;hpLYrO3S]r+!PzT>jKSu%32W.9fsb:spjaL0Dg3q8{rv]N$D9J3Yf{t1d6G8H83w{F*d3[pJ3:hafd_QLJmf;UNsD(_?p7f7yf&O0c[0K;?8>dOpL:B9H<GMsI3vV~nmj73Pf^5,&?l}:E3Pf6PM}beFTNtGgT[2+?fF*mO@QNG,x.hK(}Hvt2E&kU*^bgv(f)nHpNjSU2DITR5Dp2]`;MhU>/hfaX-oxp5P=q<A7pL/>=ODZBi/TarWOo6dd7Xy|ffcpm1u[5j)+gbVL|AD8RQ/oTNK6I>fr^x{fyPKS.[JO@z]=gh&^3^?:S?arMsa^pQk}k5fbkG+s=B5}kfEg:[afx=ZV+hdBj+Nj5rRabr{}yESr{|IZcMelG<%[5^R7YaRn|;?TPn0a&fI|_)|j3^Lb#ik2t4a>;h/xxpBG7^t-1Tx)s]/x,C^kun3^hqO=n*OslQg7.F1c,ZZMp0YQy`JD39q^#GWL9rRfPqVoV29eThS|ad,z.>rN]G7TO<OULKRAc9(c/D1yibo7G`g3C)l;OIgTUX27nvD?``^Nj[f;l?)&2^<3CierM&1nMuC|}L>fI!{4D4I7bb$@7^fr5A.Te1?Kn^@DSqCfhSAd9fOXMGsSOX-iEnZhte0uF9j=}f[ec}=~ilY[Nrh8?a8@a5P=:fkc/8]k%YlEr8KfG91`^@3.}!Jw=nR++lfcET1xRKhOEuifkCQ>zV5v}_D=`x(]ThPh./C5EGpr@{JLz)}2Q]pLPn~up>h^^d?NAZh+:^<Cw2z8Kf3I1Ux+O+@aHpn(i._>VScp>X&^416t~B,Z.L4VFRDlG4sZI8N5]k%ABY*rsfiS{L$W>uuRLn*9rQ!XQ6Mh&NXHfsw~Ef|c|^YbsTUR]ey7%e.35j,?D2n0>fWHhf3Ab}bLQb?EhjXSZJiff/_DhPuQi^u}^b>xYvt]hjBC~,[rM!G>21yE^=`u7N**do6Axnaf$Z9f5Y5$Og7zJ:85S<5:v83dKfwQO:)ampnT|<N`Ia#GV>8yIE9fl0ZUB88>g9$iTaP@QC2J;,osQLF*[5jX9Q5;Tlarn#v~6$B6if`aZ9~2W}MYVP]Lv^$pdH1:(xJ_vjxanf@O0hU[0@,bsakgMeu7*di.WVf9b_/hWL*.g7;KA|y[AuSh6y~(;b_T9TMPotoClznVh#A7C0/:@jM,oT^QuQU8&8<)tOtGesuQB.M]IT!CxrM6j41ylsF.r<hx$QD4/&73&8!Gq?S7*r;N.j2@ThPpI6XJWLP5_dyDKS4UnrNTVFov#1=>]1H32`+=%z7Equ2>vYcxLj~SY{:3ltoS8FYin*`3D>yqY*)Y]9Oa@!8>fH${uG>Lq*Ho.D%.JavbTYAUE4*){NIT8>ZEjYaO2@aj^gITg6/JQF_;?90h|5b3(J]h3fP6^_dL?Fvd|SZ^Pp;vIhEaULolXxk+|O?i%rxKz8]w#^|Caa_+~^~66%NA=j`nN3,rAKJ0sr#*xm;G&^knHP>^7_B0?3qGin|S.jQf[yf~(U5|o1&0$9^8ff8>*+N[#nuQuh$0JiHoN>1{QVT4vGVLgqF&8DA@.L)*Cvv{fNif$$|6X8}=}#&Xf:{nP<x3prg7/Bi>/NFj59OaG2ieof]z`ITrKcsWnpu-Q8ffoOcBt,ZYKJ0<Ut;w[?EjWv9rwql9q-_.>H7f1485)<r4F[h|Q3OQ#4aSVBffAFRG|jCvY,f]GX<PNp1fV6m2o@-Ev0p`,9.Md#9N.8?KjNGf%zF{Srfqi3mgc]7o3M5-`fJo|Rf6am|xV;X-CcWOJtx0vhw)!/.[C^>jwajm@]Wp<tKa``pLBSs6MNFbn^u^6^ct%bgLNc9NSRn?c.hx)fUj&<9f5&1V1_G>ed-1D&&5@*5ju79B*pfHmasb=<.2-yzrm3?4#XHW3`,!qf#@A$W[lNV&1[bv@y|[mz9U39d?aYg<wpazFePyWa1`0#IH>f/oK:!CLY*Ld7tk^W2+m!`?:7L3SVisXf4:jf|XkY2tPyVq83QL:~8TL8,H]}G>]f7qW_}/X)`?7^Ze+/*Lnaa<U>.%GLv3(>@.-5[HemeKKQ5ll5Nk*]`Gv^E@}m)(16^rFfHa<Wl|}N20iA=>5?lk>MV`NffxXK6vU&MqC1mRk9oaLDt><L;hP)A^YQ%wjUZh,S:cINdZ;pXjvF8FAR1V}fNJ_~C6gKR)/-#*9%C)DmTG3x!vw5jfWO&~1fm!xY>t+&JKuQH)@OHf({6^=71;Pa6EpXc*&?-l2QPtZF7^WL0o!]H0[R;^!fHyA}s=Cczu3fF#`Clvw=f|@SbEITtB[*K9,CG`;e$_tsuxNr(D=`qZxu5P^@|<@fDPw!A7FX|Ksp?Dm}]r%RUnANK{ec3^dpSqXF{B)(!fI(UYe|nONtqQi0KmwL_yu-O,ThhkZ_rV4]U7@FSpPaOLJ)$^6^0c!cn^Q55xY9o(E.%j|SwYj;aJpAde8?_ea^H(jV0mQy&Z`Su3O):Q}6tjP~A!sxKjtg@^f:L`.T+CuPO7Z7tBHa-V~cSaWO5e^NbFTy7f7ovU[xmr(+VtT44FuLS(vA}x6!F@&tJ7.[hx^5*UCa!!!#BrB:aeO1tTM4taG7:1Rqp{Mm]30OUctk|^`7w3dpVi488}HNQfjD4Pqb7(;)3fqSaTy@m:r*^o}A9afe[w4J>^[+KD`]g#sV<3,-HsC[n1d?yhHdMPN];Txxd^n`&|chS^0ssfznvw!T+k~G)P1tmd`*/-8_Mo{?{rAfV7c?S;7nS8^lUdmJ<{@Sy:jM&>9KR+ffqWZ%Jr?72Wlw8V)^>Q74:*;&Xhl%L!+IKmpLRkrD<1+:bavMoWBdaRy3sf9seumB|8~7*jxdj2@rf8++*^]3zLU<sc,#Y39jXM/t=28>~],?I!2>eHlOc9nE/{68So,@}q.F|d3|nDwWKXXfP]xyboNW~G57H{la|6Cf#OnxHpY.=~woXA[5Z$z^n3?+{Kxf#5)bPi*IG}bh|2#MlD5S@Y43>^&ZcQv3n68Tm3Qh0O`:b>$x3^B[y(NBVgV`GEXc!-m8:^{Y~G!7~PeX719TI8x^3zIN!qY}0&y%sTy!ZN5r3^Cj!nXyVAPje_tw9Y{2SD~f#6)!S[of~=|`g7_UNsUOfw4r48m><*x_?x*f&/Y6Lw/pv$@y.>XtvFP6|lUdHqFav^`V7!q^T4#F0fGMxiR3lZ_lif~KB%D7d0:e3D]LxKnf&e`bsB!lMx!ob>bVwm{Yjc_STl3Nn`kgWC=LiC7<u^|Oa0+fU1u81Wi0TTg7HZY~EP_5[fBCLNaJ{Xkm.FUaPE$5+^hN2]IMHVhFL}1N&3.MXmhm(;ywBn,C#`+D@ZFUrfo)[(B]Z(t95f4A`3NPb:QZ;3lF<x3?t/)^&akWKZYT6Rj^r.&rq#|jk+:tN;sb>]SgiuQ@N7RGPI>YNNQ]bf<i/t||D^GlX^ld,brsZ?_oF?h=ubX|U^ff*||S$?E!X1.t@apH!jb;:ECg{rHR!o}nU2$]x.]<nes%.A`fR#pwVeb/X_%+D~xr{D3Lj`k+#T[ab}X;o#8>0x!VmntJzgRI~e+;^inRHO-Z--Nxx^)<9N0d)3D#5jC1P%ZMB0CW2E)G*NUp107aL[ZKiD16$601y2Cd:sV7vrJ;U*r5|XhJ});Aff;h&u#<j}w5$d235fIu?VK83^@WOg_P;>taKnf+_.7$j}{@BeqaJ!S=n8m?YbR)l_2aj4aZ--s%arqPeAKa;!b/z/]^)xXhhB&k_2mrcR*@(1w9Vwv{5jA;]3)i9W~&`fz4_ttLE=*!&/@YoQ=TmL1}&1t%~^0f~4S@F~0_cP%[/sr&`1Z<(asf}J-M6Dnx<m``Hq!<n^[?4r+GpLjr*!29t(^4z,kVaY@JWbkfnNe#>Kx0~r+f4.E?tPij~&NlwfWT]>?25EOQ&KCsjBNss[|Vx[Rjp4Kse:Am@yfrV,{W)0M5m>NxOA)WxJZ_{^(p*4W:)U9p}f59l$uVR@wtt/QUiejN4;o:k+,Aqgp.Up4TXMP?WF+hX2Z5z,3>4d`t^^)]cahIA|85HxnVu7&yM^rFNYJ8tN6.6KZ^s4~)_hQE3;&<Qk[:EgPBCn103rOx3PadqJNf-mZO{r~.R3H[}:LvB@=kF?!%?Of9F5&)90[Os.?r!)afl)O)V;en(a{N$((H*DP5@yArK~i)*|2#iQFrds}]1S[y.HP^Zh9J|&H`V:#pKqjTR.&rr`QpK|=sp[yG85x,Jf?fp%y,ky1qQLE1C,UxPrO<jaU*k+id0LKxMf]k@fr60%4p3.*r`jE`)5f)F77G?+#sF=+JN5}L|HxxZ)js`H2+/&`Veg}4LpM=jEeMTf;SM`)_c3OLx]3NtJPf}G;m/)L;c/N-.9ynfM$6vX2748:(I6]b4aE^vxz/cO^3J9-w]59Tl?>%P4G3:8,?4!h(,i%deu{N|dG;UN%|N4Vs0a4exrJE)WrFmGac8hq5+j],IXN>3:R1[.?N5^yn/Y;~&]^|SN[lfH!zV:h/br)f=VqPM/qTSM+]]VzhnQ6QP;d8^~h7GM,=[?D7$?Ij:oM84V=fQ0}M<sC[cF5VJ#ZmztP^hW3f*M,b+pQ8`^$[W+YV0SM4CN{l+3M=BIR3<&w/QBA5qPjrLNyPgsfD/]k@k}=Q^4Ek/$FWOrKS<0sCPXR6|NQiWar@7G&*oc}z#[gBeOl0<rGLM8fv0(V>U3Cx#8oD0~wlQ<P^$a@-:M_+m`DII3Qa_equAYAT;hQr85k]TiX+8iC9.B&f[66u35FX&n]IsQzb<5E:-xI)6h{~=Nj:CdptUB9y6?Y*>]?tXpN+?WY3qKp[wmq<@s$yEl<PGlA+qc^pmaw,.(qm:)0rrA?C=s:5MhYY}8J1JsWM$7xD:?Ni+@<PfN0a}r{.+okirfk_in^{DAVY&^btp5j>}0`*m.z3vnRD,(&s;hN7jG1ZCX?5Rm+N`@mo[h9bIT)ffgd:}9sUD):Fv@C/6O9#7rFs3D.cro>xThIVo@|-<C0fJ$erb#b`%xpz4v^28gF++^rX|%QN_w+)ITYQA(PzcPFfzF8E7SFm8a?J7oeu.$YMvrUeESgCqixa48ws]@3#P`OfMptLHCu5=chfl24M)LHSE+]L]3r7(;4-5QE2L*H00B^g#Z83Gv7G$HKu;&}3al-Zb_&Q9=Y9!m^,ya]e*@paFz5e.^pn@*uj]]GgagZ4auN3sAWL{v!ncLyx3Ny2BCNN[/q6+Y,Csiro.]R1Zp27$y+v2o*t2cNf1zz+dv8<>LU>Yt7^T+W6u3E2YJ;$LY$S9vKSmx4}{`^CPxPSa+t-|[%u?9Rm:8qG}*5S@t85892OLhSqAwg2*9531[_B[[Z}{U*1E>1RAs;B5B|Nl.)5}p}hbbbW7r09<{GuNr+]*HJyKZVTF=z{$1u&o(9VUX}1nr#mC7v*`@YyZ>OY9l`^jYT)!7BaG&3f+(zBGGd$p~O+!!>|.;W2}O^is+wH/vR3*i[^t,ArItM25hiHjU%Zh6v7xqL3~U|w3KWu?@5fc_;<QQt]%{9iu_s7tw-u]<1fCeud!1[CM7912n4yvF7rh3_bt1eU}6|%JhiRCG8&ifF:bfv[9`]Qtyf^8>t@~K#sK3YfR,4`SUlx)IZ!~?Ml1Ub7Tq5frQDjux[h-^t>NxJiva4GZE>Q7}nT=M4N=TPr()T4ejR505#x8Mo+x/$4*l/F#.TK#:-^8)xa.Ts3kwM:Ip>^_+`EzG%d4-N(sh.P=sw0IMix%%{N=$}M@()~X|4`W*LM6!5xsbyL%v+`jRffOC41:MZj(gB.&QjwuveBf;bb]CT29^2-FY|Q&;E6HyDNWC5T/H(h|BV[&${3~Zewgh=Bbm3xgZEt5]JB#(C-eb?@!+&WE>w/;&4`A%PQm6+W/^|N71=:wx%S)f{NYa`MhT}aoTBRx]:_Vx1P>-V^?[@4n^vU3^K*p`x-P;ex.|Oa&H%ERWCn*TUWwbHmp[lr/BPr[p[Wei@Lq]UY#*goSr,f&X-S,<R~wH-IlB%$mG9Tx3lagbwo#FWn`zGe-h]L%U}3(97x?3/8B#P#rg%e}3*T(?28F76f8^cm2e%!Ljwm,3L1A@NzEKi_F3{l@2d|:?<*`rotrOE^6b_p+?@/8zF`~T.L_7bsaoR&U@e*+f8l16qFtPahb}vPqfq.J3S~EQYAB3oJ24dZY@s<{U>w83%]RrzlTGR~XW9^MU]U`/}gUFt)3YYQ|.-h:DNnNf7<y;JUKzXBB#:;L`Rfv@0bF@N$eBRh1306HA(j_=0rewz}[<k_:rwhoY!+=tw3gERhph^3<C!ArvsVZ2^@zbC0=hi0q!K^$Adm*f6>z-U8>~oTG$g1kg!h4V6h_:4d6s5f+f~1#j_(s2BC=LH]ICm8:*l8p<kgynhlX`U>kt7g0B-_7Rf9ar[1qUCAo,bLvS#%@^b>FjrN<adFSx1H8gK>.Qmkg2__iFK71!#9t_(cg[,3nRwEPNhLdk`@r%H=%g,:E5X!j=tQ.0$`4SqLk=HY2B@UBfWf#2P?45gH`_z,m>}@gq>~WP67<8`Ob+zk^;j^AJIR0vcL5);V09FBXh{)W,W}:<vYDp?V)39?`BQ{sxzW88FI`5KNsrz@=Z~Go,59)l;H33:FLI{a=5(Za5O1lp`3#mctAr@Ib^L~(d<r]fH3tnT)2T[%3fQ(FL0KZ=KF:iP20(_bDbZJj^_DJ3BSj5e1nEc&EcWt~):3$j4d*ykcgs3%EQ9nL][:%*>0ff5a^N;J(ATpdzo(Qnx[bq.[Z!;.m6FONv5xq]n;>Rd7VNLE5^&UO71XHrd^mSPUwHBf/X+3^~!SdHXdza%+v6vgZ=i?4k$h+QnK|^LFv^m6@d#G-o7aCLd3(H<YM=~1A53FZ!Uo8:ga~i?rL.gh=6$!e30Qj0}UqNCL.fL[n:[C}C+r;x:U#xFhh.MAekKSllMN9q?PnaQc>7d6SFrKb&z,#C76^zkQ&frwuKu&dqNa,6$&ra($D#rC/o]?[>!MLfS3Y1#x`:WeO-A3=8L;g)|PCM:bDjmGO$Y{J5vhKWrHO&sr{kU7-9#sQDm+zG/T0b!>hp[j.Nnjg_9?h+,e#LeMEr/0GDN5Q/~.ff~ADpOx<o[xX#}@TZ%d^~(-DfT=Vmav!^@&|di%<5`ZYrr`}5;#}L2V4xk]ohnmO2H({kW((pn7I^T!f5^Bvfo{SMSNV+6md8dF/{nup|fg~a{?%|xe6NOMgc[UkY{d}>Qjn_Pr@(@n4AHD1.*FcGhfZ)9=w>=hImn,$=!6,lfFL^JsHu5&$GyU550m>@kf(]>(f5,lD?}SZS!nmLz>|A%x3^T;@0gr=CNgxDbhFwO7E7le}S))svMCvxV}1Kn^CvqG|U9l?1v>ujT:|cKgqal8gI)oMVAl;9vK{WfNaa~wd5.>^Xc*m3Ma|h*M;#bF{iux%r;&QLn(C~Asbh38^UrcNg|QafIjUpuo(12n]>aE?;OhpmP3L2]^Dz?j8LN5}LW8t?}NCL55Gvl(#)lLi*[r~&?9i_+uh$ffX^@%OO>z^h@1=>+vkXBpm2fSP`G.|stz~q%5^/}aASu-wd1E!P~^=7@S&{u7V7iQI^v2XPH`@~dlHt1fY6CApCaUSg{t(Kezi%dew_DfSm-aw*(~]k`rAC/oTWfNy$MTdjCeEmNt1x.hQaV>C{+x:B93E^`Ho6hwY>wQ*r#<9Y,abgJ^V-Zbi!f9K.`Y$a1NoE`(;&S5Qd.|Cd0MOBe`p[&=3.,6S5ajLDztoG|id$K:oDv<g.<>+GX^UVd_P:ITW}&3OWbe/%g-V5+a$(UsxCUmrEAaM{!,b0xq@W1f$KZ2$g{!<9Hok3ifI<{wl48>-HNUc:ZX+aMhoNIyAt)HZ3+l0m~6}yra4Fg7[sjg7V)$>7i;*-nz[UHeehlk6~YNi0JuBf/UOC+30Ktoo1$(B9g3/MQR;h2W4uJxZ>;(e{8>484VA[!d^5=Tpz?]Qb;Gnxhi!yc?[Wp5&jO+O%efeZd*B[to!!WEs)//uFCdb;Sim5}@b79t+I9<0e^@PfKST8z_t?A&A^$)oh)1?{b~,5BAHVj=%BLWi8jX:>Qv&f;.c3ra;A*3SRWAWL5f5W?j@NOgl8lc=u$JlJF:y>Cd71b?5I|u4hwDz0s}I*YIA5^9&xo#SZXZ?ppLq@C_+@$0I,1)h#b_eL[#QIZREnF@!X^%N94Uor|h/Hp2!TPyv50_3%)c:-^?-&,xFk*/a37G]h9YC:`C61pzArq._MUqb|-yUcj^q=bs2Tl&i1wBWVs0Ybz=L;wlr`gR&o9GXT<i&)ro[6<rf35^JL|po6s,33$e3sx<*<4aC{;O(?4QS6sC)cm2Q=?ZL()tC5)WJr@>xn7Kt3S5%#&S.3lsi)ZK5d_2bR-z^3**aQByP]hu_t>Qd)mZ!6f-^SC>2s8@+tUMa+O7gb{snP]LM<Hfv<PLIam_M!a^ri@U}2Zf[Z@Nmn{l|Ln#wIFf^fxg@`z7!X,ZV6kLzRt3a[Br`iX~QdQ&(qm2fP+YVY_JyJ{NogC|GDVQn|@ra$GKNBV7SC).Ua@jwp;#[kp{u54V.MP<#9~h!Pl%=lXa=0O>qR%e}OwgCxn.+f/%&asAUW`?>|/(N=Q,7ejavg){M@v+A_@a4&QWLBhyP~S3B.#d)v=2glep-iVL=f[^7C_azKx8Ofiqzcjf+FO(%BM,L548Y|FsA}7f0^N|aM$)N(QC1fbJe*sDg+In0bq-|=lm=P+a+k,9HmD@CfQoAdVPloLeA!b~9roi{<-A$SD75j@6Sqjh{S(53hASs|day~2_7^}hgKG0pJNX67&#qgC-D%i?nRL@NQ[sIXLJuhNr}H<>a`FSA3v6NgO<O+ql+?@L[`;Qc[pi<h|k=Y+D470a<j[xx1k-g>I9e$#~=:XJEjOEPfU0yE|SOfaU?]pz|de1;bV`LE~3??GHS#_)m*BZ.Kw[e.N%J%.3[#E4}h&Gk@PaJ1s[n@lPCi:ag`kYO[s(|W0hyMCTd%V1?TlNi};hL*Th?Jff_8o0zQ7~%nOWu9?Ma^Ue.gmnhk.6/A]f+om/xeViPq4E`Uc7Wn/1GJlt^pm]Ud6_^aT`2*7}tLN(^+moyBnjM5Na*V)*8P$;rO*p5M@~!/Ef=/wQbj.1M[.$&F*>}KK-f-f.K8!_%?wx3M<[]wWkV{l30dAGM,|:p%GZuIlC/t^R9XWL,zH_i01f7d=8(3U*v6oD/g0#KvLx-p8>Lk1Ln2dJz^#*h&}?wpv5FL7|I[bt^3s6yi}QF*Kf/xw{NJ6+ah<3u(oL_;i^4lfxa]{JA~Nrv(d>r*-hIjxdJ!#(sUAzVLy}qHW`FvZf]r,6E7vLk|6bWL<$4,:qT[m#1?`6$^~a>gl>hh@eZLZ^->H}F2rOfD?~lnG1V3$aBDU>uAg8wQGL1J%kR/BTHs3^*IbngPe*Sf_L}WiET%0(&WxZ@9L!3$iyS<StqfL`#4oc!-<%d1q8e%8Nwm:RAY(L|d0Y3jBD3KMDapO0j>v9irUuxj*vgZ;QAfRAkev6he%Zf]Duhe*TSeK6JJa%j=sbjCcCGp$<Dpg!.up`ee)Gm3.5U)v2z3}O+kraV9+8m1-h%+Xr2U^g,hQs!Iw>Ekyo)9jaHN)Fz,G~PxMz/Fia]+d?b=?9.>`QR7C,d+]w20>`yG5d&2Qxo{[rWc|qUq2kka_bmcCStQm:gr=3Ev~PqiOzO7%}B0e3wT=9F3[C.?-ZtIA;cLY@pNOQdmVO}>XO/cWz%)XJ;h}ZWMx[+8D_!N`@-7Xh?{?Wm>(LfLJ0O4{9L^DfFGi;]{!A`[5^Es48mt>1I0g>.4*<eZ13^7q^$I|`|;};!jK3|3{r)H-}pe)NaaHrS-z(Xu^`D9<K+@ZyM]8h|-[@wic&qxRmZ9U.U%=.IDh*@ol><0e~?qSD>N|f0O#Ta@M@0`-LT8R!/,,~rMy$s}Z5CdBNb>ifBJza&<=B)c:lO`+a?wZkme@HJ0{fO$Ke6K8V3o{xt/7-pjyT9cxN7qur?+~.YoO^vn>LCQ)54XoF=FOE0P2=E.WTx3puNk=:~l7gGLa]|V&ibm1)SZO^Frw.53&utpVc0jXrAUK4(f0&vbMDU)R&uhWY2HK$|^e<;a[x2}t]Hhp2>^p%/W1RDt]~Hf,D!-XKkilw$f:np%SpcFT`0f5EUF~4mB0N{<HCTxZ^alqP`@}<wpyyv$q3X|31;5x}z{IE+l?AJJGaO1ffAM.|Q?vEn93`d@4Yg~&l#1hj06k`P5+c|2cf=3}V~RZfA,;MUx&|F9*k<m.0{f9.Toxqb-x9m2t,5,$*h5g36X,^X3[6]0{3T@4%?Xy?^K+a!S|3K4)I+h9^P0,2EG@Y5f!ocZbeFXinyfKSld?RyOKU4a.l;oY3!^poDrSGi;riXayhDauu{~Xw98D,6bV|<k#RyG:E7^UK==-G7Jb+S!,#K8aZ-xIhw9]Dp+Dtp=d3sby^_X2^A7o5Jo&/I/J!zzG3PypobV0?g9|r$hTTt,q:umXf^f*85gBm^385jR7j7b0]VL`z+GeBS4~^X3]orb3AWTV2?b%p$0&&J-ZmyDkz1y1H/-b,9ro<Ag3a5?m]V:K1[xu7/U*nCdL8=;M=/5C7a0.8=iFkm[$a-4RC)ed:Jm.>D4n_^bomM5Uzt-F;5*ecv(a)$d6j[<QS6Ez3[6Iqp+Rf]/H5S^B#-&|dBXuQ=d5#`$a5PKLfa^npGevidXdLj~C8&s+suQ=Q%#8.BLF?:fN[%;3?^}XzXfl%u1L#!`Twjf<&qzvTs^O-}LG-=b;Tb`E!m3[LAHl?)e*0535RW8!Y!AOra^SAR4Qr)^g^W5dauLzWX4B5efWWQIQ`[)m`F]p^kJH}o0O:TT}0!vb6Vw-Fc]Y~rDUd_U9sW01nj~U853bQK<Z|UDyvuQj!)w`:6H9r?_EJCt+qpfa3gv?Su{0I9uehvY]o39UA^_N^EWZ(Lw/{h1@mra]p#,k5ELd*C3@0.PN>FTX-hJTiZ73Xx]?h8|0<r!3[[#h4axBrr4a#/G^TN1i$aP[tbha@*6^R1=>HpkP:hC3[[*TyNDQ2^jjbb$ag/*Tw7B^<a>*bb4aELv3UPzdHpjjcbF5T<ef|30[+s[PDQ2^PjOLC3F[.Tu7T@2^WL?fL3yP*UF5=/3Kt)cokfCj>>0ay+fDk5;<lDYxA7ha`~Ih#xo8^3kPA7;a1[&i/jUQXTUPR@<a2PDD~NZ?/D=7*Uua%9Li~NB<SKixT^85z+]f+5F~VhNjq/~32P]bh8]FrL~N.-kfO51BXTu7^hC3VL[i~N??>T+PYr1s:1K>=8tLfk85bm_f]5a}>TQ5/}Hp#9xiyNh^PK<1B@/NvhU>:a1^g^E7v^K3;hMU]5iZfsDj@-l8K0efx3h[dLC3?<^37jY?uakPVUoN>Q{D.)??!3?hdLC3;?DDyNfiF59[WizN~?ssMN$QLp2PsD:aJZ.TJF1}H3C9rd85Jg73UP|>$aIPUh07F^/DFPZ^!3XZOLVNHbDD@[FUz3tLWrCpBh*TFPE/6^E7q>Hp%*g^=7T[%f+5h^Or=7;<zL]5p?m3B&Wrua(9Vh]5USJDrh/b48|*s9k5B<A30hcL:a6TY9DjU*+s+P}LzGo+$r3]*~*U:aY<9Df9DLMpiZ$L4aPB6^<1-@!3c99DyN#-E3w7$Qzp7jQrh8`~g^yN&[PKFPfD48fsf9G5!bLpxjNiJ8B&XUTNWL9D=79}Y]tLIh#x(QITjj3U<a`~:UBx{?kfo)f]JD{P:@#50h;U$aJ?Or]5dL$rAa>/tD=7si:avhlbyNhB/DKj&Dm3]F*T~NL?/DyNK>0aIPDf98h[[izN>-m3E7/by3QF5Tk5RZq^=7pbWpo+QimNA*rru7HZDDE7DLu7F~|h4aL^gK2PkLJ8X&oD07eb<a=7(L]5mFm^u7w/xpYx.-:8bL!3$a#>$aUS~3Nf<by3Y&XUu748PK)[{i7N9f$bKNze1k0h$a8C!Ztikx{fFgmjG#%ky+48o|c/oicP?f8g!)9z^2mL$aB@f]ZX]9/fUg~`c&*O~?48D$;=gXYFJf{u7+;RIOkS$aFlWC6X+&tftuk&2#bI]-48tA22,/f~wfouc~Jzvo+^$aAS!3I+sfSfj[`^x3W1IT!3Zn]]M,[r*r0&m>.rna,xir&aEn#.ZbQLC[%S0^~a}xirLaa&pW{M;D@ayZn^sa&&arZa0&bbu7`fvgsh=L[3ZP3^vau&-=`?`f9wCS=L+3RP3^Sar&L}=Q`fz}Zb=L&3gP3^!aB*7q[@`fKq|d=L{3@P3^Ra#*U>u7[ftDshwLL36P3^^aN{}C`?[fX|CSwLs3[)3^Ga/{^@=Q[f&$ZbwL03,)3^maD{?l[@[f3A|dwL?3p)3^gaP~hUu7Ff4UshEL,3})3^EaR~y2`?FfuOCSELY3d)3^qa@~Do=QFfRyZbELi35h3^Ka[L.M[@Ffs_|dEL/3*h3^@a9?S^=7(LdW2+efC3+[.T$ae?48BZ~^if_,LrIrm5Lx(rW5l?rQwQ7^S`.L<^g5Wx(ru5nv@mF@7^r&t><^E5zx(r}5Gvbb=7x^bs.L:^q5;j(r(52v-=[?x^L,t>:^K5=j(rC5L,L}wQx^UX.LJ^@5f1(r$5W,7qF@x^^Rt>J^A5Y1(rd5z,U>=7j^h8.L^^25c1(rO5;B}C[?j^Dtt>^^y57P(rz5=B^@wQj^iu.Lp^65!P(rr5fY?lF@j^fct>p^aNKP(r5NYYhU=71^gK.L8^xN))(rjNcYy2[?1^T4t>8^)N<)(rhN7SDowQ1^kk.L]^[N$)(rFN!S.MF@1^pzt>]^&NFh(r*NX-S^w7>I)a_E%aqDLTffYx.>Cpda#>a*4*DDsh|S+]F?4>Jaj5G^rNfe0QN^.>Mh,hu^a7px73j)ck++1^)^+XwLs3`)q`)a,{%%b:[fh^-pwLZ3~)H[)ap{&$UW+rib}gwL03&;`rTr?#E>03S):F)aC{?lD|F^sr.$E>;3R)++)az{qAfIF^Zr$yE>?3G)k+)ah~hU~N+^0rNj}>v3g)mnhanI~rwaB~UXtNC<e%~<[+Zb2+K2,ZoSB3,aCL#am~$OCS%S?l+@A>calNG^-78:Hd7r%ShUw7d>(a37G^:7U:~2GLfKA@Bb])pw+^Br?#}>i3xhP~0a+L.MD|F9@ya^%s|a0Le_|d%S.M+@d>%aG7G^V7oJE65f5^S^E7I>F5Oaq^YxOQ:8QLxr+]+?I>n5j5>^/xT.r&&</fuQU8!^*5>Zff{5|Zi0iY&f(0nXcLb3M9arb3692`$~Pfx[{TYh4^8x3^g3x`W[e;YhGvc3et|=r,!fJwb/H^05Y0ff;5/0;BK|&f=Bt$q>=3s`ffw30`Y+pR)^xS4y*`cf*M_dTfNr(7drB5%0cfO`[?drY5iNcfS5o08X^FN^>|b/-^i57;cfoYq7UrX5uNcf/5n;g!iYN^M4iC-^!5$NcfH5S;5-g:{^Cdwh|*yD6+[fBC~?kre5j7cfR5g;`RpwlSe3A`l{iA^o[f|d(72r:5B7cfJ52;T:XAN^*MiCe^^587cfp5x?wJu_N^3^Ua^^U528kfk5+1ork5_aIf25]C&rffmF8>25*B@Kq*Lf[C]L^hM3EF5|I5`q&^ex.>M3ccJf_3DFN/3fCF{/!{2d6fV:LffpIjX#$adFH[%fkFP!3fOFZ!A?XbrfnET^r3_F;F75torfg`-hfaa+8>fN1Yll64LfnA%d^h3a)+8>aNsYLd~MLfWdNrD733P1KSaa{+4-LGhf3e=QKQ$Wx[TfckO+8b5a,+8>jNcYK2BZTf)O[?8bNaH+8>PNkYFIW/Tf8I!-8b7ap+8>hN7StoA8TfoowQ8bxaW+8>`N~S6yP=Tf,zIE8bja}+8>FN!SXMYCTf>MF@8b1aC+CdnNmS%_V2O.Th4+wJoMk7E6aINfV=@E[pRd~?v5;_IL;qA@LqJG<9Re@@A8tIHPuclK$v_13n>Q5buKkl~)Xau6{NA~rVZ-At2>y~SUWy@)CqRcj6qb[)}Kda1]_SjU<:}B^>Zt(j5Y?u2LK]ZI?h8OTdQTLQqNFZ2y}w0>Yn@yDVw[.h+~$1c1S**K]7L4Au4,N@)A5=>9uA{re7*P8KB1+/z(v{jt(KT9J|F6n>9>b%>]J|]!EZ^D@I4yqCt2dTk&K,z6-HuFP{;/%hggePi:q;EYiZuY&?H:@90%F<m>^g[#JcnQ*=TQSF;,@@z>3}a2_hhO%0_:~V%(N2c=mIz]>Dw^!/M3U+)UcM:_ItAr}35d&Bb&waGO5rNcEvX3p;4<Cp6-`?$//E@XMi~t^CYvl8{9OFAW?P@3IDki.w<ST<H)~y.Wq9~8Rv$D;}2bZjLwB,B&ld(eRRWrt>5l:b:m>yFdRb|@:[>&5`&r8ie@YH4KH-ZI0L&dg[=_Mj2CkOQ8g]RJ7Jce@F]_UO]^Sa1L6r7dRVg1]|z7Afk-ZBllHFj-K|O*~NIVyP]0U)EY7;-fBd6h/k9Ym.CSm92h?L9z1#PJm{(2!;xo_=#~ByA@tAI8t(.+J;!aatt8EyA8NE%1xoo*PDb<F{npmfT0hATo4#!ywtt0f%naVAnU)623[A0s[R?UYSUA;40~4S*vY+y0*_CkS}NikHVY0V2,7!/3EQ43(_XLm=7g5%q~NY}jhUNQ}QWE^?iwqu5,^H6+@Aya.#Y/BE,rFvMl(MK+~,IC8f(.zXjO>_X5n?>~wELA@`%+%4&p8}Rho[*QT>(Qt+L$LkIdRajfiW<7y/j`_QK>/{M[n?Nm,cNY3CGc#lRxcrO?GP?y>XD/?IZ}4-M4en*0W{n-y1z9tYC6{weu5B?Z4/Qqp^K#t+kv_<gn+0ge@OQ&xz:l1f.&KmRqmdg%Db@RJfO%5;m&07o.d;h@F:ou^P[)eM7X[F1.=KdqsKM!$|raWJ^9~;Lb>Qokofch&7kkFjRM&2DR_rd`&T;:c)<2fkkOOiN|bgul[EoEF;>wswDln_hl0I;;</4{Qc,5=cqiHde7fL.V}xS-z*7^X^QX[gbG5$2[0->s]Hb;&1NZ(.N-]r;E/tQ8:{E2GJFw))0I{,92{Osdkos}#E[kkkF!P70gaSr=!?XIAH*-Q`ssDaGvJqWc0mrx!;>ST|MUk:[e`7fknMjT<p%EN(?Q]2wPq)F_+k0haS/*8P}y;ti2Wi.=x|x|S&`*G;==5>_5laGDCl*eZ-Gudw+lUQ,h?ARtR#rtd=n&{LY*DJE(*q2KL%@gaP<e)3O{POn2h[;%s?a3$A|2;D#5VVTW=!%g0qY{vJ8;8`h(Ld{yYW~0iOyhB%8j}@W3D#_f%[e%A_P=0DoGY_=zUNK&o-_7M?L_N`K00mDuX6<i|]{ue@v58=+8FmX[y(J.g~?PRw]2a&:Un<r!nR$yJ-w,}!Xxn!ZBki$dqMYhdCncjZt;{u,`BeZ5p>E_P{P~bQ.h]V+w7<J0I5<$^AM?Q;#-lRY0wl!lBO0-463s1U^`{Wqx@<292Y?V;~5<NcEdHm^W~?%,w1;z3U9S9:Tuzsjg^UA:8#(sm(Zy]F9c/ZgXj|AJ=<@[sQ_98aRr<I7b#~r?m@[{;rC^a<c~uv&GYm$wTgqr.QA{N`:UpgacNhkNtZ3nVuw()gn2j|(d=^S4Clq@#F%cPpmS)O~ef<YC+hlh:~&HszZCM@Ay0jK?+l/uEjk6;nSa;.|.{uowh968P4c-%%vV3#,Znj,4$07@8Y>O-yd^mX:SOS5nz2t$RIBe<i=}ue;#1|wlXYPF%Vipa@5@pAu?MPz>eh`hM@HA>0JjU*v[C>im<^*<$Cv6dT`by!;%dW:zi3a;F4+y4|Y07(u*6jlllbi;C4uh&3sX3J4re3zRQZ7(!mPTH`7X|-YxdR6-><CL-)M)zD6woP4cxl`iy}K{@/~p7W%JW_=?7+YtpMd;X.s[yWev*FN!P>a-XS*V*`cyOVLdVVeSoPjrpA;]Dp|voERy)lj):.G**x4s95(Unh>vm%[5>RIy%,ebbyn)n[76:0K@O=f&Kw=cBk/>#.`_*>ZHWr?U|?=`8hp&J<Zo+k2Re:a43.U#%{k?PI}v^8?kS^utKV/bIKjEL`[.R1,*Lk7(WL1=L#P<K*jaK2iw9~2/9R2[z.);QA~}LIg&3Qq7jYNNBLQ#P$$TEe1U<Xv?jXkHCORd5%Em%8%-#P#~2aQS1_e/{#Px3f}j:iG5SdI9c3[R~W4p5j1V<TCp-vzAo>TI$-vs<-w-hz-xHo=.b(g.tAmdtHN*}sJ9-Yi[P5MWe`Of]VgNBHjj4LYxph38*T(vkAsF%wl6p8X|ZQR[or^<HOWzX8dpI/BvU2FHX2,Qex6y1@/*cs1),FZc%kzZHPmdn52Ny<fJ{&Q4&w|Be$FH5~<bb;erZ`wJk=xCHaJy1rja[!`,B~e!TO.B%S1/SJKBvA_E|(O!/*4|]X)TiY={[g=SwUP|.P1!u[%Z=MkVp[$U:V2h]m!gi;)d9o7Hlh!;wu-Y4Vxc@z3#_F:oB@G4c)Cxx[KU-3.kiy?mrI6NkIW/j*=^LqDz~9X+ahbU$GOGFd$Q#saPm;Y9l,?C`s7IYJO1;:_N_RYLMUB>a[ZTjxHUBmS={:86rF8NNo~][F1mM[?HB8g~@Ak[J8~cSH..Gn3JCE_WeFzwMC_Axw0p-xxg/-?jdQ^CJ!.p@8tdx+Ky~FRpRt0Pej[.H6Tk-PBka+YWSkuh99lQos-py:2A74@<.fMEF8|b(KIHn_RA*IT*-.r/H!^`Me1dzzxZHAJ[oT[jOVMXU5:<_FlF~@&&z50i*bpd*Fl=mW?=OrKPE]UuVo5F3BiOhbX)EKjq|~^<z_MSg~oZl)=aRd.s}K*a*avLxFV7xH^h{G5_MShR!ZnICD=U/4v9KJVZ2cJ+c#CFnk?IV3hVw]%Js{Hey(m&s,&4gchdD1TDi&53Y:;*>PY[.lOrEH)%!,.wU]W/jm~P+OYUj|4n3XoxOBle.JAZ|BpeRUWc|5KiYoWnw-d7f:Ia:;5hWJN3pAGbe8O9RChGcej=:-b=D}:q[F4t?@9Re[AWB^]#/KFvZ}5sZ#B#F?4;-~E0*m9]rz1<S3BHY7-KF}EnEo%|9p<:J3!^xh19&+F8$`-Kl85e)P*@=XaT4H+WewK4KU&x!ia}?`c.|m(v/e.zcL`ji^%04=s;[xnyJkQ!D0iWM.XhwL-8!D@AA4WG1r|=Y$V|s?p`q).ZN0mI[80t&;AAY/8Tz0zT)5diHu1ud`-}MDa.hdiVMu5054>(o7N@:VTB-~SkBasZgyIxteRG9-V*Is&V.j04}:oc$T5(QAEmH%{EkE7zt[1xmD@qrD@KNYil2^p3L0z3DE}Oce4C:M<~9b?0W!tr^60C^4OB-GwJg6q@IYC}}KQ!L`&*I9N|3j:Mn+NHI72^~O|yROcNUcX1#T:Ax,T7u#@/T}2&wvDzt6)&F5!LFj%CL>lC:cG&#d6K;O_tBW4}={0mYRhfR&mLbvjxP^DeUco$)P]j,Bn{WZKL;r${c4V*Vn~J0]}`,TmH8evlDZjL!jV|5{3W-!t7i,8WMWe8z!)k2MCnQ%|X)bKjdeWwkR&MUY@JiUSJl#^uL^cAF]_kl23rPmQbyaY@KEC=X9/c36H@>]AaFmU=G:3RwWZb@1@[bD2E//-wGQ>g3fN7vOwlG>MGWGKfW={gee|p}o3SZWOY>z%I#rO!-E|T?%Y<.JL1XO$-uyHr]pR33]9nnghl8EP4SKAvm?l$JUqQ^^vv@DyR^}F-x6D8Io/SO:~8_r_r~r[f0<ZQE-5DHVGOa-9K9O!IYUDqDHgBR}(1YUPv0.0V3p,N_bQ~XRX_lARnDp{7AXf$wI|x~OP];Z1%5!cY{19)H%x:-wf,BswsKE:~:E~yWuLlVa,j_,XU%RR;WU#c9dd=4X}PnXsalWnE@9|owp4$pK{T{nU7T=.;#Iu3_LOQ]*G*1m?#Iv3&&1:^K,M#7I8|u#<i{Uz<jjh;xN?Uvh.|e<us-2r6f3ZQK;9fw7#T$i*eCNLT_:4WTmKY9{RdW[Hi/n@apXHM=uF1}n%r1$XdL&O-*h7Bsg!w-h>LTn2;XHI|Ni([?w>2Vkp0E6^Qz{IOEo6R5KFiPbh_t5UDH6z7uw]N(D}YTFAW?71jz+=3rODrZ($sD$[00vY!5C3KVbTZOP98q687-WJcz6jDpYTjs~2G_w;G>>lc{>JjO0%0nI7QTeiM;lXbbBc)%8wWw{pBsJ4%sj@P.5IR(Ik7~o-GkmVld+NgaNwyv(tuC><{+8o%?QwUk:lb|@bCY.?Z/aN|9Iz?KmWO6]XE3,s6,.s;#*qbcc?{>g^zDqe,#,U$W(`F:+py]JJQ7W7/S]^#]~Bv$/b22qU7LjxrZm;T.*![S@lO{#keez<E@.^2+Y:S.KGJuX(C[Q^gz}1+$$Mf9Pc.J5q2sL-2Bk^S.FBCBRZ+aWA>0e.v!/!7l-wv0}&P@5bslvSK(x.m5[%88id;C>ncSYNqkfx9W(db;2!ki`<_>anZ+SFq9y&VCAC6a9k`lk2fvSm;&&kj38?UCXn=poObH!^YHe3]`hciBMH]dzc.y=$QF0cmjb2f/EG|tqH<0KsOC3B(Q/ep1h&}#rkR[Wuf-{=s>bb)>tPlW!miGFyO=C}}BgKjpjmg1YjE6G7aT?rE/E5Zw#45pfMY5L=xOwDz#5Kbg?uFF^PbB!.m5@~(:[.RlrE!.vyr!K}QTlcV8:LqkhN~<.GYx^j^hK:xWGmZNMtbb_w_(p8L:9{K?-bWPk]`pC#GJ7D)0>>j(C?Pd1lfNBt<gu8z/CXc&G^!sso0n]Ldq4VELM@Y+kj=HN;R2_K)FypguG$pSEFyP5+gM_7agTp2X761IQ4x<De*wLbdJmh@w67@DKO`F#hww|5;GJP|86Jm)TUY-rC?ls,{>BWd(sGs.py<]]b8*%/w*li#Hd~DS`.>Ni?@l=r;+I(kiB24;&?apig<`>i)g:Mrw47}BdjLv.aF+1>8[51=F=>0sEI]NC*Rx5qrD_324~XnienY>LECMLcd:6W*wW0A#^a+yFWbZ|jZNf&]jbNyv/|c(wv2B.uo$[7]sK(>9Ftb&5X9ysavAe.*ax`B=X?3<byKINTd2{5wuv},V?!L<KbeI|pC4Y>w+?}Z8r-o4mq`W/KUIXf+!KnXs|xugnkRzNmEbw_0vJ~Yd8r$tWKMj#WhS|_YQb!k2_yC~d5(/WI!e#5+wlwzk|9eJ[dwn+cO?ebsxMohRmpq9tI1u/!#FusES}Ov;@SM@u_Y:^hk2J#bd:8ZTen?j]3RS]t^*f`$-Kl,n*PNh9SPd[;bDIJdNy/mw/<qsUBZC2iz.4nX+y|uTDPwl7lsd`!cKeiNO=Zs`4^<qX=/HFGW-Vq)jI.rh-k#`Q>lP^LJRt132:q(MTFAu#E`o4Smg{)J3^:jL+u~ef_e4#JQVUVEYA,VdU-L?m<VZ<QA!i$+nJy+1CbYE1eKUh6*k),mBjF#~V9,6iv4jLp]:8Y{~U7MrIK?ed[lxW=ZQ27^[raiL7D)Dim1E-v9!9iidU6mLU|S`_EjEwg2bfn{.>?/4(@r#590F-|&my}hM$iL8(cJUU}oZ,Vi2b9GJc[AB_oNE*k<iN?Ha_9p;R?&-HC?b09$FrkYtU}r}5xU/m;+G*ctaUjM&ePhL~-<@0ZePF9UXOZ3i3kO!a/jN5o:3eyh!ZjjbhCdq&DAPO57l|#3Zf-<-Ce~vdL(eYs4pn&{k$@e-ALX,i-%C)u=zf730Y83tD&-~KYIcAvVmMAv;]/s6Ve=Nqi&[TbChadLJ?UItgm{A]W3{A4}=x!/x!(It_Z_U@Ck&EqHo*P&TM*syw)Y10S&K|N*=Ep}}y<kcN~YWg6KnmE?ak:V9dY-S}Ckd=j[e&3n2.=3oUpsL,Ak=JBTTNOjApxx]e$E,Hy5v`gP9YV^h{lQb#+J/y7,OAm7b8=&D[?iE)--.*><=5.%|lhph-xLSwv5YU0{;JNnl,p*L:9/nfr-3:Bmlrr;~EL<h0R]efC@st3=-oj]H=g~Up-%&M`@2L;rv=H45XA9|nU=BzRxT0j+hM(h8[gIWwn9W8%aN-a#6N,%80=G|F6/Er5+p4[RUD#+Qg8U8mM`#8@*vX$IaeqFZhcxV(CR72nnsyAWnaN?A.IZV^&*?2ud`G.M]R-Db]7){>H9$|ij!sH&dBZY]:ei1TWd+.0Bva>,RRfl2-3.9twLExb~cR0;`NHTONefzHE0CGs%|-M1~|8h4JoG(2vjjqdmZ/Si24z7<3:ug48YPDK8MkIMPW($a[3?HCzI7~%C_/,*RAT3^Wb+Z-$%~nFA(E^>$vE(8n{xv;-Zw(S|Pp8Ep0J`EL0</#`[S$9r)YM#h,R!mzG(c&s^i#;f8Q+6;RF.dyJ3h%c`ST*o&xT|u!sbbkNc`bj1d=UN8)GPlUQ|yMPZO{aP<L>>2Sm0WdxG;95C6dO)~1Dve2t{~H]-2Vklx}`s4S_}d<7fn58Y-27o3014A-SP}?6)z)Jz^*AfV4/FQdLc.tWeAbpU0O?_j(fj$kA(6Y*F^LNTG8sB=l7R)Oa+o;%=OTSE)EnOmk/,Ku{J.mzx:$:/.su@,zST]{KY&Z+3gTVv`b2I[2|+n<)2RBMdRinQ]YrVoY2dQgWyygN9L,hX?Q?t=5#T:Lx48s5@in>m;P*I-C0w{ciKezS|:pRl@q3DLBl8b#`MgaGp/+JK5=`YxA(v4Yw.&lS?4^UZcoaZlUQ!pWc_Fb5<+Hl2_SCd3p&`!S0F/h_*sNSA99!O)?&7oE{/Fx0tG#u,1yaWe2[VJeMaof5DQ(I[-r1aUN[h=BN2nB}v/2cNKe}KIJikGpGtYe|QaI:sVFJS4|oEUP)I0ig~,[zfgCYRQ`D[/a]a7ShpT##UuWk$1tJ:LyPB8fg3nL_S:~J}CD057By&ni}waCC_zmauhK08dw/dlCFvUd|uB-[oqN]r-:,rh)vYg<%#I|Cg&]>@KO~qlI;f2Ae4?kB}ZDO?*s!l#~v,Ks/))6yT,rg{R/)}i3TW%A`6*@CY6q&3UA#IJ}j[1g~]4KxO_ze`:E6)Q(U*k*AD|.vl#_LM;;[9!eVB.xc?_Oyu$A(`#;:{=Ycupig_.+<_u1),`7;[*/b4i%tr@7`]L>bO8@;@Kbrr1&27D#8X?mOicuX/d)cb%Dse3JPV}JKA-]bSIbE!@z!N<y0aT_-khLVO~ad4XhRIOFYmi^&XXc|PxhpT1/o6$/ikqv>;38]B!0OV?B6s]JtG9}7;_]-6^VCIL!ilu3c}iM-$Y9hdN%&[pQ]&DlmuC5~:#Z#JJ1f-@GmiNky.l}lJ6sR8^pyP-H*tTo[*kMrL%YwI/r08vKlwZdOxKPoZI)NCNj>enF4DhpIo@5jr3z86tCWYTvQrzvD$wmRH,xqRkinoG8]oD}]@UAalpDPUM%[U_&l3B;y=_mr5brS#D[4JCTjW0yy#/2>{Oqsu~VL8z$:&-2TfG-uSAlN=]1h(G9#~z#d#F&@Ya^(%F46Ksal}esOD2`kS27BSWf$J]1:>C,e/4#aWzg]RU]L^m6##v%U%-w{YT_]x<a<K(0$@k_!zaX7|^W&:kzp_R6LAHR|%r.A6P`[b=EP[45k1}lHG<n6pq.p0gv`^xQT+Y3Wo>1<+Y81Joyd:*TO!51i,|8gl7D:Xv+kA}DZ!hUHP6`.ct)FVBg$[2213c89Pzu~j|^/zP$:?l;{~n!:oZ~}EqLj^kF>XDJ.66EaLpCR4OnnZC<P/n>]@ADm8rt=Eq&nSn*df=)@Lkp!aPj|lhFuUMI`Ew5r&qeh3:sVBPH(>L:Xw5C74J29N*MMCA9feWJ@?RoK>@HP:^r/.k4HQCLHaE[Y6~`Tcqzk_GrB`j9L}JSZ^],.8/Cg9@t71]b0iThK|ESe:j;P:&~}CD#4KDW7:1&Afoau~e-Y#p2w]],,f1xY,o@UYE,bvqUO$fQFU*lqi~B=e_O`QXe(B]8J{(j~NEW6o|0rr#]$W!Bhm%j|?H%N3u-9S/SC}-vIxNALgvK|IsQB4,ne9/T[8-s>IdiDaq#l+RXyv|}(3c`_An$E4@T3-:n$2!6wBNbqQitN/?%9`~0}6NR@{}J*6_o^njxX#bP<=6]ZM=x1KRJg:$xCk;7SM3LO-J0/~2$)UK(w}/gb-W.B`X_u3Q?a)bm#OI;6UTRLyB/70SybXL1NlC,{FjqT)Zy@*@;f9M!gM=k[T~#QK7sW3jN%OM/L#vY{/Il:STxubk<{GMW=_`d)FY^Tk4>LBZ4q&K/9K;7O$mQ.FKZJ^<FG6.JQYlk`WJ$eV{/*HjBn8LdR@}Wz7rF<Sz0mz}Ne4*uj0}kJ9-[[f`0AYOZEgHxB>ge|9<<o:Qc)qYeNnl~(h2<z$Xpep8n!Tj}E(E,~[Q!e>avXBL?B|1E9W*vk(N3@X0o1EWW22o![,o(9|`^l9.>c),?u&<[M0j>#P+U[_+UC~~K2hMWFiuiiynY-~o?y&B5-o}SH}4mD%n|Y/zkg%QeU-FFVko8i3bQdW^K2^G<dD|pafhFMKhe@XDJlW;FbI-7yiL@jM20%tjzE|C!phzS#C@V}Z2:6!@].eQv-/3$PpcaW:=mA-f.#zVri]A#sCy}p;!a,ZVwgGI)HQsOguZ@.h^TdmUmH)N{OF[7[BP=FRUD,,i#)d7tzjF0`y5bo_|tHR{h*xZaHqj8/&^I$3&&.mJF<Io>j(pWHV.kcQ^VZ0}t*DUapVWss#S3vd,Xz*Rh!+2,53_WSE(I!-e9t-78njrl7-$[I@Bm$)e)`b/C#g0&$t&8D#F7lnsxz-J^{3ME#zm2B02/2^YO7|@OLi_{<fH0ZT8!{6rfkp]9:MuC6#l4=9SjN/R4E0NnYfo6:g:d(>}Y>`CH{0RPBFXPSoH!>9fi=yp[@n&RD`~(y_6X=dq.JrEI[>P>ak[Pyox=%%v`Akn+k6/HUi>tt;~_s`i=LepYkdk6ZFq6j6zhnZDLVNX^`sJ.~ws5+#ebB,HCUITrRk+*%2{fu$i.ae:am&i$Ay`Gs^,u,|g^UuTL3gEP7JV:@68`x?H<%pwm*CLGK(3R{7=RPsQ9i.G].X>tgM)M,~bzABXmu2kOR`)pf@;IMc][M(rF%wp+rBZdixus!L6qGJwul93k6*Gujr:^KfXp!SJ(qc~W:stEaw_4u8zPI[U,F,;,U)d:MNa;xpy-z`J],c?9!d/Ka##NeCX:]N>,ls&j4v-4cwew0G[S90#,o9>ev(/fu$Qrf-|K%-RRtvx[dr(-5-,:2b?hNehZ1V~CXe|$g7/EZpj}~&u1s=eg)|]9(pcft.nO/J8-3&*xm95l!w-z-cw;L+TEaPh+A&XRk:M][aA;rh8GDE.KY<I+<2ipTJR!7+K/Vt_LF;T~*/.4Y8KfveZOMu)vb9DeX2&%btMDi#Zqaq|{[,vt`,?`@nK-~)]M9u:#<br&?t/#{B-cLv|HszF>ckFv>JPd:ZR7j*Hb|Wm;_1[fGr>#t^*GaeGHY>9nBF4:|SY5FKwNxf-=UmFV[<,g<4RlkaCaCq<)Vk;?7w]E{(gVW?JQL-ZZl]YUBKQP$$4rCM6{Em!`16uheXqAt.#%6?..Wc^}<vp[7zM~`esvtOy{yfNBi)JU,s;N8D^;rS/|=3%0/~:-`>wt8WaUIDyxF`|/DZlSquagHaoO[?X#.FD#/[/SyF6xA_5+qS|Ed#,d5>+c$;1^p?kyY@J*Brxb~<CH|REKQe6#Rt`B;:87X@t8A2([F2ZcyVa}s`TuQo3^Vm|#z>WU&~#N3_eR1j7j^+pe`T|LZZxn%A#/ap&:/r[u&80|UE}37=uKSKvp=n>jSe3})fEJxM2WX^xFn15N@v#fPY[36<05oh}OFcL5ZGV}knpfIHC.7xAG`&U8m5BdInn>FRznboJc`}shJ&#d^g$tV<i#><~}t]M{6]p/YtP=ZMtt/-2`[bXNI!>-/!.KyUZS]*6RF`b@F2+5>@Uqp/)?,NZxpaz$^(#N.%Qbhw&i_L7FcJTveVv8kZa]l[i+Ay((Cbw`xYLw)F3}~Dt{Oj$_(:+?n~W2WbVA[aBa^mj3`TVRw0V:?;_@o9VmP5iSYC94Ax0ig/,Jb<m5,R#Zgr8u+lzt&kaGe*a)gJe*vqSmlNiA0WJq8J#371mv)p3`8{l.laK^S4^m`U!mXgpXMnaZE=7jyO3O2<_fiNhi;cKInb}F[&(i(Y}McH<W2M-0%PK,<icK]RR4D9Wh!zhCzT|84#|z//6)RR8xgjmIRo#eW2H]PZ#+4?=Ivt*~;eU%+rjag8zm&lnJ!E3~7BSOgTdABMbk<]2te[b,#{w2v[WY#7X)oC|-|A|[J&6aL{T+;}9ypq:.&k:KYRd=V!I0s!n$oFI36Fd>F/zi#IjDhibg7kI$;|zB7%=N@M`#IE!r+[FA~K];W$?uglgEJ+b!gv{V/yg?=DV<^K,E?+5~T7JpB]IKl6B(Qxm&i=r4j^2/vi4++,=uNWn>p(}jsA>&W8Wz6i^t8SO?a[PLb}H/`w33NCDDlzt.W6a/=*=?dwL!<}mRqy)T?D/cnTJm20hp)<_sy>#~PPQU[UR1R[u5PA]WI%1ocH*&1`VSVWJ+oOSM%MpG^W?](:]n_v0WqP(ki8szb66^)f5]l.Q-9(#jWVs,,~.y}lUBn<AY/=#5|q>l5K%C]|5/N;t.n7o=2H1xe*uvd)M4[<l&Y}m|NVvJ;2.Mwn.^ArkhN04~>`es9)E8&mC.tD|JxOA0dpFIEw3U?e;QOK5Bh@9K-LPK8.-.jsd!a]65Bew])7aHct~+hEzoebqb1^m}7K,4f,+6%qdmB:e9t,C^OZ*L)bSJz+O7I`SYA2=9+m)p4Jzc{P)dtx&6DVjmc&m)0T:)EzU?$#Vg;wW<+Bz)3wA?y>[O&[d0W/7)I]=IM!uiDp/~U3O0!H/F6FJFcTSQ1J+9c=JD(iPwYQjwW&R1=WT4BR0LHGN|12k03]vI0/ET5;+o@9O?;Pj+eD!G6vb>xC[).04}I3zg))/S$S1Wd:IR)UR`D1&u2u`|7,,MuJMeBFhowy6r$7MubBLXmM79~6Z<&,f6Z?,[+w~?BvJJxtLVp}p&po0.`qCHlJ`=su2+HPgSdNc,,*:K5An<ix@jF~(!)w</o^5^ZC,N64UBh{)cp8e=eKu4g?6v5e26j.Q/Q}35O!Y6#w1$DmC#jhz+tO=+R3#6df.k{3i@z0z8:[c2]S,5a4ZL{_:C6w{:{yar{d#tNXVLXH~%!8N3?Mj(EGY01!PNmQLfuJCqn$R0jg$^5mWE5yio^iqH(%4kE`3QW6}LYoJcb04xiv6Jxq=uP#kL!f0F+f*_dP7=/H2nN^uuU*LenI8ho*[nS@:YKs,g~e@/}::9Tz!+5go}/#zQ2x,zu1R8>Q{(B:DHKdBkpLxg$`8W|d!V22fI>WW1+uOb&]J!3r[4*<M*eW*l3ly)+`)B>hdt,S]Y8bx*v#1ttO@LM)`jQQ]X#-(9kPQ}%eW,y+[`C6VP23X/S4lOVC^wRPnNOe0clk.`MHpvf,B>z+gdppt#L2Sy8RdTz6+jBJu{HC,l2g*I)xvh1;jGOa^zo@R(_YHj91iHMLzSwO=P7JS&s$`lT8s~mO9rMd,zL?ngVVb*}TvPH]i;uOC*Ub]3?!}HsvL|o&l^xh[1|cmzCLnnFW2bj_:80)5sEiWxtLQG.?^]]OTokr>vlA0Op/K4h:e8GhdDpbsrD#;r{k7D#@fQ|M3)W,czQux;%lWRx$hiZch%)Xf&AA#TPuCi_c}~da,#3nyK<R.xmYI@3J1;#OoL+f~d#?2@k~$:N6*Nu5%{NcJJsYU8>Ov|BdLO%:Z!p/JJS|Jk>|lYGnM@.Gc>4Kg>*DfyM47N`$^LB?=f,(ITW+Et=p][,@;d)>|4?7fb!b@054a|}InqT*3Jv%d)+3X-@Bc`cG&]]utbtgq]+T`tSy~ABTH*>RR}{(_r:`kxJTw|x=4KLKqBnv>,RQE>`(7q;4N|=IS_DORHg4B#x}UD8>W9@DOmEKwg9_mhojnBTwLDQ=PjXZM!C4k+k^:2i+(9FjOT5y:IdSrpG_F.e6Mdk?hmtaI3V]5dw:>GA]y7D0V_</sfo#W//M<Mt5T&:q62Dh)|)r)>kq^sXP2Y}]H-*7cn{(:<1XJ_3PYTZ<uO-2{:#p@X;!?HRj^OsQpprLe={m{JF+dE.e25j]bn5tnJ8MnQGxx<9y$2b_vHxgn68a(@Tcmgl-z~!6W*CSI_2Xq}$9h|K;F>S?*z0l+tn:L&;)S]}v8BJKRGo}YMT-t[5V>Y1>LeER}me`+T2m!1*pbJQ_d~Xa;NYM_!)29d-sgW5yy,J>{{V*Z_C&FZChFb90j{}0W~aJh~mdsmicWp-;u|v,PUsb:rXpuHiSb^(a>(|_*HsGaYEy2bM+w(h}<*xrohjqSRWjuQni>)AHY%XDtEY}t#B,mr0yXdzu/=qgs5Yd7w,9M,@Fp|mQCJ^T]zP|Q%J.meBaUt41($N<diqZ9DmEgU9?<OWme-n`3,icdiw5tcIRdQ%mKUl{j4}3,XJe(9}0GM{;Sq.EWUicM0CV}wM#W[3&+S=L(%%vl-6*NpGO<Yc0xGGnRpo~CG$IIL>T%{@NIKPppU%mG?t3_:BCn/42RL3lV{Vs+9qUKew^N9(^d2-GUT$#%=.kV5Bl,QHtlW%18r2`S;H}<t6{)W`Cx(aj0OB4(/U&R:|UWcZ~P.E8f?sSjk]}6BG-hWAVj38|;eyba^EXz+zG9%sQ/%}C~~&iHWi%?Vs?#{6U[zCWD$jsD`exz!+S|*JR;nX*Lh`^L/|fBv064`$IVVs;mF_}O)!=1_iN<>HP@qqV!|juw|PCM=SDd3m#z^g9S!166B6xnr?VR15EVH<Y~_rg;Z.hYk0:O@MW0i_iS$D<`NlD9;-.TL=gDG(gbtHUvJ>=<W(ak-qo7,|/8qcM.p-Z9W_>7Tt[bG0W[cntgeX-La*c[Q-!.[IY2(:%4_NOn5*x9h`<DXxF_m}+&zaU]8s:umi8YyplG4K{P][J43R_N{3o3OV&o&)Y`uJr*U$vtH]!l&[QU;;+gj1)GLCOP7T-A=Vy0Rr;^4HMr@KTnn*b5{XHKW&@O[sIcKm73#|3ga:5Bb_(S7CW?UQDcbO=PX0>~YInB=>!5kqC[z9[^L$LEB/;%*<uQIM1KEo>kF>lhj?z-B#V=eambpK:fOPGWR){{Q-%w0>zQ:2V0<e4Y&^Nb.89a=tq?9MqODtVS~EO.Yb6l?#xw2@:_w)*;JS{Gp8&FF}}^KTu>E%E}.W<$YMA+?~]l-DoyuQ:db(g)>?%jxHrSZs/(57Ll4LQ{Uqy9Uk.oNi&HH-US~/A>fE~{!*~-hmXt3~vwD+U3&?M8GO(-fN+F#=sE0kH43]:Y#R)FR_g(/AJ[4FnZ}a<Z4gWd.ZDaAxWJ]dd(6x5]S9z7(_GjR_&.o2K7wSt6EzL%?sz@uM[;|Bk/gm_,7qRrs*b#l16IJoBGh&18aPqjp.lVM9A=39@t$9I<rhps[B=?_?i$i:+EHS>DiCZEmhy{3|E/wyg&h1Dd<zD|<rkBm&k&J(1_uGO3`HGLb9*$dL_<uC9@9PU?_SMSw0N?z]XPrQNeai=nB{@^s];CE{V$:Y?;LjF`o?~nr[tCw$4kQNjO(@8^;`SH#t@hG$jy#KYj5%F7|Dq]U.+D^odkY&[Zs&z3)}{zJHLnKi[!(1qYP+lxw`Q~(FV8R4Wt(/sabU@c~3yMK#DB<G~!#^YwIg?1<SEF[_&2Fu?PC/Nkcv%,~w`~z[y5ydP(`@M;Q9H:8Sn;>o(_5U:29c%xJ[w*-EpLo5AH?O$z@BEh3/XZ,)iB<d>M,DI;:E``~u<c50C44Vm*@N~Tl>.?nrAg}$N@sHg0(skd!an)m/GPK<Hk%.2odFm0767hjBpCRys,c!<N]cy~M.xjQG#KFcr$LyKg]$fNnRJsz*HG.S}w|FwtuLgn>HiwrHTpIkD5&K$S/I&Jaerc4Rd[)u%F$^^d:P>c26$9Y-padN9XI~~})=@VY{y[h*>?:jDx_8Uxo_E@M?oqy,JIQ.@mus]``*LVx[SC;k?v1]N/wPOq3!=m2mo6UlRx9!1&zu_1~JD*Ekh)9U^3F=!yhU2uBq4}C~7#|~?pn,^0jL|S)Ok{,7{p104G*(dW[{v5fzxlfb!!9i|2J_HOVZ7nAG;*6*)eC,]|zdf,&BOJ8lZx5>HB;sijYNmkdHX1p[j3</c5Cw,VC<%3z^Q3JC5(3%>8C#t[GM:=7=9qK>KUT}m/{t$5^(TdbKMS@HXcwl6K]IBv@?(56Y<I/47k)5Qbcjt]Jte=eks@I>Z<a((31BH1y?AgI:p?IuT64!ym}cWyQhxq5KQReII`J=DRF=5,W]f^XEDdq#R}2E;mGA!}WZ)S[hRY;;A/2JrlZYvu+|%weskydtGBD=H9|{vb/NWm>_hmtdW/_TZR@<ew$C(j^VKMdTa#zamSuX[1~_)XT&MgfJ6bW/WZ-g#:K7032qd5v>sQhJ.S_lvSE#ijRljNm3KUsE@!wpb*n&4(pnaP]cRr-b=/Wwo18^Ls9_XNX|3|%AG_{ydU/VIt@NxT6+3;#F>ISzj.R[hdYEvRIS.jQy0rp[MKYU)!Foj)?=qj?-,F<mG>B1=XI[=m3MS2mB~KcY9f3S0-isQ@JXe&I0dfHdUXW{%ODb:$@c3HakIb,G~%Y)|*!J7V,T=eMZl}HKxOvP?]f~,QL)qDTT%KQ%Pf33~(yzcWy#FsZe+#?NWvU1q)/y,q195$-+ZF7a@R6F{@uvG0XJ?AKPem+gB);=z~D_F-;it,JsXyEDm*XMEy.ofI+6^oyI$_FytVgTxdBU[,jpTE_@cCRJnc?F?t.$D3xllk82ag{Oji!8Q)t]+E#FD)!x4qLoD%U]Q0j7~QZ-YPcCsWa{=+O&T2Qpq$>5i*EVLjOX=|am5:a4B}$mP-yTt|&J~tJm7.$EmD{-vG&)i^,t{##?)3q$cVV$TamTF,C;I(;=}7U/=%U|2`;Hmo#aQ*o7c+QW[a[Z]|[8yhF!|xk5Kw,]jU7N<+9MYg6WBMp@XnUBoj>-z{7CkhRgJ.b*1u$.tAjWQ>fs1HH+i_>$J!DU/:Ahg`dwr{Ut#=>)tJko8[-n5}?;TV2#$Ca0cw@;=30y=b(Ogm{g8#[bNN@mnGehFP:iTM[K(#^Dk-tB?HPmm,o`/CNa{gD!6s4*h+{S>^zT_yrPgpx1d+qt2#jNVl#{GFH4qQ1%&0tNAXB}|l;^?3LXu(W5`Bs[|MTj{*b5l/{K8wV.zj@%$o.j?$<nYcbgfyz(be}S,&b_~te0f5%vU)G,,Uh:^sq!3*40xnDYJYIPt&D8<3G--+.]k*xDk;StCyq+d1dxbc:n[D6sIOM?F!qB8Ik6j$$m^s.ZlUaCq1I[.ep}?h~6GYKS<R6A{^w5yKOPw-K#uu$pzU+R7NSt`;_r3H>MGY3NBG;_hl!rL,{c?20/@8:jSq:i?ii#Q`JuQ`e`:z6X7/Hk@2sF0G#H79jT]_RiZ;&/]RG>E0(vJ}8R^9iPM.n+a;CbiE*!QPeGNxE5Hy4Iio=fKl,2//33(--,K$:IFWF`+px!5C8nVGOxAa#YS.,V#;}c]=t:Ou]G!pTS^4Bng;e;_+FK67->>pkJ?7S{DF#7:+;3pKT,]d65z9S<>;F/!P$+V_OC`.xfMY0NzOVvn1@xtB|uXPZ>a+]8]?%>t-7OmNl`;Mc4Io.x3g>|jX0PWiH~c|OjReZa!}^k<Y%,Pq{!C6a&56;<D@U[PwSt6UMo8-+]`)kg|q]IX(#?(SM`@:lJbKtt?#nl8^WC[#j?#_los~1P~P<kNV])KswQwK%cZ[z;A5KY5Gt#Bj2M5mR#S~b]gGLBCya.Peb,O0y_s5J@&}p5]G46*iN)Wu$v+9i*MX*P/]/Q5`i^S<Ti`dIz4%Hl-Y/$2;-YM8w-@J6ZR,-M&;`HV0)kLx+tQR>UwgC9/@1I>B`E/#$k69R>U(vK&5|Y`%e$vYyGgrsfjsVg?)l3IrcFKnMv5}@9b_VK9KE[~{z?h`*OhNs_Z|LdNmW[>)4RN7+B[6PK`%no=(V+^_`a,:Qf%[fx#tCg3l5p&|8c*FF6/9P1t{p5f%Pydek.W2lW-c6NM@1E%`*/FZ.g./*#M.:fZCqDH7q0kI830$r)^X#T.+0P9(TgLX^InSBw_oOO$suS{p27el*t2JnZQS]CoL;tx`&o>.k*+J{3>@:#BI3E$KwLLmSwSn8z`,s~oG8sw+gRsL?$_9H[@!YTM&h#=;rlmq_/Mzo!t3>L:2tx1&YG&pduLROX>IlygVViVL_y4=FtT.146#r6sa:>XR83B9*h3`t$VayK$(0>^B@&E;=dE}6kiDi[l(CKTaU{O}&=QJ-cFs3Y%?`Q,,kcbe>yN>Etr>/m5=q1tjX/AZZ2|;IFOgYZ;)dz0ka#+&^g3jh.p`%x,!dC`7roYWl&;KKZv#HBOow<d^/At:~xbQd*(^d](l663x$2S}m&Cr8>D,vt;zA?ANf63`1BoSh!i636ja,COUe%1;I4Kzt7Z_@Q5,Msobp{@e):!>5uw;ZIWan[l![>2Rd@{L}!rtj$<NL83lGquYh+$P4N2!R()1f;EU}*>:Fu2u`?`!]PJvIZ.^{eD%~IyJCe>hqB8k#/_!R{qhH1~a-)l9JP:L#Jm}TnT6UMVfXwV}jDw74lzOrZj9jJ<o*MvA$%Q~L*LxwJ|Pd/?A}$aI$!1oarV9<a(Yt?@Hy!%?0M%ctX6]KSy_JiFB%D.3&=OkI{~8m(Hsy[F3i>H|!S,=>@}erd}@uX_zOdJ(+f])G(lM:tp1S+?U;h*hAJBU]ruPzC{WB/&!B6W.TZli?6Yi<U=t!IvY[;``U?`$&5dm-0mF90H[j:=/W[$,tz@B82%.idp}[O]ll>^ee_Nsatu?A[EsRGM<4Ep~yJz(pXPwIEPG]3z*4OiM!|.VBpP@7&.d/e5<kNPBM(DE*mY<y:]j67h~FrZ&LXsm7cDmKQhX[I_Z?%k&bmJGRhio1D2,AzHT8K.o|tg5cNoMlG`!n&DurcL}P2ZH6Rc?gTauAN?#Sh[Bd{Qvtg..9h=MZg!b#[+ma=RTAXil09APe&kj;@N2l3<FyDPT>:rKrINUyUw_0*fTi}i%KhVNvFO`1Saclc+Xj:Se$*u@4DPV`95v!~8e$9Os-6A%mbL=?G1PZO{O_R&LP>/AJBBdg//7&d2c:*c=n/@_TtJg&h/cP)vVNV@n>*BxV41>R9p5`PVeBK]{7x*D-^CQ9Rj##kq&2(buc>7C$-Ob1n0j,3T|(<m>`=tEkECK#R#z9I5>N/w$pSF.0*dT-uC<gDHP.dmemi+gd2:vu8..XWXI/X7U>Km1H7`0wmn9:.>Z`kF$_.=X*?4*yS%]y<v6=:OhN08AK;{G?0e{OaAM+(Xl|ddkJhA/-N~v910m$Jd>#t*?H5sdtVxfwh8LF4L7t~(S-uY+kGn|)wx1%pO8%T%J{=R[qC)qQQdcBF8kyLzjgct%{YezkF3Gn2UI:O:w2YFn<~#Nt#Jb=WD3ivmpn~:8+3WMFC33D#eXzW.1,2vf5/*bi{.ug8&*_1p6w<:8[-ovye3UF7Uxk6pWM@0SOq$<N2$m#SU)t?]aY=:d~6kh=aIZEwY.@r3T@cI:9NWj90$Z.8};y//sDHx9kp{sZVkFV8S8)I%9R1F19:v5(GA`!2S|ob67r{DJ,$:4O1kI:zCv#jU]{%uh_Af]T?*j<*3zG==gNT{ww({l2C(%JF^g4w7P+_7awuejGZTrMcgo%)z)XSkD{6gm</G)xDPC9pTXnn-eJJLYV=k_:7z:z;k@W4gQ+oL#60|dx=im9stE~g2h4}ML66c#)woNl>b<l@K2lH6t(9]d~HA`AEDgX:M=qx,T$>-6d00#Z?}>_!J$^Z[>Pc8s0.DqqV5i)Z{Yka#D]QeBkxn8wze9|zly?uAxKIt_!;o35I~/:~Xf*f4NPM1<MLPNYh8^faM6q=7N>]6)`5#:2mU~6Yl~i$@}3B9ylznEUq|o.gj?{H|q|Eg|:C_Tj@3ByuDq>t&zf0e4-eF;*!_-&z6tY4&H#:(wDVoYX/Q4#k|Kx_Ou+SsC+1,74d<0In.wnOz#uV_L}wd0.,}fyY]e*QkdqgJA@se}+dyzO53]ws*!R0a>+3x`Q1Lk1`y:9KoXy`b+L*]l5Gly,fi4=KuT+QGrTuiz3K26ygKNF.[j^!UjC~.FyL5DGvEY@:=&?1bHy7[%3OdX}D_7Qqcado9-hP&eZ4SsUSiHV6Ixs.IlJ,Y|#p^:4^@1@=OZcGD[<AF_Tg:7:6S$%sy|8OU^}Z4hC`}ZD-`PH^4:$3~o%vbDufT7+>m113aHcU0gf{B}X!l/aDK~9t-,j|=MjpI?0,]?$tja+||XV:XTfQYiUx}lz9wFhj52{CrnklXlSrBkV(DD2U4|Kz(%rS|IKh64]xHi`riMH.hue7.;(SU4{NFxG|MVzAi0#+F72-Yy0y@W<F/u+Te~w/p66|Z`CMV`z&(mJnPL!2he;f!%$;78[jxA&2CSm%H37R@dvXRHNa]A}^3E.M&QB`!O.bsb>s{{/Tx%<RE&e(<xnM$M^6[.K#F9s7>wE08/k}c-2y2;y.j]xn>/8-D$:zeCxTrFzLJ!Z2?3;CoB:%17wD90r,X^a:A]bJ3J@L:u)b8)rWr@hajER-fIC9$B.zPh^drj)?FwZ$PHmWH6Zy)gJIjw]bs7Po^P{s{9_J?YnQ4Oae=YO8~4X)[;gm_NX<ql!d])qhQo12:;Xc=.aEh`4R[/Eg6uR5UdZ]2.vAa(g@Q$p].4%6E3g]<`Bw?)BO!qzKDp}gx*$=R:Y;v7osw?><kGMtzaG1&R}*c9Q.=D<pM?Ws=e7tNCKx9bLG[T#PbY(8Nax_F-*`GL]D.r8y}]W/~?at!52M`~[(raur46+Za4U7KK6lVid6BTaP40m#W?m_-|z#P-;Iyc.25#&K9i.Md4tOYK*o@{Bnmx<yZ(%>f+m8ae9_iZ0J(4|J9YNeij&r-}@1_$Q#Mi]B{E;]E,.HYm_G>g?C1wqWWC}_fgPb&Aj!K.zxeqS^b7,:Phy62V.pL)e[Tb.C_9;{MjsiDD9Tk7Woo^=1Y.P!oY`:N`sH]>^a*nnT3T>Ku{$?MGM9B3F4PZmNih~DlyVF$WIt@v`%y3&e:6Pusk-F%=z$D:L{1Fb%&Wim_y!XUIl?<}C}_{7myaF3X(;gYa5*Q^KoQ,O!;wb-[JFV>sLBOSp1.A8hh*W)#1g_N`%^2-E!N9{?LBe?;KWQ^@skMOoI5[z&%2N$+n1#wygD[k@<SC#2iFG>i<dDuzx8c*H]@;Z?{0wC.bktbO.(Q;`p|C]=a9r*SUV^BV}t]GxxN.K[EOY{im(]nAeD`4tlc(|EavF-aS`+Xo!v%+Q+Z&^oOQM4DA&iu%CEh-@qJwPxDcGc|oGN1>m>u/ZAi+hZNSaHAt~h5|#|*.Ros,O%>9*pHbH*Xl:J_}?2c6E?Z=(tD2B{JY8MYSfpf~Egf<hB^X.OPuNz0gFS<j~}T>!7kI;+qI}SXP;;2~[0i-8jE3+/=8`7@T1SfO)Z=9^e:{y?}mVHNXJ.6$Gt_qFZv%;G%nLS{5@=3s7`vXI%b2|1o_7OeVhuyN-{q5.xUscE{Wolc`qSf~*{Ypg-+CO}A[NQ(RoJbY~9$<&yF-m%s$lR:u%r<Kp0Z;8N2vf[z]BnA=;,KxPGB83v=[Ase8PTG6td~C*ABPMGBT>(}dWhaEF^<Y,Mq`!3M_$:Z)-j6M6~R1LU*5@#2(W)B,fHk!H5FM72Oi/*V-#AD^W0j5L=R#79#?zWKOA;UW]Y!nO,Z_r#_<9:XNZgh_pv4n;Ek@R:ft;A^O@G.S[$oql`5I--^0c[6S*ax1C^!?&b1;-kL^h>QLd=PZzvz~u[K{d&.FSh3wtlPb[S,J_?Y^t^KTK=KqaC=:A(66bv]>K2/byw`+B7[@D,Ik!mSq|b&(!d2FM`_2zOrlbia>M@GZ*ZNaX0`?`*/|j<2a]s6m[#XA%,uv.,e;HsIaGj.9O`dwLYCEvV?^:Y~q3kBwZ:8#[)@e}/.^pgsXtOcixcngwWK)TX}yw7*_}TTGch@l3{Fp0_`$%XQ3*X8NOLuWJ<-oxriq8D2J$L]yx!&#O{EvXEs}#`1%[3G-{%OQm{i:oHdFDx51`9?_yBqeocF4bsP3q8hl=SH6?8(%mbMvP`3$0#=R#d}w^fDsx({0v!O>@<k{etzUCE+VK|[oZU#c^tAxX]$V^NNIbeWsG6=O8le*l,rB&J7w`-xMN/S?t;QbLt68tyBUD#Rt4m&2$%]#4Ko}!;qe5&DljmMA$w_(+]s{pk_Dbs`^SKf|$LDC6(<FcuPnX+`<o9qw)9FIm>G:|T/01HVt)#[-#VQ?L!WXmbkPq%nX{<.!OwMQmHRxohYQdf[dkhL*jY`Oa31}OeZTh799zV.~8aSM%14Fw-aQO~4cmh`,@;GGZL]z+wt4{aKjxRE%.~fciD|GGcOy61iT*JkM(zJ<8<sXQ+6M0Us]Wsh<?ta$eVEx!sIDn|zI|X&%o^QPgj4[nwo|_XXQ%CZ.]>OOEsLzf}L[-|=Yb<haa)t:NcUSR.C+hLir~_3R*k3lu33_^CXS:{:vwpIHoUNY>(R-oke7*]ul_=X?0{?-7_~iwY:!JPU-d)J$PV2zHW6Xpk+Up}*vx15aOk}2n$`-=cV@nV>]a1cZF?0My,;lJKyWDz?K33wjwP!Vt=3md1D^jTF(zD{|Q]|?@Y+Qf4[8OvWKqw`@HqTs*H[GZmH{/{!!AW7|!dSCOhgQfFQ5)%fj-|EL*CE{U6)HYHEwf(NX>b$XcYD,-*qaxAz_?7qzi<O&kVFB5$hY|Bmj%KwRDJxGxNTV04bR@|RG,#E/E]Q+@<~fA@/y(}U2@(<`ekF:(#m!krfcocW93s](@vmaG]xGv(rN40)oDq5uz^pb%#=1!@U`]V3zaGY>J$S$cHLd*3hM,0j2HMnjNGW9i0!d?5P0wR(&^[up>W!PBuqsl10`&Z+m[wLDB+5?;R7NQcHBo;Fe,^?=_?GA=|2*d5pV/^HJ^7X~^KmKE)rZ=4sqG!8>ytN~Og9&qQ1EfP+xS5{X$qR],eC]plIsszjVr!:FD))|#&jgDi2~?c5?OCI&_$t0+pHHxZMwLyM||z#8RhF&LbkPodoLgOvm`@5Lm@$1$JQKb+ZSR$++vN#C#k.356E+6hs-M:c{Cf4h6e(m8XQ.]/i2A{cs.Vg!L9m}LuxU?Dj3>%A`lLSbeu_x_?J>ZvN&j]<zu[zi`QvN}62}nhq`6`TA+%/dAWoNPW-WxkGXgg,Dg)<2=jv7guF=F=1wz<WS@o6xTcJ[+w&;pM|p%}jaY{.)<bee7.mdz$~;.>BVRh&Z!2Y;5$FH|YS:uknNM`wcwc{ah;b@&g&0DXg+2itOS}nWpR6/-!Vm}z6mlKDWo]U-zBSmuz7+5oE1_$Z)|7)BmVUYC.%QVw[PL0CY(m?qokViLH:1MO#^g=l~]5$~%6=JnV75>h~Q%*[{P31/BYu=S}FJ!(a0B|#V0ui*_d~w_<bPwk7c[3t0kbXZaDA-8.MPZI+L{d-P/Nicmp6D-mI$z)$|Y87331J}lRc)y@-a+h%*3.|T+%M|P}?~tB0P/Gvl:A/56L}sm3)[9aqF{3JEb7OUTQY&^z04T+<UKQ+&Y3Ze^xbw>v-=Yyg`Y7FUB`zvKtWbRLVRPrX~.lp-iO*inYD-~=Lu|c?QY5VYIjG1LI}hu|=T.^KywLj)Pamoz^Q79M/5so?px6:UPK09g7LR+hlxJcgBYv#teZUkd2l*ZmRbued2F1pLBz|onb{((l-q~{*:yk!jV{Z4#UP$^QvTw^Z~MS,eL7=!+i%.kyLM(PINz{?mn|-E-pM#S.,Jg2Ix?2k:drVaIr/Z)2-!&BA&AOPKk`Q0:J=8gujI-BP_2N)zt{{3h-]ACg(V<54Kty|(p3Pw^<%]#%1+@09,7+g!5c.4X0g%rah>!0P2V03~TK&M]z^KWo.C)huxGN4I1U,xq3tYiTRI8IMbj`DtDrk$+t6I)t0e.#S:kn(XD.BL|QG~%N~9oXM/U4M=V|/6_SQ)`O:T,>>-uQy<{iOtF>A~~pxX)N/emw=H;HIbND8[tQ.pA(pQ40P>7%x`)?f2juPxJ`0=I%NolEYbGhDx8)#C78(H_%h@8Q!n4&hrQzwE0Jg-u,rh|1xT%%!r>Qp5(T29_bxS<}5ep.t)789adVW6WW9HeSUdF93iqOY[1}Hx,d[-=1z80[koiuUX<VZHTV$Y4Hnzv(Pe4Ddm=)~F@F7o,!=K}bgOL+V{06^<wC-7p(L/od&-J`Va3/2[{_~Ww$bbf/<vXGXCI+FRwOHqAcL|fi)tor/Nte#m]x<xhq~<C{=JiRbIU;-(0$&pu3,I}tTghgAalA@FiEXuPWEIyGTUH-i6zrEGH}h0tkYCx>P_h`R2(Zdw?GWAe5J2D~I[XlrFli$5^-gr_#M)gFBgm:-K~5&P^-m|wPxmpV7oemt+P,K!S7!2E!lm&*R#TOj7_CvTh-2zp2*t3,8po^2ggGxdh1YZ@nA-sx&8wwj,/yBd{3WR;MH*o+sTU$Cvwn19K3smb}l!k&IW{6RK5siRnzW/GEtMDamp}|r2acr|h/K=s9gPB0IOc0ZH^sO)Y-vHm!qm_`~ymT#0Z,$*1Qv-^P{zrW#sf?TXT<PlNUBMQ9iiKKDjCdrR.6nSuoA3L!@*k]PyEG]J.q4div(Z.d_PmEZsH@7,]8QK1vy:9qmM0ml,AyPhxg<Y=sLyqm+vIeaCa+hK(sj67kPxCNPF_K`B|S|(6F]yjUTWPR2@kkEdlu_R@-_m^0}Ymu1feLqE-G*m-|{;6I4~*D7?;IY$$eX(]qY*aC,5S*T_z@>9NCNjrR(scKe=c@ATz6eY.?,jGG(d2bqGO=d!+T~)p/p@s?yNFx,YlH1+fDv}9E!,aJ#HUV=p@:G7Lv#E[XsebD8NWQB+<0%j0C_>o(o-uMV9NiLMe]9<buq}%KaOajpPCnq$OkN-CG^gR[9<?jansLk-?a}X&~B8msj|>=3*IIKAT5KzukVa{K?}Jl/&bZb2GX<xp8/>C`7Umb*zId=XeUxn@nm<{+!W.2Ka@1Vb,?I|9G]g^l`(38TftbwGaL5U76}S@GN=vea!Z3+<,PaS3XI|ZEV5bekw|-d#EMVv0KX;Mz~En,=Mn6K1Q?C>#KB=U_-*lpu-|.ECgEn{d_{cL%y.1=JB7E_(f(/iHlCg1iY*H}Wn:a1`vuLq2o2:#%q;nply?]?3n5~w>dXM=X4;LCuFXR67NPZ|QGHOD;N`)~A0t{jh~i05OiUp%Bls]>?Of0b_vH+iay?IoZCZ0H|gC6g=C%gl!FupdGm/K:fjIxKf7[7eQJ8Yz{q:3<?J~F&m$hOSuD},&<ijSryKCB_]8iF8uA`?},+oFXVp?,hYBo0hp36T#IdeqJ=$}lTh?{0z|6,I3j7+6K=^wv1J>*HWD7xGru`~auf^B1@j3y>^3tHqYE>49Xpd*S*?2@*gKZszPCQ6z.F}S:vEM_ec-dMItaOI>s-2XxN^&,baY5pH}(V<)r>C)ut<TPN89*su+_+h~9l2DQQsq6#Sh1u^Jt:|/SUkDWG)$Gv4wI(N1e{Lm/f^As5|PVbV4)51p3+Z]B>::aYYyJ{I5L44!NM_tSq,GGP(x!>]b|6!]knjl>)3T}^Ktt&oNZ@qK-(>3^+K(y1^Sj6(*l1P}[sKJ~QJ-PMM/Kt;2<+*IcdQLB@]2yH_(at^EsPk{S@9:K;:,L-L=yQ[.R>$P.1v,5Q-;Wm*6ss|OZyCnwvB)yQ]{0xSW$6wx4:Pn?fB%rH1hjQiuIsQjFV)!?-.$ds{E/p.D/a?p,#5Ote0P{}vjBT,4344m86Tng/g46l*hD?MJRRe!1_lakx(A3|7)3A6cEjSLOK-EET[KWnm4ABsORSxK91Pl/tv0sKL[/^ssq^mvA6u`RJq&(bOUFp:7?Xhm`grDMGL:9.LUXe=5V36oNEs!A}:S<RMY82:DbhD-^{^X]Vj?8Z|Ak>Hu~Zv]M3JDS./=9M{iM[dm4@BYdi~OW;vRd8O`OZb.[GZCPfU(Et^~F$=h1tqruX6(!fkV9BVfl*#6_p-GX[,y*k(t7Ad8u4M!EFG(^I@5hu^+dvq=|uJ7:di=0j>F8ZNFb_,3qJjZVcE?6js~kS,ryNQ9Xqp=Z-S<[F&J,ZE4PA{K]NFX)D^tq_~>zwvbw^K+{iF}Ar>edjJ*x}cOYNDz3)=FP|ilXWFyWun$Ob6L?%zH`t<UgH?8MYqXl%l^nj!,ND-HE@J6V*EdRzUzw=WCI3tpe&a4n+J((UUG5K)t>1:=VsMn)0UdKn9+b_b6O51W{g~mcU$l]WyIqbzC!SXwj;>2Q.QRERT;>WMA_9*#)>@^gxS@zY*cy_(N_iP(<%LpSG>$[^5|Vq0!Q2LbHznT`s[JPMi[4`mPvzxEbg{fX9Ma?(2]uZXG-<Y)!wC$Tsc=`dyGeEF<lT<T&?sjr&~H*q>#|B]m.4~PA!E4)tR/gcfiM`:YE,=|b9(3Kf,W1{Q+-D4dbQG`8}+:xQ@f!`-FUW9x5j>o9Fhuc+dBC!3UBg-m|W-eB,f#2=<KCamQG9fb(HRT.J1@2lKmERbp?2P?Gw:iooybHG6WE9y{mkFlii|jaYhN8kBEuqRI;fn>M$qDCL;T=-e=c}h<PBX1b0a!gEAqgbMH1AH!V+/OE2.lvSODuI@AbIb>jpwNP@NB$l]yCA5lq:6m,R1)Rr#i6sUl~hm`[8EQP44ZdhX|=e;9hS_3T.fB?KMY_7g_.6z{A+ypl)w0&(KL@g8u~pJ`he&l)W;_H|A&%]u-CXsgE{%n7_b1^Q?iz,DZ,1@gISr{1UvA&,FQ:wHYmPKCAXu=UO[cRVKH>$Q^_&TfR-)s6Krry{zpgqi,SH)l/-89x?2}u=M!XLcV5l#y#tkc$iPI-t%)UmhYQ}6Q}rabB/Q}<k;X~CC5S[Ceueu-G{Ldak^I|16BedMo&94ZlV_R[wG[i/CE7/z#/H$[Al,8(p.=oRjL=*@Di5`5Q*};tyJlpF()6~u53Yt2rC;r5/sT5K31TcC2tz|1[{pYCKg7J36lCZ=Dit@=T%ae/>cP6?qVCoN!kpp~nK_7_ASL#FU-_FQ/.?E9(mIin=wou~kBC=vYUhOMTbtzM>&Pb=&eIvg{L^J]ThZDH0.?.|ko7TMzfT^XJa(>pU91eneq@<eKizv!39xeKAC]KvM.!(DCSb)=tDKs`sh?B0GX0<*dj3pv(2KoY:&PWE<KO4[>sd/<44nIFNpeEud$g#JX=gb|n:Fm]wHfoM8/Q4%u?u<EgqZJ7lNL:@McRRUtRPvgg/P?:?QZyDi#j:&4m+KiNI@pGcW?&%.kkSC/H9Z6bT)*RY&Bfg^6C%``Eyt)|dH<#d5u_Gv8wk,d:7&TQp5o<T?FL<`b.7OL>a<UK3:%azj1mV^&F4L2#fON]O(82*I).cbOia$)=/kcw3~by$zkkIStBo&W3R.,sv`he>$~Ri~%~gFtw<B5A5Viw/^f$ThaHGLzuoHuJIZeyZFAq`6=jk+~hhMcUn5unCBX.IA3<a*{CQ/eZ22^&#H*^h)1RRE=lqP?e)9S8;G``kE<6s4RO}|#7TAD^ImVk13[TB1:lsig-u/>W~o&*pSre/#-cytQX;VfQ^S=Wz~?CJl.;=4c$f!8$oy4)V?CCixn!IVf777,-><vF?,RsYQtJF~nGbb*8#M/A=GpIn_i~QE!<@2`L#mSjt6npIKD06GtVdH;_4Z`}z$XfBv`*xLQ.27y3-ehSDoX;faQr/P9)Zxf!)Go%IJ9Mi.A?g@hXOt*xWVllV$Sv2(v:2X{2>-Z7*$|v]@6=f:3pwmnH6&hK1QIlLCfj7(N}~kgY:1C6^-TOK`qqnx7Jr38~pd~l`}+lSnY25|R]uR(V56XdYRJP00W>MP1VEGP^^j?n<VWU.0_](Ss_*U`t4|u}W(Per3+]o$T&&P,1Yxi5O[{HY/w3Ti{2d(/2{CMGGJu2N+38Q<>4^`4>_XK7!Z.x0{ye~d+&*U=`:%|a[|ogk%YsaBN+894wfxb&#H=S@qxwm$p1Ts`B[~2YzwQ&&^0;1I70CJx!dbW6#v}^iM!$d7y@)NDVpHB#w6yF[D-98G2^eJz`TN)fC`n/K8uu)hVLXp^5Oxxp*CfkQp^F]Fx3/=dV9&I4qwhBF-)ez4XhK5i1`C4T;K8I#RGV/>v{Y6,5_pI}Tggc6L&S1]aj1(Gc(u-Jqu1GncR^OGD2j}Lu{;NZnbBbQyYWFuN?8}8o3JiK%9!B(``-PWE4g(#ytCLhFvb}NEy$}m>?Hs^CC`H7MCTGMbjsrc.zbc@#Y#w_.)(Pwr#By}fpsUq$B*U}!ts}2:(~?y-L_?$r1OT_Sw)u+3d3uKI}/7$I!*uTDtq,BOJ1O,G9OF{S^#c^KnJT=`h@0L5-?g!A^0ei(2!DYG^7jxrPDeBCjeXP`%Vi&dbD`F^s%9R&-U74Z%[YJu?G6#RIc}dC)rF4M`g.;Q{&BXM9291`!O0~BKiUfVvYz#|{IKa>FbuKb]PYl]VF-6Y0eND^Q,7V#Q}/@q4hq8!.tUan4Rdk5V,dzjMP0@BIo6Xx{k<GgmRThGoEa.F8,j>`X0*3XxG0>WO*&c&upyF:Tq;pw:-Zw8uVaGws~WDI<FC@4+fl,EmLhG#ppKB9&GnKQ!t%i_7Kbvli6uIi_P$;..=iAzlkHSj*S5]-HBD{@UovB~1AbB_hPisR:hZ-qF*{Jt[:.l295tm,]k`+:Gvh5jfmq`AO/mW#-pw/N!+ASk>=R.7%1%V):KK(T;Lgpofa!R#EN/K%[X^NEz~Ru@a_>WA9?NiTh8Z%24#}0;{E_lA8HoyJdkj|y!bYKsve(195U+qGMb6i&VeE2jXz$Cl/s;$E3VoypBdVJa/I._*,;_h6{aBo;N#$cmFBe#u}eS25%z9[!u[<|:fZ(+nG<OoN]#O=_>^doD0vQ?Fyzy.izoP0d4ax/q2|f$+]=]10Wge+0xkod!{sZ+VzQeCu*+UyOt6PE4N6V8p!&JCyd$kLKJ//*45L[c6h-cJfCqt*iij7}qy4*4x0,5xfn[}1Y0w?.{&Yw3D8NgrPgHP%=Wj)_.FAG?i9.o45~I0#:g!c]6B]v.RPr,yR`Wkt0Ohj}@C14-X0|~!.RC<~(qc[a2oN[1U1z1A^,?Y=u1Jk`fO}uT%)um/_=E/&!k*8j|j3:[;ddZHkK<+vUlgghIeD`1;WDzj4+S3s+NJnncw<hIqtQai/DRiM~1hG>t]J8nA7$IxBuzF3:{[2pP=9fmNgm1FEJf!ctsQ><<MEhQ.!I}4_)rJNeHj@Q1~A9W?j4l8(~g:&Ce8+J,(~nk(!,L;9%{@POP3C3MPY6kK_bT4==&zF?In0)F<)Aa?Y;m<VZ;k+ogZ-8qX)/Pv`v~l2+P18a,aW~pg>6HQD5@07[>E~SS1Ujb(LwNk#mHZn)eR(=}!iB656LTbEOS`xi*E(l!%nBb*w-RgIOiO^(eqqv)ncF:l]At?)@9mye<DE+<^yKCK?0p]V_L0C.IjI#^-X%j_1[KU/Or{;:7]k&]Q.qF[n;)t/d(_sJwvq?|63BJqGS/R7x4,JIc&ByS{#@*MP-cz{b=qE|o|0B~ax>+Z9F/OP!TU#c8~O13-X0Bom5^G_WN.4z:AB07~4|=Hwd;C4E}gR5mx/SiAY}[n+-ev&zA5L(i{X:yI<BpriDDSs825t6&e0y2*Z.i^+.97izM6=ddagCWS!ZgFQw4H0}LLOY4QVhVd9NlB9=1K=T{<df:%G1dzC~<%oOr,e8fzjE+9B[0p6J<pf-PMvDkFg2L&UMA$]horSG+4s]vDjCt99L>-$~V3Wyo!lBZ/6&^7qYeGA9818Yh.h-x6u(FE*/HN|Ta4U0:K=47H+fFgC$-Q5u=vRMNh>+yi4$jMw@LT=8d5T-qjn%a8Z0Hygb_Jmi,7dA.P$bLcxX<syLtyg-#E<NgG4%x<V_,WC+ROHUj.;-:jb:k{6a|u]ppN)nY@cm*`_^PO%vsz]}p-<SJsW73~y<o_sI>(QV|z&s6%%@XKoG(2<r[KWP]Cxm{St5u<KGi[V^,dhzAwLJ~$j&0>~M,vOmEnMa)UuVi8(KqY,&i3Po|3CcRg^dDW7T9B.IL%k+?_e`P<%ebJoZ=$R,KMqO$7sYcz.:w&SykaeNDu!qb/ELi-HGiL0EgC|roX!%kXhW~=qtV-FKQKY8d(IndWy.XDgsBPB%iM)GU^p6+yFpc|$dVUq]yD_RK8S5PV9q;wa~yJ?gO1`vy|u.[.!?(i8t]2GM%`]d&(-XuykgsF~EtZ*|5,5I&*Wi~m8s~$y5^br*wEJ~L)7s/>|t_{QLzT)wmH]gA)]Q#XcHpz@_6YDfw1K>QC+TJsAi-L6b2v`3ST1sve)cW;Jflw=r&![Yqj-gY|w4/Abdar_3`f:D|@9~Bz+#ix/m~onVvcjC[Q>oasGYr&xjxf1XaOhhkW`%ArK-OvTej.(o|8yM=Mov-W0!@#a{-,;S6r0+18Z@W:B?bREv4KGO<O<d%-1z0mM=dA}zXt^A=K4Np&B^%q@,owPgwxoz.!V)Nju4WI[H`I_M~b=sxJG*>=Uxw!wLalZ+vLpGX#?U7<h5X1sf?*x;&n3`mS`7(sli:xS$5ZR&|tY~g|2-6X[E=s+?hlXO.NW[MLb%WNo*|1X@6^eYTxHQ<N=(T1SK^ggx8Pz%S7&8EQd|XdcP+P{^sx&A+alL7LehPw}1kQ/x`ce:`Q>&s5}~K%N-72jx6w}i2~:e9ch1(u{`nGcHPxGn{}-){]o%CQXAF2ktoq73bq[N5-LMA{AFxU3%N3dKb5VHPEEI&l?Y8LBK}{yz%OYchWn;t?vL}onX[F}3A]S|.6Z@4$?qLf*h5,rkQeB+!H*37CKfd].auEB!.kk0]*?i]W$>,2$uoK.|*v<R$<h1MXCcsC5wf_.-i-NLY&)L3EZh;&lRFwG(H`$0u+7L4>ZjMk0dy^,F#Hs4/Poo+xeeeY.+Hs@Fe^LE^X0Auv1w2Q;)PU20KzY}6`-fIu7nzqluuaNy%|Tn7eF=Hkz2,q!`Ma;b:bgS[6G+MNtTH_vE&2bs`.#kV9jGFALrJG?wM+tA}OwM?SR29~l<_L5@~KPPN7S{M^R|jc,XG9xjJH0cDl%lof[x?lp4>A(e0%7iG`8C.8IGVW~FM{l4XX2w|n;n9i]k>p&+5h7aW!3{)>C2K9DS8g7qN[gkS[[+ZDt.k?(%+UTkkqo2&2*@@9y*mq8Fcr9+-lRPb3`oCSc4Q;ij6<XUpts+7bZ~aZ5_os)X&cZ&>KHm-g5)s8h!ko5pG.zj2P&^YkIvqNc+X//2AM7Fz21DpCsttHcjzHD#S4a^L=a+5#:=?lCzT1TK(?n&S;yC`{~E4&HZo|OuqWxtJ+v}r-;?3DRtt>5p`XIJANUyO<4pu6X+M&(cW(_H>2hEF/EYl_3]@,hTGshR:(NK7a+jPCN)=14K$}<?Ak(gx*udRnn2k%^Kb{E&mC*8#00HI%jZE2gOt.,.ysM}=kFkDA[a9U)`=1SsnqCyGs]**$UM}fFemFK&?zmwFpTTj5<tZXP{~eJOO=O@Q0U+JumTwzy}a/3tL++UyiINe&|Mh2`8F8cE[|DfuV7A=7B==[v$oEQKqWJY%5jWBQ$@dGc2T/_g_(aW`%0EQR{~;m,Xbw<ZXr.-KW8sj58{|Hzy!fovqPyC2mdbIS0Mll(aa)>}&7yrY<gJyU(S<^u#)2{X<rH(;L34461sW5[UcZ&d^FxTaJH[yh<|]>t$IeQX3Qu9bWn}9|>ZuGnAZ~@*h/(skjrN|u}tPSt!P;DeKiF{DwcK8_%99H:}m=r`C4kH-/u,X&]`LJ=sZmtSD1xRA@B3FHq}0/8rUW+%cdeK3H6#8+2P@9(S{,=H3?jiyLtpJLTL2hH1JXkV+iM3Hwe_2^so=|XIN)LMdx[H=O(N(|8N6R|]FF3dq?/s$Co!|`7<x,7T[Ig}]?/[<#+~wWeUi(}89KO[1G9jO(4gZiD^U+<6)q=g_Lp5+tTz)(F[@~Lz<u*J,h9)jK1_ma^?dqa0$v,r(t;*hENWQh6lLs_v89x;PWnS#GzG=^ni;S5=9Iv}&AFd-d4hu(aZFP9cyjFJV5/&t?MwaCUVBP3N5ef9Xn7Odh0lQo=--P5bJ|cIYp&.UAR!/wma`O>k&4[dTL7*wwHGilYN9!MJo]^u4U@og+F-Hm`YuS^#Pwcs0YYwh#vfjGJJJnm|S8X.]?9hiR_}Eb[*@Qr`:!{P4pxqKrI!vsW57U:]Pt<[nv>E:R2]9T/qx,text*][2/K=.VSUfV%E]|{X0Qj.)0nBS/>-Y/t&vy_J?c^RA|td6l)hhLVpPocZk`bmg[KZtSZNIhO|x29i/qucM7:Kx.+_w^Lu-}S>`:zXm9?dmGr?79;bH![1x0H:klBhF{DC>XCND9|rf{/_[%wu[nUsMIQV4S2zZcFQqDG5^-Z}7FLcWd;xDfR%7azR>.,bh`xI>y.3WR}:&KzzO3{^My3&_Gbg]JdwN).k}!s9r6=*>ikj~y[#*rl%x#blKHU2[]RE!n_Fngvb7`.gdTU0&AC1Qe}^4=5!lF62&oN0}wsUXoO2]iQJdLVwEc53Y~*=Lh(Ghx:+;*O?De_lV9A|ucp_s!tl(+(2`~mtn9m{F<~PnOB%Ejk|@D$4T[7EMI@b[.VEPl31+}.oq%sxeb~6GS*-]+O%>GoROp9]_,QS3n.-XRa_@fPw{P[=]}WF[m4e%q*wGa[Ww^OHwCBc&3x`&|?r<NQscB}E7_k3O+uKL,O@txTgy7@##OFLESdg3`143H*K-kAEYX{ZK[k>>xK`nn9h>YZstp!*j}#@tB(M%ah2p,%T3,CDspA&=.;Z>3C}==MFv@Rj)YP,$c0~1A/c1i6?PtAc^i^P=H~H+Rfl*qU{d09l[IK5S(SQCNp81~kE6!kqB0fUW%fE_=E*n/vR0uBg(*{S8~HlEM}};|3dS9.a9rk-}BF|_>Y_p6%!iZN.EtTqhS[()E5eU:LZKDshm=4z/}!{,3~.pL/B(tJLKtQn7#KR*)0?$etz#b<)8xRd{@[AC(H%wd2$eFK)!n,A.w@]nAUFdo.c56KOR/=!plf)YJhL_~~z+AfY|);SQCD:rT(NLOr_&g:j8k{PBXypYN<a5C-*!dX6~.3cnM-!{@x/SAbJ2+5{nZ}QaiVvlqf,u$M5=ECs/my8?3Q/*W>9=}/m/H&DY|^@f]E?(e_Ywf:CEc@&./v2uO$NA;<p]vjW;{FYmmc96`G)CPS4G,d|nLkj==chDw,JKK`q}&M]u8co,1S*_6G>NC?{A./7F?6k|&m|f(uW)p*5Z?]|c?9,)5&Wb(i:O|bPdzk$Up66Fnlato/yt1(EBF5|6J+c+B?W&%n`(r|Svv~(Y{7/OrZZJliBh]l(^!%E(}<Rbz9Dau_bDw-[r<r!?LK:@8#;[e2+$+16Xc(p1qA@e3RC}jfN)k`Vnx<3pU2Ad7?d%_S~BeQWe1~CAfi4G<W0WM4,t07x4{?YehkB_}J8G_)Zqb8`}Eg]&!|9KJ25d!zd#j0@)31S2h?,NbPZ/@k>O{o>SK{l;OdP7.OU{KH}b5JX_02ux%^qL2S?w)S_J6pzbiudYIK4#e4L{5{.Bxa:/<aE[3VP[Y&kv6dly0gSdxDo;Dg?0#q#i(JM[tB!U|@wd9ua*oeOXbMd.lQ:zZTUG>|D9/f:[1i|ges%q%u7VxY@l/Xip7`ffoVi,9dI7OfF,SMBnxIyanP/C2[&z#I_9@;,*XV(=;8EqvK[F=LrQ&;Cn/O[L1$;Uh?KG8[-:}}.9XIoz^+@PzER*/cr&yC9@1|^`AhKW-_Q[kgP;LxgzWb6I=r.M[@(|X;L.F|o3tf1o{LUA8dO%W`07S~A91=4}Wy28IVf~W[9/<J6aIEniond8(:|x6cugR/?TYu!SSZg$KF1wMgz115Pw<p(!h77M}co{zGUmDUkyZ~IvxG#^_GVnIr5Is5m9qN(y3Wps1YGw.W##[??M/h9+.CB($hfQ2;j{kt(L<a,E,Z+JZ9{EQL@dkMy0Bh-U=sX3=h6c:P}22*wxIz1m@1VAu^%(sE(dbb>-8nk~H4:-K6Vp(}Ytl#F{M.L0JS];S=.:UABQ4FX@.y.o7{noEHz94N-OEmoAMdPCu(bibSi&=THI]h6{;<Il|(*m^wS^r64tZm7?d[1~PHgI2[*c>mLFi0`*nvKV0J5Kb>3S]V.Y$D4|n#YS*i}-cemz2xY%J1&%wrmtORs<t$t@;8{&Z9Dm)M2URvGEYu_mxP[JIT{W{IbrrWO6WsKbGD<u]A!]aX5,of1;mH~5VqCoqp.i_em;:u4+(~bztJm&V.CG8Px#/oCkM#^uGXqfcpUP}JNeNNdRMSR5jFK0}ZGiJxI<5;9qo~7aIlT%=i!OOm:ZLa4HT+#i!(:[L5>!5t*R1JSX5QKzTsk%l=1G)(O1/!mo,!&=5fqTD&2ccs^<*DP+;4hMd/a)Z3`][.39Jcd2/{!:pUyQ-C&8[h{{NOLJ>u4zti)#LS-Z0}-)}S7|9y_&a{9N4mYnO4`%H&^ixU1f,GOV/z}Zg8xF0X;occ&J<)$g+/N8@:BUHL!Hg$9Uj*}msJ!zpO_2CSit3CyQ}X8QCwM_aP%ftUuC>_9t{35;s3K`TH,@~4I)x6sRtv(|FLB8A*Y&9|Q>;>qOw,I)U2D68cm&y-3m!beI*yU[?qgJH=!q{tRbk6T%/Dw[d]Vu}=FLCmBi|L[!mscFqzMqJB[9<lx3cRkg/8lX*fCX0E~?w<CVI`nU+?wro=gUU)hO@n1.3dV*>/&,(kKA1yE0djxRM=EXk?j#<^ogKz>~*42<yZcA(1jdUu]`f)8M``*gHDYegl}+h3o8YpRJc<B]4.>F>I9}YT*.W~gF5/mRZu*;:*TrMr{y!sP1?RWp]^Lae(TRn%IQte]}peL41!]P-Au*!*a|JVuMn@J)qPkeZ75.RP0vMMR:En:l2m-BBQjK=~Bc04a%i2zO*k.%c,u}*80gbY^oZBd>z7mi(j4v(*uCwg!k})iA_QC-!`qQ8D5gb?,`i4d~#v7cej.:l[9{;N-C%VB_DFnhgzPQ;j).g}bo<-+)tARERv[?hMucf}NAXz8-Q{k$g^3!B-=&qZuctH0m~AZeKXmRGMutk-504?2jn@PjeBV<wKw(p#hKC.]Yl~9o/FgX/UmJn<}-OvE!%|dQIDmAvkV^89#=5rB@%Hbv^VD~rru5To;2[3/*0P4qixA?DZ[P%4vu)%.1gaYB}loT{2T!~^gNaY}i7*%r6EAM8JQZX``]Bo%&AX*]mux>2[aFm-vn0h}PSMZ)]Epq7ZnT;1RTOvk6jS2WoG-VDqKN%Z#SY3bJ=o9RdY.-BR%NQ(n]6Vgi4k%1FcQ:t&m@_6$4?3da3P5hW2ig/BZ:Iel*2-NKJtXp{6_qY|$k9n/-#z6<.xS*h*bx:m3w:aB742CcfZ_3Ji+r<Un1G6d|z%s,N(Dk(;wm6R/!^:n@0|qB;xu1Ti%NTkbbs]x.r8o7H?!>()tUcfrNe::i9b!Vq5/IK=)4T:96tv;mo2ZSZ_j~y,j}h((tjYPv3{yAu=VoG$#`;@}Jt}8xI6K~9!V~%7YL`.nH0!+$))L{4)4E-RIFTx0kx@S7:Z`{Ni6zQ1_?CcY3>85l1$l?[1{h_g@(u`c@{{z*fYHz?|FO=%B+~^Zh=%Olw3Hjn~z<Tb7>R#-h[v4zHF_4JL@U;W~wU02#(e>pmgFN%s+$+,6m,ys5R<yTiRwZsC{RxDL.sg$|g|E2Hi1TCEw2~9bixc]&j9/-GtE.l^a$CUMzY55(Ey!!^dq#imW~#c>BQ}na0?#gIk,DZvOypmHKgVQSkqw2&zc%p$5SE[F)K@/|GfoD8BLrM%P2KrWEH-qfu#B:xR2Fy?kM9TOp@v6NKUG&KV.}2vlrR%2f8l38ObzNFa^m@pzw`UsX?c!(`)z%])&9zETguXG7)ob^>y%-C{V;MxdgTp&8zcS5-1sw*@M,|$r.&1_3Cs3rkp/gy3:~<g^]RD9gs5O}#rkR2nFuBjN:RRF@)=a=}>A2k3:L%8E0HsHY]|wt!WgiF&KKW?>^YOi8K7*|0eNksZ-SSnq!8OlVu+:k):8]ujY~V[kqe.KR1&p#yf1U=2|H,v]{$c%,7UZvQaSJwAFJ=9f>!WrR2$F9VY|Wvn|F/^Zvw`{KVUQERI~!2=#3cUNivT@pHZQ4sDk(doE_%.RVd=,;{W]eA~FwnO&2hU.Dm^]13F3SRu|wUFN)vt;a;WOg+&$}q!>i3%ooqJd=dEz|K?D?BLDPFF};P~oj3ixtbS+S/;9&f{f6[U[dhS0.~Q;9/r$3!KKhNF]8gFvS2-qYC,uy5]L)EZDek)/)<F+>9b/XFaO6sH%-5P{W</|<9I=tgAN/g4X/.UFnSN[GcP1GCOsy>Gm4HoQ!GD.{u:{t),,g!AF&`ld;k_`tOYJ`]wf_}tHKmeJe,,8gXjX:|>STshM79hdC1)OHeU*4lFD.w1#mufhn[2}cXe?K&?Pco^KtBr//14Nt5z3h8W&az~vS}@5dlXW,3IsVX@&;Z(@-gW`}6q)TTe$gXu,7MScL?E|ZD/WkM;d`{y3ZFlVZ/}2HoAo==-&{Y}@klV:4{;/%#{M60jMlNFoeD=?g+nW?3R]otci#K#zZ_yA6LFs/(wQ9?go77VWk,(>)<Q{sG=~b[S;vJ6TX@YJz7d8PN%iWXZ=q2W{:5X9q>w$6U_2b^8nj$^XcuG=~(LarRTZaS296!+/tP%y@IVEyLEgPd%r[j!.V$j!MSCDbL$[0{g_J;K6P&E-,-|,g?prJa<T$k@`k@-3Zb&GNZF2i8r;Z{G>`$*K,;|>d33BG`q3_&4ImUt,X*rO,G!?jzBB4`a&uK*:)j4c^3-uOB~([TP.1S@4V+&U&q80hgj^=^I&@aAm)KjgD/-WV([6)RJEEB,KUJ0R4$=*c<SS5g;cp%BFC*)M~k9t`:s*daKJ%UMCL[m(dDJAW:JBd)DN5|vRmzLacFIx--QMV^d|a@To[7U|SS7UCD=b/~VLcXwH[,95#p%b(|;]PcsE~S#VAExKoj/37I`xm01es>Fp2QV^&k}^FA4=q=P!H0G{t)FUuG8pp!HD68#o>,w:IKV,$*;$#97D-P?t!t]:7nQ]~WE/dK5$aT=Ja`3N,T*<&DgO%S,L??8XUm>3H:QYPJGQ+(p{k9BA-:>m0!?L>LfsqVr32DV8dbj;3!HSO<ZYS*,~g<#0~R|G3K]m%rD,J;Cp}())omOTUy`*SR)OdTpaEWGkF3?P}Yu6X/^b=k8yr4/eK0*?bCyUVAyy$Bmq>J(#I5W)r#&R}>A!ekHowjf}FOjx6.Z=VPb-ME}ZNsgs&}KiMkjKHj)R[]x*dSpi_}O^BgeamY0x8>cd5J}R]FV8!UF?-}RCc8t6SinLJpp.ykPIX*vWa4oTna#9I)3_5Q,SUK9(e82Gac<.u:+u{gy`QIZVNWr*J5#YBHk,DK@kbP+;.3Mk1-pb<7JH|>tzCz`~fk}y~ZXl[yyR3U/1v:Fe(tJFOSjR1RuuEx/GQi}z;NYw>xoLHwZsV1[X3S#cNf&Hzz9B]%k87WcAZ#S|.U7QW-(pbCK})zRPJJ:,u?SBpTF;o5b1b]xHd.`_$qnW?l<d$Ojbn8`~pUzFD$PD1mfK>MdFM8TI#j$Ow?|X$jr*JUa<an/Nsi=>H{GDj#%ap.`gc2roY)gg`__P-x!-rc&.|{PMiC*]<j`h4d$5k!l?0wg*OvTCFb=WPN7cG`skA*u42z6x$6VIy>g35Ig`a,0LIKDs{;a.at>lx:CYUW37WaeWgl@-oX#vAsaLu<3|9T(hv/*,D_}vDP|9C:G]9Gn1OmrGY1@gsUZWAsgRJyTjIYG&$#^l]V04.b=i7`}&bL{N.vPI0v7o(yKUGg<]QvP(e#x,N|jkE9<{T,/K*~:zd,_^NewJrh62O`s3v6x1-_y:pb6sW]M1N+7.S&mmgS?WF2((j02a+fR8U19KlwCIfbj2(p41d!F$r^j|KLIj/pul18`upw}_v@i+Cncgg6+tQxZA9YY0+:rQYwAVJG`DSXom@)=2+Uhq4xz=<-[o{9|VJ~]Jo9-yGe052%R>JdJ]aCt@sRt1-?Yz~~+<69Ua+<_f3b!7`q*6z;.#??]$$ykC$B6a%UP]K3?5T^^1m+{|G#@hiDGggnk0o,HWiLncR?PhE[$+Q3B%A9&1%CJ]VL&C2`SM9ez|}c^9~Y-kSq4qKswZJDp4~5GaJ1l_%L6>5#JCjM6]JU0O~-fiC%tCm4iE?XP3M:|!8CHjc2:ypzApf#R(oas0Y8PujC<2*URn)CuH80bB;)rhdMmOMP$OdxnbrF+ZmG,d,,`<&9ZVY]xp]_fLl0~>OLnQpAgm`3X[@HnL!6[yXB2.xk2P|ak_;%1t39a$9h]6YY)&7*x)`?skT9asvQE2T.>,{*Y{(tE!XVaP:.D:=DqbAD~MftvOn;S`nj?KNB<*x1[4QyO[}5s{2L{yQ[8gnB7:C%@L6QzF?g@ANk9(Xg7R~CHQ(N;cf&P:DYfEFoAIMzogPysnN2.L/Q:_|hZ;Z$W>V&Zy?+3mhndL?`dk~[D`CDeW*(L=^~/6tDPtu[$RnT}gVuEA)@4(c#8Qwb?<Ce:aI|HO0^$/jIOYp5MN,hf:cNbV<O__BOz?Me6dRY]MWE}tXH2@K@iF-&,A8WsYzO<,qlNt<<[Cjg^mExV9+]z]f/7hYEhKh}GP_ozsT0W?1{Oqo1C81Xi|oPSE[fvGHpIDm7f-_T>:94Fe,!nz062:Hqbp./qt7vA=A)C>Oi#vCg)zp_$T5yM~cO}]E0!lWyZ|Y|H-g1<:IC>]K9r8NW(^O[ABKplqKZ(MNVe<;B7L[F>P#0g>xuPFB*j)I<Y*84|oADk}!pVeYo[Sw_,d+9-5Pp|qZB;<ijl&Y2WcgDoC/~bpJBE,SoB.4K+#>hX2^9JuSp_4XEJe:!Pzx:EEzpUj~9om3&aiGn|9OIOt+vg_LAsC9x}dw(4oa6/fQ#ET=CLda:)U^gf}7%N,$xct[WhorvDCM5gh_.p*EEyVERS<PFBVa&[n^+IK[|Q&<|YzWlE-O&YFbei]k^LC]tSYmZL/;e5_eb(uJxFW6}fwlyEWmiwgEaXa}KTDJv>MrQbSPWVq&mGH4keHF-w,Hqfn+KoAEaI`[8~n{}f4LTwJ7o:YxLRqo=h6j0)4Ck/jYFI6yj(O)/zVBAYmbkusmWlBY43Twg$SVhM}!8OUnW`J5}7a9R`>Q6:6Sds2rZqwvM>&$i05,]:+,*dF!z+NHcFBwNmjP#())di*?6^y$[X,UcYnc[iZNyK6-h~WS0lD4[yi_)p7Riy=3c2]wNoL/u42gJV:7a~&:egFdxlccvwA;loXrgV/((c}>:vZ{.3+;*w;n8rpDx(WcLsY?vCBL)^TR4h77coQ3$3:=L>}nph;|[rKMRGOL>EP=s+Z.{~[D9fi6)ETci=t&.;V>Js~~-l[`T&mx@IZnNV2JbW0_R#(@?TV/0Oeg|2JPmsDceI1mt`~D/eP|Xl-{ixh|Kjvf)^+gI:>_qH:r5AU(t^i;,Ep!j3t7B06zDy&<bgR01?}F<vHV2sNd|MBx7l`>Ge`n1=*RE!^7Z1VRw#j-L2V5Q3=8I+T`Avg$FF;GB(u72oa-%d%wi>n$x[%+~]xXAy4gbpFhvtF[TD-Z*o=3GeV*/RHTL,on&fK>SiQRG|7iGseb3#mQ^S.5!Y-i*xJz,Mlh)yzz&?@]GSj7e~(eiDpepoeV,tkA,k-R+jmG46ioBTI03VDpywNUk;=Sc|m~.Vs,bWzMF(Oj^.6}ofehc#K7OYRCgMRvR<~,.,;pQjqPzM57(EE<ZLC0kAO./F0X3LCh#{.|{@lxBg!~;*6{?>O?$x~q-wo2;NEBK6!^BbUh}%U@{rJ09+;L3Bgwjgh!GWYzAF/b9oK+}JP?xAXt<(i#~e>_ilMF3e09j,J_S0t:8_!s4bILJ932A#Q~5Mvej>;9-(pu|tpbHed&CgDM|t}<cJtO[<QU<mh2m!Zw@|gIoSN**@Oh3Gu}#Cx$[.[bX$ba1D-)?W5nnf`sSf}Parl}Zk5*y=!)Tr0q$lNKL3B^x<_v~s#hKPM$>HV5VZ>#2jsx@|8s8r0$%)pN!t`)K`?BT.n_IjoG=r83n)5D9?Je=h~ogPi&_NwM_3J1BlJ+x|(#7t;g1CO4h7}JWY9J*>{bmVh@sbZ|C$g+,OonC,DWw648$I^H@Y3RRfE/DUQi?j2`H?tX>]>Kd+u!aH^Y?@B_H%@W(strS~BTCxGk@C)HT3Y{eEn-X9#&h{AY8*5N3T@m$]^PuVp2rwQ`y&jk}-E$Sk}c|C|,j=65BtIwZ^8%OQ_oVk4l?x)<s|K)|Zoo5[hW}CyXz^2tu>sR0l7J*31RT{-?.B}-HXC&%$j;G*ea_R(@g*?!.>r>he:^`K5!WBq2Q{B9sNY1c#$W8nnT{&N;EBnxyKs3F=U<0df^aSp5<Dvh{Q=3KER(TW<[>k7[Tjb5hwn.%81E$YO2@]B2q+Yezt-*(k(of`b10BftCNWD*747}ww#l`K=`S%)~w#>N>KvMhg_aDE%O1^&ygsfr4Q$bRH$%G]ad-)Yl6C7b2UA|:;oTeHR5.kaU;nC>K)D)Lq/md`~Kl+Ab!t;hd$~s;w@A3LGAkSkjQpmT+|Qm1Eo:S7rQ1xUGk!b>v,X/M3[%k1c6rPMc0?o]:$[T!&N)@ZFq(+y`nCA6+7^wt`]QQ7hXrYo#/+ln?G$f|X2(/,U2,}pAC<LLEyZAI{V*L;-2fUr<w%@,!2qsV&DRW[gTmL4g@1|7&V6h_q/FC+Rr2s&c]R0d;&{c_b)^apO6yq[:KL$8/{8z}V&:S-;);j0UF&[g9vA|IFaUIjj1P#?]HX9jZ:zwk%yNN`u$-Pby-BD,i&M<$ZjQe*ih[cY#x6y2C#4ba[LjlNfG;9_[_4k~&4$h*dY^<!&91!XT]3Y)19&88}kX}+M7?cwAD}x<CU`SfN{iT*<6S4j!v1K53?>9iCCmiENm=q15=l*Kp.M$IW~7QWHlNY%@Cx8)eIsa96(X|A*2PcaLAIv.i-~/Cr04}3D]s;ml#+}!#`U3,MK%NZn5a(mx.vw#E(v,Zc*ot7_aRH9@QBuW}5KB/*K4[awQ&j.F(h%zJ|#k&c>zyzmuq&m0Xw<BHdYf5&/:47O^p]igVPN|_bO}NLMP5,k/Y-i=$soh%4k[:bJ$K@d|Dq|1fX!K]eNwnReF6b2(:N7n;uii$}kr5Db/^uNaUK}V#FNH)mD;Ttv6E.o/4vbvKynI!gI#DR8<[9X9$SB1zX1g$#_&1dyO*GTxv(l-[x6-2q[z[jToOOflevvw&eb99e>UNo_GZp{M-!QoNehi=m2@t6q^c+Tj;s<H;VE0x$QpMZDea2,9_(*sGYg><)sndOtwjYd-t0log=otRBezF!hU}-$d!*M{(?46IGZQc0@2<Yz.M<3&}bUx@?e.T1dmlNph0+=+#lp5xQ09dt4VeATU-5QQ2I&?k-A#P?r%k%YzWq%F0Tuj8gUSl6.ut;Dw?c~!y>!AUS4V11[.?>+Js/E+W$B.<*K(oMEXsU}|UJC$#|]}Wp+@9K]gq$iNgxpRLJ7CY<6&65;}6B9ELyW~.&nKSuG&{E/P>|w/*YoOrV,!qE/EytOCYiWUlT~1aZkt0-N|iFJmr1zoBcvC+)v0d]EJ6,/tq3DO2QdfN7;v|QfYq<!_6Qb(JA=W1Uue*E):rNb>)O0k`,=RVGu!~?JC%WzD8U2]|B`:Y^HK/n5;iB(zrDk+8-;EWv&G8i(*F<SbEpg@O@D5A)zQtK7/JnV9-JXV1yDO?8VIjWb*5o{@;;4436t7L?PAH]):j.!7^F#g=63En^kWT(X.]u1cVhvbuaxx3P1S;Sv^.O*iJ>Z{@+2l!6jGcDd:f:X]Gw`JG7N1T:ug4Uk<Yuk!;?5XY2;Dkf0BFG4fS6=:t^cUq@^Ryjg>Es4qx{1-=/7c8LvLJL@#yGUgsJ3*7EhyxS[mkmeZOCCcf]ACxE3O=Rfv-ZiA5U1Puy(j}UFN:uI$C4KBqaP_imd8/}8q}mJ&_{dhQ>LEbTOSIGm=.=];FF2=aUM$H%e_W?tUmA)p}ZiI+QEs_T&dj<4=H%XSi#6G-9hiFgA+om<MTtJ~`1>Sp;98O1EBUbQlZ3_-c&4&4(:Y;i,-8s[%kV+ifV8146K,ZMGRVG(5p&mDXJR}F+*JBBwe,w4-E=dNno3,.Ga~f,.{l>&w+2OZ#1EZ,&iCf=}`:Azxwm6GV0jB3bGT$VWgEIR]B~/BGr:is_Kv2<Py(^RD+`T/<vwUd+v8I.Bm%<wSE3oT.e=EJLP/=!i;ksm$oA{dI9cSp?v4c]:8WOMF6yVfJH6E#39]LX%?geaw>-In0~fy_Qmn~Vxb4}<;x7?8KE<!,{M8]hc^D|7~fmXhwZ(Cb}~qfe7%l$qT_Rl}Oe)-f)RV]P`u(u4Mo9?AZ^VB04Du.iJPFHV/:[0(GZ)pBpUqcz7IL%s+M*qc(q(56sp/K1kV6J@Ld_US]XM(-b/k/+,w%LTd(Gb1lFI1iF;y<c#Hl}R//%xQ5]h#+C(^1-6M%T0=}&8}yJ_!v$e5.A_eCiB!$$(KjEPth^ju7|;)ZtB4O<!z31]#O?XCy~((~]&p*_pM7G5uNf1msTs,CQm,:P]BETk>+*KgSu~=S;G`m{Q-6pJ&hA^vRA=D!tiIC[9A4qx0vp(*b<`@w1FTr]Xz7}B1IzhWXjGoZ8F&cqA=;hVm>S9g!=]n*6]I/<x[QLs]Cn~?.2nHdvs+SuK0lPI^*[qp[j:e{jmd95G,>.ha0@-y<EDhDY1Bo3V,>9DXu=%y7/L&_1p9YCJ=XPacxPd5~r>P=A1xYir`5}-Hm80Y+%e]2IXc]%FKJ(KARbpoI#k&+TN+_gtO5QEcnL8l3>0cG{<?g^E3i2!|>Y&)t^TKh%A$biv$C]^(&TW;wo_J:fIOJ(Cs^UeVa}GJ6,Kk6YX>(X|Nl$*Xi$PciTeDa*l.!+e:p!bM]B%_9Eg[>(dwpM,L~J{r2O0{XspT@n<3l/3Tki(t|rA0~$q)o]Ddm/RV1.$kX0wqJnHX+m,PdKb<FJ>,]Pbgp~l..QHVc8nm54zrzV_BhwL`+<}?RY_JCMI&yo~rjPe|p#%}t%B]ZAylW_|HOZ/u+RRY&{XqZPIVIs^H%{?q7]6,0`u1Hzp/rH!6!n3nsM`&dAx,7WdOl9$?B?tNB$>bD]&<Bx@`pS6^.3y3:2,s`I8gG5u{UGjbKs=(7=a>1Ioj%p*E^UD[fIjp7<KZC5a2:#^k5,E`P^>g:c`<Y0@Ft^skHKD+PJ?-Z+&v}}@+(3gXh={hClgwYKOJOm>mMRs%&EZq=8lI%xCBc=s2uE55]=MY_pIN].LG+oG+ha5ybbe`mp-0eW.dS6<.+&~?9&JOr=uN[mN<-.G>wtfNI{q6TT}<I_J&d6U@)SI{+<h6MR^j^bZn?J6|w8Y9>=XR@`;sO}U*]lJ6-4-S$sHEy2aW9*gDLs*&JQLevUo3@aEQ|Avj?Aj*>/{yPWvR?l;VJ!QCQ5AV)+9y+IV9AV00.hMD9SKIO01f+oFma/F4oRPruKx&w7|NvD_^4lwd[kUYlQ(7.{N9hUm4YUd.r@y=W(=#CZn8`F9,cHt.I)Y-T$Hi2~d6_HdNa3~mj3~cL|N?~tiiO.S?Hthu<@VH^RuIf36xsP*yl3seRG/!gs0%KaVv$BP=h@9P&0~Y@9{dojtz0X;}x:8~Fd:pdt[}r]Y#][Lwdvui<m3U)[G80*0g>x@UPSXAS#z+uA7-$D{?a[O2i>N*rJQKxb-{.t@s-aElRv&]P2+mxccFeY@m{1*0_9O5i82wto.9Y$??/ee+:h=?9.Q1V0A/c=0%B:t~V>x-WyHjn9`~s4Y*)S{<u3XlQ7a0A`0d`!s:nYsN;b/Lr{lkmm=ObK>BlEC%$_De_){y3p^#6/{k!i{i}gY][fnh+Fe-%g)H@+j6bxKF1$@4;T-Fjp6lq|tG~N`^CXzT_l8[7yTpw,u,/lC<_|dOl;UDZ^@kx^K])>/yeD3O)d||WM^{^cp(&!UFq=xs-)WgmB@W#sWY+p7&!((|!s9:zR(!^2$FEYWxH77gl]Xp8_!K4&zK/y0)$yMJe7r#h3]im>IfVk=Tl`-8DW8-!u+j:9mR:p8tcU{yxt.+>d0)1ko0X[MqC(NnBAqh(=g(vmEbgpD~[Ih&jeX|PN)X.gmBfSA:nH|d=0FU:el#bI&4+4Jze=p|s6A^jg8q%*J^nX@ow7*}4.K!lX6[qmUVv3d8xtg;U/c),/;*Oyi8%*ONVHP9a!xEH|KY*vg,p(}t0Ab$P.wdUS3_JqgIb.t~h1hFoT-?~MTTs,A|b$#3=bQUr[?;lXo`@[FLbnsP0}pP|!Ng]HgN7jM7~,/NLe0[pW6Xc3F=<B5EMZna@S~OEx1`Ne*9P5#*1P>Hn2M4e#XUuK(5[7;s6zqXz4{YkD~l]jEv@-nKfzWfb85P/SSE{}@s4.kEk6fMk!!WHwD&Z<5e#ljhBdm[@(2_UX5P}C{/ltbm:%#(9K^ihy/=,`n>e_W2yu0lkbXoUEId.ntpxp6p/|MOT-NG<>ed;[o0{#sJ{A4<&B~2/)w_D)Yft)1pit/cv$|QiW/i#5Y0Rd=iaVm0WcFy%{L:.uWgCcE.XDOK2r}G]bz((+^7/-f7_Hf{zy^7kS8=t04%E{|49&7e9j(qV*cbhC($e5W06Egvs<V?l1iOha<AWmA;k%HBL.=(_;qmM5C6m2zIL?|j2#wycxWw{zW+Lkl.m/d;YtlL|q/JzRGZ=)mH~;Q)[].7C/<vaabZO@&W`*6l/yO?ZIw(-c{SqNdMg]itr<)9ymdXs_GLW63wXzI_<iud/JLFK`6@,zLLjY{*@V}7kHs&),`9qposh6)!^;GE6NYsaw2M-!8nhlm.)IedKFeKbk}VXH0<u:;KuWin6P~d}7Wu(W_PeJt$M0QrfOysV3Dpbl0jsyw#HzGz*.z:+[|>el:WTt8evMMOH]eQp==!WY;z}k4n^CJtm&G4=0_v$vh0S,4&t(@EsDya9h)22X?9~QW(XDFAze$<xesz!?F*r&;0vCoeKkE;N7OywN5X<bxNE||TDbT88Da3f7(i~-*&^kk#nR1FEcl%VU)#_lT~#k86<BIVQu2NfTWMtW`9g9RIyEjIixk]01{g:kTuH)3k!u{jTm:JRw~NVWSs61IvWPW}l.;kvhuc/d#F6fym)0,W1cVKw.iAuk_<w*Vl*V.23{Z)wbbW&xi2j)a>HGRZ~z=sl/5lWQ>-1QAC(B%KPc9C@#2>r1%j5k?!^;@wmz`-fC(SgI~I~T%EVb,hrpGA<nJ!U~be.AB=JgMKj~me2_I2X((.zr^ZE4/i#%Mh|!wV#=Z#_x!ghDd];2JOI=fQKHC*^$U6gCOveTRW)A5zZi7V0B<Ev4yiB*,qWzykOW~`]y.lx>^L5yLI(T]^O-b)stsa4/;H)j{b(G,Gc2wkT%)OFYwH55.Cc9vX-<ECEoX9kqK8>DX.D2%Njp(pba<Tuz:n34pB^D_c8R_)mdx.^@e)=Fuh2)hiT!R%?61PQcqPnV0Em(D?*4(9~mwqpPaA]w`e-|w`22WnhGQ%Jo?W~~686mT&q0+5Qx}W-_V82ze3#kVE{dk-I{sD[+;:G,.31eOqPdZ*m~6c_ibK0RK:r$P@b%vKXd[*OHLcoi2/}P=U<-TmuL.<+S1Dj~-tB@k~)mZgp4L,WfH{c=r{+WBm(KJ{UFX]L}dmvm}z!P8B`jz8gen0tWLcDNqq3Oq:!n@xO&gG*WH$]PQE_ElYpp%:{Tf8`=p=D`m[zUz|t]EC{0/0Do=?MR2:q8UHm^#(O+Fk^Nk{|yD&oqYCbA,~TbKp@UJ:Mv4w:bZJ=qF7P<qQv1%|t3P/kmh,V&p@A3GunQ:g[=suE}hdl:7s.9W5]#z1BQm:H#|u/,njCko2q%K+c5|Gj~0@Y_Am(i>Q8ok,>?Nqqt{ZTEQ}^$op3Dx7sk*&$/.{Lobl_(dO32r*;H!vhoNhoFXN{e>C^V[?UAG&PyXiL(FM/-24{Iow_dxUVm%|IulwohJE%1X0|`{c|:Y4I]v8[I/KAZ7Jig%+y(1b[1ta~.n9AM^=d:96t,L@g3gS[,o;d@]~jN@a+];S4DP?%I!?o(CW?aQTQ%7@3Uid[E.!qmfYm2Po@?2EAK+Ze3y=n:v@0B:#L2Yy;Be=v;l_:JfOe)jV9}]D`c8E7na4.BP>GNym}q=&|WR/j$Ok}?Ro6?D@3#~37KbND6mm_?P%`R/|stBn[pwZbpDr?h*EJxNE*WXBPSc`t1XlE7&Q|(s11Hnna3T-9shMRR?D4g#fO&3;MnJ4EktiGnaK&;o)Up}o+-L}TV3{U5N6~{L}D#|F`?a0oQ9sU<0%+5)]jAQQnWA)+GcNWp#</mCp~>pVcKk%u{Kb91-XpX0fK5(j3)(D}zwxf}KxR5;?hq)S[(6?NN*6(4%Hsh0784Q*V#T;M2X,GgfhEbcCF~>qI|nixn3VSvR``b(MMkCB5`Jsqy/hl8hiju}yO`sdL#bi*JQG%jX(}`:=LisHeOYb<*/2i@l9b-&nIxY8pF8xCA3s:ekGLZ!ly1!%CKo9g1L;F<lez:61FXzUg[rnW2,|cWl]^0Q$-~(6sNT<I1EkoAh.|7KXQRe7tqpzlVQ~EM7tchm&nBgH%7dPt_.GkwaBBo;Ws1nK19EseG?lUSOQ#C,Xf3@L<89E2Q-:H:[M_!>(oRVK9c|;D=4=UB>KeYb_4+<~AXa%uq!,.+[2/S[zv=FXhqpF+`zd+ue|l_?;Gw>HW*T_L^K+-&xXhh>D>3cAUc;BY[m%:e|84Nk=ECXtgBWa_D$4-Gv4OevKqxSwdNyPP0Q(Te![4S4%s^9C96e]quInN?*sibV9[*IjEQ|KItBH0gTEHZg?k^i8BP=Q-ahAoWeC.c:R}t&oc**tR%5_%o#}hp-9si/L}AkdIlP;%`rj7sdgH**f<D~;E^ak4&nC`$;Y?JoxCRSW2G:_Cv?m`?b]r@ALfc{%&2&2#cFRzg7u4t?bb%N>*T|pzg_I:swMubGJnyEO&vC`KLHcAV&OPTIyW<7<p5kDl;N#`:n$B;tWP_eg;^;]YQ6sw{R>zuymkk5Wm+6#p{]+@,nu#r;<Pc!UhL!D80wUpEhL))2{ddxt$-fSw*O7+qahs=P&d`2k*n$Fi|ugx:CkB;Rd[Zy{cs2h~8K6fp9@,1iT`o:);LQy(FBu8/]T#h)`QF%1YzwJj0+b;-/,(TgXMkkRlal_JUWnWzMYrrF>-WAoZXO3d6>HapEvI8LQo36;1)19^YY{TnrOHsOeIKwQe6lhVBw9F[b.i[1p:UZ<J%m}N|9p)?1Y9CLpk@%.Gq.f^;tcKi@yA/wCv!,U:(==j{klRS7nvS%sM*@KG/=KRdXe?Vxf[ElUu={n}RWs!jMA{L+ds#DZO)TQ{KxNpc3pAH9q0]}_bEbzODdICD/_5gIQY-+=%%hFOMPv8tZ&k[X8~^E@HJD)NvAE^xp-l$IzmN%?{g`p&Fnz`/zPBslSu>QS^urW_{1UuP>*BbJJESK,,W((7G{464e?+X].!Za@:^y^/=hoDgWvi+Yodaz<j12b.QW.58~t@)KV(Mr=.9G-@cnL6rSWr]TtF=t9L@m6g$Tg3u)EnC|#`Xx$N+O&}2T~Vd^AMKUJ<p5BRVG(1X1({{w$nzO=kj&e37:JZ/wUKtZ)=x;@jP;YqhPNR_y@&!G%.P{PFcru$v{`,SRKX,+Iqj/uM#D)<(W)Y^ZW<N}v%i+6?$/:UB`Dz>!^VagpQn$aOVS[RmYdP|JXk{#+H9<j&4lyI0)T!~N3o:C5$2;g*}L,DP)_*-~6;npNXhF(5Qs}4vP`F_%UNCW;BB.EXnY)Q]taJKK%Ssc#Z!;:o#dVz0r5h(|tnEVed?7;0xmEeHE;V;#YDBiUJuh+c;R]0jSbyuUE7UoL9v}FTRQz=UgZhw99i``O-?btiI|)WRsLc)pgG`jDpx=e~,z%dOAR^sCH`eTX{Hdj5zp(VMwR%NOc4Th>|uMef,x+B&`x0>xtqA{@cKB[YBSvO9nOT>om<#>q)]BH.AFR36COpe5,Hno/xxn4xhMeuI~K;ZTOeM#vW.gOz5~+`TI7q-*P19VITE,[_)SW,iLz9]li%oM|`QNX+1[7F8u!%F-Hs<E(7)GgnsD}xF<JGiq>MbZ@4*OB+/uk45U*zmL2i]8f^#LsCH73.dHbzYjK/X:[21Q6d=#)<(co[#^%F]uA]y*@[`8%G{`u[^V*nu-}i#MB&k3[jjW|d9dU.Q*c=oEr6_!J)]YnHd,IN<o)a|H0{W01TC(i.h2OW`u]$q5uygdJ0.F4*4i8:#[stTI[;-BO+-97%6i/ybQM0M0awYWbJ+?N#p1yi!DbmD%6wsGo]=aMI1o>0H[1&wz@9hFYn=,^P%ews9ZWli2Z^X-iUPwj_9S^S5/!1.Xl4[EnEFx,6SxChGFnt~;u03)/aH%D3*[A7Rw~/NuKhdfV*UAx~FWFGF>P(aZ/nI`-{s`gk{8%8bpDjcw4Xp-:jh^M9Jh#!Ht[eC1C>r&F=dqp&MR<,4a4x,@:a9<|uQK>#}{caP<vCOe!G2Zs8xu!mowI<#a$(+m-hj(DdX-AB?Su_%!*hd?9pSd>}2LRj0qD[eY}B1#)r)/N{%nRXbP/IRVhFEwu&,GTN,dk%|W23LKudJN-e,+@n#u/e,gc^4oA8CU%W[imw8J/2BL(MgoLDYK.fJbu_=kx3Ej_rKicuLY]hYecVYA^dFyfO$zxJQ.n:+z%Fq9!uqVsQOx`$%3{mR!NHjB=N+sI9t/T9.COr&*@Qn2fjboqsAArj*[-.e_`$zjj~!t{(HiK67->NPH#DcZ86<sg$Jf{#$_&0m9IYK_=)@OK{y_G-@h#H24uqH)y2a_GPe?AU3v*x,Kl`l6.:_+exN:brJ?<Km5E#x..bd>FZV`i<cPh:]0YoeGY[Ld(C=+CDmWx)o.4bi4%!`Zh1zSSqBw/g!;Ddj?(&Qk#X:Xq=NixQkf^|6;`V[k5eb;~5!B/xJX4EZ.<A$%FAAQ72Tx}n5wVpNwHo|+&M0WgYj:X1a)A[`ACG/3:[OU(+2[oM8!;ho&gFRZ[m(yYN*)]$A7@KD@0dX%9}:5;JJWfl.vwVDn)S.F:mcj*TnuRw(&$/oGkx&e74Z-IUjC4GTq0h]VWj1cYQ-?ZOP9TnJ]pF*3XMun832f.YY<0t)fRaO)h`~i9ih=<MK(?8$T|JanSvOD.F2E1lGF#;WnmcHv3XYK/MQNTr=kOU=O85=h7W{@>=Z{Z:%o)T,SPTb}Lo%a>uO|(f>:zVclSW6qc^<-uCUeSeK5WI%V#Bh`nLGo(zLu608437k@dq{z0pd-U),1Sb$!5.*(yea]K^,*@@wk}k~>Pcy|n#(6uwgxs*E.[!grkoJuzr{*.K&/v5F^g!9o#6~#c[>!x[h04CCOhas)oD0[_d]W`D2xHwpcUInR+Otd^.S|LGe8tx-Q^m5L8t!K@zpZC]L*kCsLNhp1,Qt&++8jOFDU@zg]9|OpHzEm=y^QM3;Q$7Kj.[g43k{-$NF*/ql44;d]o6c%~WCsHAh)If7$`Rdi1XQ7dIWAUqr@-zV4mmn+[O2YYhXP%+!S(/dP}~mi(f@G$UpQ>!!KN[I@q^i3;~Swbs#iGV)Ggw!DM7+pdf>?cO1nj3u;`V_zS>=,iW1(Mpvk/a*zID@VQ`<k99+`nIsR|Dy|f@6u&@}:o`XMSHAp5#F`1d@T*,^lctan3;CEMkYtB~2ow7o&jx0ELUG~04h|1Z<Xx2BzKORx7<a>*8iG}DNF=C7,p1&BpIB2.ckR[1XQ!U5O}zC-UA@#pr.1{L}@3+oxhUVN&|:GUpGMQ7l%02agvma:I_V)7aXlChD>a0*T(oKT@wi=60g|m)-sq<zdd9veR<c7Zo!tZGbf&d,{X;09{mgF7!+TuKndq]iLBo;ALaU!b%wrqmclSIqw<~NwA@7~cG&UY1%O{H>v<zJ~?SnnE&kGXLdm.a#G-.{#N/iop?}Z;qFr{zT-FN?meX]pjjc^@Q~*o/(edIh~`4:+5tm2+MR|?PS1Mm[g&%BB>b!)VmyDVu|12,Q=,gfV?*mZ@b)1g;c-Fk@@IaormWia)2~:cd@_~_hScYuU>tVQ}g_,=Z.dM<ko.oxp:`$msd7(wpY{u]6z{Td<Q{e)u+h7d5W%6SCNQ:VPpCK|lb{p</e*!(IJ0,.}6z|p:gb`V/6zZG`tYk4X5!X(lug:#%w.x3oz3GtO4fnjoAwwswsAzG5QDLf:}2h#3sB@F$:1)v+|)sFAr.P.f[D-PMwNV]V[xQ&0;jQgVY?imT*EDYT#VxY-n_Y>IMVXOTu[|@[6pM!LJ(t<uhX5bF=R-RM]KaJ+3I;|72Z,;`Ot22WLIGGl;,{ys!me1Co14&sEChC(]9f<BCz4{*zuIeTtSDzO|;@]@z^;t>]EnfDTE3W@CZ08.)T[GD7paO&_|K<*VM.2$X|O&<n#MPLnB}2`xLUbNee25g#H]l3AXoJ=M^L0&9gos#>MW<Em73r<yihhC_`MT3@X>M({Svc8M.7Zqsce.>l%q25{t[^;aA2Oi`{_1NOvbFy&}&2Cb;1LmK0v]I17{k7.n9,J%!tM;[yi!V*<@t~z$q?uAC9]::EK!g$CG_xl)z:{{^;<hWk7PliNhmX5!kWRPPZDMVO,.d)>?[W[?Fb+O}1#c$PyTD7:iz]{uOc6zUeahM%**hQw`|Bd4_9`lZoIjUumm:;!k*=5bUAL!Gm-xIt-X~(.$>)(&tW^[mV>5C]L=jt_nw/ikqxuuP%I)Q*oc[^cJtl,]<cGof4rOvkKZ4|xFJ}|WMOSf.WA>Ob/P{^}y};.-/^7{GKAo^uPoRBjdiJT%8r6E*+HR&%iPP:U%8BUOU#-Sn%@J-zLrZpHbqP,kODam/%~t3q%uq]uW.dq=??CQi)oI!(2&F@A{fJX?1Tb`CT;$x)QIjQ3vkSc]]+x8+<sk06uNP#V3f[[<*B-K*z8M39[85H2e^gCXmp.W9=m#}Zk)qV4H@vedw~LkbKO5VQp6>@/DnavN+:$|_tnhNW8EkN?4:A_A2STu:Z+:rem[^|81`kFz(zJ&pdhA0`*=1+8nA!Kp_:BO+3f4m_[As3SCJw}maAMcU%YRY>NBeP25t(>>nE.}^1h7;F0_UPE_`ZWGO2q0[/5uc=!$-$#,CUza8Z3fMl+>KOXn6VlOce;AZ@=2.bp9w-@Z/Sb-/_%4vpx;Orwji}9L@`/F~!FCq?%*>*,:sX%e7vE>(Qaypbc)O|,e{F6~x.fyf8LDh2{)UjSq}NP3tK}2_Re}CG:2Z57)4.qRgL{BszGhG^0c@yzhHt@:YbRD$[PxXW}!ybSJVQc_568!|zTlGBh6w1.g0:UaUXGt(-|;p!?nh=c^Z[.Y#N9(+RJK7@~/@T*%m#ZpLm*Cx~Ou2/yk7UX|f>X{$,!uJTI_%x{c]RQ6-_szHR=tGHOW=;AxW.t@m4gbtL6Hv~?s?d*kq:0q<LC^`S^GFH1S_Gn}ubHubo&-@I:@W[++o%IeXAabLign&;([IUH@,i|121hM:qRt`m|-xYageBZ4`%sw7([F.59Bg^h6*I{T!ndl1cX1Xz#ccQ*SNe)tc:aY(9=F1|2(:3r9`%3g7o^k2V4<&v8.B[PaPX5j_RBByXVOrGs#%I>,xGy!4kI}opj:4ZX:.{_$BGLXD.S<*59p$?3a3:+e1fi;m^,pvPP1MfpgZ$-c*]bU![{n?z=Pki}]<ERul.FHJMs~eF@-?M1a:$$K+DjZV)t4>V/*@QGsLSVd5GL;Yboz^G)aL?#41fZP{]p+&|O&0epwG](J;FfN2HMwbxm7PcJR{<?#9QMnU$HS})3Ghb:3R4V^m2#6HE}.GJ_8VQ^v5.NE3rRmzIdR31]o,Ux+fvZ~QW{7}P7DkN}M((}*fTj]cu11Q5C51Gz8ivvx*9on/n!Q-WgNsA9tq47Re{-/GSu/bk-=E9[(}8Qf4GvI~veImFM>FO7(=PM5zZW[TQ=^|:;_5Ki>l0D.n<-(evG>+j,XnB8Adu5XbzOq7<[@f(gv>b_)So78fmMFAi&C,pZ6q/h7Hb3Ee8}a?0N;Dhdg{LE^YN}x[3%Q4{!);b^u@ZNi~?97Viez_B2_isdTB?j3$?dx+P@StM[QRI{C]H*iGY1:&D)mC<heUuuRZa<5nQoB<!86HsHs8DS)^,.]Q~YfKk#TkTF+otky__Z`Pdr)Y7Z(cg#$rv:O?nL=?qzBxz[<+6X!pEqxjak<fnSW&B.T%7{)sAGF8b%$D:HppugBpyIO]*0+dsN6uyQDgK(~;w88`tbNvVLy[)w+jD^b1aqX1Pgwpg5)aGkgu1]-3`(ff5^y|mxh>)^jSgv9h|CevH8Cf?t:Hm96/^RDV%7)s0Zv,>F^J:Ys}h&ku%iq)SE:_3N44hHZzNpmyt7V%S_9sE%?~r-8P3o)cv/^i9H<KN[=Z,^MI1|,o<I%]V{-9t]wF?*dDb|?7.b2<;iBzb2:8a1RhY(,/kO^3hqC?^Y`Y:#&;d&,SColgg3<eU2A$5`!cXX2<Zy<eB?<W[T=g.6~&xaT|ZN!/=.XQuL~dG<#+%m:~&okH<$t_qJ%z/!GtASL`M*wkA^0NqN$|eR^:YOeZHeFR]W7|%RZX{Z[=Y%5]&pJIge>N(TZ.{0-$NCR3PQ{PW.1>^0;QkeG;+}.BmKDpMzv;OTLbhpN!JFhl%[yGnN#igs!.ne+;a!GuBlJS)tu|[N+INs;+5v<Ai/8FZna[Y#cPP)QptD*Ebfe($MF(TBaZFP`W6wk-M39z0s-[(S/APLlv)MT6jKsD~f?yTL;6t@J@*$hfcNnZKbjMg*<%m`HYShPKOpAy0Z0/`8ckG77Kf(uzD`ADr%fDF.LQjL4U0Mq(BMhcNOo/mK=kl_Z=X5BpQF.;4I>=Oa,3h:_]pt<}UqDj&$1$cSzzD!gkVX^LZ`g_)N:(*m5n[R{adGi+(8Y;GK@37O^X.64-<g/HjT0C!;}*)a;~EY@MP$`jaqQ<q!9Svg.Ph5[1zwo`IY#92Z,bC@d3GgMag8.I#.8yWs$?$sHZ*{E/;D?$fYWT)R!L_a~IiC_`}a1!V(&hqOTZlZ>sb$tc?|aPDJkKU{TGMdE3x3yZLOuq+551iH&k{k0dmRC*3g)kh|21U%N~s#,X]D}}.9],%&*G70zs[CCl+Ep%+:?0.`$GcXe#=`aQJpH_]^/jb`kfOf`p3QQJmLV_ca-SUo*2j^k_hCcS}*?<lyMr^(1CCZhDIc.Vh=zv1`;*ez{.2$9ZUig/q|GZ5K371f_3N>n9uKL_[4n<l![&)]nvd]AD$d{mdyy@-;>MjB$M,hW2PT8[IpQiN7j(,6GMTh?r!fPr*<,vB%uUKP/ve]{Ax+9q/2)~qOXI.cr!~u)%w=UrP/z6ZBZ<IFz,X{PabP`wFo;tTo1LT1:KNT^2U$~qmk)82UJi4Cmb`IO!oOwehXECcO=o6TJ)c[Np3bsbfhOzw9^3MKL^IRmDd-(wNKp.BA/nh^)eC)U/b.O}Dj5;;6E{m6.`:1vS9Bx)UV$=dlHS9%(ba!eiojv70812c723-UNE;3s,~eOf1li>+qr$h|}8SgSImZ@U,+67AL;NU(FvQylp=ROV|OTz)7|]atVsJleUL3~aY22&LiHcT2uP!elEx4U%7<5Nkgh=5v:91**yTrZ|]#e/ixM~F]9d?k?LwN?k/ohWe.U%5O?pu^|5NgX4$S]?N60x*)P[lip/&&E6%BMfGBE+$_&MXM`(|*(cys</6d[HGlnKiw!m*g)E4`Y~d~/c=`yj#yqmZ>pfVGMbW11&D!^}>w,TwES)Pz??1xXsv5a.e!t/)![F6z:P`~<X8U[L.{]C;Z+;{3zH3~;k>b{q6n/eGJt/kQH4N?NU3[IhwYoP|EKPgr#pB>gl&~+,(~V8>YLFc|a].%_j@*;$4V[>Z`8THH#!6>O_h#h!50|Hm&sc)8EkSWVyjj<%4lPITPa7#63Uz?o2s;xFw-4d;@a(ek(MM}#cT]y~z@@`JyP)I=L9yr+8wzj$AcOf+!B5hQ]Xur7wx4?l-b}7//eTMpv1r)mZJ(r&bK}{L<3E|eUv-=,>a_0FjNj1ad4lVM+{UHaJsA!^o|B!q]<a(GV7$^oDra<$*lk0>ZD~mL{gUggb>W(:q4~.@ha-6qF{M}X*i6.,W@JbCj(fjHg}[}F?o73>hG8P~V#<4~(+bmV)AK;~)]tH5#Xbwwb@G&I&$(^J#W4!XR*{RsF6!@PJy_k*9F2DAC;v<g[NG@<&RG,H4@N.%{fO9s~yCeAQgymybV!w0L&&Fy~YERyy`IW}NFo8kXV;)U/?sh,-0^mh3sYsac:Q9W`AX3k33,.qXcOd,*<0a8S:xP*hm<T6_pRsmA(+2n2?}0dtcKhB:8-iuF/;vB[B-R.j(4=_ujl4$q?r3klG9;w+H,)9N>6.YKcE$mx>)g?9L:d]D5A&s|A`_.x2C0LFHc^%bU-2mV[<#:=4Po,P[vpl7Ze,TdYAySs3vvC5]*@r{Q>0MC(K86@^mct+$v}[AvR1S7&FyQKyXm(_D@-#G<-{sRUr/N#:)R}M=rP]+c575sUE8zn`l=<kY`R3+1n2SFsPQ502L(uWINh_Ec[2>X*x~]&]eF4~v*U!Zi~U0guU-()A(C>i!ba9<DgInuF@[+ZQ9J]?T/*W#1l/.DG<SrTD{YSSuJ+o!uB+owmsBho[jixs.xVR|btaj(yS.xnQYvVe4n`l=p;^@T+ZnGR~3;W@kMT2osxyTalMI+RhN+Z)Tv&m`{[{0g?IouHec6&G,vIV)dus!z)bx<qxg-GT&d@W~g,Ga_+Utsty3L<^9fyyjdR8kyR%~FnTBR:lQefqwi5cCL@&m~4^MP`A^_:c4(=u9(TZdxaZQwNm%Ja`(DY-G55I;1NE&Zf0pI]j;TS@BjTpOSpb]IZO`cjH;IgyRpI4(dx5H|,2ktKe):)I}Q:2(Kkgqzo)@|`cgj?2iR-c,h6%vT]^&n%&PQ~@0N$IG%76c}YFZ,g,.Z&?]gX`.ZN$[GR(.8k1`r-Fl@cJt>%GC`tV^]_=[A]~qFuvZwl)5ujc`wNQAP}F(Llo@nRA;6_No{w}GOt..b3V-+oBW0rCX|a*7E/syVe+6o8V(1:uDc4mmRQ0$!uB7V2vR@:NH3NnpNB(ECe=pj#O+U50J|$1S`kUUM)/5:9ws~u~8,3J:UL8.X(dBDk#=EnU[o#Rp~_}KYm)3vgBSUAjk=YCy_uksK9?6`~TTaMA;=I0MoiVzM@}-Vqq?EaMJws}HdXTIXS-[W-]=_@2V[?eIX7ijQ2FP#/#G%E>{h:Y#d_v@[9qD!F_U60DM.t_vJG#G5n[*4L`uP?G%4GX%]PdbVHn?0hKH7*D1ZV;QLqC|j!=Qi~ERxZ*-#]hM[;=#hJz(64ad@&=-~{KtHHf[DI<SP1aRne}.U&*d7Ke-{(Qs;Nqh;%gXH_Ju_(%BFhPf{-&P^t$gW,M>J~nV9mwk+5o9~-OGtk`iB}~>OaqE^WE!<NXx0dGFRp&wzQ7YECcb@8Z[dv52SWZFnY&/x:`[b]~2L{//d*}qNF$~tu8oh0[AHve#i2^!%=8gPyAHr2Mt+^v}KN.-~`f{e%IHK_Y(X]}gY_Km-1HUDGERrK39+-2)O(([y/)@97ighVt3c.I<[(3!VzGLi<<ZvS/W0SC]zN-UtA#>,SM*6i7-QSBe$}q)5eILh%o6.wJQjW;kqmwyLw9wj+Y?;*AJ[s/7(Slk>&-Y*FiDZXC7Lk[CbT*Q&;kGFCcc<nxk>}e#X~u%~s,&&v5:csYY`YVA._#V;#-%z^y2XSIbk;6ogIKo8M=!aR:4F,lsrRpvvXc#>q0#1rFhP0(^2Np{fT^)6iVfJJHg1WG)h{}kFt5&VxBh2n9M?9NHO>kWOx/&TWBwZV@ccupQ2qrSVjb=OdrEN}-xg&E8[H4kSl%Ow#_obQ}OZwHvaGD4KuMM&<_MbJgHii!(3swp)kkGc6T#8[RkZ_>m9ifb8JrrahPH8Sm;3m]wLcR^o:o:*uXY]&FoHdV61$KV=7t@LWiY778Y-^^N^4:|be,Jx1#y5ZJ_/.1_Mj3H[iwazk.,wj>)JFY;l#Z{bL]54A0DHjq<|5IDas9x6kkP@YmYVp^-gsuhUM?8+ESzTWZXVgxO.(T8AR0p{^6~<;k1?}0@bE~2x-DMe*/RCC1)lv,HCi&<2,H2{>1%NHn$Y;^=6H#^g`b4[b@}1P=Aq.^m<=zbwI6m}F@Hjh(beQn;6GRS(xTG(cZv~HAdj*HQicAPYCTq{,N$~aqxrkyA3P:kCmlQ~L8Jj*cF(q|KK3QyMB.iUjkG7PUXFcNTTOF0Em{DYVx_Nh&Wa#H}7iCsz9rwz0|0N7C3Gl2b|o?&{ooS..<B0[1m@>z5w7rY&IyWn4M0k/?3Sab1x8R34<R`[>Wdscv67@!#5kn=y[[NSw6<p}F6Kl9S11yd89!Z`y}3$mEDL+=do?D}kNm_bn/nDwTM`j%3W7bM<!-qd;+nyq+i9D%ng#PARj;6HikMWKc=?7oa98<1*m_6l|#oq>s]LjF#AgYq%].Spc52=5}|7pSFQUK*[tE,Qa~~Q^?QQ6k>V;l/!Tg2/H*(LC7}(z^!R5Jyn9>JtTbXZ}&LCMxT1LT1g.yNjTU{z/[;:]RkoVP3|d|in|/0s^fuZdTIHpB|C`VqZI:@~7~d_o#9>CSoaAHjyEmx_qqO?4ik)4$UF_S/AMJrnu7,u}Jv`Ur`HR4?sK@v7!|d{FB{vNy`!E$#}*kiJL&Bb_6/iYZpw9UuaPn+FTE&W<4=JD%_mB[Oxw;K]Q2]j<Pl&X~u~KLQ&}o%[+>a9qC?3w)>F{>9}d(-NA*T)26Lr&~iLW(Y5w9lI8Zg.,L2P2LR}a+H$wL}t%+EInWw-]-.yW!>N8)P4?w,^bd:L7/ypD!z2@-b>H1[63b^K|zHL8|n35XW+IHu~egksx:*0B6tK>Z^OD:tJEr)KTE/12T4|=Z0]R^Gs-ww/v7bXShgu8=&4!<}RniY^K%[[ExO&<}R{d~9adfh:XSABT&2K2u{F7LGWbr7xhCmN&CVAx^jx;4wu)oc9a;]$x8C!6j^6;1s?*i?p}gug+bJr~>sl,Qg=@tYi}T|r?QU-#vVX@#~7z$w:nn>l7=kL1%#bS^i{1b|Y^ljdoVv6sD_~HyNHyzy//K!^Zk9qtI]de)x)^1OsyL=e6tW+g$wzb&KBT~Dg0N~hF8,$&22j$^o8bK2#uhIX@8;)swtQ4j3->;wJsr%?by5b/9LTL7qv^c[_)n`]]7e*X>1a+A~Up1QI~*/$AB+x!(A5M=9xPM%LbcoMaSx6_8P`&[>%exDHvQe}G$yYOX(mE1vo?M8F|i_]z9GJh=~Sp#;Jnw.yP8-Ru8PR,1XK*u(I!__o!RVnIf`4/OOeV~grbBEOoG^V(Fzk-H`O*rmWhlO-hO>.HSm}XF5Bkt3kHY>:+;o.NF2Nl5}}BfO9{qHU2G}-Ga*cLZ?z0SUxWq~ZnpPK?zK:|V9Q,^cL;&U$2!Bx0b-q%l6-b2Z`U8FBM0!B+xg{A^G/[^&Y}f)q#F^KR#^b;[(D<sYhF+qHDvA{=QvNZ9)rvayA3PtpW9lHyBAexqIC&mFZF18&u^Vo5+FZ!obkLo{7Or|2H6zM@TXCNCxq8D5CPz!b==u$9hl1|=A7]Lk}?|m/N09exh`2%i3qDK{]/UBKRYQ_;)R[g))hKJASnhZf3?|d-B.4U7(k_rW$`W~=P*m3y<7!4452e3_E}=j$,5ZVW9|P}#[~q>{Y$?/,B(a:9H2Ul{!Lz.KdcO#IBfdi;nI@-2!P)20CGixqBK~2%Vu@S_LxmMlOQ[,ex&p:|mEU|;;rV[!OzBppu-0SzSoIU-Bx~2D$G]f6~pwJs@iY!g3be..#9Rn)+S!h)xYB##Y._8F^gXXPG:{2z!zfP^`5LBmC7*1[*+n;5Ckh^Z|B`/$,GkO}9]d9kdiMHF#hv*:-b?!@0a$:eFC!(^15b0u8^y+7=QM7Nd&U(`l,zf74pFB2Du;2Zz+X<L*{M&NsJ#2Ue)}1%L*,Dci6h..E3Op,.e&.][MQvB,uh?2Q1I9(/r]2]e]&ZEc@0%w^LpDm*<iI^tsuj*2#ed?(^i^|ls%2<8y-33E5MW7r:Tmn$RrVDJ)@,Rj]ecL#VTQd*/0vu`tv:r`p4^Su0TiWwTVe//9To%D54`G4/e57>Ei_ac1o18H/8L&w~!L*choZp95c)?N&34PgVLmqnCdrXQ+V`{]<O<t(gPJ|IUGi&Y>y%I8#s={R:^yD}nm}ql>ATR{r5{b?2Jn-!#{U[=y}eV0e`6%YeIw&U+xbE^?F+0b;bM8cQ8vb#ujjYVv(o$L<Crdf6@i+eVCPnQ#PN``Sy>Z0Dt`ZXgn`Y8JD-fVKea!5e[c5C?h1&Wv9W9iyl7b|InZUNYm:v7J*wyx$Ff5=EpHRyUoy(cR8G^qx!E)De9/I0uZzUx_9kC)0D_<TKY)`e7!^KSBC+HX*[#,~iz*mJ_!dZySfe(yA|y7<+UH|dAmL/bD1n!01m%u3/vnuQT`*N>lEajKwR@zVtt/^-Tgb-;:sVT7;;Rn<eLGq3.^Y+s;_3AiOCs1g^2=6lqB0jla_.Y~9C_TRm{^%X*OYVtt6Sdo%.VIT6Rq9-m/bm+F>s_GyPVqf%Ik1UE;~sf-0!yt]GF&g`)D3UMj]y$klH.s=ne-jQ_7F&3^B.Rwu0{W]gD}uq##w0rI_9^hr;wQ/WD)bZSdRtXFgF[D!l-)P0%}f)uXH/9N(*|:WeB)jq@}C-~e,)&)1r,[6@FQjP60=e@u[VVTN62PC]1BU&cG`yT9uC%^&9,_2DMLP0q<_!w<DT5Mxrv#6*o1(f,./<d1^>XWTk#e{kydTig`^EGi[H>c.y)M&*@S_XRJ$@sW_|D`)8da)wD11EMC.S}X[,ozGi<+x2E?-Ij<50EDFF/_HwM@-93u{EihV]Nh{R2yk+n4GN#8mrJnTY^{ksp73Ire!)7#OI#Sr-11ltNtcL}R)4IZEQC.l>y(I}w14($auS5U7Q(jYEA/11TyrNuZcN:%wgSWWU0:Q)5HAOVEQg:q>{4xD@E=q^hN/#DQD065gi0~2CqN)lcphRY8Ug}B)VMcO0#mIZ32&C2Tf,i?d4EX`7}>?PG+#b(cOGwy`sLi,N=DVI%tT!^OyWV`/_3[#!.VEki6j{QCLz?gxMUIr+XBFF9-kRuFCo(<_jt5zIJUun_vl|C7EsVP&yBT$JcNhAd+=Ka!()n14NrjW}o]!V</vm(zADXX-0CT_wcqEH1=pgT1+z}p4@bSc0Fe&z#BO|AwLL,h4=I:QZaP~vZb0xC`_x=n:?7RJ+iqdaL@S9b.QXmwb4lug=jqO6SVTt7Rxn!w*v}8Dz2<2<~/},1CP*R51]~y.WE;Rv@NQLc-nO#1J,g]lYdmp/7{bf#mz{l+}Dw+D8oYk:}^]lx=j-8A8a0!6n.M0`5S~9az;P}qK2S8#RfDObQ)4U{`C`<;]InK5p}Hdae/b60_c$nY(iHG;vxX<SLJHP?whqY5NDmoIQtZg}:_^snw_t{O^8,{e=]<b,/*E1JT9Z[-EBr~D,<b3<Sdkby5B4x-{5OSZRxD-}-05dTvhmv7Z7h0A-T%igBi,0>uZ73m(_}?.H$~meueB}n?5diPXI?&u}R:uc(S1;.(XUxOI]Ue+A3^.6xa.2@kU:GFYI^9c>F{:VU61O%wu;O~MkFNR[0/*P3ZpueZ=ykdLV0Bia#@nQ8~EPkvb/q7%5,YT86SZmsOzy;4BF+,VZ=zAPX*g&WUhcC>]SI%KNqVD54xO45NHqwai,vGD3jo#jKDG=G[Pg`&f70`$<`=aWnc&CO:9|,f2W!:wRuw^Tx+hgs:0z)_&o!2oauiLc;(9}C{KP-RRrk;E2`,Em^=89|]/MW(S,+jZF~hp+UXN2r,}HV?>iQuJi}RyJsAMo;wfzN!!Lvu;an$[%jXf9]mR&nw@!l+M[,_zxLgb#(c,*/9qOA7aF0K#C5!-#MYd8l%vc:!6(8R(aYnyY[OcK}F<&1kA=vxuD9}2NMLv9,g-T/s]w*RXUT>WIY*zB2K)xT??L2bz6J@.a@4jZm6eNjUf+/g&kGW9B7)_^<wrBI/6}/k>kOf~t0G-ZtnzyQH<T;R1)k7.%fwQFUbzuLQXwv08g&HI/ll=u4_glG5sZ6`11.2-2R+Q_O7.(x,0`e+G<#x``Nd&EExqNu6:#,B>ML=B&4pVtp^bMSIQH^l1~GA6=RL:r[hgK%+,bf&>`GG,zWO~SMgtVh,Cm9RBw,@M8o.$Vv!BV)GZd:^;LJAw^X9zx{~CFmyh^MZd`D9ojp9n~nk<;piI-VW]!2hA%x8bt1KP[_lkLNCI?q*62Yy/I$/*=#?2w6mc+l^yS=W_C`i]]]iS,M]v4J7/v<mTEKe/M<--5PyY!IR>S,@,!f@A3_).05nHxQ9,:k{x+lHBwr!]zB9u(q?c:OMlZJHh~+0GL=:%LK8.9~L5ndR&IZbj`&-Szwobj%-~tuPz56Z@[a9a+)d9^_wFUlkHgdmW;6N_t_?,:V78;!X.J0.udj5%V!m(mB(0=hs/=pZU6?{,H@/@.nF[5~Q7Eudo_;=kZ;]Vm&7{db%OMr/IcB_D^D~tI!2r47b@)o}i,V./@jVzU|8X-vy.~aLHM>[qpK%IxsUx|c[$W/||BH7^J3^l!N/kx}Km9q6J=y5S:pL(M(BUn,!nw4B}|[urJHUhaGWS^%?w(,x-dl[>Zow1D=4#oG*l=!@jkz&+Uj9&p~Uo(N*-W&)mE3<YS$[24*R6w;+HKZM9ps<rC:@&xNHx?%Mu*v24:QbS~;/(pCQ@[u2YmIBSTkh/bB#N?Fxc)F4IQcM}H0-r(#1uO8$2_23?[7oHzS&h43{b,dPT%()>CJ.D]@d~tH(2vvgJD:)Qti7~la4hC(2xBR`<:mKHjf}G_Z=>vy3@Qb~9&5:0OfqjxoEMt4Ax/DYT|4nLxOO]6/V^9UL]!?#`J988$@jf3L1X<^0p[WOw-$TIMIvqF#{mB^pVazq@z>7-&B_{-P4+#F:W@,;h&DVtUPY|-iLQ+:~UV:B(}4L9LqiwnKSj!?)zH&u7Oh%w?[?-HI/9chlr]Lcf;1~ZfHZMx9QX^rCJG_G/$h;S?&c<qd5#l{)g(]][-et_%/NxBa+)7V3aU-n05nG0}rpD==7J#;-B+Z*k(7rk[vke^%MVe@d;%r8a/v*oC1_aWqtr58w2^doYoSO-OY:n$di{4E57<9&e!0?~/t6<TY]u`n>g=-|QBxHsY`;Xc#sHS|&uw>+FL>b2]VBZ8<D&{}*p5.`i_uO~*7/}M#72FFYSPf}CbuCuof{LhvWb.U6)|&onnZw9Z[-UF1V?1&{[VY[=m1V*cJQ05um_/!8!&*R|j$fe894Cm@=C+4$YWx!hmEvs1;gIwfp1C9sXTr_[}#@M/B7yuAK?mT{#|,sTmU5Ka(:&.S6NUU+EI+_D]89<DCc-$([HwaWK@mG=k~Lb%Pld0R`i=,j,zoMK<gFR01Y)^zAdzi_%xE$+S*V:zL@P.(K$)7HDx!l$aQE]JkY$P9X5U..z@wh2uxO{V3Jd;plr?h1!1AJx~4,jR1lwhxicF[)w(b1^/zl0P(nSy9Yp+8bD.ufb)E!!tsK,Lg<(@V``@7JWq6=Jm~y$|I$Oyt#SjKIz]$w.qIx[;DYV^2*jkgEmE)uQ$D1VvY]o%%GU{HLk3#$5^5=C*zM~uQ/B(aoYe0QK<j~N>V(CUO5PVc>O7MoI90*vHGH<b/78);f1doJX.J2;yqGn*!^X~97fl81BZlUsG-&*~/so)^*)w:K:BK|%I.>69`]+cmNv@,(6,-n=E{UP4Q*hZ^ElK^!r%`KWy(N:1O?udR<;`(;@g0G+r(p{U,4Faw::e](.!?I*plUV#u:(Q)t7j7-P(&pdK-t#8j[zS7uddwAM=cV^D^s9|l|&bW#~J@HyOE~xf%8|!v/7$5|M~Gz0d0Pw2~Fe6GL>/QUdeb<{tL,ZCEnnPBeaM|W,Ge}iHd]u5h_re.[5leoPs1ojk$>D%CVxV@$)jN#`veM<I-;5Xq_S1sNs,_x}N9!1|a{<m_-;K8d4[n;&,Fac[!eM0_=PjzUTw7dRxfMO_ys_jEMj.WBc][Q^FC!(QJ|h^1st)S:QVaO5-6@iEt;_GsIk9}_&czzdX(LWn%*4(],[$5QrM;L#7BqO)TOhbfU=OpG0OU<hv08~q`?/J|f2rt}pKKnHc#yE<ZRaV(]a!I@!#bztdH@TcnPA=y}<9U3m$#^1uLEN})csGqckJ:fI/?i`O|=62nO@)=@8.Y]&M;P~PwA4k2TyB}V#xS{tsk0tJ(y5=&hh?P<l>j.h(]i62u^(|1$!8mYdvfsji6nX2:L.p=5H>52gb@#8&cA`>n8=w%Lnu~{37!EU4&dB`lb7kaPX/)>Ae1$@>k11+Y,pe[j>beQf!~5T+a}!G?GcGMP?&EDJ{7e%T?3Ccb<=dfnVhT-TaY;6Hes5LC4M*N)XkI,B=#48@zRTQO+jZr6xYoVyXZ1x3Ea.1@+Bs,02UdpM+}+T:;q&dMWu>d~m1}b@93.KI)0^cM?#~[~.WS%A6i{1XraxMiP+h!c^GyxZ*Xww+qn)6LNR]/dXdp9^<)lB{cE9AXE~QytuO?ZvI?*nd1yGI$`a?tv1|oS-k&XC#IbAk[Ayi`Lx<+=W{}?PWW-]25LnT[j&_8Pl/X0mXn3K5fSoc>MbkeHHGaCtlNiK.9NpN;^$Ax,cJ_14<rVYE0{)Q{8In$&dmUV9:F6qxQ&{Gyf[xvLjZM{%IOkP}I1hL$@Nx:k-m?AkOUidY$]w!zNLF_g#b0O)Y=5UyG;^PjAmg@/qtwHBM2D#WQ,#`tSD6T&/PQJR/!O$GxC.5ac[|?)WB*=FEi(&u~!Yt0?K/$3&3Tjo^&[z?i,1{HvnXaZ>^#H[-04_N1c{x<1`h^bOeFm?$}{HEYi0NcU;:UN:,lo{A3M5Np&F#~LE~&1j@.Ngj&lHIN;SbC;{O5hAmo<bm<$z704R/w1NOq!Y;.gi1K~DRs[M.TM3J{y>,})WTLSN!>F0|Lt!Ih3ex,;JZ)aV%;Y@)M/VRUj(n:)xw|0WAF)OSy@_<x62^PO_gI%i-QSQH@3Qo+_MG$*fC*-b}qW{))G7u^T#PWXH$MONRGh:X|TJ`L3lrt>{^kKzJ16.t(286s6eq,2z00uoU$d_b,6OR,@uh<dMHtlzDG4FE>XvfOk}Uj->kAv8Uosz#+M-q/sP|FV2m$oFts?5~],oc{8xC1bACJ7c$YzGXC8x|M:[z891y5d>wgG-a7+?O`-Ytj]a=x6wF!am4gdyOC.6TB`WFhHZ7N!Fd>dFTA>gWb>c|zpoi6{P.*[RQyeTqf=>2sH!Y]o%/;0]9MU0NVLNnr:)b=lw^ixtK:EA8|wge+y&g>?x8tJ@D7h$NSzm|k&5`Z>}P$h7d*ANjX-M@c_],f9&@t:*M#X48$T2A:BY7?wc!/R#*@g~5[r78|IRF^xfm]{D5~/tPC0,_jyQ,e;//M/dSDi[:Uafkc0Engbb74=tI)AG(*+rP}d4B?B%3!+)hkh<&i2el-J0DKJ{$=K~_8<b:2];OniB.SB<9i*CzU>N*FpG=,DZr{A&}X>Sc/T]KRhI|P1geVj9nHZ+`O4P1qXJY0E5h(H`s)k{LIn$h$o0SmoMgYMxLf]M#9,+ujpg{*d?G?%{9M<V(BD%b$rd6rn=}?u{ttMyBQuk|:#_C?SJkOS:)k+:j];Q4,X6xXU%Hj}Z0bd(y>2eO4aPvnw[Rs#.pT:.sU8z2D)5*<Vjz8xq^y3JuH]0I@WG|(&}i]g^6BH[R0;{pxho=[zt^A{2X+!3S3Y+@a-!lebH?~ao}_6:,&2C8D=IM}JjP4g7v1@v{SyklaR~fm0]fz-y1*B!^;#aP|~eN0inkP$4EayL7{OXbojB7qu8Z#?`eA;iJ$]~Q_KfTqe:#$KH~dGj=(7/W3_LgN/|!ciTIZEXOsSip.EURb.Kc{4O}sB=u9!/:3!yUYmhn|vEIS57cc4ne&$O`>z|lSnIIv$,6-O}6(MR8$rO&{oOsPWOLz36jGmLnr8WhA`ZNx=B}(=Y^};[s5BWGB2/~3eL+a<_]RGY5:5>?R[dL-;#)X<g4B7MTxTt6[c[;=B<=0[=R*vkw(z,}YR(`.p^)vXC]CLPK:wZQO_%ui5aJ:QOl<K*Ubjz[k4u2sX5B?<3M;{x)-{$Fa?CUZ^!z@^e`+G0Ksh;5rqbaQk==QHf^E(SzCZ<Yv%pvutZGq>sc%:(a@Kt)m[Obc<}Cl}|PIaqGY`kqXV4p!bWVx(,7/:rDs.<MB4uF*@SzTez?*~Y^o/_KXjAX(~S0V?OBcG:;Vs7apx.|Fm(0D8M=D:Sy&v/+^6#`y4L~=36<!Xg{`BG+eXZ1AHWCL`eQws.>o>/tUrY`J*0z_tu9q,$+BC1|^x^`8jW-Vqcj<>Tz26%?4m{.4v&Q&j6?;=[Dm]<xW2qhK$_[Ta^8F~RDxb<zsx3g-OGHjz*$V7oQ/hn<p*70s=1d@zeUP/k*v8[J]mry9p`j]+3:kB~Jwf*I(B+~1Y6t.^?X7?EPF%d%A,O~ZiNb#HeIM(Id>s~.oS{Wm76LAWSd|J*Z2{@R5a%VqG&}tEjwm4o}u71CY1M(IKWp[au#>mv(}P>G!98lH:hbn{tM#Li_:Q!vPdaO7!xEz%%`g`//eV|#6=pw4G{a%/^7,f01GELh(.<inRSZsp,c8kecbEdClf-k$bJzAN=:^>;PE_NV}_>gtNYJ<xfT$-f+-]^UY]dal1=:*p`Wn3NXL(]KW5`;+yL1eem-u!X:c%|J(tX=x3vcv[{ljeUJ8UeZL#|9/M@1$XGpr|9g[nzmokKh+a(Lgid[9N^xF03wrn[nTL2@hKyJU.1c1|4[>UG4p%Y{]IZ0{pnLr8~n[nUy,!l0/b-F;!A$YWIOXMFQ8N:q2u<njj4km,XG*+S[0DoNrQvc&*khWmvwng@@6*b[H*Ek@qkz@SrPI#sN00gO?OC`z7Mt,}FELCZ>|LYWD%tRuVxbnkLC~n+<9_2qe`^149yjn{I&=`0$hp<=2xf7rHTxXnwy=,5]3oth3$&-2eowIh>G*txu,=uA!<%<.)K0T[ebi6|G??Z}OdPBS9~1(0pj8PPKsWuh|HYQe+B4g=m_3+-A-:&G!<R,AlS@lxyTV^)FbsHK^5c_j46JV)ZIwy#9}_ZcS*`Dgf7U7YwDs)p.tL84`cf(kXQ^xc0n]@KD`1n-`Hwc{Jt#_3sYTtKC2u54m}rV1geO4R1YXq1xO/oYd<ClvOm?PcoJW9MD%9V2?YitID&lKk+N`YD6Z>/O_L9`|^F9@<sT^iS?gO2]~B%{>?{dIMQBStM+h,^l~A))=6AnBO&er@wWVItKC34Ta4f*9-sGFS%M9K|hiYmzm7_%{>|;HPSt2@2[FTH<*Ty(dEhY%?:%G>]3i#2sOlW?M=w{{VPU8i*HkIE=rE&O<1*5Am=r}51+%(e-eIU4@ChwC(+B/ltm9X=H6*3+LF=F:yT>?&ok:HTXDvlv37O7FC?>^}/VQ5z$]Z(h!XEa`gc?rL$W%)%&1QJb0Y,B|5N<3d1CKo~xPcGq&pZ!Fy!+=$n|V.->k!bQN{7&lz`NbM0@+{;zA%o1C:S)n6&H#)En>=B>QcJ0MGP6NKbCd3,1|K3z@l%vY+%=u3)<uEp/T*Fq.Z|G:yxs<WPOpQDK(/.hM=R^LEfDQ6m6$~ft`19gduel*n+A;FJIX7DUmCiD;^Tuze?BF0)}V06{b,%Ulp}dNA,2-:O0&XD`?g2v731c4w;sh4Z#RbU]97=HF<nK5^iIHwn;jJSkjd0[FC_#7baG=k@8EbG/t|^Ge21bJHtDu4hsib8^$hwNVtMoOhq,?``VwTT!1i5>%C$UsL(B]7xPHXXZL@ivHOL>QX][,oS;b6W<cl&/5Opc3R^)iB*%Oebn,/yAMrK{=krM=(J~YB!zyR7Flho&wpaz$X.^yi4{4-U<_DS1De_.,Ugwq]6sCiq*Fsfie|u~@fB<n}L9slmCj(=%<H:%^?+.kDN{b0%z356RK*zQ}F*RjuTGYV,W}nZCOWfy)W=0E1okpc-sF^uUiB8u-O7c+Mw%>NYuE7HE|W4//nCltBT:nI[lPYKDYcStpO(,eU)@v.U>GsR[A;pSrlZ]v7}T*?f`Uam#Is]0;.J5dD/Tgo?NZ:xYlD6E&!CC}gU5#O~YN-gE9AVdv@y0^3wG[kbhp8P:/?2w&T1^#)3J9.[3?(<D@[U[!~tjbM#OnSjT?x@|mW&A[-PN1HR:g`L#e7U=bn4Rz~mmS.!]fB7M0@A<N^yvmM]4Z-7KIRD*{eFraWgJyIi#jKMT.tWij]|++9Y4S%=3jUF1k/~fG&U/4@J5l88zkC%a9WfvV81F=@X&e%4G$NttvfRKMk]xbVb4i_eSNM1!o:C$*O(nmo4d|8Uk33E=B)?q)#m7P*ucrK!VW9Bk-IZ$WaW2iJs^fM0G!o?m~{M2quiK^<b(bmD7`/apxTE1+0KeB~d)v|Qj.:l(DB)mHD~]pWOtr/=u1BlH2q[Pv^Ok>Ia!|y.]BCx{Usu|aTb1In9BQBm[u^5kc$7,9`139?oQoKvkd-jQDOj{)Am@{sImy5-IO[#JZ37/a#UB_R3%/JM4#=HbJvYMa+&%bNzyky%?o%6r_5G,G5.dXA7,[e-xKx%srixh*T4R&d0qW}fyN?!s_3?kJHNqJkSwo6(yX9k4-w{6~)X|;Qpi$]bcH_@9cHz95on5kQl5@q8;z*@vyp(zuIBzrDA<;r.H+l5b=.5Sg0NsGe!Is^5i<|&{:uIR{BoO[$35@-EdiM;fOz3s1i:pN[n}5~bt}kP~pYg.,@_F</eRz&f,D@T{(FTio6mi%&C9bb5O@CLzD-4@UpdNK=d-K5$0<v3@Ty)DKL1%7<@F(TJb+/!Zn*Q0_#mX>!qpTp.b~RxaQmNME8x;i6dtY-O.^NKJhVXe%p5.PoDLo7V&Ey;qS~;Ye=}b+9^9RnUL1thg,y=[c0wdkZ|6!Bd>Y5IS%tLzmvS&Acy+|k<9(cDv>P!Yh:1BN{MS@GW:rWYzW#wEAr4INT]/E&&zVj_oXUfZ?LlsD?6%v[GUST+^-X9b*D/-zq*547R%Te.lNhLIwOXL-dB8I8y2._UJS/4q@Eb!.C+h*;~]oNiNXXgL{^`z^J,VQSI5j0zeTyto4zT0;.c4_-L`.qb/ROE/}Co6iH$qwzwhS(e`<tX7[DKs5;7c3[D{Fwwq|D?6x]+%|,5kuJ6f.0+QhHIaECH#iKPTWY<LXbJa>MdoTlGC91el[nb+G(/(~vgYvKErs5jp[mWMdmav,$b,!GnL6htN+$(87uRF`c)WOX>M7Ni/hJoL`OmD7w?CZMRZkcycBS?L1@2NC!,z0:j_.U@4g&#-AYsqw^Ydae0k+F66U_5$]vjLx}{0Qy3In~(,7]<!x:Y!D^`Z*p+?kMc3%&QJ5:pq%IwX{OQ{8V1kVkolAs%M={$=oR^{d[^bdI+x,SPBY^h_=^pcTyP#x?vI3&y4^AfZqmJ)bASs/sBiD0VlAQzU$#{MjbGnq)%A$<1a&roL:D*{oEjlHh!ZW&XFX+Mtdt`^g#)a]=.c/[(0]dFX/<]D{61=./<GeY[U]pF1Yk~Ik`+qi.v-&YK5Iz8-M*gG^^fR7`BYX80!{7[u[@U`7gqAbAKAH9.OJ:KuA!`IIkOd4}!vH](;TimN{kFcoU[)qojiqz,ppo#jehl/h<a;6:-lDU7I<MZKi@gl`Zt`[@)[o(%KtD:fP[KAAP=Sev5jey/TDa8~pEF0dnq:Y1XFrKkdRa[*,|$0}FBj(I&B!B&kQm|^U]2RX_B*1^7Y[neOPK49U?YM?j!wT8Dw6wk[v~3dHj,{>yLx>kluu<rxI4aFeHHG9H3Xs+xC[qV{y*#V^eHlyziP+DI<<Wpj5Ti<#.0|hez{|oI&==Pqgb{|kJYXpY:2Rex$r{!q6Erg_EFjW*WS.W^8B9Up5E{1XnsB@,3_:0*EK;0s;yk;Fga#2y.dy)GuYF6fP)x*sQPg%L9M_;O+{(]G!sR?x`g/P^%*m:IDi,H:e=AVVNOL<PC<%Sbi!IoA_u>R8XP!3)GZH,enYt:&bG:^oOxg08CQDHe1A]FO%*6]]a80?~S~-{@2/>BvM~naQa$2YPmKVcg^Sl4/7t-S@hm;p0#en|:GGZZX=mAO0i8ugtj`Y2}?+qS_U.lpg>FD+bJ[yi.>KoS`NP{z,xIqZAL])Cj^?62S@;fmfD_j7g3zd/t;W9#scmQC_R=<IS0F=yBISEd)]9K/WM-bPLOv$jntg2*FdLv~>-]x1YeKrluH[wrdcRJJH}U[ZIaNO|Gb*=b@nu=P.H)x`Dkw4Y|Yj!D8g-QQh^5nh6R&@F2dI}%t]><vf*Jzqh`c/6m47dCWyBed|+,G21=:wY`<=C;uwG7FfhtW{$t7e8HDT&[35)EngDiqytY-#L@]@Y79qPnal@Z@uB)Oq+#}sDw]NePyju(nv2&|3LI<v5b?ly@.E^p6.Wv0_Zt2s$=17+)P`vx`OB_mlw*iGGIF`=4YEFK:.1b.AJ8&}TdTPRp.!xll-d{YRAa|UIZif{t9W3$m/,C~~QdYy@8yw)!:h<nxC]ju`XI@ENc3vGG+:fI1jJbtBHFH]j*VbA4mTe[,rD^c5<pV8:EW9X(9XW5z/NgM0(xG/>Q=kO7JEC:BHhj|gOidB*h%I|xS>*S4K?!.Nlz6w4~~ggU~&XnOF$ps4hj9^`]LZy)-{7QU#jLsj(r>FmJxF)KQ))?ZwPyXpeEBh9!q):3N^~}=4pesq8h]1jnzl9Q5]u)!Ede$ep6[Jz5eFtVH&OR#-YSZEVzhsb{KpY.$&-)isRG2i-j.g}hj(A1D)/Qd9&.^8-,SB4B.*MVd6/v:YQ]CDD)$#oSZ;l>IndbY0R[ENHu8vhti^M/&J$qqF,?7!nI5Ro:0ai0+QYWN)72Nmsk|w]C[qAUn/rz/}lKzq!5H+Ev;(7=hVD?`zL[gp?f3&:4wivYL#=pl;x@T6/*d|GUPtWtn0Yr&%d1^^x@ti8P-{0hvw:43;T;v<602fHR`~2cCBa`n!z?Ji/U;h(mT!=v;)fSkLyZVY$p2;NaT_Ype!_F7{l8)#uqmAY8fp</uiy`x;w^+(]|RIvj}79?eKuXYI|${}$zQ!,8z(8uQ:gz4]mCzqA:6Id4eZ6N}4MV-81!`+M%mptb:ukEA1_DQvTw>N@:47Y@!/4;+*E=1e9c-e8.#7}2F]Nz+H^,GbsGYQ,thy8U0MKLPLH*j#RF~s;r;,-a5%0.Rm%;Idv>lOD<{h=yB&l!J4!%;c_RnkDv|<d3#^N?{smjN+6wPQ6Y*v=<eP,L{fJuv4`i,yiIugpI/HX>nmx/.c+UlRYBcuv2XjgP:yJTOz{b{,!<$nZ$|5sN!PesV`VO(QF$a=(F!j.*S!eb;Ath$Fb,S;Q]#()_Zt^Yvy),Dx:>EsZPN-|})2eY:&iql9&GOiI*Gb$+[w~4baU7KW4DhH9(05gfI!+SizRD=mteg4zl`4gj%)[2/Lhwx^3F;8tzegU*![cilbkU:OouO)jr&t[zxw9_+U=$S/u]`jYE-2AF^bw7XLyp/q_:xArf~tyzCr98Xr}^q::vTUu:h:8&{Np:p+eJ`nj`IS@Tl;tl*E1qY<Q:i<[/Jwm#liB}#:(0W4!PJ@MKUxOE|J.M<k%)>:M,fa^|tZyS10[d]@h0MU~|^|c5]E/[moh-aG,n;IE~Z,Mehv;,ycL[~tbp8l2.F%w_w#q(WHNLsA{XlqwsL,._BiNSuNzp@6,TyR[fC.BtkSg=ktRHa=e}WQ=GktX)W&Z7cGi-kXEA/~!Bryun8Yg9(:&91g{a#9,ku[wi$UT=ffgskE]lVE2V)dBg>>HNd8Yn:aE}bw&fx}GJ=C7Cq&27/isrj[b+X~*eS#aG<I]#qt>u3=G7DSp%vIkNmZ=qJ84(43T01TY)1xKjC71,Nt47go4o%~[/;!]boqe&|<#FCBznE*$GBd`[)UBiZcYIzc]:5@=f-rY5YtbP|IXN-5EtJNY=Pl6Q/fZ.B>K+Fm@X@W6%-#4qC<W]e;!ERJOM{KY?E)/!RLw;uMeh`K8L2lsRXlrMKsmov)FX`i`d$*i&V;zm$8z>OEnkV=!p(=GW-AciCl9y,j!RDP(!Uck:/+<Ry!Tky25@Rv%YZIkw3##ik9TH=9=-WJ##Gh$3k:k<YT#BdLr#bRZ~wOSqnhaEH1#{VRc>vah;)RNWM,23_D3<!jBJ|)!+-r{l`]iFq4;COA|WN?pvT6]dr3hHv>)]?O4njfuD]d-79~sHUAwLX@h=S@a:2G=L~!_EOu58(][1lg:vVYLst<x%MU&`WnJ-Q;V<OdU(sSkE(q0*Utwrf%v]}-!:!mt/UhkB0,x:{2Qn{bFm;!sgW/#.!PUenveZC)3jtYP6YYhWdY]P97pQg9qj0Y1iw)ax*<m$1wTOEE96{a#Zb:!`|FcQo<SgsoEJpwv~:jZrR7Ck]P4ca8LHUX-zX,*XXx^IM,Ft[u|]]UD2WUGwjEE2/[I9hZU_jVD$;HpiSK7~XpYtcsgU`uX&iakk@BbWqG<^1`OZ;/EW!%4QWq!#Vei(9;6*f20B|uBpMbeSsT.%h~I#m::bi+Blkl]eQC[nXx3)]cWO;H-[P-Kq(`pmS>EnXQGJje:VcHmgy1sJg|;Dh*jX^_?8b8.j8|7yYlpbq~P}4{gw{@eHQhKCj@lvk?;|<88u!g;LV]a)@f:zER;WJ&=J^VIHf>?4DcUa<xMlB!]k%W|)wjy2~1g%@4kMf<_?mb(,&bHl0e|*CO&[g>%UB|*h<P/-C0%_%2s|ttkp5|*M2|CSc0H<|^QSpRwB8<.~A7Vf4rbzeU%JH9EgQU5zbj.N^BV~)<5cgObIQnV}DE3kkTk-ivw,4+J-S}{}K&GU6UJiia18#g#$EZj%BLoR*p}nH6.:Dzj8294,Rl3fMiGa43&5[j;nOMWLIYHv%2@YDSgc-58GZ-?Rt<E}d1+#Z]F^4.EN}NQ^a{VsEhQ5E,RUmG}+SZk~ol,JckIpIZN!M2%dJHj91w,](:C9/RH{&i@9tn?.=hw6MnU.ZQJT#Y50ySfHPk}H$G#KcYhGKM?(;ye|c&HlE?!(o?O:ZHL*K466<}V!ruP,O_oM#Y}|n_~g!nqSc8bYnNJr12qUC`]Psc4kFL,Y2ufZ(I6S7i/,Z[q.1cqJm~{OIZB$W>&%uY3yfJ_#n}hfkB7j6BfT}5g*$[(z,8ybOn^9kZ|ORNCxzg)D;eIR<,nUK5Q{d4I3lSJiXPy[e3O>q7L?G3Px+iyP^(7rpZ2kgj88n%tn/5Jh++%wka!N:tPM=|6LVY(vi=5VHWT83lQ{eigOysWoI4FbSxS*Mjcu,6UVzkYk#s`0eQ2P7^/rBHU+BRA^^SlH7=hO2G,@(M@|[(&xPW;AyZA8?a|q0VmO@X*x7mbvW[C(]$zP<jkl~Ieo)UsU8u,O(jcNQs~?6TO5_2Gf.(YEvnai$eR&#APg/mW0A*Z&*flL=%woDm~eu2g/7%Z:(HsSpDu8w]b+C[FjjB*.0f*It(A{VVtuT%oaoR,SuLE,j@0zXgFLwN^nLz6NE}=^h<-Raa&$-fr%s+&V$Bs?*8];~MA}xZdBcC|EO4T/xRuIHG.ORJ+35^1wvE},czMVm.DJa@cL~Ir|$*WUtD)@<_zj0422z7ql+Z64m~=.1}!MgUS]LbFPwD/Je_VhgiAfk3:8j6p`{q8|5K?XoTG=*SUFvJpV66tolz%G%m7}*!>>PIK%UEgptxqLZ}Nr5d+l]|c*!Y#*1#wtsnf!@Vh|vu1Za~i~x:g96Q}2J.-q7j2Yo(n6+/2$YHpLVqh`d!RPBgx)d;8|z7^&~=u`gt)q{G89.jQ1$pI*L@f@;`V-@wKL)L)${o2(_0ytlac[*`?(VA?y+]wS)93j^H~vf0H0q|BjA4CzbgDfr(B-^wk1+8YiLdCG8kTRrkJV2iNp-~X(cdC?%o.{}0C-P^$~pb)Z1Wkb8:c5|$|]|3]qZIIA$U&vy+O&TH=tsKZb[a+6qZ8VghaplG8Tt{S>g$}=LIOn[DpAbB`3rEZQGC+QZ56}3X8-C{YhV}dKiwz`2[Q_%^>DkT}Pm&%T8Vv&}i1cE06ZC>ES$g;kY:Q9ukFPuZD$et1f)e^4[luntmeb=h7%FR;I(j5>lhH@<o+6Ia<[<~zL/:sIGf8bmy7E77c9Vxs<Qp}F9NKzzMd`N`<z0X;]JtsAyr7Xt2tELfsNxsyP&A$8CPE6K_~c:~lBsPIlK83sQ[8gzLE2LP>xVoC,G9G79<^|+-{@V.0=(?I#t<Yanu*P`=_JZF/a8#aTmQ~hu>3gv}ttN]4u7yeqa#?.lr(VkYBQ6ycpV:uEp/?nG;FkgE6jR.9khCLWny.#R8nq=1<5O+HrLZ5(aA<I,({9f<8MNa`L6$9PAz]%N*L?My>=-Rtwu1{:lMN=DqBNi$W+B/uD)xt%yf~0{12m<[.ah=K_ocy|tb=+..|Sct@P6hktGw%~E~:p9%|;QDcZMk1T%:1jg;N=gOoEx0tQ|&`8rpatKIiM3!h_<mXLe#!HihdmC6I-m!>.ot4k$^Gpjo8XDL=0lRDP}]n@5M[7=uI<uB~~KKUuyo[y;G|+y7+U&>SJy4B!G}k2p+x($TlR]uaW&Scf{N9E+H0)=~3hgTei.g=nn4HvtHK,rOS]{B-9)L#/EcH1n!s3R9LHTb&!cf<8L){PCmc?&EHz5Jb.{2hd%tcoS&gr9|W1I9<eQ,!L*PV]Hc3su>7%5>P/EK+`g|1:&^S85q<lny8=~NT5&N^xP#N=z(.9hL!8K,FmvG<:b_`OoKAf-uRe%uX&S8vXOf:J2kl]H]3KaD~J?0U46;9Q[aNG+fRmDFB%+gQ`U[iernECrRhr(dM`;S#U<v}[JCcyBMVzAOa05<[:XW$0CSD7w)eqW}99nf[xF<V2;)`52D(/-Nx|izopJ-]H!]Jj0LvscuiilCmxX|6p;@DD2=^`.oli`DQMiF#%aY(I+)mLP=XZak<Mi1imBqCbSdO4<Ngrb.mF;9Qg%E$z,]#silFNMrJ0G3)6:Z9noOVrOAC/e?Bx]Gh>$=zt@4M]*`XweqK$;[)tM_MO9yf&*XFr6]UP*EzKf|8`iYy9z8VJR#rV;I[BSQ~/0q7&NuH<r%*(RZN>8g_ew}`e:=BH}Mvjy^)t=9iF%|^N}u>8>ZD9gnW}7?f]IDg6_qk~OngL!6C)i,L*qS-DsxI*eb/ezOk4P7nKTGG:WYk-[=A>~`7k&OD)x5%].b0W3;xL,ot,JK%)x.-6k?8+G36w~]^mLHv!ul7a7<6bk*0{DK^c&[4PLpEchrZX?-i,:?L/h0RamrF/3TRdn~<DfLB]%S3|F$Gk5h0(kGRJgz7Ykiz^wh2eC}iK*+|,(!sMOyz@J}hBq0yk,1:Fg=0A.ge4WXg}}xG6W-e%|xIo!H*wI`h2H],g6$1]9}c#HLuzW}^:imSYexCk9N3Dt90@ZhiG)f%Z]Fw[&nZ}a*s@N(L6oQ|G2t/PWPWbSc]f5i{,T/M,t(W?~p[4$Gelm.`)uZ1vLj5aygtc[HSiz/Nb1yH3@+2kymyk]WO-Bqz+]ALX!{7#N:T;Lf{@jU6uV5}JY`_&bG3Pd6GD25kFQ7!5e6dxZJ.wwy<Ac(dZ/&6&g/,1L2_<0fesC9HkkyvH@U3Dbw)3Q!-V,%4&3$}+GanImsnCsjL%=0+EZep65FS]w8j`AKvZ~c%?KC=BOF;od6GL~`)qg5yE[yPjw62IWN==lvF^5&0_3;(-=]ER+fuK=$eL[sFbR/)0hP{_}{ht->C8/,]RzmDOs=L+72imJA~VQYHnH<yzKbQ7FN*P2;Kb/HFhJT:8QLDhlFLiQxiUL2d/CwAq9HG}*[.U0h4zG]b29~#@d?5:_:yB!LY02<7#9>{^L<TKs9ZrN!oaRqc<^|H9s0y;ksjI&=.OIMs9JNof}v(pqvD13]/HR0Z0.eh[Jqg]p)uG.Yv?n}a,R<=~0(dFo[:Poh9pTbo,%Bb1B+q&)M7,2Tqc)c?IO].)H[@4#gRqD]usbu}W=v{2g:K>(PNGV3l:H8o*?P0OGXTE5!-CWVh]:*X#.@<:VW>]xu5cteO{V2{X!l?XVkXr]MU8~?czdD&w#$jBwc7t;LZd}]~0)n-e3A|W6=RnFvagi_^w6#oi{|b#h>tS(D]%K8sGCu]i(6=$B]+?{}`8p]Ipv6S5(SW~{$k!q.6%VU8[tG#ty8@0jsk4Y<yak0l=?9IuKMUw!TxZ}E/~|Vz5?ifM*L*3_@_jz4^)@^L}q>_(!Uz[s*xr*I@K$/?+dO`{Pc{+@p3MMD~38oJ35KjZC?z#PGPkC6E8pV>Q8gFr0X)M]fZGn5]~%Vo|g%LjHgZ(&jnQ*DsV*<sk1xUz{n*dqQw>,wF04p{2{X0KMu.K_-v]7m`CaVL|Q0VD)37.Gnn[DQ2oEvv$6FuntN_mhO+j1@[:a.]s!sbQ`Y?F3fRiq6<-g_KE$ubjwk~!>_1-Wbo1Sj4cEh$a]Iif|f|_Hfsd8w<M]3s%2d+vz[8POh^P#vwU4@UK$`c$A[}~__gMB`]St|8Q5`Ajda.I5P>w>0D1V[kZSl`e@PBrK56s6cx:4sad[2~(Yf;($i5DTsNz!K2F*O8h?W!pUx2|]9Hj=Ucz$eL)*><qLQIeB!VRsQy)!@E~e/E&p1NB4:XmH<[J+xy>RFF>@41)kJ{A9q7B5<`b(&bAzX[(${{?O{~HC]z!0$|~=]>xvtNHo#wjDJu4o!*?-odIye($8kHTH:ob~7NuT&KUFuQl)E&OU3iVNi|Ha{jUwe*J5W[*L{W;68X@8?`hB$W{jnLnTf>7Vl}n5;>ybi,D(%a7BH*v7l7Csx!;}4va_6L18k7zY3p5-;:Jr;?TYKp[ChJ9j*9y*}+]1@!EY(Q0X|x^.:G{YE%aqPS*[VqDjJ*hq!%I1Tn{A{^,9Qr%R-(A)a?fmR/.CmoM3-4#^Uye$EUUF8cC2LxstNN8?kK3{0U:CX6!kJDXBdUNgf]wtLBzpxJ=oEwGznYsUo}U5~GB4}}8QIU;4]YAK[u3u2dc)?-hu6^<#kEQ~Sq(`FNM;3x9F}el7)WWW]U2LR;D%4YafwWi~KX0NsM};obzWp,}dj%/~Rj1x|i)F:Jy?k$jf<SBN?C&w]px}ChbDZ,r7Py0ScZ)U*y:Kf=>seq.r_Id!..#.I#{opVG8]HQ[FGzAAJg|M#7<-3h5_+fd94veLt#$zM7It5/)0NrCH+0j:YYP4o29>e9|mSSYhq=$4WwxhET2JW:ISy+=it^`>9}qXAY#{*$d&UF(CU2FX%-J55c{p^]M{t~$goNW&~DVYKX^u2QD;(xv!LR`?@B^UbhUyLzaOUYu++D9z=geKzz;m{&@((VaUQC~Hi`Z@x1Z?eB49_B@J7a(vTwVA&DbeLVwDQQ9-47(]?``3m2Gt5Js^,e1RGcTZ(gQbV|O_zb#aB<_[vE%v6TKzw=]SGO}Yo_:sxo2GjyR$JI0Eq6vMHZ?LMmX%=xDB=T1uK[!!1KXb2o%p#WS:g96@uo-;KG|7BqOk>5O:FTb~+.K{ICc2{.0?n0&q9Q_X2<G!3_cC<s^oD?t0`Pq^QEdAxOuZDC<:tuZM.[YWX>$n|-$,[-n>SH[cA(%RQdcT,Xs?iuG>sq]Ju`^.dXV<|}&llOw7c9&L0[([Wom>:M&;n}VH@}-JKnAA=l8j=yJq>mQcHY{(X$x&jJ%G}F{2?<+)<0cqpL#@aJ+@V]ihm@V.#g?0m.Ly8K0ka{DEU>$VmjK4HbzMPbZSYYnLTNQRpl_4s=kG|A7Feu3,J$pUQZiJ{pHGU6yLG_dL#iW,<#^dG6/p@TaE^YsWXCh!GKHQyRZ1?^wj>hG|EHMAyq4HBp]x3gZEN,;d7*IZBmCg6@g`X=40j6;?ET!2;M(k!FD!q[BY0ZY:V+zT*Ox(fuT+z;jL8=x}C5<JG)uXa*6>y)T7Z$cr=GJw)c-?kmsF)*bB^i:d51F=ja([q~Z8@&*%%x0-VB!%jh,S]MBi$(e-Pliq|?0J,sO;5HG?l-XtK>D9s+09!i+w-*<PUK<kTrhQu1Y8j;w]4;pwkr&ru|R:46KpxQdtQA3=l+|11#<Yq0*SK{<)`6!kGy>aW/vM7V47}<_-d.0ccU!U@!S^&MTdVGn}Aqa]p9Mz~M2&h$=zpVqL<VTi,ehBA5;_4)w3UxSYyj0]#Dw@{,~%-DHCJrJCcc_~@Y*fwQe6:G:G89/j>;*@izjZ*75aN]Q6ov}Y#p,D&rmLJi|lj!B<orMA4w!jYi)f*cWa{$kY?tbapu{eO#9;q1m>L<|F56:0yHt]j30cVpn[AXI*prsq|7O)_Ex[Y%$DC;Jt^IPlE545m(1JY{3R+WyM&{WABHNfn~>>n}A*2ul;F&L2-J8PhGT69w3;_K)o#2wnt$,r)K7^Y(V8hOZ$DQ@=]yy|a0b,k+.0H*w>cAz?sQI#g2nNJ4YEF}>_2pTH2>g/N2(!G%W5m$DeTx@:k^~m:f:XV&Cu^KLC7=X+jXs(zU!J=/DLb`h5$^g23oi$*?mPgdp2ANx{C+4f4sdkQM%NR.fhz|*6oT6m~Et!8&k%&IOX;+n5Gyds.C_h>xhh~EIXYa/>ul[<Pu0jo7wmuIAVw%2/dSXYS_Iu?,P^X9>s~q:dCx`s)?l!)5&,hI@w}#+CNke4?c7,jG3_,@[Qn(y;;OL~<kl6nF8l1?ZOg`v;-)g-sr$tYYVJuJZ&.Wt&u<04~(FDV_L|Mj&FBF_4](MqWPSzl3WlWf`yO,g2-8VF2Ji#.<xXQ_vS6Lr4(}lxjOcm[2d??6YoQ;gP^rXxfrZ+I+YE@=yU-A?g~#e(NMzLJZcnE_=uzHSqy<&5`DV{I;UzfN:2)iy#8;9al9OP[UFmIE/K03=/TdC/,k+mIK:DByY`l8yYs28AqCjO}J|-]z]^=5&v^:(*~ha&?`Qxi{~KPZdzt}Ddg4zNk9-}[QX[Hjt;F1cEhvFA/C/8mTa*Ai[RuMSMILG[Q0Q3SHO4dk.6=Cb#Sm`$BX:hJM0)g@e^c<!oVad=(EKHl}A3=3@N)R:`^f|uPcZ._S!QGdjc2/UgX)7G}mRr8YcbD69lWku+H@*yAcQ0mU^IMwcTuasYT9=YVuYOeQ=@%%=<>C5qw1[X4!}~Wb^>ut+qtn@C[op;<313m}SpqFvzt!|`([NU(ZN.&y.d:A<hA):R$n/6%zC=sV`/Y25cqtA~EJ:s5B(gXp&uO^{C*a`m;.y/j9(=teHzC+N&F08!yA9lew.Mn*4JF|,Pi*.sr>[m`2@c]YZrV{+M8{&3!IMr+mJ%dCV&~gEq!](8_W;?<[OU3ulCW/$I$maxy^a5(VxYz^vQ~gLi:Re%p!_Feac(mgW5tXX`x{b#k%q0#UWW|RgZW^<)K5<j%2Qn#nrybh}OqCKt$Q@Yc[IxZa7Rm7B|2tZ9[t:??5WA1GaSmn(Nns!GSiPT1K_taFRqep8JD3CfO~8mU-tv1=aI5TlfDY,)ngrH~pKQ5gC[j|4w>?OoDwCTfw;kx+dde=*Y`oO+3QwomD@(R-Rsgq~jHdC7?q^iL54<7ylevAZ+$g^&$o*ZB3UhH~_eg-}qx$=!zgS6!{H--}V?}DxuO)!T%Yj-QFp%&BaE{pU>EYPV2i~:l+VX$V>c3a%H9Fx&ux0/:bgA7RM^=6*<Rr+.42Hu=Kiwe.KCVZ{1qZwpmJ1$A`E,S)),n5Oy(]75FZ}Yr8xyz&*)nbC+1|[(.@C.99hDW6JtSREs{Z*GLz{B_=<j$gMnpM$Gy5g>G6pk6Y0f0F7M3mn5p(%t[p](;bUY_eB%pd/@n6TpV$sA~62e(KG0PB+Y;`C|4Z2:0PBmHY,/com,<}lr,pehj(ck>8=le`Yf}x}YT+OBsTTJ|:3q2c/_%/|JTkbbl4X|_84mpdKU,5g1)uPD.dPXLK@6wSTw$H)Qy%8hW-%j]9MUY:nm$om3iCG@`V~{VD?_<[9Q4T,[Xj.W1W<5G}F#`B2p{F#{C5spF045@>p3[UR}pEapaBqr37[]>NqNHy;EPF3w@Mj1P(OB0o#1aI?Rqo2v!L[je}xJAMjMQIQMHJ/~TO_/$xLPj1nD{H)ziUGXVME}9Ew%OYdmwz7IL|63Db$f*ITIW%byMozrJ:NQ(mMK,YvC@~3iC-b>gY0wsWruE`;qY2}BD3=pUrJM,@PdAmkr<$#(4C$%HU#*/J}v+7~Z@-d}.FW}VXz3XB!zX|[`Utj0y}<WYPv.&Y7b)!]:j+w1C,_|c*BT91~M(b]&~&Zt^WDMC>5wLbfKD=QI`X]-+uL)NsJxXF}U)UJ/>5U%hvincGkP>t_:[TsL1B]DHS!r)-5$%bY?W;zlA<32FFI8>3nU8^.,,fHV]eC%4Lv3O@}`9)7_AE%!dCcij=$sLMlkIleEU@ErT>uZ9*r#6,k@C118X(F-=8@*Ms/V:{~3ZY8[1V/Z#`,RiQ&{6kRY,pge%S5?^/c2gg%Qe3qz%auJ..<nY9mh7fwJ1:UWHJB4H0]TDcJ&Zc%J7qL@c20)zW.6`tAeK9m(]r;_I<%QtiUVgiMWUPUCsL7T>lYO0CwC|8VV_|1=:.gsk+MRTaNB|2}..1YSTC[Da8$/CR)2[/H;qZ]lM^^{p1*A%=.TO,vg]?kS#+d]z/LD!yRlX*[/Zi{.-in}b3|t4b9lwN-)=?dSd_UL8y-XOJF@#2t}&]a6lVi/KbX3$ITY~yh/=*OAmlG>/^jpz~TUK]en0!3_<;&0$ZHDklx1%Nqi%;&Xx/k{250:b|#n`~K0iiFM{[wb!?mtmAS)01_Mp|`1eO98UcYyOn~H/79M&ticiZ5bj?D!D)Y]PiMnp_uVl*IX5G<]E<SFle;L@+{cpZLoij:,eV?QHaldN}({%fa9Cm<X/?m&]ATc+QSfoEVq_RpaMtbD)=VN.6HI[d}BSW&1`FCicTbDxB[;4n=jH,/&VmaX*q$Y$#vHGD=,%0]~U-M,BqD>XO2s`4h+RO(X*Lg]XE/d5~kD$7@o3p4h,=WZN*Yo)4(f4F(98JTH[:/].|^Nxwb*H*7qRx++*W2AC=DD%W7Tl?h=D:.kMDq9LP&pg`n&#a@m6<@gCTlkZ/<!A@7!u?t-ywL:9}z9~}Va`Y7ycxz%eykSw<2MSt>f[hFM4kv|[6FH]?Dp.EPHi8&!F+ToYX5Yak,%N+j3fei}w{4GKkJ-IfL~ih$s9j5*V2sz@vE_m4RLZtE+GoEh|avlqR,KF;%<HCa/!Oa]!Wl{#4FgtZuYC7uW,4hLskY%X(P3Mu]{nHQCT%-2SyIXSYJD$d7*DeGu{.j2tvIiwy#l:i5B8;i0Yb=A2{Xr!Ro#[x_{4NWxN_d!EM.rlYE;.i/50<*WwMMQH!O;Ui886V%MWY)TA=V%Bw~WrjA%MJZdH^sgk:kfly&h@Plk33!u3qbV_tH59#Tu9%z,O>H5WX~8D%>=_dM+rQbV/}luE194=2HKnC8nT{($9bgBwAdT+kP?CN@,HIKBYEj/*5i/bU%nh+jQ[`G9vMXGRgg9x|jPFDpot{<,S~M@.QgC%uNdmK&Exsw3JM:;2K+2r[=qJ@dkjf_hXTB]iw7@+p}%uW}e-jSREL5>O~8u9VlqcD)/NHwZ#M}i?l]M)2=nB!aTNC7ix&ca%0=pOU`gi5zS=XQp[cf2[fT(mf;/.Y4-N>KZfDH|w2-$z?2No6td_a9GZr?:$mI{wJ_qdSUMiCcp9x7PeP~APM@2T82iwAE4]_^[%nM#edX+HR:pS}0SZRbvM9RIuQ$@V7=`K1_,V4C7}Y.#lZ#L#B:T-C0ME*b*6}B4LfvzJIj8QXQ39|^z@D+o00hOv%9ls[DLn`&$F<KhFOpfwQz5{[(,q}rK#Q1Y!jpMn!IK1JqU*>U(@1iI!NDz@O(.n9I2T)Oq7bD|:ntcc&#c*[C8Py:6+0d:-s}g)HXj>AF6um/lUuT2Y<iVM=T=go`#>B>_Z`ZWy|?|al^eceYfNR/b9y(t{rv$>=z{8a6C78WhHrAgUOZWLPQb6SsSHUoPw;2:Q6;YK:<?_ykeeCzeFswiM8-Ia:t9BDh>Jpf_33(udb{L0}OU`D>{l+j[KJHP$5[`2>t)MI]JO(Sq6YSAcw/CApG!ubj/Hh36r1~&C``yD)w!^mkHG^WVKe#Abp3]hCxvJz9HF%?7g9P7H:B,HTp4?u!WuB/l^nEO:aq{ehJ}8pYYmF|m)qPH;G14QoRW^w+:>*KJ(%fp(WFXFFZxgd<^&E`1{=fgU:S-w%fOINp8!ud[u%MK.}^3|&I:N9_K.RrX:{kG3>-_[Xs%NQ.920gglwVUU7_ehrQCY.]o@ilX;WD66i/F5dgp3Uy@>Bip]i-?*AFOU357?f5,P`}/rEY9[|$s~%tCio70H]rMKQ`?LfU.Gucw{JI(/|(SBcBcq9rkM:que4F;3-db;pS,f6e+!^j7Cr+U0~aluU`,RNkX|.I}/se;U47r>WwrQKg|3F`Cm>$FcC8B|XLX13gY;|#7i^eLNLl8(nFpXg9:W%qtw2jVR4_(Sb0zb3NglQouM#}V(&kUB!{WSw{y}C-g:[/c[BqwF3e*FrBo0$VEdl$)_+,b)W}_gcSBXVAKbkw$P%RX/0r-:yLWGND{`^q@BpRD3)+>K6z7%:S6!!Xkz9Om?gk_x(GyBZX6VLs0d0/>{Zov6rt3Q@s`hsFCN0vg3OC4Tn5i^[&3,,=KZT$i}6-c6T6,P03AfKZu@D``Ez9(ZS`lN%!#smUfK*yF(RBr(EXJ@U`r%O&U5s8DkXXlm=0}K1CJ5.QZN>-WbF}8L~K^xY{9YjF<f;:CRy2`i?3k?B7-2Gk~!];7TvwY{i=&UUDm!2ti!*DL#aLB*%aXF|C4utZ[LwJHC[Y?-[c/@ir|6IRfg0ZR7kxY2OQ1^0e<^x6nAn(Y:[_W^}0>b>WHAN5);Lvr-du&jP@+qM;wbz@LVm(OC|MF`OGeg5?LJ0haczLf=|A`I|]b.y-Q=H!OxWY-ctxXy83lTl;zh36/5JM/,:jxB-lNlg8T#<9.RbYYGO.K*T[^GA73*ej8P%n0E(K8S$W4gi5[JdO0,DY|o<7yS|})W`4{&X5&h4qqOjz7W{+9+l%.8R%9#.|*0[t3[Q5q>V?}1#9olO,s1H5S6ay_,RyRK`UY{u:txeA>ej#!EOzXFbQB9,[d4yD]K1:5E3|A}FjRja^9N;I/Ats>vx~7~5=t&}#_-aUjoyCKM~qaLx+8:.j(-=Vn^Y_YQiuM>BrfV;ZWEL-)kN}fE<,7c8<ch{lok(mKSA;yl{(c$IBd$eRFL0m*h_$J{)I4^MM;v|@<c-h[1KIY~x16]3dCd06~,3Ji^W4T7yTX~,{-BXGC48S%cct:09X#(MkF@e{%vK1nOMBg^&J]8)Y#FSX0-I8.x*m%e~Eq+~HO6t7vK?MN/;%@>%I(#aV9*SvIC5+2+&E]~Q8h}w>&Kt2GFLuK8|L.IO/Hvejm6n*_DMKpE;lG0o}3rk]?E#I@]X#UW|g*uwtE|G5*,fH.`:?B(N,PV/L7&g1]Je2h{yFIn)(&O^{dRC!CeB?_5ml2O(9n|Fl0Y|<mv.{#ZI+>j$&y}r-Zj/76o)y<Q{$}#cYgWUgv(GS%*Ra5v|Y{{#~3$oBy2.b3y>UNSF>l{]16LHD1ug52A,_sC2yEwT4qtvUYH:amv.})MmwE9x;w6S,M:dG*DO:UzqS=f4_Iqf@hWUEFl,aQ3>DJZzI7*xM*R>}z)e?;$RAK<o7}ZPZb^)Nlg_Sl%I&y3Zt[Yi9CHka([c(LRL<#Xj?~Wrc85gB62<g^*GXDU4b5$a1=0#1):0.aenO4#l/t~F96K5F[WpHsrm<&NY6q4G$^c[?aPhX:k-P8XlWTjhS)o#5V,JD~L8Zj(jGjS+c.=z5lFC;<?`6t2v`1a)+2=v3ru#]l&H{O5Ym;HD&`+|sq@F-GZ7JN+fs<^X?(Sm&Z|R.EodlHzu,g_xMtmTlQ<E(*CABj}2*(5a6{nc0S4Wdt.~.3u`q4_|H.&4n/~{rQ2vIA{LE1mFwXFF.Y*WPzxrGKESWsd62)nKFN@B-gAX[RZXC(_c~q:i|Ie1d0HZztBRopaE`h.+^Nroio2ZXdUbwO5p`4fmzOp|=`Cm_(2nGIFgI0<#x9&!o@h:AexD7F#Q,Crt|]3rS&#=@=J7sAFjMxo2HMe~/#OS~_4QuO`).mi&>YFz19K!/j>1R}U;~DBjysX0wYy0+UG{[vx?Xj?h!c%6~`5))I9eS_[*}9U8K?y=Vx&+;5w9s@eto^dyXdT!^u&^:KD.4=}e`=u4v7`=JJ5AipDr4M_>.AN[i/0dZ&y{}GsQ)}y`]ebUoF#UYS.+S$>bRgV|K0WmujV>Fo7[X4mvEOyh#0Ro~&qxU1tfyaoRu</K1mfK2n:0xLqI-;pO4|(&E~7aG)F/he0!D@9um4q-$xlD}Kf4lmfh)=lf*SSj}T,46y[jSRiwDiuBub1qhb6A.Res!dN>@KRR6y7LBLjtAZ+rgy(8X-%TR&;Bzm:vk;@K#`#vYwO,n_g/_5~}uMCT0:(y!*ZAI@WM9gc^JlgrchxKIpX>Tm;{`CX9uUb1!D@=MSqK*wt[$_Pn$yXXR=jaL9WTeI</`|mYELo-mQz[`79v;Vkk)8VFV&~=p&KWXtK;@CVA66o-I3a~.Q:SY@k?|7#GM3}+.Hg4hf5li&&Cx!<i{TG{ZFO:%iMB0!N5{;$R7P0ms|{pJVCI30:Rg~lcgQff+e^:*$Ub$f.flNT;G-$=gG}X{7^~>e[,a+`nxlUh/$,C/<y&Vu@~>[&P&Qnr3>u#E:jQos3lbirs%l0>}{Of/yZ0gZ:gND.[Q7>t{N`TfF-Yp5XaqgklgktuC`Kqj[hb2j_m8^:&t9Y4iah9e{fqA}[P@F1VlMhqeF66bN@k@)=Jych!l|VawgO>LCSft8seaM1As.UKDUr}F)LHH/+KA&dWtq6drOiSR0wKL,^a,F?KhwJNR~)Jr:eN),jKOAm?AYQd=IH8)I1^3uzhx|65g;hy&BYzemvW(4kVoZyfH8PWDkWW`]yJq>jJd&1:B`)-*Q7P>Mc0*GCFti7}UCa:(B,wvKZb;h6~}awT2k^TEEM~S3><~.>}(2tx9MI.D}aG6#kMQQ7w9*Ym$6Ra?ihyS{btG^2R0YgbXT4HGqO]5oIlgB0k*-%Zqa!1etBTSN~>W&|Q`PTKBSmr-{IK(O<r;ZQD$9:Imgo$Z=H:y${@RW[y@$w8pg)Ww2AH80!;eh$JCWNTpa^ce7RN6h4:c{ywR.1KX=fmwnD/%`%Geq.~7*uCT$`ES<o[GEJ^a^~a<%YyQ{RLV7B!QU{<$JQoB<QMg!wT9yDr4<z&V&$/=5KaXSw0}v%DUT*;fm@q<$k[:=A`.{Al(7-7T6P4sH_/},cb13fN|((Go:hWDuYn}J;0_Cm(PE_<h&6>DcL^4/}*+:]Z_H`5ze|:SBP?BnY:F$+-3N;<eASg.-^CKQ]!kz%?*>N>b<6R&pJ-hz]^!M*h0]Smw/`p2-}879SI$0*{!NoL%i1o*g@*&Eq^PoA.pA:b]^;]d?HF~7EiaE}0h{BCOd,O?1;tNU#>xa{,)9(sPo.{qeuFfQgUhKZo~|DrQLZ?~~2{i`~@hU@/FwsE*V#VfZsYc6=)vG3,p!_`vb0c2RY;.`>^<JQ/5E*SRuQiASa=JW<#j]&S@yI%b)5)b|oFfISwXZOvzz<f%~XxZ30Q(r-f}I!uXBomy`GvRLYe`3DUNjVw9Q=FM(bW<hi=]]@H~oxYcx;M@H6uZH,[q1Un-S!V[?m{^N}6I;]c4g9b*.KzN$PUn[R~YZN(x?saKW$g$cIu^;V%K6;x4c4p[Q}myh}LJ-LD4sL</T>Hq4_{<PG8<`cB`5tIKR#;d<U07&6>iz2uBbFi}JXQ0d,ji[>I&n|bH@,MR#aT|B7e5JAI;Eljx.uAo!8^&Subws.N(4]Htob0VFwpiFA.{KIybcZhjKp4Iy]VE13iltL,}PEDRmHaz]BusG+9O<DS*IG*;[HI_5E70`Rj&{Y6x%af4Vcrrv%&O&zT46(D;H$y;MT`|xhi/xHph7w,ekLlP?+!?r12t/mNRSI%;>lb4(]].8z4;XOdk8N>UR4fcT}t*-9]`{Tmr0x}=cmJqw$2G?o8Om&cFH<kr4OSL<RB#gX6(79e*|2r|XulX$X-8L%+A|U);w5akZ4e/c/1}G|;1><mEwp8yjS[]35;tO{WzRN[7p:r/R$0|$mqZl0dCAA|OU|Ne|ZAe4x81|kBNO;$,jhC:+u/-KU:*`[%YSObyI3$uC{S0J+C`^}r)Q![]}WcKmNQ3<=D<zrO;2mD{:|?#!$>t{$>x#@,5GG=T~/YFkl-k2-175UTJtzjnB>!6HpN,W_2$jg6rY@49:~HC3{i^1Dx_wzk`tx;p7Q9S)pHKZ~tQ8d|$(,@T^uQ$KyYi&4Fy{8[6&i^.Pdu^z@7GCoJZB.Ab,x;UZ9rGL1l7Bua{akMq3r/pNinA#QQd{HaFHeDhYjDc}($]AYS^(Iz3<^?]bn)!LGrTDqU}?o;U=k+@4dfY833WB|-6})b`Z9oK;JvVb}W0OD6YB-TzL}<_r<_ZsoVe-,k)BVbR]&SpcB1S_L]lq<upfx:NmOj.B,q5U`h>=TfrbJ6Uu},i3)9eb0UN|9}-@mmD{?T,4:>&!~qz^;ew6gAkXbrGY[Wys1T&.o7u5.8Q?4b6FUg/^4q=H3J.Z>qPEq~}ajGmSs<rLC#2geg(+J![p,BJ2M)#IxM$5EkpXe#M$P>[lOMLezA]7)wXN3a;>e!:NlTY/.EQa!`xE.id<s!dwRt?>XkYV67A!$&H0cv._Lt2/tF>q_@qon7%TI!1QXTuqu|>SHEoKRT0`#rFF~;I+nDVG=7Drkr~)E`{y!+!{~!]!3l*I{6J)<hq5f%.M!.4+.(6/L6;[Pzge|^%YrxZ)paH$2Hs3Ccbo^DwRh}uADba`Gc(`aXPLQ^RQEFMZz6KZXf;k,XdN6nzL~~B~+s><{D7$:Q;j4.;TCmeOmpw3w6PT2M8%+jO:Qs?NGM4kcTNQ!B}Ta^=y,1`IIiR`>m^LBv4;j&nNtBfzL313&iRr0]_d|J)2t!7@~h~h+${*idh}E4X8tE#K^JIm%7|o!hjETn%a&jel/dp{C;I;WGLjrqVm8;@#P_G)RhnCLf?28[Z?Y1QQ>p4&g^D&N&&*QXh<-Ju-/lKyD3k%)nt]t!-]`dU8y7()zaJXN50TN;1jc(cX{jAn5R@JB8q#5Qp#2#u3|?M(d24QzQl2*Hi.=hWIc(>Ji93~!Bgzl,_)vRN&s9Z.Kf}9&qS!neV{johI29v(z{bcz|bQH4DJU-jNY}0oUzE]sB6d/sk[v^lgB2)AG:!Z_{K7wgU0ZWN=#bHbO84[Emw-%h5=(!j:uA~gy40z`pv1<u%,joR=&O_,l*q&GRY)w]f[.+5^qMju,X(6o:0){ghARDVuak}I,YZO&$11/H7O>U8c(gUG>wxgB+*8~Q+QcALO=noY#hE~gG=iL]::hu{Gz;C<TT3~+,O2u}L.>+=:lZr}/Bh#pouGkT:)*)X|MZb*V~z@7YNAL,A4[1Sa2y*#:f!w/cqMv/T<1nl(~]>IA+CpWbIb>9l]8i]NFMXf6.yO_<)WBiU:S(OKBg,3yW]hH3vunF2d@C$!D0lDw&]S$iM1.E_kUe3o&K(jca5VK.*suLcfc_wkXk@KR-29HzRe:OEdRs!>qXdBjE6]+ScMe+s@VSJ&S$NkJN^n^?9)GfJT#c?]XG=8<2j3<y~8P]K*DjMq7x,<jL/$[?-ZUvy-,{s/[E6*bDzJ&Nax@rm|(To![4`KknHH)E1?;I2YatoywLSRV7nu^N08/P6)9VuI$KPq}Pnr=Q5[kNNMD{Lu)NG_^$Va!aik?T*#dV1~ELmB&<Xmcf}NcqR96QsljyNtUsC4Iw:hqVaQKCh8k^$MHkTAn3]V&.x`kTcM_89TI$8K8,<NIMGwL3>+SJcu0geJ0sp}bGUMfgVVhF=A0-hA=Er$%dh,ueF1U.Zly-QK-k9QhehrOha9D4E(TYxy={47$kes3,buvHY_Ma/8WnkS.Pb#ZFslvP[]3-TjGM#(*a2sPNlNOiGD{4:Z}&qdC6~#Aa@g(]i53cmOQc1AsKnJme.rRz%g:xYY,I(3SKh1^kl*+!og%H5.X;Rs=v#YXh9Y5XuL+![_SG@6+ShidGJBFJ)USNP:Abg9@]0Rg`#Xn{S{T&OcSDx_W7,Y8M@=%VNj`G1vsrE!.TD42iz%X--6pjGo^fq%lYV<XG76giC/h2ES1%<:2tIakf?3uq5jDtu8O}p@8&y1WUA%Qe#ba%DWXHYel>~Q!o/lipCR5XBPmgmLdy5&fWOf0.*VU9)^!vwkXcj0>S/nI(7/BBsDCxI4T(Ov*sy(ZjJ5su)b)(>I[ZYM;qxFFwJoaSsNt/xZi-t>*evw:>S##38VWm#sz-HcemN4+F?GePR_o%(O?Y1g/haDK=norcK1/}Gjmt^Dn7n-=qaTqp?k*=>X?877k82P>v$5D1@ea]R2&j:q!kNVaV@^u0)]Tp]hm^{(`G<8m7}g4z4DsZD{_}IDysQ79m*mljxJgL|`>YOISqaST8!NnlTF_pFXZT26#/rVFm=I/^43NW-tdg~9{Q{B5TNFo)M6:wXt?Nt}:w2N2=I*IKr<tcWr((yDUL?Vbh.;`O`GZ6TvXjFQbQPJy*uT$Dy<[_ISczP^Dl5=!,t#;]E*+DZ$+T;M2~0g}y/2kFepQb,Y0d-zpf<N3Zax,B!rpBB9izye.S$n:(&(:VE5lpfHSmA&OM@|rj>})|N4v{KuGK+Oi4G_e$|k7Fig>R4Frd]ZGFN6R/-&{lR`+tEVT%MDcbY*oSwMB%-tx*XR`&Q_tb21b$o]]TfO?ad^ee/zm40TC|$?W]|*nqqG!M&UX)f$C?X!T=l)(L`un7IPaVME.!ERc_QY|AGUHRFuqUB968_|6Czpl:e70+LirUL%RAmqdQSWRTA1Vcevse6+*+phi_YG>I8AO3L{)=nDxh|z%su`TH9BxFd.#/_Z=O~&<6Zf;!6L/0HH)JXqkh$XVb2uR<j071`c/Is5Wz~._}z}@{VP^>)etO7tZ5y>m#Yi0xxy*m9F*d,K_ZkginIe]ip%Ab;V=d)}#{B7+RJhE5EVRPJ}`TaDj>1Z`^m.SG>&|e_hg9t^Y2@8$a5FST&XlucLUDeP}=.JaY=YS(:<f.$sxrik#sXpIO!O@pDikk^O:uoF9o&^uTU8@Sd=`Et?+56qC#d8nkV<H?J,uA+!&`J7#Uhl,D|2dH867UwFP[G%GZh!67dJ[uK2.A=W$]g+O$bD%_?7:`bFG!+StxSj2^B]uSQ?UgsB=GN?hm<@&#c->]8.hs)?`&S_G$waDQj}q$Z=GEeC%G;v#D}^q?:)psM$U.fV6mlv4_(ja:/-gkC^7aSA7J)En:mRspDS7]x??4pj=fusnpvk,?v?afEC.w^_z-6V[pOsH<gDt/&!q0oGa@t.Z_FAESOIwCJ62..eCRWM*G+e)5(!nD4oG3`H2pksUFasY7#$mW`xGawauM!@9{?]^-~(~G$g-lCH*-I2`7x,*U}n2eZ}Kt*[)Y0C]=-dA>vm)LrnNP^+XnR*vW<j0su:kg6YD>BfscA7n[JX:<^4>W0r`vR}?T3nyaz9_Blr7zcHfU?b`Z#{x%x^]o&DmM&V}c|Rsjl^wLJA>Wg0lOTU?]tgIbCijZH&03CpVHk1?+1rEmm(^2>8bK[e#,J0NXT07iC{Yzr+8hQ(1?/Pj`g=i`3pbe3LK#k.h*]v]S~IN+#s]-b[$ki$/zj]6>/kv?Is^PoA)7ypR[%kNQb,.lY/Tyg3<rv78~U5<b;z*F^-QaUe/V6W,RQY,[R=gw7{Spl}o6PJV$PzLZ<%3,Emmf.&y-e_D,A~Aq,z`r}a2[jU-U<ABW#BW1-oWoe|06&3r?.%!7J.~}Y{gh}Te.g3ZZ]-/3z-uS7E,8!m#q=7.3G@5H#TPhKQr2ty}i5U*>}r}=n-vIb.FlDBH/?*bGMVyT?f8RD*idiy^yYqNz6t7i#p`QXn8PH8_KgbkrCx[YP#~sg=5M&IxQY/LK:wy8XMQ/jFS//IW7Mtd.OR~w7Fix9hp8QI$:=mmqjxYp)?8mDuPd];DZdX{f+re)m}*1r<M}JsD:==KrE@b2=[?I8PUJ2sT>sUi$=#m-akd|o*F8tEJ.;8N{=({y,KYGZ~1NBdo$?LN{)+M_V[*hy/9&D~IN1tP9!#;{E)QZ6bt/Tj<~~yt.:/P(=T;rcq*rQ4Z&h`CC4%B<V:o(Zk}geWZPb38s3qFwq[C7mXA$g5Ng*u!b;Y==PbSpbm$3h$=N{NZ5<>)|5[uN,-H^5m>SXQzOT92KdY%y7sTF=~;Sg25f9N}SDM4/&L)xI=_qNp*p`H]fRzKW$;EI-Wl`<|MM@M^yPwval#0PJF3$BAEQLmrXm_4:W5=:<).9QnE(*#=+[#^+eg?0zOb0XSQR4R?!6,R<P88_/l,>QtJR}8!~1Lw!nSujSVr,^0W#fuwuO3IC{V%.!jn{Fz9NP]V3yFvkR}]}JWZsP3Aw]Jda|fLjG!|x&ImW@mUm0QQ1s5Yihd*4|Hv*^^h[Cx7E%N#*W)cj*XC2*QmeKF[,T;JoPO>;!f?cv`dg>8t-5n`V**>Zjr,baedW<(gu{M*Wk?9Kol{cRZp7^5.DKMvf2}Xrrq?P^7^qRRbPuTp!B9(ZaivVl3XvPG>vTq@@E4IXo/m9@3Gc:!tG(FaF]?+LbnbaN^ErY%~b-MvoT3X$*k>Q+i^4^HS2QLOa/N=5IbB;E82)o]g1Z]v(e7q-]hDq#[0YM8O0MEWx8XgXAedo-Lbe[qRDxEh,9U:pyC|Z1_zM0s{,Qc;,+)A!A+Z}{g)ClSs1IJu[iH,g!-<R{z0%ssG9c)@k3uNVDB_&fw`atSCQ9`FFPfgX[hnD%|YSGp]C|<jRv>Ni7IJsD(gdhV[Jy/x+`4%PR5@r/yDnq]X31S(z=r/91ul0t3Qydc?.0XU?<NY,_*_jZSq?Q1PcHc>Q|]S@,uQtOWLmZ9L9AYY%KthYtFHWX:%Q;O/G)J$7UKnuo5HfWai.GE#_Q?Prc26Q,<xAXmlr~MyPZ3J7#tz*^Qbtxr8K7ZQ8@9iB&rKg.rzaLX&hm`Z8Bvv9w44Vq*ifk?pXz_[u|GnjFbMe1To$-EQ|p:y49d#gbj9Kv{Jh]rbL6E%a,%]YcHygdRuVl30N:}~6quW58xqzdkYh0RQoujSCjN(WUDM,31)>j[|@H+Zx!,{C^kJ67;0OjciEA(GIy_{aj#}eil6RI*Ce-sIhLvQ|IzD:%)*3}zsFpw]{HS9p#X8vIC3;N:-U_YGfJLe6?Vu<Znfy,D5FZTi-)yM*xDI^fE8otGi@Y${cjL6koxMm3@.220Xkg124xR%Q/JJM}fO|1kJD&yZ%bs!x8v08Rr,9ue+@jt.QaW9W.yl}R1h`hmz<KHY-1<9m?x|C_/A@I5`@IUbHu_MNuEpmYG_ea!r?rwc=O8Q9cFhPt^{~R9Yl%EI^ku1H)@#`^;|^+kAa;?&nT7N(vCH<UAX,C:DZ#*V0+g%mW6A;jn*:yauLjGW-3L`xy.p%_?Db3yOo](Rca_vN3/(y(XwV|GHYbmYM;t!ikG2Td/tC?(EOE;Vzcx;T%TQ%qnKFLQBk1,ke|%JX0q51dbDE&&+o?#hE},8d-9zaLkvCg[s)E;Tr[r`U3P<|g{S01h.>6tCZ(1ti~)5;Ke[vm0hc?M{%9fMHVy5QJ)4t-NA8LDk-3h9wA#lD<x_!Z[/cQ]aqQN|<FI77P%2W-Ja)#K7e5jXzR=[B&C{mXC?jY{VPY0OPa57U*jaZK_E@`>O~hG$j;t?=z|M/>XLnq@(),N+v-Nr.XH_W36]dW|^H?.G8#AkcVK~`Rl<byCkIa7K!8,F~h1>kH1~rgIX3EH?/D(MG+uB,Vk(256DzI6)9OdzeG#7,=uq>iLsReTdxIV;Fj+PEz4;n4v,%gE$@!cKFk,QXy~+Z(yY{x~aJ;qELUb.8PjBpDFZhYNr.R5N={<+f#[Y++mQLD;$k{P1l~Mv|@>;7c$7dDEiT,p?)<;F0A=RFQTmgm7sR[sgcr}cQ[9DgCQ*b?0T/({Z]o&JVtHCtee-_+8QLp10BSaJrCjZm}cb3smQg3&_7MU8dN=11Qp,M<iz/QKL$#GzxlH.(p[h3hCHwq8hbR*{K9{,k&E-@KoeM,^t]RE~3ad+PiI1Y3Ijxmgc#U{el+`*4Cg6hGTl/pRNv&^2+e^?$>OLBgvVi|d]}x*oo(7.*am&NyAn[1DyMGv`emA5Z9am]-O<fPlL.>g--N]$$dF&MBy-ya!7h3Av+^4p7h72>X4_m7vmtF5S7E.R0?5H8WZ-She=@fV2DQbI%]DuixU7g_O%(m_mgZ<^h~,8>,~1p|.SpA=_t5BN)ZL{9qpRF)q9Hw1XF~ncMUB9,-;[93JFo[_%[DV.&sw`qZ2VL$%GV~1:{7?{Zh:i;E63sgm=7/e3!!p6F0X!SAfQvq(_4{!|0nocu*eOa^z26bVw?~]=Kbtc&9I>p&[QJ6S]lSC:^d,qoeZJhMUWWwr!j_u?7LDc1b$!xt5wd>?W2=em,VrKuQ-N~-&)D^sLVD]F^*%xIUGekub}N~M6auv;A_W3--z%vR@B}0xLvXsjrF7O9e$l5Y`9!6;I[V{1lp]/3g2x(|FzOKtMD9,H4dZ)4-uS^IaAT_=T:6r/%e95ry};,28_l~6314/#RG+xr+bE~_+b{{%:(6[m*]F-R=:*d{g4rTmym|.^(=?7D&-e_HGUpv30Or`NB%U@S?2^PW!<-fw]3lo{U[2Gmx+*3:|!PuvUF>J2eOmFNkp%?vh9o4F7xSMdLeeO%FB}gY2<C*5sf3j{!Rxsg5bAzIY4lb7Eu)1P/suOxbn?ZD;oKnVV0)s_d*i%}|z}{X*_MveTS/,l;u{A8U5Ptn}=W$]2;=LtuI@Bf){9Q5b0W-<831Q48}L!*pbxB7EFQyQNz]8oJAqTMpq,SeM*,G(Dd*L)ps}uUT|:&#9sJB7z&_wgK~K7kT,=>wMYm]}?Z1OJfI=&hq-]^,ith+?WAqYG=7jqq^tYze~6iR}G4Yj?So<~9]W,EvgB3XBcR|6.`Ry88CD&:c1SJ!0q7.GendS(!Wu8CJPVql<dGr`;zk^H.m5Aoaa`Pq)#asKT`AA3g_K-KP$SsDs+7|a1bS1^/tt=3K`p[m:_mo{?fxbPeB9K9q$Q%s)q<OJ5;Q05#$gj1l)/-n}wPe^!|E-<jEueepuXGFmHRLIb~z6>+o1jn.s@=%8iXcVLZQ``}V&4&>EWhe1l}2Htr|<GEZ~_i6ZnBo7aXsE^jc@I{+Z`BbiGpm>Igf_:G9F[0SRm3IjM.UG;L#dKm<[)=5-[F)a6;`$]owZ|h9x,HH>uv6XQ>^)DP%qzlUO-yH9FsMu=%~DvUwmUJR]6ucc9R(|;b4pxb[E6Uh<FnMB0{Z)S|ItgS,Acv^QTa4xdWs3D(|^QxqCh1cpj(JA/LT9|[u|.[KC3&W`!(|:{aA-GgK[0hAQO(b=&ox9PLF|dIDoxHw}H>*sbJTS7#^YA1l)b@yG&mx$sy6nL3u895C0^Adof,Juq(APh*$8G|&-L?c.^0~RPVuIC%AB?wgXUO$#[`pP50aQ6.oHb%nrg9Wh|rtC@b=&4R8DE)2Q[vVVgqsh~J=tgRC;zs.59p<1TlDg+dWMB|60=(]2%#;c[[sGxMecWra>d%zGdBf3Zw0PV=.;Sgs;0Diib+x7)r;w}B#GFjGxRkR1|Q6ImtROJ{b=eaFCe!HC|?JOnvDf=f.uDN/oUr60bQ)(e=>)-.n&:(A.6VI[vJ=o{ynUQURh1YaFsD+O~<ey9cw=pmMg_J[n2r03!!9u`,5M04>k_0%q$q1Oz(QU?e:Mu/aR&4&?-txqBKagI$VlV9+7(GFG9)_3p/wp^qdtVKO9n?x*.d<Xy2C8xj*fqtJs&[_Rr*lOEI;PRI`.p5)Qp<w_SQoMI9dS@pMx6+UsCBFMU2KLXjayXC.u|kq[tPqoC-9:mHM9SGI5J^B+=#JFF7GgW(fHe2&KzOJ`@6B-fl+oCwL<$9&(quB<_|n{FE]{w+cOsz{i!^hYG8,`*g-V;e^a|X$%AH5ycH9zgbu79-}O%4yeG1l~;tMv8(UxG96VOj1u[hy)`4Cu?KbnU67]rttu4l:LR)t^_C7+z?IvB|5U&qqhV`Z$/_>=Xm?o^GbvII%l.-.+sX%Sh_.$V{X6_w<-}?=7!FA#5Xuu0S$hY7XaQv:Dqz`y40{.[Qa[oVCf7t~n*IpzX%^S1D2F?rVWo~hRN~zo/xxz(RMnr+SjL=<JH#_eu;5&-Mo7Gq,D)ZZfhdz32$eagQW(6tT4TgH/iDIWmoBb(t7Y|Xi.L81{Q[.AuFS!!Q5d2tLaE8?9@5588lv>SGJ!|K.i9eHfSm8h[-hnd;bEJwCbue@M@6*;99V]B(=Fq}`(FQb49:dz0Iy-g*!e4:oEhFg~4VPoOzs7S9PxQ=ZwVg~*2;++>4R*]ci(4V?%XJ4Y*?@!ROm$1:NM;X{&7p`}jC%e=D^SCbjvL7[TO<XfZxp1yJ-@&5X7gA;<YmZ$4!NsJr6u)T`k#3&!ZOrCl}N%%I7rcMKpghv,*XUNUtgW-vUCj+tnA{92GM]6C0dt~.7D~Qg3s&>Y{blB>HTi0-t9%FX+B`N{&Zg;k>yCP*~NqA|Q1MohlPYfl5SmD0G+JAiR6KCr5gD[plin-T5VHP^)Hwq9IsZT:_mVR22R!jr;Z!z&idpRO5:)@n;UtrnP[pQCbm/9>10I%d$qs:PkbcoC+E4T[nT4t%w9W-<B0^[LKxp-}_}%M`cEy1T&%-.IVX&o7tO!ne/bNuUZSE`=9ID;5/q|[f6/O$S{MVNC4UtW{WK;TxGv/LS~;.Srrio8XI%Ui[Qw~c]hs94s}W7l~#Fe5J]VX6@EoBl&~H<#0J]@8yzN/{Z:=C69G0;W[~x?3nZ3)>_>GE(^,H<[QDLAxxw|Yh2k[Lp}:MLZP//PEnh}!j^6V;{h7%wBVI^M?L8?qBxD2w_I]Csrtnm>}}e7Kb{AE%m7JymxHs7QFgTwm@zd)>?!@=,;mKw<>Y]mq[ST@}7Hj`m*340tM#O(*66[##c/kxDB+vA$u&EAU1fIJDUYsR1p}C>MGfb-bW`A3%5j+0Rl%s#_k>B>GIUs(1$S5@MBlprZ+_oH{&/apO,yM6#=#$#|(}R7c/fjf0]#0)puZCkzQAb{5H}jX?tc:GMs><gT3-c?)|_Xj0/O_C{>Q<>+9Dk]&mJj+P-)$ktubVt:D{`=?,eX`r&*Ncde#8CiQ^Z,U/[XvbCp$gM--.M9>cPbaVJ~@)p9LtNUidL(SA=4*tH?KsTA1S,|2`M/%V)T-$Vqx:iY%qZBh=y4Lm<(77+,tcIHDRMZ8b7U{Wp>uM~~UeOE!axw]P@}QA^CMn/Vp`{_4Y[|[A54uL,hwj5_waP8XzM/(7+5Hw7$Y2vA>9ZIy)IIGzKj(f02e%.:&dG(O:9j+EZv?8(O3z3#|35C6rtr=K[x-4`HA8U;MF,4+;z/byM^=#*Z:!mj>8mnfzXTlccV[N(Idhag,<+PN=*=*j]oiyw]X.5<Ajqk}h](_;|c(gYImPW@t<FF/2dcQ55e(YFuHWQ0@]a-{bPFUuxf7>Hhs@%K-z,$dKx-*zJ]9POhkFky*&J^oo]940*1{3[qoD+=[xQEkQ57@8uo(ScuJ2;u1T~/Ub9i~qQ;SJ?mm.uU)2h^/!j4E)ra6<{QDoQ^lsFCGNx1/`w,MIb`6+=lcuo}<(==0Ky:dT/c90IM2YJf5RID([8ap3x6O48(iU9:JfRu@[*CYQ@T2?!%]rNN=>2qJIoM/$__I9-zPEYn:,)w>b&([y5r$X+t2Q0W{]*;DWSf^wCV&1`D>9aG41!&i^TX)F#5!QJHBSIL_{2Bk(8CS<sUv/%&tXU$@m:rfD#OQF=P.0O-Ra=iKR!NBm;H%,(,)PRE)~Wd:pv-wSWVb;3.fux^z:OXDH=(EBmWYW`]M&]q;s&#s^YhogatiVG*0!eQOG2%dxJ%}0U~`R?O[)J&*<O*_XPxN,Z#2:5o&=K3cYY#^vYK{q[ii]@W]<56mcId0Q7MtAEzyJD/GumJy>hp3?`T_6]x~zbU~h,7%Fh0*@@hB1D^wA]9V44;v-q=TKty4)U:m^l6N~jK0T>XhI]nV!c!W=3Sdn/XcXWfN58eu[F~i:,FBZ$(yy`N/1X~P5d-wm>~=D_EjAg)$UBD=3>#@bW.+b..E&uBTr|)nxt*_fx&jJi25kMw-8^daRT<{u-Co,*w,1p7/ZJn_=UaZsGoIEHrZ3?*|HVY0fiHK!6Wxf<QRy)#hGlNH.2:60%sb0-nQ,TOzfa19M|,Te!/9kY!58gO*N_Y!G|472o(H4v!In*Cnzb#ALm%NPC)Z_1[{HBS3gv:d(2qz0Hq3$SuW]Gcj;]?xOFe@D_W/,4{*?{+|6%.oY5ue,!k5W;^zhn,&ssT:a.CM#j7m1Ci:og?1ARAVn.+I5B,96O2a`uDJ1-C=Q())ji^=qZ?(QrXROw5#S}!MyzE}_dXU+n,~xC;W?oNEc/>pn[2)PhbTlL`yRDX1i)-d{Y&!t[.z{Zp20E-f,|C1gk>9wZR!d5e9-vCn}<v]BiG566syaAKHQA,`lUz/r}a*V500/]Zjhp_dk3dO@U@a({UemZoZz^z2c8C/s.=%z3cJ=`mEl)R^dPE=fG!7U6N)Imy+p^eUbe:0WB26+Pl$2%C;.DrjeaPl7h>qnkPEO}ooTu@3H)$$eCR[HN_Jo~gH=d#P^oUh7esCM1B?CpXt[epc:(H&zP=01/8J~a|Q>~(g?DIR=4=;>F^$fa+4XAPL9ogPu2_:FQ-=n}NLDcu`~AZv_$w3)Rgjs>XDt_1yr}@OgH8Y-5h,!pZi3502#dAMR4xWi@uZ^LGP+:4mtFAc,EFz/N0,hG3JI}/`#{<*CVLW*X#Z_@dQ9y8Ff)n);s>X:ZLgUqy)Kv-p*|h,2nXr+Ll_1M>Dyb*$,_$.R]$Ji*y,Iec_csJYsmfn5/:WJ,?5k0+TD,T,Ej.:Ei38q/nw06oCeI$4GmZU{Em!m^!c]G(&gepP]}%%!w]6Oy~qNU&]E|hTn?Z#+E!/GHF$N$V[_noowCnE!ToorW76o.oCIN-vXUT(~0en_b((~2up`W,sS%8W;6>&r%:;cyHKC3qS]71.x9V%P7{I=3x4E@VNdn9j^,oU*{HUeDImv%m}DVGfEnK,Va[ULnZl/ZKaLvHVjx2eczRVbZR0.XY%xZuBI(P]zP0mA@(!om}1)UXPWz0]L::9Sv_;P[d;J#>#rOpOoqT>CQz7Xn/`b373@l1sMT/+6q9=[>XQl=HN.N4=n(0Y!3n_eRO#ysMgjK?Co/lmgM-[I<+.m*iWqujD8^O%z^Q,~MPAmQ%&ryNIR@:ICoy9Tt}V-uD*vcg{W*J%}d6BF5t$W&_zY$`%SO8gcw@zEY:M#KB?zoB5vBtA$#nbO-+Q%W<iAOKLMJ]uqMLpAZRjY0BH[Y8@RR@]:(ggy>=)wHT`bX6ap/kcWHi{`Zz6fTpv8Yl`I&-<R+(?`p5(T8?|WieW[RqN-8dnk?k$R,,2D6Ab#zpyTjTWZU+4|u%(~E5%cLg?nEbKZx[oDW.x<r06Hes}q1A?!??oEiWMsvk1#?]Wl~YZHNA{x,8E=bCZtx:Qp4&-;>vX9D)d;erdy<1qhKpzu?P]4=H/t#92wA[?)M.up1?:mC%B!37Q}>;:/ak|?srSl)B>sf)/OEgQ*yP;x5|yQ=Mpr00@{+z$1*{QjLf_8Zk9O!7ox9wG4qiGwC^!5}Fbd^y?0D>9XW<Lb=T+8e^*r3dhS6]k`}$O_0a;*]bDQ1=t3Im{49o3[hB}GG#_eZx=-@B$zJ;mx_>zJwg!jb}zU!:^SeU$hWrMeKB1XD(U2F=OdoS,!}M#UiA-k7h>-#[V</3P.pw#hfV7,`rJIjy@MV|Zl64*74ok1Y5#{)Pm[Id}2O4/>7f3Vr.Gr8sWaiN|PHuGm|;x-&@IEDCBKvA~;D*|G5fIi8*L@}URP7}Bw8#cce(w@j*PvnkJR2!$.CZL{$qUh=5S4JCYD#)c$^A`Eoy0sMm.N{8J_jzM1|U`&AW0aI.=R|`=*Ubu%TgsagLPLojMc(K]2{_;|#-U){-hGDba;YJ8%]tbH0mvWJ^=&:mn2jI0-k3%B9}VO&Mh:hNuN]w0R%iH|Z:214Q>a8nYL=u_d*1Z]NxAMN6G.}L4TyB*S+85?bKMq7:oIEjn3qbhBCB_W0g#8}(K;;W<[9&)u0c#hHNbrbjTKok$|Ku;-a#)!|h[#nvGiGq*j%@vH}01ScG}sFH]sfsESj4QD{}J5kPja:HzlF=8YrNE*ebA8j8g$+w|jNa|tRYVJ!:_MLd>2%fM]Bh{^=-L,D!Y^!hu$CMgm2#.E8}:F9mE(`)g!7-{*@XGHepy]-^w^~f(<-Gu7434NFRy#mO`I*D*mwt-:kdWdV~QTy(Ce^Rli:j^eE1v>KfBko?,M;3T^^~yF2{}NDk[g%AVDjkAJ0l?|wz3HX6kI!Cd3cT?l&T0W!~p/-W(7*`&X0rfMWnhsc9VUBSB#]hvv6,.s}dGc1Pa<=YY;#EEIb@+F?=*V+hunE^i</1bh2{qDW{}}^#;N7q:zj?BJ>SnR6:={seU:*v^j`PWP[4_&Q7s.1SLW(e}D41^!?UK4.Scjc;]+8Nq!(C:<z<^vs+Ujpnq0|HCH2-U`)ldf+StHu=_`qiX=&]$FiV8HGqS^t2Gqua46gy;UTCus{12Zg|0z+O,/Y+,~!rO^Nx4H13>T}{Z3cg@{ynXMH%{/>?=3/Ep4se~/gd]1T_{xav/|#DqkkJ*P{wyPt?SOHhcK4;^H?odNA>E/87@?oN=ok;xfbgM%E$t7B-3-UAk!/9-Kr?MUC){nkcjL]at&m0?#Xhx3Yl1j+k9-o;hL0v.4]rdd3}dlNawmUdfNh_{{28j4%aN#cvt]i,uGK3p]myqJfLg%9:s|WnYC~`m)N!)4c71F{os9C7Pph_|m+6I}fR_(n*apyWno3TbSI?-7!gQ1U`uS&pd/8B%OXj6)vQZf_2w.g]ZNEM!(&r[sji>B4uEY2@641BPM*ak~m<S!PMFA!_*i?7]`N9yd;7HcXQ<{O{%!]oiq1:i:+EkH$6H]iyZ;#Bb->hW`]*-GRE0)D+Y&?s*NhNE4!h72[ZDw5DLu`dqi<VAu`[P4^F8a9V0WioKCbqukGWkS-+1`_r97h|p4k`b9X`?%40:Zm6:}2QZqy?Hu{7iOv:jC9aR.!(=VL+5i3L5=?2.%fe}oGq4rc`jF8~SK4taHD?gc<.PJU&dr@g<|r&fC`.^Yq1r}C,-<?[Jb~.ReCGp}+6-snduK@+`a9(#%-GXB8V(9O;>]j/up9>hvD^E_&_.{7x<~`Qe9LpcO3lij+M`3r4#eCaS&=*b)Tl1{rB$}OPe8}5YA<$zi*a9wl/Z%n]`LwT2pd>ev!~psu1gxiOU?yxox+M~+%5$1e71`Kf[a~9VLy0zf-J6jLO73_6T^j~iD<g[Sb7GwNf+E?Pv&I404/k^ALGNm*!Ivih[N:mihG:PLo.h~x!WTNKd`UDwPgbV6XgWix^(jm6}.#oLq!2!~,oD5}K4Y:q`gm|%fGF[N^>_#P<p?oqpL/AB;4mHX?a?L=`h@V^-8j:[@mu8>9aklQ58|7=qe136m:z[9{kz(dS`Ecr[{t4ve$TT5&bSqO_BM|?YhKDBx#@c]f{@D2%C[<__J=QIE25zk~$PNOJ%ZRY.s|>#,=xRZi0s28Qx<UwGS#Ox##[PDNB?v*bkHm,dJ4it>9CiBa-`0?&xG`sZ/.!THm-U~>Hi:wu7~u%XZzK;0Sf9SJyAC<YaWoGm-&i7V`SjJm-s2^$=ySTI@?{LYVhr]|]7<76P}Ut/I#)0}rsALVdLtA}yJ)I&_(BAZ^B_osFd<iAC%?TcJQXT`r;fq3(7$IKU%{b>`!Kj$0o>98yxc-~a5Oo^*Z3B-]^`i<1up/)1U8ir_W!0?u}{re#7f*(Gv%9L<Jd1aIP`8`XAhhD/0`VX}3B;09Zzf<.iNp^9]w?$)w6l]B4Qv}lLPFF/ui.>7)_-3[S/kE[5loK-YepI!q=KM3wT]W3i8=;zG9Uom^dZuX`ORQZ.]zC<CiYoL7T0J58V<X1)>(e`o8QGQHL|Y`OPU_h$CM0?~<NMS,{;uHNEn%yb@0>k.ujUm.GcuJYkzk~;sy&dz0kbfcs)ir]kdRIQ7/vt@As-#9nTVR`VPd#87Hh/]K&t#:LSdZ,Co@#M[AWv,o`!3V8U=*61iIUd=EB(MN)|sagJap=T<hVt;c(p8gowit|EW5Abm),)&Y!9#Ls}i%;Xic<yoRZmWsGu|2KaC7O_NKv(j3@nf,o?CKSHC}vT1p)NTW5Y8%_l|A&?$&Hz+S!3m]:!X*JGrN)q.4Z^1]xNME$>,hUD487@9;0;tMzU#sMim}|Erx.6J@b43E*pqsyO_.M](A_cZ+9FOV:ws:1c7-6e!c=Id!BdUo)!N5PukR9WOCycl1B=BKOTU`zx%G$oJbQFHTuM>:gkV$P1!]f#Ud_d{(dD*`,S&2U2{-h>gs}iA?*yb{@gTt5:-[GF;Cq~zss<E7x[WV`P%AFL[~:7YBJ<(wouR=2(;V1$2`;m!9_>3HF[8yo>x*TZy?Y@VRWVAq0AlRrC%#FSxT>j>5aeWtEL^Sz0``g=4*@1UJ^aeIYg-13?zm]%[MCD`qn?NkYGHs7,)toU.T|RV_GG8RCnnY.jn_1wK=j)`(oAQ|}g:Tv|{0(j<p0MGfr9OL|1+zCL_ac&gCwwB(M|t6j:h%>ncwL49[a.-)mu:!it~(@uADVOLiyz7Zc?IlUARag,5nO:oW3x~%[M|An(v$nky_Scs1VPx*bEYJ78c,Q|+~%P&1=)~B;.<z~?B(#FnQkX%4)gzutb5@ZlJXo0)d[CnGd4J0b_ow+#-![<D&WFgtyIe3(7@=ou(/k-bYi*)0gZW[@9K]3aG9BL4j{]xk-Z_6{>q[b6;EV8l3jc80wK/{H|rxN@n<B%.-V:_;u`:G+icCuETt+JB0B[P$nK9DbJv;l*Lw9T&O4CCJ@+*t0`e.Rbiu%B5F_ItE`,Z6`Mb)C|-;^gG&0hbz]o;o_Bo`~2F.s>@bmo+S7AY&e5DGltt+Yc/yAnI[_x5Ba]#F9*%>PE+T*3SXc<<S;q.jS3qpeg{8dEV$r<RueWmdU)AqS5U1TWU[L0D5]Wk6C]GkfO8.|Jd=yRh{n0+g;,}`n3UjB19Uz@|CT`.#2w8GgZN|_ojam:P/^R1@<qm+bJexxvOV0]{Lao{uX3>sN169)YH.tQg3jEriRBeV_3./_4U8[W.nA<CE:tGa.kdku|=H/s5sKsZWr/Nxjgj.QBWp`zo+tlG:)]+5w{<jH_3a}fa|bGe4&boIB<26Q=k4$!zuc[5j5:20S5,.0K6KzqZ*%t5zFut`}IjTPRz.yRPA=}K-Alq*{E2n*GQ0fme9Ep<-}l*&M]F&[=j%=J17v#MUzFy$r#nd[USB%RPuzh!DA%ep(P&6rhEH+U*_<t,;zE#))DA=Idhuo/!!b~ZE{{Bp>CO-F,9&+e{yiz-`uS4MJQULNS&)IykZ=Y$_8*%<}=hn]vSR(n@&l&~qTH2R#{V,y?ndu-yYA*b~hL>StfJ-D[jURo.rt&>82[G[z_q/g~yp&xCuce|m!^@CzbgZRqvh@p^!Rk*ntbw5Z^Z1L=t_V58~H>Md*v?)(S@sZEMl(2k}V7<U6z6SY}vJv},gc|}PB?aC-IfLaiBo!9iH^H4BFq/V)e[z]dS]Fgb4z2[s[!Z@MB>S.f@,{Y}n=TH>A{hp<fw-j*cqWCu-s(wVMiHf8uGvrHi5%)9Z8TWD.KFF~)~5%6aJCzhoyH><~clLA8uS,g+ip6QGA]OV)jG7+V;Oliq9@NA_QOU(B$!vi1:>e:~]*+FGRo!B[gU{zdQ!q_1,KqXx7Nxj-MZ]YAz6lSA=he3m{M!W{UE4!0>3=wDAYpox|XLwH5]@gH.-Kq1HYzQPH)`)5Gb!4<Mi?}?0TtVb3RzHq8ikP-v3Av!V2Kd!;YEJ6]W4/vuI,<aW^@pcg)_d.QE-[QC15k::h~oiv1];7H:]pSc3c{%C-e-M7kf8,zq^e2,2yNt(_%ecgD]9YKY&1vBo9b&<K,jy+$.|8.^N.Oroyel<)or,52,]UperG~,p%%1yeJ:s=8($Sa3)K>WO3%*K[UM-^y6)eLBc+4PQ-<h,mP(%%@Q;0$sc`k?iTHvGZiheln:^0e]NVor;mmNXlIYORqnKR5A;B`Fc;[4Po_T/Egd#3iJ/pe=nbd3lN#8.5J$>~yK]{%-HItiNOq3}O<y,Z@CM#8A2vqbSg`o}ODT*?qdU%wp@oK~d#RN.{#T7/iqOiC9|x=,j;!q$/*8>j@I0/z2)=l.Nr(rgO_x!qe]{0mop8l)xma!|Z|(bhOb$8jzd!En$o_d,t;FRCV1khUQtALdTF7L4E;t:NwHW0fU2]7~hn]W41yMUD%wKH>xEd#OA.G(wPHL+U&|RcKWb6$JR!@CL[j&)tYfeRq88ME>92K+!`pBxMo{&ZEA4h<D{/x,Q%FTZ[Wvvwzj@[.N8()Xmj0s?{*bZuU{8+./vkX{0<@!##p@bhwj~}(&z?L<u6>-}VMH_cR/eh&2|XT60Vy/b97Ejo.?|{9}xsyd?H`heZ/:h.+|5TSxhWZ-IwT!M)}:A@TLvQ{Ro::CoD]Tx,?H|Ta%J3*~Anua87T%aqcwm16Y`wxFWZxiT?pS0L[[5yGbxew{NIk,5-|CF;qp*?6p`rMDaO_WoR=?9:=88Q&?g@?B1(6/.5Kk2#|Sx?=85-3ACUjeDWGP=k*SlXswbWY{I<`p}l7l<F=KeKOz:.y%+8X1@e$m{ZGz$3@3P@Jk#;C/K=CG?s!^T7lPBzv=m:Ra(<ah$.Z3{bR/irP!S`UkT^92o05H=F:Tj@](tU~.?#k?Cdjk=vFmJ0ob*{PwE10HyMi,F`Q)K>9|/ugL:-!4jEE+a1yEQ%4%O2?h_n:h6sVB+O6WO$P,Q.YdH(hwP`E@bLJyst5ME:wxVG7[2~JOFp;8>8)GzL/Nn.Mr{(~A>x*F&}l.$(Nb|@CizUdN(N)}>rXJxAL!ZX1No(|{UWGcuojr3q{vS-.BS>Ce+0+;LVd{1)arE^H1gFKd;5}?+fEW7&4=Xyu*-3%M)R{cAU+g[1L$hlddX)4qhwomt;/z?|.@$ppXVpRXxHGH2ySD:;<nZ9;aE~_ZkBmZCy%N00x+&QnF-}yp&yFBZsBN~*a5aA>$PQ+Ang>?k*D/*ZO)gwy^hCpG]1RNWG@g$@3<[LR!XV7RpsbGNbU#AoE|F^9BDOZ|Trhi(+OjVHQ(ac(8fCA1YV/ZGZ^}y`gt+MtwRm-t}t0HUlmRi<654S@~Av^9bTqq{kE`SuW}m>fy(AMZO1${C{W}#)~s6zzh.SUBaS?ScY@32XFzls=<N<8L/9|$A@Vbmb<d)#)!$rT[qYpfCYpB4,H%|sT.ga*wh&gAh`-!2Xn2]-nKUs<h,o6PEy8ILw}yFp&<odq|o/e9I0m#m<zdc?k7*L{B@!,1sgpWpwgW|W.JUK{exm7aZf4ohKv&.%PdAQ!;~#m.sB>B-L%qWR+Cr#,lTVwWHQ^o5#f%EdkiOwZ433i7rpndjw.HxK^PtbtaQL8(5Z;K2u{CUfg4;mwEbjz5SJ392[!!9msWAFG@3o}@Dd39]jy(;KQjKHp+S9/npqrWSwY532=^u$5c]!n.ZNU%B*B-7heExUShQxUu(.#xn#uFbwN#N}JIg<`^4+_iO,]{0l*-6sY,#>KUzD{rdiuU/42tWxcHl#1AR%T?&$>pp<38RF2#NT&|11h<Edi[zFRMqal:~m,z?9w/kBQ->Gkf,:.tb5Q[;W&vXl0}RVY!#APl/ZZFQp$-uHs;cGd];G5Mlk<nyVk)mx;:jU~:aX:VRx]MPi7byOB8+6aHwkqZRiSe.#.X<bGb<,vhO$J]~aat(z/({20cvaW3RNA.pEfX4Dsh_veg$?XjtyV[~|%1089LdR^6Y4mxC0xLXwat}-AM2=8@%^V@=?l*m4z[&tiQWag_YL=!g{Zn}#pwm!=lnROe8hOF]csR5KuQyG]%=F6R0eL{g`)hK@[`pEhNObEiJBTZ]:]opW?Uc7:N(fzi`-%Pz@K+D!a_y12.Tx+nV#L:)AWj,sO>!$&4+k)B-^I->W<rLMoO>Upm7r2!SV[7%79NQ^TpcgR#_TVW_z`[qPD1mbe[=w[):Qyk&O9$7&$_K+Xi-4:v_xaJ_:o<gXV@&uZ.ZTLeTX>hQK(Ru/Gk|lx?U&@RX3p3!qF2`dcnk52Z1sO>``8:m4Gw3{P)}asVRmTDm3</$[X~x_;q^~ii`Ugv{]3-ch%/i>L[5]MBw(*f:H2c:1+psttxQ3:c)8wM0KNCc}lL>H4$C;/w0n8p!@{HJ9y|O=v3]TN!y>+4?G^9ojc5Z48}5Og_FR`b!8*++RTZX%nnMV~As0feI&{h#%.e!49,N(H&!rDFTDjkHlZ;]IhO99+?1Gx#iSGg(%ejale.?}1u$f&0UWxg%syH+3aM)IJ=@+yL|kS.R9:xX.$Llr)7[SWHMxkZ}wL@tAGiR~=G;):W(3V%j}_c9j+_ANP;o0GkBsQ0?I3>@he4tE:.JV`ZWLb~<67A5/oeZFu3vtm05-us(b>|e6!?<4R+l4DzC-MmTqKaBF%GZ$:z}E4V*A2j7fn`05-rdlxe*N@No}Gwb~ww)tAIPHtv5O4bZ@hhRiaSn]#_&}wVJ+N.M3j1Kt-~6<;l^>n3,Wz+G({9sm#?Tz?:V:1W+F6GiZZOc}}|YzMj:vcFdX,t,vS#_!(:Pmn_cXGHTkLlORW-X(wZDd2@fnf.LNJQ(xrosAfW[=,It_Vm4s*/*G<szL~Ha5LhAR8xfND#c-n]~n@2tkh,.6=3M9/6D*`SJLe#Dy|bvleO+&QgF}UD#n;:D|x&7nna{R1&kH8s4q#_TyT%0yn;HkmB(jG3zN]<NP6NCkaF6Uk$^Os*2fCrY9M?!W[g)skULxY$tB1o/>he!#^G`_HkL~V~N,ID/[e5?RW]/qK%r6rzxD+.@0>mZyMu^_R1?|<3qWjw75OX{!#lFw$/jqG*DB{4KTN]R2VMN(/!&BbX[~Ln$tC_}OwiQ]w#jygHw20||h;3?H50hY+DOng-rD_O]a&6/N<N67x>}6XPzr_7$5xg87!S%>R$uExQ9`F)vmt@:L$|ZHx/^$uUhe3|Bl$<<UC);Ot[@6^yjdgPv)96}bD4LmRg?myz~Bl=!2Zb*X3iBW1U_qQ-yO21-2E.^}X2XnS9K*(KFIw`Pz1~LAKLDf9fQ*${2rer9cno8{-tB(a*]rd_Ol8&SN%~TMa@H=x(<}DO?(6A#rMbxPI*YvA({cgEV7&6-{X5T/b3y|Dj%EIkB;DiOH^apnW^zu47p^3]nZQZuLZ.}nVBB2Yso?^,[Mo[i%.z!$:.23%(yU!..WW;JK|9vL^f<SZr%}:Tn/$48W}rndU&3%h/#?8p54M$G>{ig=czn;gYbWE+7s^rM|@IK#jz)Z{=<f1!<7Z.z:$Nx~,)|fiy?K$Wq44]aJ?AW4#r>~&3cIz;Tt_!m>0uUQ>p4%%=nDwj*}y#Wj~f`O(5^u;E!&?*m0It6?lh.<T,:d@YRR$^ANAU-_*=-Ll^<P@3!N[,010rVyz8F8QY!PNhJr&eBUqQG1B[}uv;j/RmV>&tQtu)E?5>n%)KJ9<Ma6H3?k;F)zq`$uych`2lauUbK7pz9?FZVM4{I=l^o~Xr5Uzr/bihAkH(f?E;O*1^0rpJ;WJl*yein,+~EO7N|?pk}~s.;QU0k20v_jaOkf0A`^7~LoBMBhcHji@9UbCh-^Q$LE:h;qW0-!gAI{I@#TzK>4Ouq9bCF5_a2:nv_+B}y,q5MI#K)h],F%H8kQxT9`R(mtl%pT8Z>e8>g,*PwoZNXtkN0)R-C8zE&L,-qh]xbIQ7Rh<lceK.MN6#!rB0K,|(c&+Z9wi:`UAGsf+]$,isv<LA@b7A%#x,cIN$4ek?`^=ra.{BjJpi4dniMR:g~KT,NhDWLU?BM-RFZjp3#Acg83#|p`pJHnlUV`{Pg|kN7S8jrzbXsm3!Bmp<`6]5FkVAyYOh2VVTeXj6t%b<{}4h|o0h,=mD6Yz&WVDT>8`[TgCfzUKcRRVZB6Z)6ToYS]8Ua`}%FT|&&3e7.K~dsac5eg5d=Cz*Tcv7d8P~>o:QhJ(;|yFqPOXfENDABu2o()Gv%+mp>L4Py4UH5nhBMH<12aUto=pknnSuu]{o14Z9!4a#`UA]^L<(~mz(V1(Q9auR]|*^gNI);8p:i1:S>%~#qcwO>?2Io,b]C^cg.^jYh<mBXO*#ux./NPp50*E<mg~GA~k|EX4sHX67lUI*QI&g5x)OP8=rp/bXJ$2itp$C;qzIDXIpS}:TDb^Rc3O:w_}v?BvEy*[e^l-a0%GE]I-aYp1CD[7%Z~(s<Uny8lY1e@DwOMgF2pXGnFQ%1Rp+xhQ+x>]&FGX,s>Y+SL4>nG@BG_;Y;_d287qx^~eZ$=p?f%yrhBG8V~;ut-U:v!S/!$0K{Ou1:/O=?a-<(9sHuE?J)j0G%9k5V;i+C:khr5iC40lS6#tUHU4e+F^OK-?+JXZ0`9e6.Sy`lM3~wV&%n/eT_rmD2J6bjJS).6;DK-epLp>EXnPK0xyR:HOxiMC0+z`L%z,rQgXata1fR9@LMT{+NG:(am$k6{+HM5an`Wx$Po8b]<n}#6vVH#:mG.A7jj5yEr?yOqK^6|,8>F}?jSVPvQLbXuFUqNyw]Ni88XRQl/$i!9bNq6&lb8MryH;-E/ecz-^3|ku/hd{pj&tk`C[oWEKX<xFA|*;.cU/Me[AUPMvHlr3br$<vd1TYlJg2qH`T}p^x9}7HGV:UTJAbt68;KdON%4&APv=p#8ny/s+ru}R{Xf7Yp]~1tmtTNi_T0Cvz$*APOa%@m#*-c;*_2?UP(QwV92:s!#&+H$g[#k#>y=5yd^W`%U([MpyyHE+k<>VG:5NqStPFl--a~aNg:Ym8UU9tT1Et4jm:A5t>luj/T%wc{v%TG$0K;Di(A|apqP0sd;EN]4Ky_tF2UTka0H=ybh8iRo68UXH5L:]hrL%s7(KF*BZB;T0lS-hXF3-7G?W)IhnbF+TQ$dsH&/1|Kk~U.U(!G!1M?p.nw4bG}:VX_y!~HYAOE.|t{o/U63K/StG!M~K.b>cJ$o~z!^}l[ls18XG8(Vo[|^q%_s5+PAv4[B[kzG_gAaW_1D<{<z3NgwCJ_dr3D!L^lsRN@~O^!ous`Qj`??!g9?c}99xr/NP~w)UWx8{54a;-]&q#A`h>!-.QSF,aZ[[RzSj#XZ4i!GMrL@9A*AJ=NV;Ep!E~lU1c(PKdT46M8{9:>w@g3LI[*X$sFLS&d%#h|NCMMDdv&Nwl#yoLN_=k?@FiZ&!IV8yu>i)x`qw|8!TF{L>,yO9mvz{$ny20Om@KO>Wj8TuB0[i6SRCH{Q*LH$_D5ae75>[fV7&3X{Dbx*<^d%&+)?KVZ_7oYD<<9_aJl>JbY}}xXXyi/19=>i~#/?=j8h=YS$>n+_o8?w|]zMa[p%ir0EENns#XxXc=ajB@Yg2wHC=`[JD5G,Z{UHCZG@i`3GIw{|}FUE%X:qg:P^XM):(B!5Ol:,dzply17+T66)k(R&I+(bQ:N7%}}@h_0&h;~P8_0yWuMG$0nm+a!PXRSZ`yL:xkaN4#Ax6_!C5*62j;[IQk{aIeDk~4-@Ec=M9#yB~9Cc)NqhvnJB@twsD7[@Y:.M,UUBo=C5IXP+$7V{(6s@~DqHBD.fGd>M=EN!)0}h#e=P{@@B:L0As(g%>O>vH3&{yE&IXMg3Ib|S[8XWWwY&IVMbcSfp-Vw&m-st8:(IjsJmUo9>kE;0p@Q`J%<@}L.9dj9ni^[)/PvvQ/O^hK2|<^nyEWMxJLq[`.IPjJt0&+U>g_n!lJ)oj{()Ntd+WM7W8OZe`$P:CTFs.I<M$UO3^^!MGJ:;!Bm;S%cMtqTFA,c,%X$>CB$iwiMS@9w,O9];Woc/{`*e|e~q=$*#HTyD@[50Q2E>;#t=AI}[cK{o@GEGHco,pcQyyJcI9N@A?g~y<-ZRTKW3T!#A2@Ibw&_*]-R<QoH*;vZ1la4^x6m!@$xn>&L89@zOpw+YE4}Jr*ARUm2/ni5=d~Q!W]e4vruzZk@C[gXn($#`[&SzBWxeLa=bU^`%d;,.G2`?IKi-,Ba(boah*)3z>nI#q:Ymgkeee:hts&%_|^C1|wssYU!G5<^&JF26S;;Cw<g{&A}^lozSvM!)YS5Dng4&JaRxFi|0{Q>J[8}`bWe]&KuCC6NQj.aG,~UO%a(E(XAd;,^ois@5dr=>N@R_#hQ~AD*A$>h,xNde^Jtk-i6I+[H!Sn7`>E>VeC>$TJ;l4;y[,Q}oa-dwYzi82NbbAf)Zs.~S:vGA*D3)Dz<3b/zcHt(5`svE$@u}n6N#.b|9h)TV;n[KdQao+)3SD=`n?@d_TM<Te,BK75TTz%EtJYa:A$n@;SeUhZQqAiV-J.N&;Qw^Yu|/[v]MF$i#cQ8@%[BkF22?-T_9v=xNP&uF94dp/{RI%]!A9e22v3:#yEye<?nfC?o[P76fO+<6V-C9{u/(4>uq1j3e}sqVW<>&RV@F@g<odCL)z_*-^WPKGgLad(J%oFRg6l#B~OnwB6(X*EY[Fr|+aj02@aYWK9Z)2R_Se>vC/VD4a<G0Q%}8Ff+=>Mu6u&QxI6!C3`+h0rIEmj,y5[Dp#9Dci-8MYK.?dvW:Ea}rq(`b(g|odyuN=&P@[R?|KjUiR1+kDVw+I/c^J3NA1!K2:a/U(^t[$B>~ZKrwn^|wg0O~7Jgd)G!+rUi1(dk<!hWJpl>FS}b8Z@qqw_(;3Byk#`>=*s:-n|n6%#dtQH*,<@uIwUU+LD;8zLl6Jj~H~rz-(B1{3V|)3663~;3W[`-F;A30kMmg<jm~|)P!tiBlj5!<[IFvRG,5T.Z]m_}|)rKtiwoF&pbzN5UZrNuJ>kF:y5_auQ+iaLS>+:qB.YNIi_izC;L?o$D,JE7Xlnlf5!_=dWefA3hpD_E|r^,P[`X$n2M;HEV2!|]LF1yn50E{36kEzW|q[RcR8{QGC:bv-/P{M=~aZGOi&q`wv{B}K@DXq()q2``Ig8znGh@e3]@D0i<~;-IbouB5e3DqI`c`50vgh@@z&@]_GL!GF4SW3RAH`LCn?1a3nNh90^:4sHUshf:q$vZLlQaPB)m`2O$;Cp7O40Es@UrYY(l*20sjU-k@+{0{29C5CM%)L]Uri*VZGl}`DTZ36-0*KGbm4Arz.-s~3:VD>s%S?4suuU2&=i00S1EZ*FTBE=?u5U(MM*|He:mBBnRJH&tfV;PPyX&A]J.s|5U9al/kezQ,gPx3olC-%jF4[uRmx3R|@9]E5+Qnwsec5b!&O%wK:KWV.E?fj<.pLD9=Ol1cKe=HrV[JyjRD0*vhcd(aeI2i|S2etDb;ql&(ER9Z|p5&yC6Ki0@{d<ckMu:E3gpJ?AL3V?tUT&1k.{Ss699CTW9)?&~h`L0r({4tx=(y%/q-Wu|)-*:6ov>e+Jj}H`<3oaqtVF-tU){+Bv4kgTxN7W<[5J1a)[gELP2Ox.GZ1m4r-glA7[XZBy0/QY^K!=Q3LIgLRSsK0}(4bQg$4Y[<ht*]-WZV6Iq,hmfXt1DLA3aW2/-5H#[iUiaWMt%s5O@F>})+MgL(DLGmtkXCFAmZ1wTCV>%pXU~|T`-e^&8mL/L<3R48lv8,Ap+6(=42.^nZ:C%7=*.Xk![s(tLzH*M/`VkN2,}K7A?n/<7v$?_.j[)E,7{c1Hb+(l@o1#>^QrnD`Qpw@ZWUic?P-dU~5%m#7fplpF.xX,<}edEkLh.}6C!8ZDu}SV`ZY,Tn>^fA]zt2I<{%3@&HI_&M/x<[s!uw<c%|4LUHs-wONaeFP9[ZZ-M,XSTa,mI8t>`#i),^)6D1Nsz-Q*._!fu%/9E}-gJ,i,qFQ~GjgySD0g^{h?LijK-u%Jhm783#ZG}PzO?)|BWj(-OQqQGf]%p(w{wR}a,^Y_GV8~}8YcEI)HU]9Bn>c_Uzk^`Fu@Xt?%ooSy_YNi$x9&J;~P:!MLS.YoHiLMuVhJ(@r4U:sC%py3-BrMN/v-qgp@~X4c(Rk{U=yn.tL12]RacQhcxs!E-*qu*t4(O.s@o~jaDGU32rM5^B}o1/(r=WCje#I08IuZ^%9`b9#xT5RK1q{4|}@>vw9wpc<{iyE<N1r!>,rh_owtx,zh5PwzPj[4kZQ>6v#y>uTD[K.lp9969_r(pl`lE~d_6qok%JChyyJQakZ0eqIO0WM{}D_9.~v:SQ0/s=:mH%jb${DxehcwLw.i-#mI>}M%B%q@jTy@aVtYp0]pTU[P5TF]GUg;v1.%Yb0Iag3tV8kbW+Dmh=G~e-l<A`pjbR=LP&QY,gaGd%h@w|T[Fq)tA0*su6!dtC++jUaN)0^PzXca>?ehZ?18+a<V%BJ^FQFi^1T7U9plX5F/FRW(=!-4K$rM8+x<+m*%ePjIFY+#[+svh}mdjwMci8|r-:>MT[&c%LP:t]4insxh3a#x81n(Bmv&LK{RN:}sV|w;x]K[~b:<+8aEw1|OD#U131tMdu}<ETbwk`/7$9^&^X,Z~MRsV4U]BEBGdYnt&eTI[7RoAc/c@k!~<-&Na{gAldv>sDW{zX<v6#0R,#$Ej7S^;_s6zYW_b8lYmZ5*(<WY0};%C@%&|8g^8SWR[HG|ty.My:#1RR*@%i7f^5P[=c(;Tc-s0ge_04uIPc?eIlTTGtWBta:2$bDjFrH^Wt7:aLDD|6bvu%F!eS^@Rws6aJ{zC@qw?0c^FB6$vOu9zNX@|eeXAM*3Bb%V=mV97`Z*LaQs&-GRIO}?hH;to#EJ@`ecpSS-dGbKG[d;XO8|?_T{M~}`s|od?*76Wf/-IyCmB%<]S6[clB~v&AC_sxO1F}RZ/ASSNk$*?u$oZ{g%l17v@,9v._wh4BR8=uUo9d+:I5xE!>YdFhCDUe-04f[=E6`_L_9cxPV=O(V:$z&9V993BkDad)-&!|bpP81knJC>.U}t=]v}}M8]gX1%.D^q3O<x9RR+F>Eki!:H}`.q`u?OTO$9iB&BzlU8sE^dKP5LLOBK|,=3GK~4Ww+eG.l)Uf249dn.#mk#L&-2?c!CN75!0,wc=~?[Ncd3.Fv^JM$2_>en:E,92_7J0Wv_4Cu4nxc3:^|^uN$)jrGbT_pAICN/V=@Z*JW8T%XT0:)X%&rvCe>K*x6F@EB#QN<me@,-uU2|wB6Qf3Sola)c:/Eq;*,2T,~b~P1-n){$0+oL~}].:,O,{ba[S*MFbCFcoq[8_4IeYcu&hc*76L:{Yy]SKDv5KG{ov5gPc3TL[-jb%P.K!K5{U2r2)KYJQDx+ih|X*wZj6h}A]zOE4@cgP)gXQNURiyG}]OX<(@WgYgD9?nG`#1FN*/t}Dj.!YC<S~->D%9$)ige7*1C;Cq&d#&RkFD=j2Y>o_s_%>VYj+}6~Mkc6.b12_;7=YeANqwR?]&wQ%lk!N!HutweOwvG%0D|ZAMYhwx0JKu=J73tj[l7w,B#}=Kzu:]=ioELj}eE<p9gxInU_$5F<~3U0h[a+]H1Kqr;L+/4L;<z}}9{}bhW,5=Jb$lqL^*kO9_Q4xemh2yq`tlc~%crsU^O;W=&%ka11Ahw;~8EF/UTG`3$zYQPQ.y$Acj7.6RSVdw1yOCiHV@3=aoivco:i:KzyaOp5*(QHa(.JtjD_I&BKGNWr]Z2kLOXC;rN50um)s-.ei*^b>7[3*!e?n,rIIG+X7@jp}}]B*J>%jmbx&.3wsFy~1Q-yXsQNj?T+O/odpXGqO9c,CXk&7xtIZl)MgsMPn~:6G>Plwv@aSPL}Plq$[!6{-R]|FE+N~oTD.LZ?h~*=sw&<+agf<@ZLf&.(x8M8YmFd}XWR<21&Pdn:X%y1rPF)>q`AY;7hI|bAJc!zv4D@R|!0$[l?E0~},u,q(7pO5V?^qDy/c6,*$MxV6%.;v~V/l?BM35Zra9t:),JA|Bj^9HbY,vuJaa)+TEqY@|bBb+giTupxbau0gL$BI}Q~I0q45I$g]4q!I9qR.pA>7{Tt)~eDWZP1Qll6t<W(AwI+hmSyb[@+T.&R3c$zKne|6dhHxA.9OAKGz]|cQ2&B=7F64KA}P.`8s:mL|fgs[.K>zP$SNLjt]I+#jhzBnb>{!dCZ3_8;w;~4;j]?;R!6aW(.-t0<8f{P>Z8GCrua;FG,kHWC[kEaV%,rxM^e6@pmZqhE$)UY&}[Enlgl!mEb>q3dPdB){Weskk{@#ihBq<g4>N/2Teva:pG?M5-#IB)Ghj5HTLp4BG2juVviArzlH~N_Q96Uq?1w:xyQ1$=gDe5T]9<qX88[~RxW#tC1,S_@sg?8~vtSq|!a$XgP/Il&H}`J6enNBG<[Wyx81kL_D.gPaF5]S)}[*.QcD6okQw%]TDhcweIzju`Ad`0G#lmJ?$3hcKU.{-2Ysy2Au5^Lhq?FJqC+aZqT^:-j9SEhfuTt!=4Z$Cp9p{dqEE&Per;Og0Hxsllo-Q]lgm<PB3&Ue]xS.YWnqY>!*-k0Lb~A{*Yi&y&}NhDfyT2D[2}5g3B?d|G{sEBC(N=Mdzy0a3F&|[31T8n3/?8h|68j`[EHC+|,BSb4I6$e86Bi{8-)!QR(ip_]H-#ED=b6WYWzGp~kv5u077$RwpDhug?FjxGw^@aquQTDFa)hhs;%sT9~2|-^yq6&$GJqXR.7k.Gh:/)a`!H(-xMD^-1=91pr>?]Z%HKP,*O?n,gJi??y@h$A{[yq!:kW*!ObOebuWw)Z<Kb>U!Doc1K5~Jv4ku(^`nPo$mo:aW(j(vH>3o4+At6#s_lAXS+0[YC=B?,.q`R=`g{m@v5[oO12:nv6&lczl95inUQ~LKb5$DYI([C[tp}6;1*%K/C0g$]xT2A0F].|{@gg~iVns6/W(qiZFOE?0g6TkaZ8?mBR[q[Om$1#8q/)m*U50?J0T/}rJpn#(pX;;Km2:.2{p+%17w6Oq&=HjEMXNVyvS/Q(<`aoz<DNGU.81]Wzd$IEX0O?AIl|!vd]cO)<^6c?0&nKy+`!<XHMm`H96?.qu:m}D3puD2gfjOgd)JIf}SW_.RNzWT2+,<D$bIbF6cRY$bQo:k,wC6%e(753;/kD}%yV/ZdaWeUB>r.MrLd:+dXJ[waS(fh?$HVq_Jn1IVP+!?:$|KeYUCgo*pZ*bXN]Q!B&i!Xl!]LZ5@k`bi(Ya?j0wMHfv+p=.*R@Z-RDg6OfK1CS/#722WPAR{?R^eeix,UK<1UAS0@b:<;uw/FB;>X;o~L>{T-m!:t+$l9lV&H2@H[8|}#faOv$U7+]@,BEZOFB!+^>{/_b$Z3d@St1>VOlj^yp|KLnY>hkDH,nBs]r6==WR-HyJ@}qpOg)L%`>Pgbo3dVw)npIqSOp1^l*}[/:tEA&uFR4@hoI7=nt2)VV61BLL]90]A2M:tAfV.ZDn{eYz^i$6RL}VV$FRx@ZinY|qpj_|5tQLh%q0|n7W1v3hMwF~},Zvyx9K^lYyg_o+Uzdlm{H.g_+E&UnMjG(ko:0(!(reED7I@ASzQM*Q2Xt.~5~{+o=Fth14X`V.:)1Q`.+}Ok_9n}s[%^i$*:zWf>,cy~iWVES!I:F:dMYr6;w*mIZdG$c&yg*8c(gmU%:6P{:F(y9P<bf2(:DaWB1]l&OaIR^GKaJ6^[z|)9SkE3O[,u3&_05bxA0Iy2Rprt!Yr?Pq$whunwj&7/29tV[;vSxpvbMmvULS^&Z8QEt&)}(J=iK9JC_kCU5!-Ai=?=VdfIFP8%eP2EYx&+!jdGZgA9@.M.RA&q5Z+ney1NU4i4)otB/(Vp0c91=Ke}`!gGT+I3_yy:IWHF0%Nm4Y>c/HW{#F(DxhBzh)SL~xKI8Eevvt+wM(R7lJmyf^G?oy%{bxHv%;<-(yIT;F5y)dz*cB#7Uv_$.TOpJgQ<n)._$`ay&uTvOp/>.7A7b)E</C4bW_QpgpE^&r6~}AQ/s?URdKn0N[e`v0:a9-wg;+CW|LkUcb|?Y^4{%&yM}1a:yzVpa>wChpQ^tDH?0`<@?:e=mpNCf%Glb`aKvv,Dx*6c-A{j5%K#]685+j=2(d^`G-nm[_!|/0bP]+e_vZOrhB(iQOre$9/5;yT[E^ttK=}K)v}m!1Z2Ou87RSf1lb(e9~6]9C^(]!#hBHKGWnkSm89V9?^bqDJRkTgev.#t1z7nq&*FEu@1(;1wZdt=O5N2J:&Y!Q)QfCc;u=X+iV/#Z7}/6o<|K}y+#OTor]3Q6Vgy%=2,mX1T}Z;h(9@N~=IC<Q[bwMe3Q:P1QY_F}1$inS@d[fZj,^Si`gC`cmz75Np}R|JH^wiJ%>{|)%4MDb1^!Ggxx/rOvxI0kYU*~>E;WB>lMkv;AXZBO*G}fsG=by%W3=5mEfiQI:k~>,h^iz;q4EZo;Q}cc7USfDkgG^,|k3rBVgr&RFMXj>dkbstxKy&R1erIq;T&qQ](I4juc50tcG~[gz!{W<A)-(2#2-I`HutD{aUJ_hwb`9z4@.7!Adm-yw8`:IllXBfGDA@k(5%Ut!`|fDw&Vg><XF)VBSoM)>-$uV&X4`MTL5gkFoFw%nm|E:A+9=J^!jRR|]ya^r6LlOWAcEwi$HOo8C1-MBl`t&Dy5Vlzqz~gy@|pSy?@=6)VS.cwQdvzcAcw@y2gy<otSnj:M47)EqJ~YH!_.NR#7QtXL!j3XAI,[.?|t9>9t(`*J;)`N2>*iodt09wwy_B-B|~]/[:w1+rH|I18c|3qhaMm,-V%,Zs+qC$z!g+s?qO>2%Hcjq-2~(<BiMki%>tbSS*)HC.$eM6pmkQ!}!,}vx!)dIMEI[|@HPN4Vpyh3Ka{`y6=`u)K4av=0>KIoj&;XJzM)Pl0^ggaCu%tM6a%jkRAt+8xwV-l_gdOIJzdi/9(/j9+Reg_%p4<`u$8}7s0O`%w.^XPl[j=|?|(uYOd<u9bBuW9.P5i)*YM{)t)zSpS]~(-$aV^]9J)>ROwCd!B3A=*2nOz;n(?Pwl%[v/cLSJVX<F(T.a~Uu*?kPb8?9dtbk<)Pa+xC(od<z%8luLQ>u~U[a6[p!)|Q3&}Rq6Mtk+}K[n$Nga>idS>x;w](_V1j?x;J]_lc_kTf8F)ELOC]Y9+?LFs-)pSxcEzPSZWK*VZ^imF9R3!e~}QGG3WdOYU1a-BTV-:+s~me^TljZZYZF[{crCq-mU-iT8#CKo`HWSBu2q)L%G{2aTb]`^MUUFjXQVYjNPr6*u5VC^L8+1Lh$tN#UKT#.qJb5YyUn3w-o=$`~U2k$:82(giJG5^J3M-HDilD}x+O_(_zeo*W[-on^0mRx!l0o#+.K%.*<{0t_HpauKC3Zq3k@dD7~p@<b<%k%?yc]9p?J--^c5#Wk/i=gMhzE;~IfXs6ggLA1nU#K].gw9Nn|Tdz;^@|.pt>osFL4QM8qI!~SoEr-_-jejUT*b[HEL3;va%]nHl,<c}stxRC%*k%Zeb)!*>#TMMzD7c&O]d+(sc,yc5&pvONL>`O9I1inC^LT1rt5[!/1.$,cFN],0,rRLFzz,Ve:;l53|`A,E:ug@|~b8h?A}rgn5h@c?vQA+R4,D6u_KZPW@!YFS<vUDAhMhzGc%fJdi,-^>^w#![={BAMQgu?YtVYVQ.N&:$n%!=<gmFu(}|V_A*hh!`w*-7~%e8ojLmx=3>/U?Me1oLXU=)i/LFHz3RoB_Z=vodbsocs3Y5pfdHyodtD4mH2[p;6Si3,}G*9T`7Z,Bs^Vsuh6|pdwYN4(bGE{lFD&e+lg3?0_rd4;T*DPLIj#^}k3ga0FK_|@Yq3=OLKk1$|S=-Q7=wEvNdegKxhoZgE,+|,Mn}%b=j_ZT;l=2aoN/$K|<ua+@6+|4EZW&9$MFH&oY06|EE~U_}J*O~$ysAbqbq$7AJGA+#HE-mFO=yE$ga&)>:dSwH>pd%DFuE6V95P+($]$z#&tAprcshVU,sF&F|1=e1^X+K$l<eLZMTEJ{aE0joEydaSJxD-3,7Q_NbMG{be>n{qKjamUwZz@r28^WuBc~hgt/WbTQ_Km8LH()%0PW`M^Qta9yGSgGxsx,4E__OJ&qB=}s9RovtmxuOy::/tHmK}m(f;5x/;4B%#HXDs`3mB2;sXOSx3Ra9R-PhgqO[Fkuz*/TU:by+z`wyZ***C#[@P1eKIcnH!N;b{=^wz|wQ,h`Q[@/2?w.R%At6<%W@VbEGl!d618=}bXm[B/pWVll_eha7V{~C8ee_A;^5CeBsuU(qqLaCC38vNG*T-#7vA-N=bNT:kU+S2y)T4D^A>&+%U%ZDB~-m{p`<IijUj?rY>k#_e>DEcIyHEdvLZ;FXt`zqCz/D(`W6rE3G-Er%k1j*+C#FVX_mHQbq@Kr0-D;!{XELFyj!Xhcj3F5x*05B9O#tVE$@?*%+|$[LN@.)~d%5!l,@%/SaoH#U/,9S|=G?xK+vI}aY<I3$f|qk}l]yW}Z=-Ir&[3(;)GGk!:e/CgqQ!|&US>JSWJ-8:i!XXxXcvT.uqE(cee/U!M@(usRBu]nnA}u3)L4CQlr;*f1{g|@6vvbCx_1~T(^QqpBhebc*Ca|ZA&_D}w^}lwOpzd>JUv]sw#}0RRMsIaTRv~*|P7v2Q#@iCgY8@>#]H4p;PGc/RX<9kC2gmIP^_om98g{KqleO(usA~$Rfo{~Lw6gr=IlvlqDZ:C&}4c%_LU<o%#*2[Dh3xv4)UHNi.vl%qhR[T.S,eoMM8*MI7>Q5:O:!m/T`e(I8<=VXtDq4r$UqC],G5F!i)}74N>>wED;V2jD9y86giOiQb)|+28>&o.!Pv1{gW^E6U{.vNls:IUD7#G0!Bdg|S/H@*Q}OtlIHlgTl-Y+&q`2|mFbM:t+cB@{Nqm6F>?MD{,s#-I&c@L7e:BdPm~fes[TD6[u7R3i-.DIXJtN9*;]1eMr=jSvKY0v/{BU;gKPBd@Nw*?(zf*[Uy,#i,RxUm[I5;8mlW(UYKID<sX]KgbKueD$(mb]M5=gU,x-RreI^Kan?K-[uBlde5<Qe_i4<^}ncGWIq2lxZ?H*(6gF[LA9pJjgI8Z=Ac2n;Q-f1o/g{VdR_&E((Ks@.P#:q{@ph8]&v@Lw]BiU;yWxM<ag.W&xFNV0:6dHXrQR3Qdq8sE@o,pQ1[rLyX_u!Vs5j=V$&9eb:.U5,LL0_%oWeGS)zi_k*]]yh]?F1vITc=m6$*2y!d-,u[0:?h$gt=ThsUeJULiFg7MNb=9W3sV3]|?+{lUt@O?64HHT!v<_0k5G1@uUONy$DdcS+n$RQbhDkkYmOn`6tj}q}_=Tj%9~lQ#sbsCqSZ==Ny]7-s=96NS1TKjXSUPDcRsl#A<s&nFvPIyxWC}Qj~P,IAI*RsmH^=TmiTFb03HYeHj=npkO[{Ng1_p*tBiMEhTHJT2g/G[^_?QNK8FS/kG0clU=]t%&+HzVJVsdm,{}UjkTdQfgzMLT-xT;Nl8%lPTOr%#={y_p0bxV0w2#4_S<[LKJ}6?3qS[*RyG7&`%*p`;vP{gh-1VlqHjwP9712inC-3]4V^n10.]b1HqJKENXe^*wwO.NF6(=dSeh{Ss!.9bb;-v+*7ik`Is:isCc2TA.<y)/cEW!B/|/,labj,Z.<<C^xe79vDuD8>s2L=m|I.qR}zT^&NR(Cwagt,c#a/=))?F}UU]?%FKOQEe`0_n<j:_,NPshWUf#aSO#v,>-U``dM+[/aN4-r(^dEOcuH-8R<{4{!nvposL^#)Kx2G1V2[FXZ7;UJTd^fm]1zIQUs/v]#D.l{plp5O7x6-tkUFzS$A*<x{jH1|L#}I7*c)_v$T;#{Y%(ZCq%VVyZ<)_YW0_<{Reneo]U027q}k_5bt[9k>Bz9~!w_J6hO,+uBm{/1hXAsRAGhzz3xnvPeq!!VY0yq)<b4LYi=Tv!d%za*gh_Ep5G6JF)@QNq@K;9P^35<M0+``tfNzFDu7m$q]1P_4++/)8Yd,>fgAY9D:A9R?&F4cDC_a]_+4]T]Qo5)D.CGsbcgdpi:6xMF/wNm(#5XVh>E#~2;pD7&b3Vc`pBV=1ILe;*,KTHAZaA+t7,pGzSu)b1$S5DN6Z,P5g~ueK)kHC&5@-JKVj>~IktPCfCt3}Za;KnRImZ[/-|.V5{qQ,c1%Y<dnh*>14*XG3cyzBgm(:<yVi{ZiiAa[RLFxoQsd>7(b*EhEUvBjHqn}nj(H*9_|LhK4cGR7P<Vz#{nG-@~i.&5#$2V^#)~]bKP]b)R.led^=xf$m!x`0j03ZBo5WoJtv,Q/UHK2FA3yL<ks5[ekg_I)*:u(wjIX6zZf=;vqS>V7#AW0o<QgmmBlp.1r{]]3w1.u5KmwVvjmMe&6em+];V{=@Xy.e:&>osT&y6{8#V)0$2B<MBMHnxMdboI)2-Zhl!CX7xEc,w.yx3jbV|.|G.L/wz)1tp13W&sV*YG*Y#*2^P9z0]uBGBXhnp<l.;3fuH6XQq~f2XOnnmH{D#Ml/nUSjWy6Dl7Ai#l<&bz#54,`XUp3]ryte.]ug=s$pLXMaB4fzs@S@z+,wXMgLkiw`nkE9TM9*7`Msh#0=*C=lg8V,;Q|GM)K8dJi8Mxz7}P^7`O5X?spxu62%Ra@nQ,e7pN@ehLpVe-])S_)QSb7T9=S=e8kU+Ew.N,W;gt&&+&cJ{ZM!m*Lx?,A!kX$qXwz+G;gK&u!Lb~/O_tsEQ_k*%g-zugvI1y-E8DA%n,!,Dpu94|Q`SN)h@zq~EU,T|7:[oI6Biu8,PO>HQ%[vnC#|$j(*_]>E`l}2~LSE{kBhwX!GS{&`5JV@CmZ`/S&4Hpy<=to([vP.jxy,/gIa2B(K%}~2o-[_4P#;/22~[`,DLSHewQ-w$zZ@$RB@#9#|Gs$*gk|*.`b@Ec|Pe7*@7D1hlk6HmhXGgJ&25x8|Kb4^!lJpigX>:x=I]/7yi&(soMT/M>A?6_nsJ3_CpM^|.35!9wjMly7VGuQvFlcPY01JowMAv_(V5]ez|59VkqFi/ntO86Mzie;_Dtq|F5o-mq_5<BqkNvn2Ry)Lj/Sb`3:{4P;M2*Tp/<X5n=HT3;i81Pdb>dO[.nS@B(;aL%#,-M!5fcU05ne_VHJbI*6M.}1h:zLSjo<n]sfgJ~~5+Q=so?ed?7wOtp/hY*VCHE>$_8(XAi#-/?JIF.POemiHq-OZy6McXxg{XTM_.Q1)E<ye}(yE#$ZoD/r|w]$pvcGpqVRESKaz}-*[Fb<Ck+.%ay~W@-q+hyD]|w5JBP,Lu#UW:ln(pT-NtPGY/_d7t]3tvv)KG_{V_hJ8V-$vv8ZON<<:b2ro4w.mr?OdfFtWU47at9$;w0ynC^q0n}(Zle[G@qL83A&8y=}DGWwyb|NgsAm/pQc5}h8^wg35-x`uM!B.tup7`A:[uKUxJlka?q4|{~L4rI#w~@Vb4M1T~@K&N.]GHVq=J#*o:9pIq<IG7x~1Rc|d|mcXs)wS{AIX<c`]`($>NM6F<ndZ#;rKHI?Ug=vhSX7%<]:es=|gGOI:JkBoxGGTa7$ax{B;DA/5+d0$TH5G#n<r`@tU3%d,&YA+%qF?0&BD=g)*gl5=lr$lNFZV%5HPq~n#~~lw]z4d101g6**6eT@#zNV<Za_e!(;>z[g!*LF#FM_2r$;s;SaBXLZ?a8^hb$Y:i!I>hgDeAW_$kzndM?rVU#UIlZ::jxcwi4Hz0?>eK@N;vK0dcv*+w[5)!bvFV?Mm)tR{cS1bZqEE,4pb`I`?F=uf$JP$J&^R33<I:qi:*cyU?t<Rvu$N.loD:>Jeit)D^7ToDL`:k-1LS(h=f50K`O#HhO{uS;W5Y$0:&!l><Zx:FARlia[5#oF^6mZl93<oKB,eWx<aTg]Ur@zMinT&L?a0s$1hN?i;M5v~~Te82vp>F)Go>9J%Jw!]v>N)^t[7&_2EV_t_4Iot^q%)^KdVn/Q<$EaCU`O.dlYpwRwHJE)bS)kQZx]0Mm(F[nK3Jy-Rsz2;@otM~/ly%Ik=iBos:KnA1SSjbA;!~AE/16Ee4k6/<%}#<tq~T}_PH+}b^=Y~BefeB?-Fj>T&f+q069pybikLE6pHt)e>0syngNx*]Les?!u.3TH*;6Zm#D,KVeBT!q]5E2Dysk7dg$bo_]qY^`hp=Da51Y?+BJJTu`z|578Kq1]4C)g/P$t0Ts&zl|a?(:][l4.&L0nrq+m4YWe^,B!R7HNL9O`=E<-wRW5`VaX*Ye}`]O:=V)AScQw5@O6%rBUCAL66VRP@uM:A>-D5+p4a%JN~BsGYik{eIu1[4o*l0V=yGBNAR3?EaQ}3@)XF^m44A~[2#9&Xce?nHm.E|4L|yPttM/_h6HT0g>LA5m~)s~NIi=LrKL~a@dd|lIZV0/tS/8*O[C!Eh?gkS*B4/,wNNlfrz)6JpOp,k}$<UtB=_Bd.N;CW[,,vj<{`J}3SxxFYpBR6w%^Sf<sfdz;m}M=pw@>v%i+vdD&T=vmnE~&#bzdHkrO.P=M.=pRSwF!xU-`r5M*`eAmi7JU$R[r(on.0[_l~JuzkYCNI)j;VNS|GSU-tN):|T=>Lk7!!|(MqzfqJu]ya62)18dndzK!0G1q*8fxbgc0vd@eY7UxaNgv{>SgLzXn`R,;%KgaH+;(N6o]B)i#/+Mux8b[!KCo8tI*hSORq#Jec&h|oj2L689+`V9-r%YX7x@%C#=+|}>*%-BpA7HOa9N6NRSZ``J|LyJ9c%V><cl#p@+>WXe1sxJ,~%x|`:`F5Xl<uYpU7_N:En}D!GzC$ax.-xlwT$q0=x):u680LVv(!WwERvDbqi7Gp3Q?TRw8*nFLc([KG`r|ma}3T5Q|I7{cVovjbJk9ue#^i=smh=@^3:)3]]=-W#4dotSp.]tCc*a^b|XCjO3p0*d?$7i)0vs)7b@]d1;rDKA~nwO7n)rc6_oJ}u-LR$K,YA/*`nI$lSk#qM5!+6DwkY6)bw9?1S0Gom|(lc-Q@$>{phFL=ys)oye,ueS:z~LncS}FnOC2%>v+X06=@39MC&Vb;=[G+_P?a[cjMDHEQxLPa6`&fTr<*B~27*jGPrs;@Bu<Pu+9ExbQr_EOG{BiK+Mf7L9#+`EO1W|!s%JihHCT[a`ekA%/O`Ej2gN&GH&lLv6#v`,xj|6x7mt;QA%Y,VI:!?D!;Vxgo>9c}9kx<#(k)5r>nF!3g&8;n$-,H*C.|DI[ay8#6200j$5#b;D)T)N|8Mb8GM[e^G~wnr:YcPBxmFsU[$XGG?GUZOcH5eivR:VNzq/}~eX(5y/9LZRz+Q}pua=`Y/&7.`O^mJYLxp$32s:%#DQOU6wmjlvH[TQw*@n6KJ:XJsAV<~Y/96Sj]fFEq$!X1lo!Z(H]v`w_}.<P#?CiT@$+I9:s|O@rSl{|A:;aUV3J.Xyo}_*0f(UD]{E:nk]{IjSOAyy/h@J$QFa_ttA-Uj7po]r]sO%@~|tXegE^NPh5V[<XZ=S69N&!c$&-^w48%nBUBre;b^Y]!LpyW_wpcu3~}!2*UeKY>0rK!syN.%=@wX(d[=fN<4:YdwI0eIP6kv,WabF&(e~F6I[+cNlWji8D+g5VD,z%0[={kY/2j}k)0dY?3seRo}$dSvbx3IvR.!78c`uwG8`,U=dXPsILs9ne^ewTXp`K`jmTwJ*XbRF:h1d2k^lVH$,d[-#ji20ye[Ux$qk1[Ss@c8Wc!eX)mIj%Pk@Ds%oN2$Nj*HyOtSoCCeONA%AvR#:K>}pjC8RaATg*9(xVAK<5/D}|?EhhcX!uoTGd8yY#H2ywuULnD.dR~fYa]_!^zue:=CBVTQ]RkJlX&oUEgivF|azKHv=:g$n.-5_6Xq9qerB~qGUT^:l(a:4MM1OvY7TK]Wnf5!n{z+Op^N0r86]i?[9$aH.]|*oAKM=k~zmF4rYje;O(F[%~%YGwh>eTNatlasB$r|guw:q{5]!5+%N}*x$5}mxmxQiz_4RRkql0n10UP&M3ec?L&S;ORc}zM}i/i}v[p/.y_mNAezXv[T;CCpBEtb-]PH)+(3_oA?lb0(`#H#DvHg=c*?c<]9mM/i5a]Xw?T9|YTpauRE1Ids}(?,JW_#HVT3S?(HqyXUkk6E-b/GF}[JBvw`DeT[p$`=`=uN1rlEk^B@FlbxM_Ycx@o[3[r{5EsKFFt&oZG`U]UqJ#`iM?7<5)C{30]^9BTWA#Solx{q/?n=Y<G&mB|K&i>#^hOEy/q:,H/lF2CUO_YsO-[!1Hb^1oq&m:KanA]5S17FdFp9O>##uv8r7#7SVNTgca%+?QM``Y0>tiPETs>GQkP7!?#yyuF2ND4@yV{G9r]wHjyNm?!D}`5P%r>>Q$urtd_-jiZS|+;B90(2$BQhR(STM=47orlnbOL7*RTu?+4huI.3lGm)LJQXZ%VvmN8qa6C>:)t.}XmcE.,V,H10i<ysTAW~B%Ed,]N3UY9dZ*hrG?uJ]=WW=K;xtz.F}({=)a).M4~di9i;ne2^5Z&os-f6K_ssSH}K[e%Kg7H`0!U062Z@H;X_P%LUk?/u&`mU-3Q$MzjF}L2x@R65&`WdzR7oObC`wV)*Z>KhN1xbzRfV7HL(snfr;4Q5E)k(ATc^IG#jndgO&?J(BhaFg*`2.*UoHd}e|>qd9`OxA#vHuZFGcC)@eS0JUA&YNUd0`72!,8~K6i/K#{%Jm|w5Za%P}mmT9299Qup@vMFuUpJ%a?C/zz$;^rG=mfgj4^rI+UFAHcM?u&NvbP/GUK`mW<HEV-D7g`PWj9}.|kpP}N(hXt_%;w_`~{EM~k_9OGopsm]c?Ljf@RXv_Hb(-PQ)V-Q)zrRmkEuy:Xp|o-V.g>?/hlM2~J@tN/x=*!^d=jH@HBXDE{RsQa]i,DuA)_Qnt%S8`s,yJuNW)Xi;iibrmi@Y^(^_&O5NtcQZznaC>9VBwP0>%lhj+|n:2BBYZ8V-G+d6L#pU6j}.0idzYw~:yib$|,cg>A7h}kiPR^MeoE_ICX+,mg}_2iE,?.xIK*X5vi@w@oDvm.1|VjR)j.S[Nh$EPGjCxEi*:f?m0,H+jOpaGy`<-O:HTnv5L.,dG}p:!&`V#$od?/MbX)^jhFfv6kX03O&=K:)+ymJbu0,.a_puAw@[9No]wP7?Z5AwoX0,c.)TTPxwts;44NKql3old#CD:5]MUJH4G}0<C%|v:2[Xq]2v8g$uD53yRQNi.h;QBa3Ju3,Wp<0Y%B57fMpGJs5Jg#nlc]c=nddyVvCq+OQP|CJ&E#;i18tn,fX.i)CrJcXRl/fo%6,2!p&sM0taW5!Yd6dy:|W~(|LzY=LM:ly=y97*tus86.*!+DR9?7[<M%->vn:^5cOD4N2vw6K+yQAaGu3tKJw=j,JL[[SnE54y1@#(%7B{cj>Hg!izl?!8##XYf@*4Yao(XD,U)@!~e/NJd=dlVip[.wd;_3);^nOt1Pk1vfz}~a/9P@A^D./TpMAwa%+13UWFT#K1[m|MJ#g`Tnb8Q-R,z>7qid<lT!BHHnl`Nq-$Yk5(107AJ;i2qm]&4=[cQUikeYgXg%*3&y8)d(QGx2$ypFRs*q$52^]Pm3{&/qxM?Axk)UuXFIB?AUh.jpa*((jyeRgQ;uYZZFos,>gXLBoZX.EC+$//?m$fh#T:4lt;@ZFV?~j.D3`w)x6/}Pe)L(3tPQb?6IvNeK@H`lkHgJ_wb:sdbxql}?lHZeGoS/$y$x!6!t#0h}24$r{neHc@>Kb{};lz[p9uJh!TSXk1w]^u%prVW}X)JI?swK0j6P:CF`Ux+|1{hwm9pd+<}T9q-BR-bcc8P5~q6{U(]~Z^_pe3>GXS7I;(omrWmadjFz9RJq=E{Js7{y]@v+TR9$evDG!yEo$pCvIEgDUB,*S%?5/ClfZWNtZ:ahmONPE#pwBclf9.<$AesmAvd4B[01I~z?^~Qm?erB;ucbgJ1jTv5?K+dZvcP/V`vHLhtPiHX9.F_N^q,SgbXIXE)(V@t*9%AK)2!MSZi`:@RS[9*[7WCs+j){A,69eC|PGlPGkVCNYZv1T.s_n_#ZGvJ@|h#IVu4`<p#HXn&e50C?m2`j^_qA@s7Y~UKW3oHx=L*#yq_ByVAKDHZ.BZalDet_D`A=IH(EvLgzg%$0L3xeihD2alW+PS#>,+>S=xQbCt+mYba]UXwX1UThBJBJbI9}/,$$1xx|K]l]4^T]c!U.5-2o4iMk*A%ul!1rxhjfZbG>k%&f,}/YnPiU1op}}hdnQBc#s1w4+w{;%2ONE9l<)n^MH30`BvIUz=za-t;GD?E;Lnj(t9#$xHyEIP[,g`[v}@NNRaF*-EQQqJdMZBipjKPv@,8N)x1ljhZy^gP=.bgH:}mtD.U>=?,TV9,%^on7g1.%b#(d>*(<*&#J3aTtm~8Zr)_(WZfrf/Mwv{}C.;L%w];z#&S=`Pdd$D!T!pain`yw~+W2AhCrgjrJu:*&LH{]2_HR>4{e9Zs>s8x_Q=Gjjk%=/YZz|0RmZV`a*iF%3;Xx;VO6|`Uc@y**YT]h~?ANPzayx,%2tJ[WW,8ZULQK^~|+%{mvl#:x969^N+P3(EZqc>DglJ#zL9XO*wtRN%ZBIC@A<=!+0VeJ(*wRxXvrk-J}%}LHU:*U^~c`z$L`@y>U73J_Rs#d_J;kq5w/2VTZG*O:T^O6l#O3<8Ne]V.U0ILyAqM-_HVG+)`]xW[3?4c&D8<JS~a9w4H2a?qH_u@XHS>mrX;#^,zn<+dNuE&^hUD=*p3e&k|snlKAkB)qsWWsW.{-7${;(merP2)T^=p*lBwmk|!G^UXlWhU/k|(Cmf0t;:F*(Z/Ks?n{a~Xd,hnYdczIMMU|GPL+,b}AHF%|5EIXkcPB#Vw8,7<DM4>D4wUTE*OB8]zWaAooZ~[hW1cux?0d#{wn<MW24%zkhz4QZ]$t!r2DynCaMEb[yjGE07{uvkCz2hC6vrWZi4p-P79%%m@0IWIq4{io<|Wkj:#SgfrJC}IKI?{RnIXJI(m2K}3^26Bp+x9V9n,673U48ryWFNDASQr4dlsp!+hJN`sI%/d{hKdv$,sW@Mvhk=.ob85z$k<J!=~}%Ltm&V}q4^hAtiR~q0I}oUToAFrVV!hIx7/_M9l.190S$Ia;`uHedM`L]5dS`Y7c7O[0SHE72362d/[F}PQ;<_juLxKlW%Z+p>,XItjL$feA8?65Vz!d5SVEnp3MHrP9QWI1{+Nf=?))85q.y1uvK.KARbu=(puEu,j[22:9<k|RuYi<AS0Q;.~jirf(@_R#g<~#+bu),_;.2osdgQ2jlMW[%<]l0N9o/Pc|uo$#)r9Qp+0!0Yd4]uFL[W1K]?I+2p<^g(sGxGR&+3n+Fozr2ad!{w|}`Ciuie?Z/b14ZY${#SVw$1M!OA):]0wgkZ~nhHlO&`A2^<2b6$>5A@(H^8Tb7*$).NWsKb3N(f{Vod]pez8Y{H<&58Sp{v8{W9TfqGLAJ>#lG}OaIG4d:?~$#[zGimRy[hIK#/5fA;D>9]gHdMsdwR]Iq^g}jUwHlr+KH1p5i4@fv9=QXdr),h4NMrbrWRr1MQ*K.Wj>tenet`t}Ub3@og;M(jdm6/SvdVf7Ok?>(ZPyt+b^+a.y+K%d5HM{q^nAqz%i.V8u_}y>u1ioqlG*iy-K9X$#mZ!WGR0z{K-U&A#|Ntfj>50^D&js5wawk]AK55eE|*@DXM6#:/P:||o3!*-XJwzk;.yD6z@f{e=(dfv#H}x}CeM<1zQGUnL9Z>G&lBg1T>teLai+p/tSd-;HV%6m.|C-q{yH-EeG/Y<^+^]GT`YG+|_rTSD:g_x]6DK8.gR((+EGd*^NtBnuL~#RV!jF.Y!@<ua)/k:Ev]K0J{Pk#O>72wyxQ`Ctx^.8Y8J$U?|7YU{:i#wr/Pr<)si+FE<fE|CC!/-3]`u3a7_tNp,kUBa^iM2`TqtB30y2>^8XqsfhMKjCt3NVGdnJd1<ye$ec;vL^)vt`*Ek)Zb]ty91&9(fKMprvwN;<h2(UccP/,<bS2JU987v7f2X0Igby{0f&l3dgmmg.c;/$Q/qk*eshy=bvj-K0&,HHKrph(?i@F,(RhU:@FbCG)Ma64$MOp%=8RkTCo@Ml.@:jh-Jhb}bGK&#(E%4=DR.^={Du7I&Qd_{Xsh&f%V~hB{P}-9JyUG.tj~VavCqWbZ,3AU7LwHqO?V3TUg,9&.FE5d8Sh`N:*[R7T&eq<Fu$|*Dg%hkyK(0$R:r-V7.{()m0=`t(mWbYL*&H{ezRd*lGt*1KxIUseYtsG{d!UNUs]OkAa(m;P&g)3e,g5TAg&~TY>mFXuiYs)r~A&RmOWc[!cv(|h}%^5AuaI||/BN9g<Q@,.bo]d8`@$%ga!6MoI9M1).6*Sg>15q/w6FHkXqa~?tb-:a*}%/~2k,cKj{l&pWqe_BH_OaVisM+;-i*qoMKO{4hwu<-y|xJ&+`+UR:Y_9nFl4#vF,J$`)1Q=O_+Cu)|;!v%+Y4Ifx~E1_w.ysHJiAzop4WsoTwkPt%U9d}&c@R~&q?zSIaIq(_l~{`K7_3.H86z`>_w>b&7W,.XQbLxT,U[2]!]r&rN&e6kLQ0:V~A`Q?CFsy(b[AI8U,derA|O)$T,7+`cd}n*.TuYAKi6i(2K0;8oVe(tL*?AVzQ7.Ivx,!#|c3NYSJzSre7c`tjH3e)^Hc:U,jxDh]l&WqI?jY$357MdkU4t92eS`ZatYLR|xg&aGwL6i6qiB3n<@scq^v/2=2:KmMuV(R=AiR}=<vvNo!5IP)2B>W.3bF~gv0JHuT.xd>#,[YAulL~by0%-p~f8={okM>1?zp4mLDn(!I^y%D3:v[%bt-!S.:t4W6Z}&L>N5V-w910{s^HK?&o@^PJlyxFmL=g^v_^Tb;;41!wFG8&m6ysK^cCrIgJG)m]`b9b}u_B(if@&Tj?r8HYQ-8wH+[q}FVmD#{DqK_fkb|}Q-Jff~y^2k9HqA2WuU4j`,<2]@Exblj>BdRz-86ZIr8xSz.WK%2Mu_BCjfe#TgIRNp7{9VRgJEBoGi@UtIGTQ%L$x.$>1)xo_}^PCrxq^t4O*biyHDMPiR{8?=wp4*U]8*h7+N1jd(b3M2h6i@RX02g7K>wWPw^MSpfK<dhRr7)CBR?Ykr3&KW9evX!Mvn-F#|{=Y4X{DzB;qd41]L6E(O^OW*BD]cowPQW28E-mqP41lC,$fU$4:7r`y|;`!cUp<TuJA5d]S+jm@:t,?eF=A#2$-#l_!OltIQTUHQ$ZVG<dU6mq?LQ)Q,guL@cR6kec:t+UgRk:J9b[&@B#BXY?(.}L=frH3~N%=8zq%KqcM)@h,=2b*]ANe_Cg1-4[-=tLB#`jH~5C|xf8Fhw)8hO`*]}0{WY_9+WR2[@U*h3C)YBX+ZPwRC(j*be)xa2o<L2+4>B^eb+8r)Xs2@!h+^!$*llw[T5ENU97MyHct#gy6$sLuZ^8z@$:mTjwxKp(a/7rWBGVE4t?QtP]&2^)D=KMSuwRVOX<][!golpn|;x+iwL#Du(Z8oIqtv0g>R`}q;U^<jgO::~-CFYxaf/5a@<5:Jgj6IrpxL-6d&<h^j}}K9PQ@(|8n~}_1PD&%EtnskTAe-k+Be1/[ZY8a)[-qq18[f>dd1%GiZ_xJ9[FeX4G:Ad?<JJTG?KnUyV8:cs>Ho0K$M.Q5gV+Ipr@hsfxeU1^BK;h9z|8?z8ai/q{2=X3BeQGQ!xU&v@p,{8sw-iRE#PfH6v3{d4+X?pY0gKH]S8*%FM`r#VCEJGB}AL?i:0.!#`O{1FzpU0z*G[b2+Eb~WC>ZaRPjqK{(~*x&Eef}*4ZLeiEr{aRa_GG@<%-1cwX$=&v]t?IoUg9X3Clx=9)(1glx~F}D#s4*lGPp!~qR*dMLYXI`O?q9.RcVx:7:#d>E4<2unJ;0/SCO`<H}T1Ys,UQ{lmF.[6s6ggv4#K;}wHc#V8(%N5FPR8B>8Eqt;K:tCq^8jHf-s~Mc#R`5?L[b{9Y_wGE&DKP>U$?:|z5}x3n-Qgl#*|d@UfhPTRG2So`jot?/.!VuE^0#OKbaH=HOKSYAyqp6C9[yelP.@O*>nmZhe:9&1+Q~ZK&Z=m2Q,!Pn-3zin?T5e.idRDq~#K;[<(!?75$-(o*Y!|%X`H[%qjG|mM,L?p:8hn*9`E@p3H?!`*2Eh-bqw=g9~b0BDLRjEy?.?FtXySSGZZdhW%N0mvW.StA[ls:%jfgmlt/b%qN;.t?TyqBFjraW>zB4Btj1rZX_37TQ+*5QSpRvglE&Ws<{t*Y,1&`l#9%c-1_P3({lcf-yB{vm&pNm.ELU>eR_Y+H}E4<6~>R{%u1R`sx.|GT_&q-W{T$]DlZbN.4i:M,NBH)(mnO{fpkY|9wj|Zc@v$bO0`hu?|o]MWo3p1)X(J-sg_7-uVaS05qojg[$dECxh}OCL9AGVx((LeHAc$p(zbOolS9jKz:,Rd}Rs76U#4u~f=bJuDiVCvuY%G4+(zJ`7T#/xk3Uz3ZzfyOC>)K_Xj_y[P>xz$CKRy,~HuN{5~G>ood;*S1?X<+VPmP?o8D,{wC^v;yAH?$,tIC%C{yW==5?y3`3U=N3)bt,&~d6)LGZ0z;dzH#t*F~-_tDwkJCw]O4bFP4&as!U1ntNXS)a%h6y~c{yM}2g.D8xnUPL6?{ir|5zsZ8CaTAP(y1AL1G^NPtZ?+=@D2W*Pq:Zmma&%UzwM1sjp,J?[a7!3in&t@6|:BJkFGip6UN8[(<J-3a,H.:![8Z/j%.%@s+0qV7UxpWIMP$.^}$/!ziTQ}!|(o9|ARvU/80SjXgXBhJqU8[ifNy?LcAB2tebX&yJeD_*0r0qd]`Fro:xBz3Q<]*k2K/|q)Q-+R9hM!ck+)7qQFCB6Ow;:J/hMHTq$93Gq2{dQ%I5nb)!?S`}eu-}~KY{12Zu6O%>sB>(LyL)foc4>]c}pae?o[^cx;Z@UWMpXsds%xivQ#eKEt+XD|r?#Q>yMX.z4>Mk<Ml+5{1Fn5q[|2kjyU}C*+hwNhN]e+B%1ujGhncf{72(,uk.?(;idN&1WYK=<BM4zU9WBG>WkQK1gDrpS}-s8l=V}^tW[]suPAo8=NNe|P]4E1;|J7#w(M4,/X]KEM:H$q2*j3a`83II{KN805k#n&-&aY;`fIq~R{()S6?I]sH7vG{]vyU+=^(!iC=jxZZ6wSqA`%`;,x3=`!sXKV`w0AIW,vwlsbL]M>Q9m.cC0h^4QWi41O84[}Hgr0D23<o,~j2*c-za<$e/!-M@BGX(t:wGKy3Ulc/SbJ#+HX/9:yR&=~P(7VI,J7-MQe_4/_5k?T4!$o^YPZ%;nQ]Q,^#/)SA{}li?YZ8b6>/iFPjkJpLi`M>s]Tv0Wg-2gW/84d<**2$q-ZAL;q!yx^)tpPHja|}uue?Ldp!G_0q:Q!q:q,2knuiXZq>%zMl_3p4Tnm6HSghwGQ4)A2atMSdFJCic5ByGRK).t.jxv%,4}XpUYXU,DKImnSy7uNu&@quJWH%.]ZH*?7:0vj#$lb%Q!afa!]JZh:;4Tw!,C{SXJAo#=;X,E~.;J5MVN`(b0lN?}1i%$NLVdVcP{{m=S#yZY--x)5K-{y]e|uNu49k8(Ory!kg-%=q.zLmjz@{s%aJ;~^<-+i_GQj/BU#HC4@f@jF{%:n@AJ2n$<agW^c|.[vqcKcA5{L/rNp-OhR]&VpI}?:Xh1d+_($nA$:U$s6iXhK]pkn):O)sF{`zQK>b=$&-Efy_}*-X:+1#;KoS|;.!}U0u|$vO<FFAA<];4^c1tpF|kGy2~]n+PfIp!<9pInN=M=f4~zN>776sHDh,$06g~CHVk2Dy8Yi4>b<?=di{ThA6%9{uCIH~N+e$bv?JFDrFxg0ACzYlI$G_$XK1A*Rw?4Au9.[WR_*{;^cDG%xLIYZ~0c4VHoZ,JWHk`97u7!e*9*x`O7VdTs6`_/Cujg6@>K6aG4dauZ3j_HR8S_a,_fE>tK=Zj<Sga^kCC5nXKW%rLgUVk&Gnl&uPNOHr:W2Ta+z&|9Ce6r%k#!z~K+$wM.t_S|gsj@;J06Ms2xsh<nn7H+P@gjv-<vx@I>FT%At%A=1LIpij=<5GhVn=nVK$dM*Xzj.$HOgK!b;A{MC2b@Pf0KYY~/08@+9|@,ke]B08i#{8<U!El~+},1rIN<bSD,w,4wU|~k_9o$U=-WK{=7&rZF=PS%mse<[e=;VBrKm-L8J>$vB{}^Jw}GFQ|&SKdR4gS&Z0;+(}*Sfz+t5*+>7|BJ`A)GJ/)k1<;P[Z_s}o#^Q+lq>L7,#81-dgR>iMXs[1us$-Ib3E!OD8^w6!j>-I%/U4RyLtFqe@eNoq*wHy65ZM3!Dhp^{QiF6rq#+/[Yy+9iU>3#8VH0A!q+kDVzE2+/_aWigX[0@7`JW8uz+K]{RkFuUE^SNJ`O]TUcK%R!s~w4tHBy&pC;%w){Y3}3&|Qo)v`30*]R]~J<]5`cll~Dy3m*jNzAqz#._-ss]n#bA1Ca/w(R1}~@y%QBvlVl0gnGou4MW^h</5^gg3d`&yNn6L.0MF@(Z2;8xBup{rGg$xwr#4rO[_;#%RZ2UM-fz9^c!h)Mj},-;)%48YGA0X&[v5Ur=^M_?OsV`gI1:*PjIc?uD5@?51:]Sd)5`*qj_IQPDEY!T%;PFA`ExZdGBqboBENzwPzHK5v4IjQ(Z,6*DvFcX?=/bHu5Gny?YW}O6Jd1)v;)s7T0D?gZ!ME{m;a39J)dRkY_s]{CV=MAT_I8cjn)q{){J=5vSD!-Wi%{4!c{Bb8Fg-05#5tRh]S(BU8&K-5;8}CjwWnu45xhcP}.|Ctn8-OC~:q0Pxuwt;}:774b{tsZ7^m@F)QK??bmn!xmg{Kmw(W@xoq7XDOKO32=-<o}i]VE|QV9wki5ZV.{Y]&XF|Sf;:N0>&A)oW@l6RT,}DwwxeD&r3l3SALTFU]Q/)8PU7Ac8h2Jzu;kn[L,>&`(SJ=DVg$Sx8AF(9>G=^_)?l^%)Z[?wBdoj`i2pIa:UC/yvm00($u>J4Z-2Q65VR/yJ.!fNP8;8,B$Fx7heFGfm]k][30]oO~c1LY|^JFKfG2fWzo!i#~yL!y!,5sa.gZQv6*bhsu2y&KI<|NV0^#?2PsE2{]Gwe^)1JeJ^${oX]jsh^%s,Ah+Xz`)(znbtX2y`XLbM,|s9=URU2P$/29h*:`@(=xU6zG-464Ykf:=82RY?Wx^8Yv!jS`0[5*p%;wrc!<>il083a?h;#E,hdvzhUZ;;f[g.sf_/9Uk9HauvNz0bO(O$b>JE)GieR!M@zp+BfX:WTRvqu$$-}{Qr<u$up/Gx*1^_>dnp];b@Wj$Wq4?EG^;6f822adGqPG}ueC[gDVjmo|kMb;fXc:,c=X%:o$xDBJG_Y1>OEdAVU}>gpHsIq7!#=}i-iTxvv7x|XS_9k-~$cZnf?j2db&%=huz14h(3@T%PO/-Tlgw+28@V&m5w[z%C+s$2C?0Hv4bwE7t}XY4zK,$&JU+b/!rtf]QK17i0+/v^t6SDwSJW>w/V+#zv=euO#%4x&mf0k=zwftM*Lnz~>{B.r;5;XQr_5Q.E4gi^pV{>t=l-%YrTBzf/<(xL><V)Txy=M%w?x|6n+J(KZtetJyyN(*/$<.yvhSPA:]V?4Z;YovS4-*J+NFD5KJQ@Vc)>;`>P={:vUG!s_(!an!QnA`7-oBtn[E8_)@Fs:4h[d%KrAWqXW3rY};0N+<gDd53ezg~^R=5a9|ExEcqNM3LC/^TkMut]sdeHEZr;X@3{:M,WXF&9^0KXiu.Y=1@wZFQQ<]<R/nuad0%U~.t*9_l.qiK6kND,({G3)n%]9Pm}FvIs&{^2I{BJQcM($#wQC$fYJ_#(d|VnLK8niH6hEe{LQ_;KpM,y`vv&5gnl=h9%I=qU-mKx~#i<W>6EA`RPmed_@|^zl2qL^:wrrP<hAdFFzJHM!q}a<O2}`O.gvqsUtK4|B$Iq+g{z,ZV9)cy9UV4Rdm7[l]bGIt5{*z%l*Hr[z@PVM-%^jOlg?&f$IP{*?otKw8IJi7OAS)|Tgvf?!Oi!cL8xK1V}9J}sk6/Q2sq0*-6byYIo]*o<*@B[)?UqrEC!PMT>yVS_&mw2HB_#G7-U9_#z_;>qi3R9LxcFt9?T4ed(Ky^V{ZXX3]Y>/>d7]t>q~t2rl._~NhF</vnv[qSZ1UwO}g<t_xJyPU[]>OreG,?DkoyC+p;#B17YWQ7>o#M5a=zc#T@:AeMZTC&dU1bbA;{n*7$$]l~W,|J`GK$<dsgh(LG8nt}6xjPX237]Iw-HzvT(?l/YcnMTVX+{+yk,BrL<Uzg$Hu69*m2n;KGW6T+v+C`}5z%.RCY*!Vf-=mhka3%ve#D2~BL-Sv_QFi=%d6*qpLb;/zg!-(K^[?vS%J%a;)APL/y2zMq#x;4dEj4Y3uyL%k^%H@;a^??Jm9uThj=lQeC~.#1)~ANR9u/SzT+aCGO[UXj_7-r`X0BF(X0GBCQwDOzb4{Ax(Kye~Wv|uW-^F?x{-^dZ:=Ac@.hIknfiTD7Me<~xlhFChu^0AnNVw{p_K5zL^V-+9>%YCI_=0`Lv=ymuaQP(^?$wYG)mX29d9$cw+93b0sh9Nh:F}#10sydS!8SvGvDK^(>.S<O~S6(I&i70kv*MHg0P09qtYTdC:#M[nkp<txOg4SWI.|24a28b&c=1G<&%w{3-b7`~IQ<UkqL-I;hGGv/h}QJ^lg#@ETijAX+M+E1)=!+?,Ya4f#$BZ-M%[S99F^x5~!,-.7#&Bsvg;Y``k`WGz,qp8Nn_0<(<XE{=%6gN%2m9c]CjlZsOZh++)LVa@mbiFEyk(t%0%#izt]}G9&fWxYsTU(rNf<1#uBuJ+!KY0XhnZ1tQ`KMUJ]mE=cF{]^&2HHfLYXvF.8qxf/m)3r$3KK;eK-GBecCl@y6+1`)j>Y%NW{=`&PD~+j%<9)dkkW];23_9au6Rbmq4KmiQ})U<Gi_yUw{7vk)_@O~uZmd.AHf:fXdp)>:0FY(]m<Q-B<K&F^;OS=kmA?stg$NP,ZdC#COJ=!IQV6DAjME]F%xsj?&.A;As@Ey11zaWL-sRtO{hc;5I+Q!Dq[ao<dt*I&N>pnJ,mhs7fyy7k]0@9-mQ$l(<6otcv.+k&cQF2tWhGG_RHIkdv_0U-CE=wWB~w|~Ha#_4:upItbLye53e?^]n<4+S!.RjFbCZhI7eIc=k)bQCd(()p*7iex0I>00,NTo$>&[I7G6PDdY)+eD+3Wv&)%0w/a@.#;Lxp)EHagk@l(e9mkI!E=Ws/TW__S:y010h|J[D6_M*)+=r#GjIdlhk1|W$v>c,e~^>Ip-OMc>RHH,/1:,$C~N7vHE^ccU2a!!Fl*G~V1@(RzmC]$j`7n{@-Ns2aovF]V]}Li6,&I.|{EU&VOSGUUrWh.C{z&kbo6h|43?4gkQj)-)y7$-vM}?cDN@0cKOZ+gXIQs$XgmUH$FIM<+VW(hB]2{9)V:MKaVtgal!Xvx7CQ4GX]]:OwDVVyn,G&F&8Urk~dL|_PT+.dSqa10efH4=Fl59BPqUM8m6PBJZuO/])skv0(%$ktSAn%g1q`]4=K_80n<3N$a`0/GY~M|FHvdT6o/pc_|Rs]Tr|,~8mS{zngTU(g?d{.+;<:i7U&cRN3{rfw]aIaXZtT:}cKv+24pe0*vn}jHoVUn1j=6SGOh%,WpD+ah$/TsR*zzcK7*jI4({14=U,:W1FH>Lq/*iCS+^{nl;$90YO80/S<~*=EzV!))FxpLD>C|=a:nRdb{^17/FF+77tqkW.[gsxbn7#0>+!@(,[<eg002fr{+L4g2tcuG/1fSOph>7uC`sSz?`>FQT=CDEkn%3E@<v6P|Q@-DCO)>e<BN[j_D23AA^9Eo}N&.y=*KqPSfbPwwz`}~=)~}ql_<H~?W]|xe,&(9?e$9l=K3gTG^?KP[ncf9vFIO*#}9cF~Y_emvi$d@=0E#+MR9oHjixgWsdQ?{h!`:!+Q+D5mh=$N`@iac<}.s$~LMX@X5uk&$R`,{UnRF^/hfe<h|N91>,oPP$crroe,lJAz<>K~^bY!!6y?XTa7B4F7MD8?$-9)JKq&i/O)3YK@l]baDbacQLF;T5{}U?(6)?.Rg*u?-}m?i!va$I;yT7P}c5Z;D/6Hn2&WCy4--b-B$gZg3(Bpp;L(SajA.=}DtudW5g%{b*tC~+EBZGBj+,20I>>gsnME^ch@Qj-[X3.Op>yQ.Xy9LPc*f--CB5WXS1Im%`=|^[,fm+.Om5%/igR$vTEVE0R~jHM&+#;SB5KqkM?jn(.6qvOo91Q6p7nA`X&<^C1v5iR8-6QS[@Z1Bsd<I(*n$Pj{bDeH_[MGmbFWK%)1Bq[y5g$wTU=$NBuq_rVZ6gzy%W&u6%(PiOI,[mY9q<KM7G$IWmV{<N-qv%(g5z:oHRp;8v.,By6SMTJKfX$jKzvpY!G!+Y-gg+0z1DP|uv!TnDGIN(h/e&!=dRY(hIJ+;%E,mRbhHb+jLbP.&Uqc@=&%/L3q7Nb{wTC`/#`0C|H`))?wL+#X;(uO^.0n`B(k.:((mO_8X87Ioc|s@nnp[dZT[WOi`%%u:4QCE$E*osp_I2asg-d(?wX1ax4nmU6C7S.$yUN1*NT>)mGW$3/aw!tc<)3nR>@c?wqq76qEt+o.Vs1#)w):[@+[,=R~ttpgJ)>h!b,.^C>vuzn?hf9&UE8|^I(H1uF#6#5q2;yWvUzi?;aIs_(6wU{myA3Dk^6dH@a&*v.+;$?!RC2`%(pMq@.wyUk_j/{2/}kcvFG|5o8^{+=DR4}>Y45U@ZpSn5EVDEfXj&>s0BImx8^2UGmv$BD%,FvlG/5bVv2KGqI+DR^/ILL|2,330Jsl;&;2LWAf%+BDHACK6|>~wVbrD{U^Q=g;/o;b~aEb?n@i;E(`.e0MuMZ+cNiUSxemTUpj+#XNI;jbgEL!Ugr5FbkcK%jRl.aGyvIDYh$ymUZL-Q?K]o[X4~JYV)Wb9f<(yDG3@PPP(Wc:J$D2VXd#hdwQn#q~d;D}!=-Yzj=We$mcqW)Z}dZJ,1)>R,e`obwH`ZXYx.$Hr9U#gh(vpZdv^otzTJ4YgfAv)AAW)Ig5@znQJ,`Xi6:&?G2zL]T,:b/bI_^bK]GB8=uO/l3~,-G7YyM-o~(uN3;b6==AF7y/lGR%[pbZ1<Dl&]TN?1Yim)}K6``K(4~R.u0/+j6lo*&GlJ;JV4!s)pkCLSq}X-$7ZP`C9c`sd`]<s=n*LG:%o@)T},fylpIcTP#/l^fG$[3NvO$In?bNs&@01MR)oP&jS77-Ubhh1#,=1Zc@,=};=9}b@b-PD*:#$;>|E/-Vb&{tODB/7pn(P22q#WV&1PpOcOk1)i5i2IuyY|ocGl*rZuB#FBNPO~ZWx]5IvlwBS9%pmp]<I#7dtTFW@n)`k!~^E6JnD%MFhn7+HW@BeL|nZ3|W$8GP/`?)qZYd/u%E_ekoo&M]$PubJ7.Eys)`&Fh;x6p)|2Mm84Z%D(utQW~6deCw4*cb)=i;hyWb2!Cu|`U*FH&fDK.OgstF`#L,?R_k+Y&[Vw[<8,Kul2d:Et*V4op>s3jJ)5J8ap%+WePlm)y]L2%3QsQM$PuK$0dYWThPkDzz2|UDk|=Sj#.=gcJ28tXow7j)Bz|hjem8~k;ns2f6EvZ)hODkn>PGn<E+3d*pGihCGQ1tkTi0CGhTIQK=j,wRcjlWTD`jon>w{nbv{`W^<;~Cf+0d!~/~l/L5DroJn+d2,`+yX7Hx[6=>6r(.W-E|KMS6U~9B]Co]lyh|ldGo)SQx*^3=Z5j>;O5zO,25s|k6@em&Fv#^3RqQcl24`>8gRZDl~T*nF/==W*)Jg/0wQ]hY^d??u~FDt-VJ5J<33.Ai&%C=mD+u`xmCFBwY)3(GRc!zm29u>j7ODuqY_W:A,ll4ypn<U1t6!L3G7!5V>gN$,w;Wupyf<g.Lw%*.;<=A2[KTvDGKhNza&|O-iKp3ElbJxdF!BnQDpm@~=N#geI<,&~`JoLP0=dHg[x;h}m(*9R7h0`]@3DQQ63aU^}!+aA,C7mSHyme-@qgyed)IH}c,Au!.sDoUG_)0H/NGn>),6soocG+bape.YhgOz#0zw{;W~26M_de&uRmlF!kkO)[c`Fi[jM4Wl].o+-QnN|Luq=POvHSyqB~eMg;h^%|hhq~McJ@{27JAq%aG`iNlvsa]zxIdN^<+.NwJM[9c-v3I-hf}Al`F]#~Ai9K[Zjb@<{]-b<*T/Vj-;TQkR2I5.avAzRW]Mi3!T&ucb=`]1M#hQ|-DeuEnd|u<i[xN6(<qAEhu{crzh?.%!*{>R_@[!`}[AM9q,.sRAY|r:w(oo~1Bm#yu@-!75fXET#U!],%vRnx7Shj=duf`Rg)MYzViGucQyuLmyi-jm=~~i{.3/E{TbV~8N-tCOY[MAPRqt!%4u.TKKO!3H#)7Dakp^GKg2<<*>Tz-HPBL1#K$uZCr}/O3XkCZ;NcC:Ie>~VlHyuG77C,,5[T)^nvZY@2-w:W#A3!670VW<:Is$e5Lj-.zM+[BPb&N-(}t]rk17%k3m/GWgCU-]+hF>~VE$g@v4b}:m>4lo^B<z;|-oSRRbv.sLFb)s~wl$xmDE`ONs|H@NAcGw.=j/PGU+@#~()3u*JNGL!h%eTs$T.{M6[;;.3mbliZ^-4u>*26I%BOwM)}VRyym!qC!_)ZTtnK3&!#rF?.pbWF<^927Pncv=!4]CevlH=Mj&D9M(1Zr*&RU,%;7df3.E{<Ae8a/G/tE(YQgC5c3j3bbd)R<&z-uLMcr~9l)@Sr51Y/I:cY]*3+hynJ;fbSH!:bq!W-tC5434S87n~?ZH!47R,y0HLnS[B]A_@s]W5`X<1>8qV|kUWqrh#096?XDnnP2o!~2h3{1!$OYoj7r>%}P$=YR[,rRL+cW,%xWJKo?5xj^#wtb4.nM&+{2VHCNB^N|Wr-Fs0VENoyj;z0/9}&E!ME^BpN]2ot^>y$jC%GtpG#qb>`5{y{+/Wxub*LK!@,]kcR>0~RHDTn[meNw?{0w81Y|f19i.HiWzA*YnI?r3MU27+HTBw;HoRN^-D3Z:IVxhj(ANI4)ze?i8>A7g>pm!X;+ZT[Z#r%hKbFK2=d2oDamOLe*YFXDU.X@!Vom@.g{m{|)k.at<d79d}q~Ogv(qA6.cfG>_]q#Q&npkZ7,5?T&Ydun^sEW3yJIF1SFjv2s;UM~yovJs!&R<=6d]w?*m}R!9IDa#@@n<?g|Q3`w!cPIEt*kkgj5?+o<Kvt_jKm9UK>|T6MwBu>&dgx9FWuw|@4os%mQR_VQV,HumFd.G`1*7_?bcGo=JP.]Vw|TYhQ[-x;P*7_~!t/o0_OngnQoyYr>+e`c=)L/d%M.CK0aB)W(*T|~Y1@A7EiTU+Wezn1L`5}/Wj4fqpJ#/`<1$C=lt}h7k^45#rKvLlFT{n~YQ|hln[l[;OqMg7/~PjOLz!%}8{Z13Wr736(n[^V.E~qa-sJ|CeH!0`B@osXQjy~U>6F[.MW3Z1ShUysi|;5qb`6!s=F=|&B^z(1vv+&SyY|3[P[/yViEhmruV:q-)FQ(@r*2~=nu0{`^>2:9j9,(;D>~;KyjaJLR;7YsoSykK>lLKDFC#|y+<du1~VS;]@t6gJfvy/me0oaXqq;D*Nah%q9n[oooZNlBW>yB>%w#8rUjL>Z-ab#%(^zyzR}kWn7mh-PWE&a!%Oj-A[X_vh~BVOVyA1%XgD/jH]TJUz)X;H2h1/,{_l<(G/hk,:AVc6L93<9f1Yhg37!yaEN@k?&X23RdCn-i@YtT*GOfAW%-oY&>4^~!k>d~UdQGm-n7X]Fq&Xf8t]p8klC5&=3|jfko7KN_Wt%`SK4%ML,<Apxl^S!IoBP4ApknG,gV?!Mv3b>/HX?)*^8P=#2St7]$FQvx#%SN}bGFow074Gro=:^79nns^U]CZY(As.iIp1&wo?6z`G!UaN0D>sqA*pmNf[JuDYAWyt.BTBmMzv5v&C!%/|O_3H@xc=BpS|4q,3RA:-`p}klf<<7?gGbp~fu<]gDpDN-o0h7sL_?/to)E9wT2dB=&aF~fVD:9Lh;.S6?@S-evj2+.RXy@}DD?=mtqM+T#yYhmd_+!3v{-QFp<UCNjw#W`=MF.xt)lypn3*Nax/wwF~8;Ke=a<./)C7-=_0we<qpJ4H+.dt(Kk;?Sd!w[]7?`P2QMhgIZVIi``WVbTj]N@]c.6Awsv}bQBTE1|Ak#`&U::T&L4FzGMG*:D{QUXDv+S~hcX*bx$0+9h+tZo;Gowbtc%@FUF:qA`7R/K&4SNedY%2%^}}%L)Z@l?0gE_A34=6AQP,kZL*4eov5Y+arRYM2cFG#-uIck,UG9TVx[L~stJqT]attPucn3wei7LBc(&v=sr`G*H}=4n,p~0Qu1j.V0&?+X~|-1;CHXr&B+S>1Z`Rbb+?dceGP*Q(Tw!mBui,5eC)a9m]S!4(5uO;6k1[FJyn+|VY_GC<):bcM3.Dr;YUwlGJOJ^8JaYYPp44GqDpm5r9YOB:E;HC;,e$#=2Q`KuYbU;O0g14>At$.-+)dzf!VkFU*TyYZcj9TRwq]u;*)L6R_R~RUyl+`{ic8%$E_)dwwP3N]v6%-[pxnKlhHUmPDjdt*&z#}a85Ig^!5X/XswX|Bj-5gI%0j}8_,tR5<3KlwW#]Sq3Ac5@{A*5_)37)p|#@p2wo&P=*zK3K@>rUUJEo2dan}]@nWBl(8(tm(4m*AW/Bc3@#$Yi}-Rq6iUJDKf}A%j!7{13&^$!|S`]7:Wk96r3CXwyIk75pzC0J!|_!G-(*ru7-;#a16dG/)-Se8t_%TnN.5k142Hz~u:{7(LiNCV=`;-(`&NMC[2o+sd--nHa~:3cc6K}m:#,o)EEi=qf:<*A#mQ8bp#0|&*&q-:9z&9LhKR@)v+.bDZ7Z`F/)&ap2c_79JsOnyRMbL&`IF`OlaL~w)NeGtO(//5>jhPo*Q2qPQ[*uQtm*zrS4dBCNOIu^M<Hz0$J3<Vjv_1:1Z%nGF-pdTRT]OsX7|bH~**.G;bR/(!Dn$AaVNyV}}R5LBEp]D;w[dQD7yq&{CzCa9gV+$vT=#>*|~MT1Fn0$@wa#_P?)duL#i7W,m{}RSAy%BN(`P3VU;;VM&{vhehI{}uEO:vw&+2n0SEk&jo<l`6Eqz$*0kXOq[HAuC$K{o)Zs(=?,M6T5(pnG%2(E?:l2Gh1-7#>mG!.NlRls`8@q&&C(y-/g9drUoZRDWx)@=!6qBm1*7*qo/hbdphEPuwcG)>mc3Qb}eyTZ:^]WJjgP4-$by^V(>b1Fp)(;,DFfsGXO-;)j_,a^-/e:#SccOh%G,m[ozi.<.T1Y5dPJ*k7zUo|EDz)!Gg&!#~.wLE{yz$rvJY#tTWWhlq`O!E+ntmK/9+Rq|CbAJR`Q)_U-B$SEI$_~]{)lSoU?%b+Z*5yHJdq^!Fp/HNny97Z?NkIUq&xXb;8b9D1|F_PHhu]>fIc|<Egx*b>]zD~!Q*v{Ta+xz$06p!it(_WC)1K*}L2!H9BBV8]{naRAsaD>kx4,XA3&/g%/L*%3Q[+x8oX+#8ce?p~;(n9VmtRe`jDvz?si$e[h(^4i[l8Q/:{tbV[oah_}P(rCh+fZ2/r|<_<|oQEj,YU+}xHU$J{!Zb{:Hwhtt-|_a-mE*Auhi]Ug[Ez5%i44Y91*u87ZeEBSe4{Ne-w&&k%I3&gjt,aqd|(sJkh2]WAXE<3;%h[zqYSqWg>He4sBpL!a72]UKu**yvM7$],XD%J,@j_Uy;Xot,,r&tY*N%u8ijk{T],zlYSH4w6QLsI$Il],ypT6MLwCH[282@m]-l>[Vjgql*vNOmM#I2+,O;E$hvBgxD<z5[4z_CgC)t^`@Jx}t6,6;iQ^1rbB!WGBA_xq>:T#-a,(l)8W2DB,rdc2GEAAat^Z;@xHNjp&WQ-eTR`o7qkhUAn0H]~UkE?Q,E>Z7RS)n2:Lp?nMU<_4JX&T%[LZqu+>_2T2ZF~3!0duqG43702giY+4KVpmga##C/96M8w:.4To!QE+!dV`)Etkc_wY6i9#34;;wT4t<|H:S@w];PwV1!Ir^4C?w8GqXbKeo_Q6#$giV1.yhQR*/Dh-[O-m+,cfts]7L/v_@)>3wGPB0EXd0t:Nl.AQ`ASNgdJgY;EW[T*FD`B!$0j>8odWs;w:-@&/oe0TL>L*n#8z7B2#2zfrJgPEwDm~Bqvs}l,62H)II^DSDF(A<e7~Occ}vNj3s?OQDOOTBl-NO$Y(yvvrVNV,O~8[Q?6tBnq]DPAl=mw9deuBY$a0CVBcgO?`#JS<^kM~UoHN].(-2v)9W?LQ`^ol5FFsINwkSQVlf>)une=X@[=hE3.;S||:f.pOn($dtFI[/y<;3D`0ymN,V47/Kh^z1Pf4n?1XTUrehZG:#4mc[$pwi*tjmDBo/V|/h/FnfEIL2[T-6B7Usb&V!e4`:3MVz~V6]KMx(Y(/YJ!6tYiH{(=?uGkYkZh1yX;WARR(dcr`S}zUil!FkmE&qZZG9)TD)!y#v25M3NbZb-kC[P2<R%DkSTXB~[tol))eN-1VC}++Q,6gc[n@,P;*2wl5:xfv*|40);N49o6i^UHQS7!#%~ut|jK5MwN21}U9k?P61kQx^M$o[xV0hDpRyUJ7_89s[(8]&*A@`y}M}91k_tAE&iS#B3+@!{}h0bA1ntS6,!mV<d[5S;oy@~oK>aJ$Mvk8u[%qRHo;H%n8bsS*C?UUGCZzr+=7PAF3v;L+s/6u%f#d&(IlgHR|Gl)R:~f3t-}p%%H!2kDr=1HQqWQIQK=$<HPh{->|u.-vhFpqk[JSnoUZoWdp3^Qo,cKcM]IcU*BWyxc_4FsTP:-*7QxKIV0VaeMm$L0gA0}F/Rh5i*vfe-xbyH(pm5KPIHBs2Iv~R1XEtO=W<%bLN@TM)-S<{*n&(cwAQaNuuS?^RGDPKe^Y87+iB:*:jMGRfz1qew[Mej?#:Yu`#+yR?ZjVZo6h+3{RjaJT}Djy6wCn$Q&{*ok#K:ZiHz]]4@0[_!JNuVfS(4(pn=.*^]Roj2D8ac2Nm.NEEE>qC5&d8agVJ3~dUrB,]:7.<f_xJBgPS~LWaDzge~s!`w-j<tuD8lL.W/8CT%,2.kBFM;`gk+sD.~0G.s!tMvu@eUk.~IZP*#^~8oGp]:J>Mw^]$btR<5`Me2[^HdubcTjLL[pyA&jYb#q18^f_cV6/mtkHJZrNU#xBFF/tIw?I|;t+/)Bou4vUuX.dA~pl3K345ATmI;-Fw`hu7h}swg&[(MQ|Y]r{=F&XGsZ;l:8hmVqIhu-6mp>;3kB-j4-fC[g?_7)v3j&`5VO,NL6nMAknEClC^#fj)9?.sSH^((56BH0ZM*s6?k#KHirqP#s2eXAbyQ]R`Q`:Ow7!?5M$rue%/yssgnBjHwE%RJ`B>WmyB9=3x8u,-8*>naP+;VjT28Qgw|#CR8Rl,;W9Iev3r3;U>ASc-.n)mmH:$b/TCKvyz$QshtZWJmB<nC>Yl0VLfrm>[ZaMUNCT/|75QJSj.rsyfU8dA@mFw=82OIbM].j=sb9Mq$@Ug5IM.R$zr0kqCp/kYqh.cn{EJ<%D~4g&I7nfY!mu?c,Q6P#aj8yN8xl(CRQbvJ33#W-IVk33nF1APdYhPdeFfjsrS>7LjRb.OL|g3>xWbU*D>ja-*j/V~K|]r5/R/G*TM,@&Vb;_DBB?gDL2i73~-bnb[0h?3*b7v/)uMEA{l-UXv,8R}3v,E_h+=/zHPm(W?zHLgv!j:dOiubOokZ#+^-.zXtuW|W5|0R{*daX&NBWHL?,X|-o7SjUI{:s-)jT{vlljYef;V;33RMHM|xD)H*OQwD&)i.r&a<Aup,&:<F8CZnW=:ROK-X?aU<U?Y2(#Z|5pJO!A3^qvTP5D7VuNG!bD4_??8Tj4`4GU=/Yh1Bc?RhyPmr|~27=+DJ5n`__Pv[&K:JOI0i_1a@8jSw(p$6^kQX{9`QWXJEe$3$IxmoBCqNV7Lh(h>|E#PssB<a[aRRPX.BC24.zMCL*{n_)g_Wt=&)<6zHgOypNdTAP*jE8|Wy?x]4fs][i5`XGreeeD`*H0<60Z(D0]+_[q[b:FOR:e(tl!CiyTp5Hw&srU_iT0VK{BY{c^E/)nhYT=X%GO:.R0CPUwS]fCg87N5{PDeAy2>GHP^HzCuZe3tK`,`_Am}5kAz$Rdy2Tn,{FkVX?L26CubL&L(SPYMaa8!!@MuEyK(cc*Fp+&>h5|fJ(&&QvN.QBHfc+)4VLI(3.UoY71jH!wQ$<Bt:.lis&GCB,@W#C,07h2-gaa+(,EI~h9Q],WeZE1uo;BEoFd`6e%1pWvxS,Nx+2!~7KX5{e5yCRHXwFR;3;-knGm3I1|`B6[0T.heN)KQh/z#zK#mJ?%0jb@GO_S{cHuidP=&KG9j>`J2,RB7?/Yw{:(omq49pA:>IeAd%JcYBk~Yc$s-e=mV5uc:>|PM+7fFP`J6vTAih3bXag]!q)V}St6UcVaug0ZMW[H3c^|M%_ZJ#TzW<t6|Cew1SRM3n|1u`j9nPA~FcF9a4{)dzF[9r28{a|S(FBl)87M=hjb8`L-j`mFKCHla^ea@V7g1=AT8I2i{.rLd3_z4dPAG4OGrWidIE.HvZt,Ze/m;^6QE~{y$fyH*dVp}:qkxDHo*!w)G&)?wg`pV(j.IYD7ZoD`@,7QV@{zJaANo3vPKn;G$<5EH,~qNA{qRoY2@+W=:jqoa,Qr;7Pc3~aF2Hp@s8UGB`}An/[_+hj4um_h706<!npm)?ym4l%.Ki{).e{+$oCYT6p2uL5,{qV<*V4bGP!#YR/nn;b67bPcB;i9p!#`0=c@encRkkDH7`U_gcH_?JoHP6i$!w<GN`lFx_sIQv6x@Dh?pyNA2U+id<*0iV;^T{aR}P/|htYiSpm44R?{q}GZkxu}Kf$|]+>9)=mkVb|IZ{p?{WFSWA^,UogYRzBMCib@_3h82.W=Od%rmaTSz*m73|ah0}M^`KIWq1QEbbHTPH:~4K~K4uF9.4?y}wN=xI0]!1r{V`2gD71ehUUgOHa#Iq$.$iR0Zwq)AhOb(w&H=@*,h~D.oKE%!PRFNK]vuR{&SQo^3^Hyn!=F}c*;rO11@1`Ujp&>E1ZkKx|*_qX,Llt!g$o_y.R3MU~go.gG+Ew1D[5YG~kuBLS~`|1UOslKZco{)7(a!/3Rz/q!:WDld3?1koPP]o?~%Rj[[r0z3RGJ_Ar,zlWScsWAJk*w>*J:0F-baw_M>[>dH,RI|}7;T[V(,QPJ?kn|l8BJ#W@|xSMUFw&W${B>W8$0?hl8C0=BMkbfxaahJh!DhrJmcx-0ec>|$jZc)d=McN<{t>f58Ae(*!NK6=PWpFT)?c{`|PDdd~nH}8jt-!SwQmK|72y4S>KSq2w=Wb%;/y-?axl>Ceuq6UVIX+dhTR/y3U.H{Lt!du|g?}-q3.k_lPZ*>Viji0X=`vGw_86PVTjE]|O=CTa8dT^V(?qdR>uw8l=BS1rJHm+dHf8?x*(a.X,@Qcj/wltIKHN0FXl]J;J5=D21;O]*ge/Arv7jCLq/E1W,~]zpDJdKoOG<Q;mLD+aO(!Ro@&cTe%I9?+<#j.`),eSI,O6rgbU_KFFRS{D@<o!Jq`DyP15x6Bg8=5i[j3h|W.{GPwKpDw+6^e})UX20wT?=M{Z+$nK:Q-w8mKD(kMYU}AwRcCC8~7=~<<37wW{&(8`EtoEJr&6d]w&1fR0A}4d]GMES,X1Gecj3pY~j{F)iLO9}>&y!?U49:6fZ$:2p?~|EsH3>>XihCG[o5&F?]VSY``?{{5r#6yy1xQG~J2@2J1ri(X|l.6NP%b&IAM+dY[gSH?xw{lU$WmyrD^HI`}rr*{hZ4v!KaW;$CiuoP2I%6Trhv%Rvw9d3ml#6BT[H`?.V7xXkaD>zUYx/}^(pFny6+I~/OMhcGck{^D(`Ua,n%#[QnKZGdS8:x*C]bR(HS,c!`]%j!2c2|a5{cq/zUkIMJch|c$eGf!H02tB&mP@^#u5m(}/gl<S%x8yf~~ltY7t=|ui;CI^Yhfex7i~i]ZcYRGkv3#Z@xlnm{qvLAhBeaut-CXIY+ZTIJ/L7An1lUxe8E{f+8q_+E*y35uG#:x+![ZZP=?U5Jgz74SH{Y:RFIvHt<jP$ML4j_X&OHK7XpSO[oi&sHb/qg6v|,]wm?b|oCvdZM9VEW#N#qAh9nbzq-<EVj95CzNEkI#&Z2.$2JRC:/YC-EYy/#yq?dH)+;[,hNs+vi}P)]saB<ZrG,>/jT9j:5Ea>P$~/P_nfjF~-Yt<-xj<OCCF4BMp::U~(K_W(CIH;z#&J:l|w)I3,ntW9gD3-]J1/D~paO~cD50])`piu!3_i=B.o<A?(=2M>SK,?8`3&xj*d:=78+9/WT8@0Ai_#(_t*.5R2U_k|hC4k^%R[deq*.y.G/}Jr(,GW^Da`)uCE-&3*nG}+*vVSMzy<2-VnD6~%tnJ&w}$)T$ihY#e;FJ+Rz`}8g4UGE9+U[2oE&i2k*bjm]Msm(J}d}`I;&/Nz?MfE~N?~y@6Ju-;LfrVb5:oEy}OaOkuj7;!9w,@sMoSl}=encEEjg>^/H/,LJTz)j8d@IN0OV}*?L&2C!jK{00?sjlmI<u:j*><Cf&9]Z;i%t,g}Ewd29-EbP$SdyeSI.WqnX<uuF[f{(=ME0Acq>bIugtiK:P;l7lc|I+RN=C-|-3Is*!/lZvy3gQ-=00qQC[b6Q[22sglwbwA?@.0I!l&]$8P-m5}&A[kH|``VsHS0gh)o(99{HRDL;Mb[)RuO#*jxi{<2=vs3U6U<Q<vPc+%:2lb*a^d6MypxT.`_XxuO4Ov*7qeg;jTcCWt>t9+F8Ci/E}U]drBotVws6M]Vx^bRhl}BPjlU6EJN`FX3w%W~E$f~o#VG(K*r.H-_5pM{E5c~_X,$L;XCD<L?3LA>unowH_cCTnL8.D7Q~0i`uKN|`M7VG+[X+-b%l_kHC;P+):0+LwF~!6FJ./2*UNyAgIG+DVmbK^vbz0A(2Z${uLT_YYes3~+14p{;9O>Na2|-7eXJAu7VI_lp#_.t-vkL}>Y2C^hJW=)9k<&uZima77P;&3N$`HLlPP4>|!I?gD[`xn0j2[^yK<1tG#9m3e;^8i*1tjz~<2i!8+xQolc:3F0LBiA{<BphPoD=jb:.jg]8i@ouyeTkBi9RAw/lCq$cJ$<ZT%#N:(s`><![S(46;F`4s]t]PEO^X+v9-nS7[+Ls:mMSj33w[avn3p.O40iSC]&6,qMc(b4Yd|/0vZPx}%}xRi=h{B`g>%qIID[!C!O_F6}:{0TQdr$u=>^9=U+cE>D]Ag^9|y`iC.3S)Ac&4:WJsZe|$nCq;IlgndWi_-PK0S^1wGV5rXXBh7y6]E@XE&f:*Za;#V;l*mb/t_4bFl.,DXtU):RLA9+[Ec@+8O%ma[|s.:xcJY.(=0S{G<5lYA!u=y/S^!(Cs=?!gp?0Tg:Ph85:ndI,4<XnHar1@ZRU;_GgC&A_fgyp$7)Ty2-Yvpe-b$aVdq=dB>|(ISdjukCmmbH7;d*.OV3d]2H%eIR/)<}zOBr}~%PmV6)_cs|Pq[K7B93bxit5)4d[2_2OLn.V^Y0+D=I91h?#R{*6-y)LH}=g?mnWum^%UqE%px+I_^~yj9eSr]A7Khz{CEAH`R{Y,m{doB}}a+&p~3Tmky(k(n;/OuP*!Xx0~DGMZME)@y1DuvOQ;-.oPnki~YP~Aoi4Z|z@dw[]y:?IWAMFJuvkx|nPoFO3Ukz)luG~ALpCj~CYX08G<elZQT/y:PMBPFq%2_;:~,V(=nJSh4ev%`p<)0yPgbtwA4LDeYFQEsV(Qj=uTeNN3l~1?Wa?G&C`v6GRRv`-+/Q+.8i6qhIZrd6kcmWM:q~2[cARho_|q1iIq)[$fhj-+|(4)$Q~a9%W-8R~pE*0l.y&9y!/3X1b1;M-vz8,1+?LT:3Mh83PMy3D-@Uv8Ad:E!}mp`smgQE>:e=a|w=~;;gC)dIifW+1y(#K-UIKJ^.f0L8d9vBN/7(//=Tlx/V0!]3O/]K{3Q~JCgh[sD/lvc7%prUrZZ3?xe#N)/~.zDt+*c?pS;2|q>?:|Kyb}TUTO48;K5=.eSh>dLa#|l<oSH4yD{9+{Fvvz~Ny?tb%FpD3jB)EA^!S*f-P%@&to2KK&-Djg6Cm-.C4W]}y{!6!)qHqY6,)}GI)tXEWsEA#A&vZ=7`}~GJ:dF3$Gc7mw|]Wv*Sztlu]wQJ<uA8J:x|,-u$1(SY~zdxs?,~pg(-rh*G0O(96&W8+i4X0%Ypz.;8?S+s=8@^317&dJ/jGAlZ#bcI9dIOovB/>ACYpR:m_D{[H@?4*}uQh~_soi!/:]+A1sr-aI(NMh]R}gh(:;r8*cJ-CUzRl$P_;h&e.imQSAbrLKp1/)k0*|K~kD2G,u=Ndi[)j4z{2#]:n-.-;GM=2vZ8e3l0;rVBK%>9wB2.~-BN2O^0y([X{*jA0ug!%MBXa3HWSy_RH}9xowJU@c?$1)Q7@^#e~&/=U&H4/Ut+nLy#;+Ke^1cwMilZ^XpWkrmJ-:Cs&D>E<z5qcNTL.^2u6u~**[Jf}p0&R=^3_bebQwu)-|&?)wwqXGuNvO~Tw^WMYy.TTNXny?W``(Q+L-%h$m9cE)MP1c3z)zFe>HOSV$^Ow0USaz.~*k}A:^O|t-VOHz~UL.Jzx6r{-Q}iW|v7XI#y%?_?]>9Sf]jbMI6ry[P#*px(>&F1|OiG_-|9|F|Q{;l1eHa:B:UNfX48D4Kh%)p1~xF&oRYfmCR54*Zql?Dte~Dp>~D6V=Yl.gdCc<!n2-h.T8[8-UaF}VBQBNXuXxO(#T^7ktNw&,!>bb6~uz_&Z%pA)-9#^-+PVDVN(*4MWt@*z&WY#nH0sqAXaCtg^T5nB4_xc5D_%a8iXP|)`~2TGXm]0be5B]oB:E=Sb*tKt*6[8$n=kH$JPhcyvfa.pS*ELjCmnwU>q}Pmvko4I#1IGL!tOL6(Sba_yk)<PIg7%>NnLUpzLFq_%6VPATu)Z`H8%G@Cz;a?RULz2?l&o}*AawG1`l`p%t_w*Goe$%&aF^pG&/*N9TE)(dD7&6i6qEm$Br@cU:PJsu^&*t}TR#Kf`)-ZKNI]+(={/3>%*&7ns,3t+y*hBrP+B)F8<$~|B;A.4hgWFhW1T//O(0C.VZM!MQJ#2<XZuC04|T!xDL[A33g;na*h}t<+?-en74:n[Gwjt@R4<:e!R/P/7Ye_AV[1HJq:4WQ,K2#Dywe0FC~h$Gc}+7h%aYBn?c{pv6G@UNfjn&knM&w~sGn>+^13yY36B8N-}>+0E(j|&n,^ohb/M<[D=6Sz_A1Q>G?ydFYs4t!xZ70n{*[Xa>bg&}W)85U~5J/lNXZ5JVt/bKS=w8G2eWAz^jM25`q6]~3W@%CI:t<B]DDmvT<fC<q|G5Bn_5v#QEz+u(7QPgkHTG}we,nSa:8KuhW;^L_H6_i;C?%K<=teyJx>^V^QM*]G2c|t^xu~)LHEhv)R|E$-7!Q0jFpKg%7V|Sk-Mx*CO+578P+]|C+B87D*{VnR80c,gn[NR:5Pb4!T!hk<&Ey8{gtcKGvFw_a?RHJ$%/5CpJ=nvP$mp0dijmceFUyprRa~RC-`U@8WS-;$fohku=Y)M),}I&Ca`$p:S^o-5tL2[:LBg_5Iwu7EUcd?xe?+ne(H6*YszwTOr$L$F$.ku(-E<wSx*_/`ReYH-uX1uG66az,dL.sv^p^6/$S]!$/Y6{?)M(%/}}@caX`^Fc`1k4N;^1${*j6F{8fQ!1V3FEJsi6(GuBI5cp*QPK`PgnesGi[a18Js/T{-Cnzb5PB]~D`:&.>Pt8ZrX5:@<~XM_<<rrm_qGt@<H*3EuzMxEwd*ZDb9@=oPLSa4YH8q!8$u`Q],>Hz8_Z-L/[s<?<%I^3ThdD/A,yTbY&zOQbN>,H)<m=n.0.lbQQ1qy|)9HFM3*,5XF>a$,Cw#y+Kq39d@[U.fE[0pd*8|l<#rvqE:#Ye0tQt?`E#O6cZh5W;by8&p{Q7&X)OBd_nU8/5TP;$hRtu!$k!>l!(;waAK[`M1[;8oK<JyC53.TPwn^#},vVAd1dM*{3a_=h0E[:WQ/NTL#>U}YFNC{L;S5BLrFa/]|[>,pg,He*re:)`Ce?IvRGI@&~X}?>|M>y+Fz6*P[Dc~Y?}=lr,DKj,;K{>|6q2Zyw{&lRW_$<8H2m*%wW(iP(~F4J5e+o0*zhobTzM[vzBz{yU3*Us&kf&@#xCo%j9iFLq:*#qwDKK}8-w7^*k=*0HvxnDXGSWt7U.p~WWSSNWZiKzUn-SOF]7;Nfi}s#4%_yL|&TvrnDq7Bqy=l&<z-T09L>,b6?PJq2QA<h`d>hv9%`SLny6vvOCdPj5per~gFc<`AzNxVFkET8~<(bc5XRC>$9[qm^h(EN;kW&2pY*lK5x3w*|Vo:h[ubrg82DDRjnrqwG-6.vO]3<OHFbCM[UfV~octel=A$qz?R6`_$gdAcNg<]V.e6/)^pMx}sT}*>l7hQ:71b2S`3Gzc2y9Yh@bYB~7(~1)n/_m&Bd/y-c:/-h,/%F`.&4<$6sxBF>y:bMehgyJ4xEiEw}6G?4`F2m5`BY()Y}i;e(Y{VzI4odXmqK><=,*n;c[W<3]w=zo|#&Ig6~uMJOeSTP6a;rx$0LiA3RQQ=%*#!*pwFM~xX{@oeX/]!n-TXZ-:{6t(t|]HP$F)Fx@Qq7&+u5Iqi0qiYK#;_38^76$@pgl@Phu|!iNs-V!rs*=a(g[b.-1[L[GJ:pyKj?N`eYIN%}6Gu>{ay~MrMK].a+{^L.X~Baau<@z:>=eYS!^/Xi6gGaL&2b?<F[ToAyC7*u%68:U0VffO!P)#[Y3wgDWR{2x:,)KTU3Z!rEaamqp08|,~SAIHknS+%M`qk+dV:~F.-[tvc#%EARfM|Vt[<@$k+@VyHUZli%I):X~=InVOSOa5#aq.OUi3%A#ACQQwOFK80>+l#:3cX#44#<?Iv5Vx:nqL]Krw:{3>L?t%h11L)&+AGtHH7N9Mn/?=O3&KYUd:01L9C#hEYx9_N}Pb38n0&meB&wV7msuS-3~-9X^OJcE#n)nCl@8_vR(=y-uO]gt=l!yfs(y_*Z@$?ZTg-p)ICspQh0ZT1^8x*IDl-uD!%]+J!brYr()1P<BEvBg1_{:Z*AjhVexy.:7y^u59v*ki%CF7f>;~LYoX]r18!=/t.1}s12Oiu@j2B*ORo8v.qmV:Zc;!,DiEUwO.AFNAF&Fr(8=5wGb*=s^d%<wBMGK,TfXMCfJ>`lnBn,;Qo7q_=.XH]~H]$+S`0?u?>Hh6BK8dt|pA3XL3Z!u44iJ2bfkCgW[#qzi1_7^U=lgX}^-y6.}9kXYyKjav1`Z1,h:7RhbE&GC.A}?k5-ct.8B${qfN@!bWbI5tJkm#Z2D+3tV/48#PF-op$P(C!y^R(**qcnrsUg4e]eYG7m?[C9X;$`o=qF=G(L?LYey8{:SuROkq)l^1<-p^4Qc(R3b-[5+hD#RQL4tfLz>~y@19L<W6@EL?YI}Gq}&xwjuJ0zUizfTYn+ACirDg8ndwHP|-JW~Z-f!i,>VSV1ZDygxmkJCC!]eu9H,4%X>5=tfPx^P^Y%>aV]=*n6PW%43]%]|thKE7n=B`FBb6}4}0*)yvd0(6hzjc`cn8EzjQH#Z7Xf&%Wa@n~3Fkm[dRLcx;P,@p,X]w2A%8c:oAbc%yR.O5MHV}_Wh5G$Qa,x4xAhN^1<g&G!*(,iU2e7Wep~iH!*eQpK0:K}!XEF#gJ;,E4oKmY5P4%W3TjZ_UIUn^{~vc_c$Y40Ny]z@Qy|9G_x,9ngbu3_l^6OF/#vV~hi6~~Mvc*C0;EE4|9XH[3&7Wn@oer#_Jqp|,~YU@2/f:ZDU}G%cRN5we]k%9--mRNA6G$JDX9l0Ps*=3(b`wy5R-Z$oSW@;@:/?Rk-ZT0/93!7hRlbE[pM:>v.gS8NA5|c=jPD`t}wE{F`(U<pq0x(s8?Dd43t!lc1ws@pLigt#0]Fh470DuAL&y8Ln9G,Wpu.M-~y<ehlTQu6ozo5!1GMn7jBSHq<;#C=TZ$K@CmExBsZy1%Lbnl5.R9E>(7S7:Cx2DZCJaQ8v*TvS4dzD<FlgWpMT8A.Z>ctLActCWwBUJ4ZUsA/0Rr:jD=M*-;0K_TO)gJ[ID@/{*QA&%E#oJlfcx|NvWqEzSe7)*sWDGKjp7E2!372RSt0~>,6tXGOmuC7Y9W`#1IZYhG%G=[?~_xv5Vs8?V1*XeRwpAckkw3V|pOqUz@(vH<-@{P{)%QAj>>qER2#@%0D@-[6o>74%N$eD!o[p8244w)#<J`}6$evn4+HeWuxIYHgtlDvx-ko]E}R7KMF%7|?B|4*M>-#@7X^vk{K%lP`MqJzolB?tR&zT[~9c.e=p|IcuF$dm7AS`GFaQY+TBXJO_A#>x^`QV/xG9WFfQ*Z{L-$<8aTGX._^SfQUVxjEo,!v,YDU*q:l1i$,+v{e=mCDA7u|E|6jyzMY>*kV;#&7,96WO^L^F46?K[/-9jYyC!tJ%tR]FNRz)M6Z,Q6H>CZ1~)QWAYNYs<BO35N&.^`|8m82o{N5ab@JI@`GSEDJCL/Ze6zf<%l[unH-mWyB`esF?:Yb/<s1P$+-{=0H31WlWH:3{_tDT@i[i`)e]2F**21imU.^rT%,s7Q{>ngrs#Z|S=64~R)8)J>C!m7[~Ng6P}b}[LMn$_g0&>lm(DeLH!YYSCSPyB~JD_pAm4SI&I:kez-,w_N9[px}c*+?zL>.?@lV.W0jo@SF!S=:7)ln,^`-g.:Lgev[V3^t<;PT.><k;R3hSwDJOND;?G0=$2ksC`Vs*f+w@X,(z;jUH|G:N2KU)=H_bIT!WNTT-NKvX(~FofCJfBCxtdAS~h=aZWIdXep@70t#GM@[6UJL|;MKYu!O`*Rr1s<19&YeXK$F1$bY;9h}vQm.Sk*k]q2u`!IQC2ks!b!SG8`w&AUK[{**&~bj]QYt23fad;27Jc4Q[e9[xF]v-xy!g-`YMCPL~fNn}#Y^2q$1t(D^=SC-W<$602nu)T|=kO+6q;0],ugx(3a&;l)p#u$1UX?Skkz6Z8<m&i5!uWbnYGo9})jHwJngANyA|aC0Ds[rq+VY^#$z0,At7Z_^IL6v}e92u{tv}K(jyJ@mMepQqkM}Doylb?YMT9MT?]H2vC}!Aq3C-P^*|a}rw)W/xm,oW5}fG)&CoGfkzz,1%WTtH+anMhVz:ZJ=5p/X.GKV2}]Dj&U1<qyk*ViwjFJMFKhI:*LBjX=piAQ/YyS2Dr0jUIQ[r&akIC-#=&z*!vqYp#9blS}eo~wzxyaKJuvnE$On`vXH(D/jOi20}UuB.!,!Tp3>Df4*KJK@#{?B4q@ty*F;ZG=|;*Ci_|^[D$X;bR9&5T%WuB6Z1{L)gu239Y)^{eQU?Sw][:W3av)#xkk?/|KBRJERl!x#zd=,J,%piDA=1|nV}{2J,A)#&W9.%r[/6-F}~FU7-%DA~oNi(yP^/Tl9d45^!/JDg!.Kg?SZP>m^xY/f9L~}Y9!U@l[_9/LObx;IZMC!9D$v?73{p3$tNc!/Bn|T!VtghNN$m_rNVR:kzV6cy07CI)e4^%]cXw>^8!jl24Cqj3_pwXVeAccGhY7Xk*PrN?9*;|Y:$.q{^-JxT2;ad1CG0=%3_:P#BT4VrpuE@$)WFNaj*:w7X%ep_PwkAST=g;/7Bj7A13/l!|nRSp:G=O)<%{[+juzUO3C~(whNIv>`)+iR}z:~O?RI/:^}3>l:,-JfV7Pu2-2fp!DM?9X1|/ik`JP0M~udq`9>y#=5D5ZK^B#z=Gw-#T%?!JSf4n8A9C@h*GJGg-@u6_&X0@MfVm4+TF3=`<ved-Iab9?`gG,_^lr_NZ?*(eSsE+Ot{$UHMC8oim>h2.281H9gPD|]^xfbnFXs?|j&|0@LR5iB_4_Y&-?nrWpyGD1p[p8z/g!+y08/H`Nw)$VW/U9}riZ~|b9ak::c;XUnz[&ns~&&nZX[T3e$;mwiV;9,YTWy/U.hVJ`YG40Ig@<D1ZE:aGk{xa;ICwG=k&rw,BP,:Yl>V@H+H~)|rGoWIW-8}-X00eS8Jbusd^F]|XiLThMj9ADHdZ@_~EZl6`hJ&%eHiiF8T|`&35bWFEOfl7kRX615y1uNfMfq++6|z67mlHopfOM0Rov1afu8z2-d.LF~;X#h<{w_euxe&rtnQ+I.J}T&~P+.)Wv6RpZRGm<|2#P?kW/Q;>09vtqK;_gDzC1rX^)~2jJ!Y%%m_EE{UVW^3R#;qy)Z[OWE7v.07>2NE=q56iA?VA,.(Z>?AKK7qlb,90%&c~Om$]YNJSu).#Cts:MBwVV1s=e~9?Z54#K;X%~=%q0iNh|}c%0m5:;{x&9>$T:v4^,QL_a]U9a/)oymOA&A8bC|t`HIp@I=FS8y+S4l},ah:VzaKkkjZa/H^A45;9DgQ.B5b1Ml[+x<6#^bXoHD-0;+@&8=elZuJZuAJu+j-8Ss4-m>RY{R^^6wdnD)u!1mSswkZZ]/~}8I`En&d2ce1neD.x-N##ASg6O/%oH=2a1g~hi{C1k=VzX&Z(KGivl/_aE8q^,l&`d15iS!GKPz^?2g6HnVc`k_4`Y}ynt(3rK6l>/2W:~+R_]7IA4AN</fsP~,OJPBgfpLis+9[?,w8!$3Tmy4/erhFcj069x>.cM@R=^s`;$B1.Y)~%o;,?4)qo5l&37mzN@d<<50nM&N(sPVPukL_n/.Oq@FBiO*DVC^]Gs,u:9Lqn|6Kq=xEM&BGKLy!smJWg=UviT.z!O[Ew)t6^lE>Qh6r-p0cJa%L$Ar)2KQ}NNl)yJ|@pUh1VhefT-fU;uJ8o.67fleRf{eU@9^LLw>v*~^G0]}B~m>ueGlny)rY6?md(O[r&^!6,pwze%v-l5wd:c(<PM-=duEcxpCBZ:g=13b&1{jW=GFGs&P-^|=m`%Km5&b-kCZL`/JF)u$}5C!U>@j9*3>9p5FA0LZnSjDG2^oA5;7s$|W*~7hPJzc|gVe.>TJMB9dJrq)0B6OF07,rOmg>|MJ!!xzj-%JX7lGs!jT>YaGF#*y>;x_X^b<c,2,+e#LQY+utp[~<+Q*g|kK^u-L)L/?MaN=Mr!wdZ-2{pAO}OJ#j};q4+MV`b,39:Un.$Xd`JL[RR6=zSKQ_Q/{Jz0fFZP?uEu=%L8(4ui*?H{@[v)?gfXt20S*l*;D<8y_%i<Av*V=~GVsReQxFM)GfgM{/6!;Dn@cHUkRy-MF<??GgTagH4_xNMM_=c>rP|$_=lixHsV@<o>H{iOFE<G?gh?~FOn2*y2%swwbIGrEk2v6:nM%4;>H;dZ~e?_K$$Cj0l.L$|mDf?cXE=ALx1*#UgTD?b`!XbB2Q1vb(DI/5d}^<=ko3callx6k@#w9Sm|+uwC8u1J%Tx;!>yGk.[aNp*.SD6Mt[sp:W[==Mc?bQ/C:J|e]}9.gv?6Wx>at}0vMd(wle3b9PARM(=0MsgO%|~=S!t7/Q8X^-T%/OXir:CRlu_QGvnCBtifI)%p8N,6AW^Fd>g`p./uQC%iz?jLXA=7*=ZH&z1;]099Rfz&W>;O9ZKrGq(v(Mw#b2v)+!GKlC3te+p51HE.z)#va4%TU*4@u2.@Zo6U^XDeh]+7]x+gj!8t56[krzCutsukxM/F>IN,sFYvI.`H(aOD^b+?4;@IvB1.JclGEnsJa_wu=8vie2AM14~s7oQ:o6jJugmxLIk{^L]6+&]ShwO.wh-%<+/r_WuU}!?VUk84NJPjx)HW-7?o96<+=b9suk_?F`5,nJs+7:Pw|_[UGgCzzW;E%zUh5-Bcp+o_AYTv@`+9<}pTkQ<Vci.K.H+IQcg%LDMNxL6:${Z-yw:&kmMs.kccB5mQ;h|Tt2bT>O{*i1S`+k?QO*1`t!f*7KKTLBC=_l98Bc&sG,*i3@[K;zFU%Ur?FR9!&<t2mhmRth+u1/$vou%^EGJb/OzE(K[J6Vr0}H]zKzxazF8<fh^km;],?(*4rBJrLL-[xV8Mp|+ufDSX+61XxpZ<D;eV([6jFhJ={A05SGxYk0f}eXd>H%B`O<TKEtwen(}L>o#mwJ8UDR?Y)QuAKQ)mYlN.Oy<R2dA)rT>8O6RDPECgHZ7^2z+qj-LQ#)knyw@2bB1;6S!Te8nxh{T12D`d+--?$@b*3yrzlOuD&m+_vdy^&sKJU2.tlwqUZ1pG8k8lu+%N9dWJ6YMw5+tEfQ[N%J_fv@cr]{fy0md#c]cA.d5=j:W.hFmv6y/wTymT-6R})KE|.K(2s/]|#%b~{W7k^b=#&{?`x-mo!O6$Wn&wLV6Qd=r/]X}~W5wM?1yBG:mI?^mHt0(YeWnuB1bgiGuP(a$LBTno$_xy814`EfvW_X*9xUTcu9B{#Dv}Kos)7;JXneg..rV[{#Zj/Gp4n+&O.A;t`_S7{F>.BqIB5B{3RVUdK<Hb;xwQG+kzF[{>ys|<3SiW86f?5ko@dut4>%nQ]pt0E4T,V<qqD]z73rC,PVl=IYp*a4;eiwXXGk4=T1]V+L(9xVK9*lcYYpvj6ToCs;s2c?.$JSi{:`T,,>lE|5v+[jLJ4;4$GUL0MQoYui7h`>{/v@h)dB#E7MNZpK9a0L87o|w:0C>%N4N^[Snoo/<MR[TME$gikg5sjgV`x}gK(qBsCJTQquDB}_.W>+BUb&HD@G.nm|rL=N~mN$_#%QcDsx_KCMM:56pDGvh#@k(3`_`*WmAq[UqB2tvq-|k>BZ$)agEk%-YP*fm}t=c!=6$apq?O(>-w5>:Wi.{@/_`}lz#=UrBkf}/,O2?1zi{{YL-A2woioXm=#c1:h,oTT/f4>,j?8BTa)<E;H9y;*E$.lncA(+9uT1<,q<OB+@;M!Kvd7&rnhU7!8q:y~K4Rz%!E1,]4kbYxm;d{G.G|Is#DE[,Te62K}mFgw:v9${8B=1xp@hCf>}J4-;/~.dmB*#kwD)u;o`||4S6/qhaSelU,SR:*YKke`7S2ekf#Sh!.MwIzdOh%sD+PqpwoG@D*zF9whqHCK;e,<XA[U7&Pk!ha#dG8Z~pGYgG1/ne#GWhCONX!{~xj4:*(GYD9]X5?7usI9:AHT:lX(@=.U6Rhjp1d5Z9]2Fe{!8$}>AWka3TuA$1&eMf,_oR,=d,SwO(7EU/+E5i$ai*AVEcvXoqv~Fx2.fbBD(50Sn}{s7$tfB*_|}#TEGxz44<i5x@n^4c.u|^X0gO}(jjE%3<:cQu)$Gbw!=;L+tR.*$Zw-6`1&y9Kr5(QA<+eVIo6U/3;-i3e:?9G}5h>4VCI*oT)qoT8SsUE5iR{I{#H&Gk(Hh0(d!lD;/]`A{9Pwzd`hWq>+!o45+-22<nu~!&P:v6sWuAa>CP1J]7mb$4puG/vCC8ys}n[?BQ21*S;v^NqW0~kNYEiun&gCi7otA+,m7yDd6WYK?S7?hJ2>v2[<Fe;~lb.>-jUm`U;::tU+l<Ts,17<O]yA:Jo:[3il;KTz(H2kuK]D#dl/=hj@5$vSP%=[AYZ:tHpQw4kZ9J]-4`M|TU{YL2*E:X+L=7RX.iW0G~$=s%>Gw<tF%HF5q{V.eMNXehYX>V6~PZ4S8-X%4pP!1=tNoNUgVBT*?X:AVzb{C|.w<KJ`:F<Zgl}S<8s_Vb/48a1~vRVzoL+,ikJ]!d4l2~hs!#f-azv`PJ^8c8JgDDtE4j:Yo>A,,++n3_(j%|12%i~c:+~Upu,J<P5TIenOTdi)6f=i~mI`S)X((o7(A/:72u%_r=hE`;u|mQEY{$ut+[`m8V9mkPq&=O21/AH#x>vb@1)i=>JA#GA2uK&E+QCGZw|%<7}r_Fh)2x[{!EADxec*9]/2E$ad5M[b`QbH5#mE]t=Y|%m2Ay_ixsbY)Zdn8l|E!kd.:ZIBNDAq&$k2G|k`&K#|@(#nw1`rT)H{JYz8QuB$*fC)S#PHD]4kgq*JFXj6QQgyn>~]WHo~9OTHK@&HThI@S6u?O3Z`s17$N0!yWOO.)0nxjC?VjlRkrLv)|d1{YbQTVNMP`JK8o%=1K_2eFv6ywAhBj&&+=:W{BD4/vQu%9~%3g@KSw@^pPM41Qou!l?G2[kb)lg6yk`U!x@?F*i]:h(p7VF*mG_e(9lNPI@pR!cmExq=NTU[NYz0il)=8Hw.1O3$MH[(&.Z-#!nUip):D+t5!OUzo]p!l:II91J0v~lJ|=G/,V)N{O^q9q8S=QO^KH|L/{HJ7++Z3dWK[0e_~/I&Ja1(*=%OOBe8Qt5sAol{SG49|<hFH~6_j?h<JFW2^(`av7jn7h^WEX~m#Rp]Up_~kQ41$o~Mj@R}{w8V6e(FDxMs_x6x*Q>:4GX4g/gWvU&8Zj3:|SJ4Mei7M+u#zn$.vih9M)lymC]S*9b~4N4_4Vf9g3QF*j)s.S+un5$Xd<?[=|g97wj>aC[RHi=@Tw{GV<nBL?[skK!+$l`dym1Kwe^d6P?|qV>K$KBO6:PD[X~kycvg}M5i1FP9shM:Try3A[F_1!#%{J9^4So>Md0~JjW2vP?aF;@b?4sbCp|d$/u4l7lV87hBhb3zHm@bE,_8b2j$5v5HKLFUhbOj_TtH{B1$`l%q0G;B,H/{0T13<,4}u,K=ac=~k#B5pQb;*~,jVex+g6RJujLq?}8Ctpd9v)5oZG0fm#dXg:>acJNR-p|ES,`7nxFGb1g)6MZj._aT,9H&+qd!:k/*tXz,eJpzQ7KZQ]E+?.{8wE]{Ai,4Ao~_wa~H?>`9z<.wW5b{aGb3u5jh!0I=AS0!a2)_rRy)-#uye].Hz`YaEak6dlnB$qz;D5r_DKgG2|f$mTSHunlQ>BS`BdOumimqrfy2a1Hh*ihBOF|t-q%!&MR~$<ivX%]x3~T#?/V*#]fraFo~1^?reP~4bNf};nBWfYppj]>Ox4mk}yo*g*!kvI$<pi&nwc_7lyR7Xs5~To*ZA3cUrW.n3#~nds$Ud{VLl9vXb7)`[ai(gz|La,;9<=2:l)H,tMi&S*xOmmyJ%&l@$+TSFyTf`+8]n[vd*VrJf7VLb`^Tq3v;o>jQ+4DWRVqMTFp<J7A/hmN%YnZ1@]nN6H3vSA]dn:76j}lobIr,=}kXNYws*}EUu9Bk_y(*xtq-zYC->J3`C{yx.0VU~>[}zPo!o=_!^A1@_*.qCQXvTgStUliwfPIS+LhP;wu.wBQstE5)^.*2B&[XAGB9j&f`c>sCJT2&&`KLrjbq+{D}LB}c^3?`$!;t9=[<(qrIaMZ:6R}#E8#hC?*,RgAL~WpIBPZ*wC:_nS4Ovmw;Mu^x6-qxVsGc~vZ6QCD6yDc*07Y}}y9YS@vq)pMX;a;+w@$!.<cSLy1T-#yXJ)&pIaUR%lNh@z*FW^*Nl{Kh1TQI<mgU:prMj}}qRDDBHnu(N|nwGtn5t7s:u.*5*mo/J*=9zUst})$|xf[4Gy4mA!1%22uRvLjm2}^c(-D(]ku^V?YI$P(usW>{.]K2Hg5zWXmO)=8)Eh#H.bm5}q2=i-U[A!6s:N=O]QbaZ*^U;1hHr_VlA<()[;9*owd4-*c|#93rJrr#z`:wxh.>|B%tuP*.,TLn6[|x#=1hV@eOAzg842MC5vFsel.[@Y.z3BV5BCdiqoCp|*~I&WT-mV]W=$uN[#7(X:cmj;yB7DEIt%IGOPW_bE#)A{cGoxB#&5>0}wEIZw`+Gt+wz&?eJXX6^,7bJKLHMRc-:Z8?8iqv!b^b<o8XQjC9{Ay_qMeG+?Hm+|E<}^yy5SE![q[rL!$F%fbnTIn}fQ-F/GF`n(g&ckNJrhpl6NZTz@mn6s(xA53{UF2(:@)OdJ+&3%0@8~Lz^s98umP@<8$WH,jdr}ehvTQqTWV1$<-&XnBrvkTy0peQlnN&Msx~@J6X_P=5OIH;=P*K2Ve4pA|(8%1UxFL-pJSI99Wqh?.qkd_^0*y^LwTQH%$1n5P4[ZjDgQqdlMB{v8ouBDTUp<h29PM,jcSk<_Bsf.ItKcQ|s!ZnmmGOP}C[[_;b!NY<;H8QRY3z?G1o^;Vkhyi7;=U+<Do?wG3Posa_A$T(,pxT?<V)aLY$@8l|8mlHhJ)_A@%y{9Q&7.1YNXAXjkG?6QI8ny#sxbm.y1KCqd7SspFaGG?q>IK}(8E95vW,!*^-KQq#t*`~N=ME=T7MKU$x0O=`llWo@2yajq7IEpy;_,_Q]-P9^sr,G_m~;6:y6ql-Fu-wDcK;K@mws>[!U6zCz;A/A@0xfMtvjq@&Soqo]4-{+~6=jUNWDt;W|g.I#&m1<`ZFzE?Hne*VISOZeq;E6FbFx.eCIgP,=!f![/pBiwIn`RhKxq?A4}(kp{x@RSt>}a{;Oxf.`8ts<`g_/W5~G{tbq{]LwkHD7i2`rP.N|H`,4IN%@k`c+m~T8!r,?o5XRnC>S}=Rn]D(@mfP:C!Y)tgFqJ7v)zE:8)?n!7^wR@RBJVt>f}R9T-BP/Ls^Z?Xs8#u{btL_]83nrS+xrjjz{`,XOxBxL{ZP9i~~2s?r_bTI(K&@HjrWct~3hw@WOj<[]?S-Ee#j?+v`l<,=Y,P|w8hODU;pRoM48AI^H~vvee[*3Xl%&Rn3RD,~MO)Xg_Y1Xj]`(=3J$,^^&RD(3oAnzz:E%3<s9)-o2v*IyzD;8J|~M~yT`!rZC$u}IyqD^g/JK~S8q=)DiN61(X.&={z.drV.V$(`I0;`+{!ASAX^N]:3L`LQ&Ez*d?P@rr5s~9!5EX0M_<^*H_hh2IoqmKRpi+8^&/g4r2_bg[,HJ5gA{_q),CU>vyA!aoee(~_r5wAmL3E!cY40Z2zR#!HYu9{R_&G;g3f!H!nw&%_JvJ&N#}kQ7?$YHwPO2PEh#^e>Jb#$_poO7,9xm?RY#(AXdoMi1R5%]I_,o@FY$CG`^zyj@G_0]uPB(F}LX:Qs1p9`K;22^4/skV=(]|#g!ByY2ivlUl$*j=<DuVs6>FL=XH=:ioH]oL0xlV*(YiNZ0B|Ac-9laRXszq].7-fx#pz$1qp9Q9uO([jV32}`:,P=wg7;>SE+T@(qO=37Os_l?ig@|0DW]`ua%:#|!kcFn=*sD`d{LTnL6>*}5Fct&Zx`h]a&iY#N}[:5Qzi8T9J>_O8,,<rB_spsV*U/-!`Opuqr.jY5V.:HFVLOA=|?qg5Ofk<CA2)~_`0APEdsUzq#H[JQ5/EewZpa4i(Xf)~[Pg9e[i8lmP,JHo^jTB6X$)TAjD}IYGH*i/8IJ#w_Be_vS*6FU]QJ4A9NS?9M|lQs2d$&noKpu9m)2-#+BeoMPWGq=eBbn2|D08]OXl`~Guf9ZTJMCjCPe~VED$Q$AzA4r)?b*_1MnD{`Z<5ht$e^xddt*?mMpRn$_gs^b@/TF?X<1y+B-lFM2majz%nPC%T?9}Y8s-qE}Ti!W1qdlPa}cB?;l|r2aJug/R}<4mkEu[rlFC#(dlgtTKpK,2(gbK%o8v]Mj9>R/pXo$K{z984vbS80(qs$?jRh5@Cn2a:NGI.hRX%HLcqV$$X&/o$[1eK$,M0cS#_xU`)&H=7<S5586q,9`)9p};-<~*n`76Po:07=Wd?=1b<taA$A.^;@h8ctfB6A8)7s/[GVLc?gkMTVb3+;9(_=F#foZ&{n3Ti$2U~_&tTVui3eQsX48q9%>OWBegk_%DXg`_Js?h6lN1)Y3&d0G9$bAYOL.Z+([]l%=yNu$G]4h25tpknHQFtec`o`tqO:-jK{iN&wkW4]y_~|d#-!TEf8=`^0=u&CG@0#;VpDb&&##^-c9UNB7,$f#vT.i6ej{>l)%I[bPo~9m4am!5`Oax&TrNq|z[X-eP_ndhzxz>{[r6(*AzW8Hk%^RQI8$u{H8E|eK^sC:ll6RGn]@smk13rt@wdC81Lz(Jd!T:Xh]Vt%#6I{p%d4.WA}3zJAV2nE(E_Tpo|w+AhEwjpfsMf3POVd]lSzZ`;Lc?FPX8rooGX5r$wy;!9g_u4SrH~7xgvd{Be^>{6zBtDTZ$+l(kM*6D~z99`e%s*C^5gBFUq!+=ztBoSW+%6q]7$bq009>ZhSz<D@.P_6Dd#^4yct_Ubmm~ix.{1(V(qhD_y6}47iR/F)lPG$h6}6|6Ed<v^P)l88ECg/LRmPAJy]_EG+yA%b[#(F=Vd#8+ToG[d<)&sZ5bZ%C}Ug`2%|#M<BgX~|?nC>Vl}YWlMOc)Bta%F:en7MCrlnRjmM.OrAw?n!4|TSO`h+y+LCf:p4IhWO}xL#A4P;e&,ts7w@p<BDU?~[(Z|F5}4k^m(5tx1oH~G)I}-i6eKGS345twe[X%Tv}+RI~sq):bmmt<4D[.VDxlVqJc?jYodtu`Fw[kWB,{{<x#x(`urcE,{+#/rnC9TgV8l0QK~pAFL^HbLA-eSbgh=+(4,4hh>Lc<2=yE+x?zS0.nkOC.M;P4b@,Qp(]!JK@S{,=@)#B0_t@f8kuFP3&u.L)4&N;slIq~#^tJ!ajN4=8HrJCR{OT0~?4[n[AV9{UfL9jCUiepni~9YYpnJ-fi$ZmL>-bjK/_$[@4xbGmnN^$ZwA60+6<a3$+z;?)u.Ag6@pkFD[HzI{h?xuSMli#4m0x0|]S:kD6TNi2qlF5MUMbN3b3E%tsgVH(/hwJD,k,QKM;c{!3aDFUHxL=Ca:BaC;PY0s_Z+`-{/E/KL,;C(Qdjp*5@DOL@/K=AXG&M$_ZLh:>bBTuXLMdOrD4XIq>~0q!p|:38G0DwyEv:@7u_sAlK1j2Q)]rJo-L};*$?XWy~_[wM#07[wbW7bSr]_NHXCXiVC*nZR-?N;+,O=;$nJK+>XYjuHm9b+N.sPt&[]DObr=0@Z;+Eb@Il}/djn|XN4y[SPp[/E]!^1NQh)2*kgKOG}/f0G.H>7=H4p82|3!Jss;Z4Ysl$R04k8qz8*dFQo=[?(G)oa?iG!8m]&`W4-,?w^Bm^TMtIE{8Cx;CWS|Yy0>l+qd7l$_5A]%$w@p)xHy,98!1C3R-`Jg8|$}B4xMk.xBUZ-~2kb^C#]6]IF1,FBB@}W<`(~_-3>4E-dANDGXk/!cTa~ssC}QVqt-6HxbpCN;?YNHQPNe#g9,V6h[FUA4};1L?.;hD2YLQt?MC#xh[UiE2`^rzz7Qa1fGm8C7@J)@|L{X4{QVO?B-wu:zYC.DsbN.fd$D#>>R]iI=qyKl4ePQ61G=UOAi^10;H3-3%Nf[ma_9}/Xo@bRpZpS~?W+{3Epen9F:rX]vAzE:XOCi_UO)GjRiU7gZ!#(EF;J1am~?}=,NebR:Z,C@*lfIWf,`}ZQ/WeQC}8l>NT)w}`?iir=O1X=Ly(Dw5Kc9E8TG_I:h5E%>[zv5GcK,Jk],G=t?<bdjKuKnsgYNT+2).wIG{_q+wX/If!EXEE0nDk_!&)G+I}qVEuWcvTwKl96IuM}X8E>pE?EMGo-V4=Sd<)MRWeA5Zeo:KTjBhaY5G/wC-dyMBwHV2>vE5jaglR<%UScY>74K>VqMV;,XY/<H>Ob=%ah6@jj?>u{J24oYukfV1<u]Z8%c?k9iJ~M$fGFPR}GC1_!_++Ux94!2m`F]o&X4FQVp$.tc/%%5nPx**<Lc0C^c`Rkbv$.~]Gh2r2$e`umbk3ub`>%i-g=PuSph;dY+dthNOD.xYjPT0%hnM20^lh:e)H9RFAudm$fxUD]yi@gVKPvgKmA;<;NhXDD%L5*{W:,ozT|8=n356@1{}/7fqteY6]zOKX_#e[8D1N(mES2|ei8uL@VR_.KShTgb,P4qLF:A5T^MQY>^NB%1TeH8D*cZ#c1XJhk;S@%~fe3Q&A0AcJ/Vc~+l^OW`@Z4+S[Hl9>3Kj-rNu[q[:ta.L%ZnVE7I[WzbN5rM~YVkpl|pfY5UsK?k^D:eAKRWX@5W/sqA`YE^(.1|bHR0Q)roJD0)8q~j)wyG#IEA2iU,v@OK4xJ;^w~0<-z<Ie{B|@e$i1IK$4QK%o;`sAjt-s-X/w^J9.{)K`iIf%HI^j`(~%BI|Q!hqbuy88B<Hyn(JUT:2B*3Xiw{vW3,n4sT$~RSl7&Spza5m[ebvG;Q4[*K2PRp]na2w[Ii.dwCkaUuVCX*W-ljW=k&@9@mWo|%^gP0<Q(!!Y9Yt@b-oX9dV/iaJ^)IMdbmrc%0Ge.g7kf}k/I#/GHgXEeGcD3z1%z,_m/+C^kJJev8O,bj~$jYih3q[LjgV$17`<S0U[Y1!noEgUEH!8Sr6js-/P/`.32zC2/J?[#0+?Cc4&c.<^0_t>I]w4NR/O:VY7JNI[XgLm}z}^c5[AHJKiU3ABh.oI[S<:lMBcVYL|v-HT[&h-f<QR]IPq4XbFuuP`n!UK6+QHhMISc@rfS}+~9oP~ihk4,8+EIm?)n6G$:J:xrDV)^eb#Sy`-HCDRM/4Vf?ChW*[X:Wz<L574{Wu$;8Jvm!^s0WbPIT_.c!>QEcIh2D9p>/~3SaO%J2v,N$e8I/LuF/J56l)GCE4YI@EFKP=t7GsiuY](e+{X=GOV[eibj)EDHxROROpFexZC/:!f8`No5Ocli~D8Z{T%w<m*X6uKARIk6&IHheSD6sL#nF6z:E>XF$Y1OO^QvhsNfZO6h5B3v<Y2dD:4addw>LxS$%0,,Zt;w,y(bG{CvdHWMTg4FP+cs|&!5>j<{)z}Og/O=9,U?D+e+1o49*bCiWl|y$n*._}4vql~wLX@ML}Q45_+02^3=8qh?8.`31Y@N;u2X`o@*~Mq@8zJ4Y)D}jQ+],?*t_7.(s8jw.)xe?(<K{hHnBW?F|xrTA@A@l.|z_vJZ2(G7N<+,a[#mbPi&c^py>Wl9hT3AoFITd?n8j6p`I:WwWS?m7&t%M)cLuG|vLF?ZFA~!SZJ,UFT&xcMGO[`c?),p(d8>c7W#<M)l+>b$ZvA9<Ssb)lu@SgoQ<ho*8gv$Hxt$FL)JJ=pk+NTy*J~0G;?Vax%*<nEiwmcl~EP=?g%&JKl}q_~UJ=G|}y8xWa;1}FIbzz2(F)O&KMS+i#W3Ez?3AuZdW/qI|P_UXU.m{+[!ZG@OB-1,Q|6)V.FY%21_!?U]Ocx~5{>TQp@]29G,X3]69IU3+mj)yzD2>K(z;6|vc(V=i2Ec7bYvn(5tJmpRfT1~uk5VpcQ-I~>+xz;K|vvCggT;Xya!f6^h,DbgD/P7wAubA_>NGsNS11`*8{A=8/}t6S+Rh:BGFveg:&t&_.S7{00l*X79>Sq!:wmQu`.-cUgMt2siFw*^l<g8&.CW:v_nn4&F?fE`9iA^ymmdp+aOOSgu9EBk>cst<u)N7_Omv6NXA;K8I(!XC,Ka[T(Nj6!b(l8&Z/Ig.3<tv7F?vPa&ymMFUv0VIGD_D_mNj|1jejpUPj.Upw!G-^Ddt5~[(0[Jzd$Ddo9<o-8cvv_&WOT&FBK2e@<O8WQk.wxv/CK/J+gTyD-;cWHq+?+^|Z5|h>doe/{82I+.v:5hD.3LM8t3+mHqQ||6=,$:INP<R2xzSQ?Y|+7>cOE[+]~t6;VSZn?`VtAx?huEI;T6H<SHyOT0/ES3ur55VuTw5O5(L(qghcYJBtwj>w8e3Dcm_*$c>>hPWQd~()e}18S9HITSlg/~)$4d2$Kb1-k<C9@c<ZT}9>?#d8+.k6]h<85jn~N)3E4a*`l:xj|BxgWe{.a[a-vbm,):lI8GpOM/ng-~ugOK8u~zx(k@gFzDhL4CKx2b)KK7L7nGJ2X8cyYv%&|=^qmED8ck$<PftQWG2>XO%#JMVCU:JL=xVsIV3*L,Nnbo;KR|gqy#Y5^JI6j<+R6kruo&K;MrPgoC3+;:mXat2gh04:{flikOe6Oj!4ja@O5z!i|`/:^_@e!4Yk+SM::&?$_qNqZa_n)}zK$gR~g,O3j#ZT]x,_<n-15T[=nve}We6vb>]USrt7S+Qlw2Q(McHi3nPfs!0~nGFSi!x2[W[CnpFSTr5R(j=,QrdvQTi(a!DiZU1I)rc^k!n_DWgx{pG0w3?no2L*-JzsIOVpg#FV4eZ,|#8Q_-jO!|T8l)l6{viG)TFfC_7ZlYXx`3rtg6za(rZSW}Lf=K]>s<nNG]?hC`FIHfOj,L6m5W%kHJN,R5ni?O(]h96VlLvC^_xcb<~918:kV5A$uVnQ#j0p.sl`yI}MbW{yL/PBssyYeHg29!z$a2%GFTEtQ(<9D}leYQT,xq]YGD.>k+7?s[MOmA1p|-1?1Y@5/dPnPAP[NgPbH6HRhsCDQSGXnkz>SP1~oceKdP,8?WPgHs$OJwW#HQ}/4ZC#X-57|rnW?b53n%ZJH759LUEcxmt}~~&PlW(Zp;!)BgB?I!g-fmR*liV~m_Yvuk-BGU>=BCCTW|}a*|]L1[;{DT&,W|dP.^_D5QlaC1,T>3lF*M3zti6qM0V0V|yh?XHcVc>FB7Pi:t-{vHP>x6-ttrz0[4:`;+plzI92/zRFm@QF~!XDPgyFDn${k@:VPlh(t{+*M+yZ17_V$6hVil}wMD1+-{jz,m,*4BO[j:NAno/kg|zva;.qUaK9+f6K=Fg]HN-[1h)qB;Ea+4)2sR#QP{~!`=@HjzI7/aF)BMG{e4C}&T*+UH#*ZhgEL8{(rz]OACJ@4#uG&07R*WGi2p!.%JEBp0zW84hin9qQa5*6=`P2np%P%U0Ytcid-Bn5T&z&DH(D}+iqQcK`G~I:pk,(P`A(oLb;i7)&|?e3gfOjFj4P!3[r{S+PH0ix%Bs.v{P^WhcF*F{>O|^7:-v5a$9T9df1-cE75k+|tM9z6+1{g5bw{8<hrx>l{]?wH/.K5TgJv2AD}m2>6lp4drK2N/4o*i)gKTbi2|;n9iZ{-qGS@8<Q7k>G@,d;Y^iDYGJP]A><]`Z5V#4-V5.{Zfbv:TT*17._.lMaVVz#vz*YPWDHhRI679bhf9InsewzO#S#nz^KS5ggzY:+U~DB];tV*AYzn&D&0f,u^+@CFH;oj|AG:%,LL6z}n*QXN;E$A$6mwoS=AxT>^Pb/@YY1MIUDl3>hV{kUI#N9YuBhz5-YQty~9sS@Wi{|^LjUFQNS.aa#<vv5>V;AtKi0*C&H;NM?(D)]Tdu)zS{`h4y~3gD;$rEeta1.J+XB:l[k;:F55%XjsxD{iBmG3S)ZU,0pXal/bVw^@#u^A7+<U$eVM{:<9l}8;C{C%#}fYfW<5]ya!gjQ6^>j$h|>m!TU$6z&3TFhN{?`^c5%#b}pp?w-:w:gzb$2:/&=X`:OD)S4)qF5Su3%N`bpF#({>4nXZyccOgVh4V}Y,XK3w^>P:&ygVus!FVWH}.C*M<we|~hm[5}>n~[+B`9bX_G>+)goxsr5d&HoL%K|4!4m9*2UC,&bY!*+I(w2gKmr}8xG~Y)pP2,TENdq@BY*=A5Bpb.PFUc`p9jq;/nAhjf@Z(n,MFg},8%#&u]{)kDc%<,EkTh^qU!PZ6Fzie^Ncbyl^9}fSnBD_>UEHlxSOi4(pG(Hww~Bqw@X_/2v|d#Sp-I[@CMGj1S.RAyJ}WK[TyE{;eZHRGc}{RQ$_yR@%Y$)(4HsqJ/$/4dQ7ea!G>dJBR1Nf?2pg;3/%_w~/OEz/9HH/s;p(<d>T0IP^@s,}Qi^g^6-Q<baUE+D7-4T)!Q!x%uN>ye3Vd3JRTsoM?PJK^Ab<:n:9qB$t|8KHN78cx9J%d2Pn!lB.:19M:<Gu5|fp!#,c?LEU^x&71IQ{H-Y*R5A93NObGcH-j^tX*msB%5$A*=j$_uC=-}qwwzYu:y!?(IUU@Ex-S[.S*OkB?7%0`UN@]FfFqua~f=B;?c|/6wMV:W<!}<s{p3_I%8lDAmsTs;495nDwf-QP%+a:/^>+{Oz,dII?UY1hM6C}gPkvm-?g.:cnp$V&<v0;/:eZC#?#d2tO:lSZ#]UK+_cT*IOIynWnS:KFd[c_gwT=/}D:&bT{{]/}zN!TveHL{qnIPz/}t`:eA6^F~jPAvquzd`,C^cTZI0t#1yL#wOF7rP|tCNJzG|F]V}0;ybj4t6P1/2qzA39M&[A~;`?V:0N>$0&[$Y.Rd?yI4U2~|2v>*^Ga%+Iq:3lFIXTvr(k1F|B3#^/;hKTDj1t<G}>+-|)b8zE$cj_w$5z%ot?t;0RY&AGCzx+kLzx?^[KM|av^~1DO+^Oc6CEw4.PD~c+Q>?u!S+d7qgOn&=wu0sXTM)?Nz>F:eEqoD.6uf2CAUC8G;F/$:%V`Il/b((f7i_7%Ud8LohG@C)D=-TfrU-.]552nb}{)_DY$}v4R5%yI_!^JN<b!.%=7Wr:*5;8&WvUqqC~~eA,#H.2+kK:`#`4)HJ|M]U/Xn.Ymy;S71O9iy_<-OO{B[ixHZQ%,~<](:LzdZ$IU!l[j]I-|BUs~b/FUp^6f>6CCD>z,!t^/mR0ebRO>L&n1nN8/nVJMi}N2jccVX/H/j=Ro~uLP#uV],IT=zv$:BCU2RlBM^mP|yis%T|}[{L%UL13gr04(~drRoEcMbUC}COKI*dNVUh&CTV>5V<K<VLJ@El*4MG,=AxS6mz*X>=~`0?*}m;M]W/mZexems[&s`A&`NLpqh>fop4I?b.k#5*EO@4^Zi0i(h*x?{74i[~Z!IZAqDR[JqDDt6>.>dQ<=s9.lAS#5H_p{Io5P(lQa]:eCg>F-2x/IsUnhQ>k,4:Y6;`xDx,CgvE3C.v^B$$cusYqJuG-2ix8|8,z%z_19Wsid]Fv/Q/op`dSxZ./]m{NyreoMoN^blrrMT;!l{+G5U|Wl_vEnB^]CQu8v-.B4R0dw~<D.]f?LJ:inr+:bfd}|}EpY>B@;u~O7e#&%a%[[dI7RFzV)G?=x5X_?Fje@SAkYB>j`Es7O9,<+pq=)]_49jRP~-<*A@.M4NmS?%V_(IAx7w`R95e?Q/`zA@;c?]8({3tV6^u)`{q7^*|1RrGPufK]E?Aj(^hzYtpt:U4neZg`[EF8<I?m0dl`$Y4BN0ul~or!~)ABqc@A|l*KI(dWNdq@M,LsTq&OQ?sib@!dRQ_(R/n`td{]iN&MG}N7N.jVY5jmNg~RY=EbY66WxV|D;?k9@Yo4~K@)p&$>@Om}&V9A7,`jF,`u@(+n-li-t~M2Sp(nzWWJOb0k`JHP.KXGl:/;Pe&CLn2iI6.N{0jXk}[QEH{G]a$O=G9lzg6!@Hj4kK,&6>d+L!Qb`~FpFH8f5EHdt^Cg_}$J.J~0=YT8L*/4ZrCEJ%xuoF@b|/@I?,*fHI6He~Y3[9Dsjc&LAI)_o,qYZ?ZrC(.7Fxs}2~0<|/T6L!ew9sC_EaMHN}T_eqdd+R|&_<z[/N_kXD6D+oS3Q:hh!RPa[?)LAAF~c3o~s7AjhzB>.Zu*IOJ`y4{jp_Ev2PV}Bje>6,u(5D2dmx^J;>8{sf,e(bGz*3?JS;s,-j9}jQuy^IRHN:?q&4`<R_wN+,D^-<_oSvQ!#1e)mFp2PUn5?>/7)Vr,+qtg`5z@WT&5<5>}5(hbwT/#nk&U!!SY:tw[cA@iF]E]*RZFpy$T|B/~??r24t(+Ia+}16]`M)y6E|t4,ae:g)Uyt}XP9e891R/2a.zTl:5B}&1YB#`)`-Ri:tdSw~<#EgI./R@okJ&}240jiwMwLXDMYd,Hq[ma_FJQ<U}Y5{#xZ_]P%JHC$jGBUupj]jCg80k71N0C/Cueg,0o2l{,)(H*%Et2mE,,<C*)P~zrjN8Scnq-&M*%&^d@}*L-sE%#}HJ=b4R8=&<g~tw^Z+$c(UI7H)pi2NtXp>e!tS3H2:|$iaG!#{uc{:h:W#159&]v#pTiZ.*yoN2Kj7W3MQO}%WNa%>6?TMKvt$X$_P`28HhCs?tN^>GHPOksI-Ll7xhX);$+q:v9?J+ro-9%0|VT-b*1.^f=!>Q?]B0-QEXVL0q;KI}AHAp6a+(Bx^8SX,YeBaY^>6aN0A=V;6&yz[3oaG@L~j6|&kt$+`x*}$;[/gUQd:<%mW$FtbBN3tNc8d^fsLm&4a66<%J}^M,PhDxV={^Y!6-gnBK7:]ZCWu]4`*k_t7r*6V1gs>swi>TWKU<X5CRx`!KzN-]U*dufGazV<WO8tkYrcaEZ1FD=G28Gy+nRk.8p4n+4/%F~#rSV_9I;N;gXf.s269[u+r,BLK+x^]wE5#V<d!LeO^I3P*YYA.S*n:<R|u$L!#YDNNeas.%EElD`v{bH!zepB26_IG{2u)9UMynr+HJqzr.n=vWw**X3]z,COAe((&ST|?@@$[MxGvk=XY[,fNs/+%8sogdQ%wn~8aLSFQ6;YUa]2ZUt&O&>BH8n-Nd9voAdah_v&^:bnTxiFAH~8&N/s*yNw=Poq=p2yhceN_yM/M)uC&mQ,&CT;b2J80pQT$.u./OAhUEZS9qPN_UU%f:/x&A()N`5Dd_F;~FFtrNxmqzj|4W>04tGH.XHK{l6j1Z5ki*J8Fc(C=;VxArJ?wsL0-ZeG:{x~OZXX9]H,8&b_5~HQ*Ic>J5o~4dbu3.r+KZ(x%hY#5Od8NYX&L%eY}^I&]B|+omWKQcHV*.KBeXW(LvGh9e[7nSIqY^`8,&5$iFLF5^xK.c^xtB$;+l<vy*9]-?Mq?f(*5/4j8ANmxjDOat-_A)p#DVDG7LYI8nFJ15HJ-L[%7b@lV_6!T)4,mh0#L;f4^nTM;*$MC8y?8UyG1zKfI/C*[~X,*8R@GB.2H9i9&)AHge<*:)iv7w&vL]0wViGdLEl-Zq/cZ^!cIkD&pxkLH#9E=zU?45f|UxO39=Yn-pKef~TCF|gN0zWPqOadz%e=YLNM)bt(]J2-![}uP5B}23/NMFS5|G_BX}|8&=L0&ns}EjUzDP(IeO<@nI{lWk*_s01+m;ERk5/CBgm-v!JDM%?9=JV$NpdsCUD;KG,,v[rIqWS?[yn+m9*kXWuXb%PvgXL7P4)0oqxo[Oz>nR%P.`<__#3BjJB)ceuGwW4<dGVvoOv9XL2uj&GBD0X529;(TA@iK,2l<4@JmMQKZ;35zcXs76`z9zWxJlUg;wv+/)a5lrn;-s*7t^KJ2s9UX.zsM4@tO/_u.`xK~^_.xAn,KZ.t*DtaXmQ2(yjR0&[SS$>iz&-w=I8EULXS5BA`YN&=KzLy-gej_e<K^4oV+tA+@CZt.wTt!_gwOG}3e[>Vv!W>ATC,krjmuF6[%@0JZ-]Yky;t9<&}/BC46:Tm@u-X%b;%~WX=vYdc|[ZMIhgKsV8m5&lux:@39-#^whX8x+mAv@UPRWq[qA5u[sw!:%h<B=eo_tfL|%fMFe!VM$o[J#OcWj&C]-1plz0|X9ZUnt<)3*ggV}WFQooT89S-A[Me1?G0avJ]m&d9iY9$?qiXR,Ku1Wi|I&ng;b0u.+$bNK7xnQf>D?35o+A5e4~%.$BB$HxQ>$9F|6V`Lz&gZ4xop8GHHs#!Ha;>}~Q{o(/nW_D!vTzDo(-um+kvJYH#Ji;zu]Nv|TdV3tzFzvf!1p}?]b{w]8%M>4b+(^evi,1G-d[>f]rG^IAmR50bu?vk[Em*ZE(rIQyH5.wPj*;W>wrEDqddvfae@V~5t(e*ZJ$SB!Ik]T$h3*0)SmX@=8D6n(RQ#B+T<E9[3p^}t+6X1NZ1S`74XN/p!aDE]3ak1HoPF,7)6B{-N[p2{CYx92oF9XvG`y,ZwJB7>@l`HLH}f/PNNsatn`xF4c#|7]-R-:tp=|$z<bps8s~:%lUNkHIKN:NEtB$ZV5x;fh-=(cas|]6OXTzq6mS!J^?-G`hj5p@l@;As&gt=;q){eB_#^[#@jb>}.$|/>6Qa+FU&u9-<wzhtgA6_EKWv6%oX|)^dvIY#0VT;9Ep$aPO-rx7+{m/8}{xJY!=}va2V-c#9%Z%=APs8tdy)T>9.H]xjCq4S`.kXs.c2d<%yZ]#Zk[kvW-:#;v/{p3N:M*~o6<eD[oRo~KMD.>lco)n4bs,(OCmh=il{p&HhU,]z@ZMKII1azX3kn@RE*tm}H$j>>NmgUAso$@u:0.>C9^q]zxPE2S&pv?h{HzZH*w>otk!twb#AK1lqGBxO0pY$jn0vM*Q37_gEAx8E<L2{ReIGX*;$~q54h`Zh}MCEW;L;BK2JP^Z}|dv+?PE=%#_|79(B22BIEU:y[L8`{*3U*:N2J}}C-8RZRH?@)pdm>}Dg-!$F.X>1Y#B*j6<k-iDe-R{Cdi*Z[20c|!r}NKH$}1oO8FLm_T^/g2y~/8];x|u{uCPp)#Wu(83y@wqSruklS%AZNuF|{[U499ci[G<b`3UCSl`Nh/2i)TXz^_0IHTh,*U1E7BigJsi?@_iqk(h.ul[:#yq.eH]>O[k&/fad/%2${`n(rJg~{uDS6kdGc[vSAJpR]-/4+#6Z/OF8bCb/rDDm?ncu83F%9}_WjTH/sCS+C($dqUM7FL{/7#???$F%RPX~W/%)ft_:xpVwrf]oh&Rk#A=^R~Tq@N1NF,:feuPW{D;MgI9Iz+uq+K<Bqb3|&,wtew:3/%]QJ#69J]xteloGIS6A|o:+s@+(}ENhrXVNq)XAGfVy3UI;hzY19:+s6;OXmS[Za1P?sVa;B:]x=|xD=jKX?O&Y@dAx1-[)0;/xn)MYZY,=.&OQVHq)O}azAsi^Vfga_EAoOsl%E0Ql0>KU0_ypsv]gEAK=K>&~$S2pch}h*+:PRm2xgh<d:v{TnE15COA]W%/Osn|VgMsq`7l8JW!-1vn<-M>JEwX$hZ#xFWJB,}Ub)#IK(S0SN8IDUDRbs?TY#8J!i{T0d4;6296C,t^~t)v+t>1I$6/yHDLrDePHu5:vA)b+gdre*c$+7=3=G(%WyG%QYEni8-98TkB?x80L~ZdZwCsXMz+o}RRwz3da-H`1JZtx{X(V7lQ)}*J1tk,L7C/jFfMo)!{(v3|:/bEab|^I&c[MGB%J[0jL7gi{^gmA.7gR?TP0r{E3~tXTkP&|k|bLFI=M,A!a)V39#Q``egwiz$%*sh{p#E^^gDkWiEwJE??kk.vS|WKqsJ>=>$>eh~SL>Pw0-<n+z|).u]kRV#j]b<nDp)00g;F<X]k*NUQ:5j%si}ZI@?v?;oC2j}=4rCAh)AC>qa/Te8r3to;XEeVC#Mu|a;+a>j)n^sOyo3_1]N9Q9J<XI42/cP`6HH#Xa$%04xmG2RkJHG@3(JfzYWURk?Ed6ueOzeurAC;k:k4bzFuC/%vbb<s&Yn1n9zN.sLF+~O`6~F/A~m>olYU?#Mly]s~zAsJ/]{_w1^Na>$$EO5D(r33%:=W1NA$=L#r{:iWW%u:X0tz(l0:Y6n4Fv#(#Z-w~01$Ih6WYKh^s5H(#W/5~Q3EDWfL^uu1;e,`Q~>UR6_SEw5)h?mHG{mNp%Qd5p*p~Stft1dA~=o=uuR+97.DWvZt3&8d?10!OQ8/wI@].~SN.QHPf~F6`Nkp:[lC,zw3^CXAG#Z$-09j}[p9sJPesaXD;.S8DvAi.m.4]1cz88w|53~zL4`Ss`}nESkvg*_30P.}~bvOOQv$xmUC(S6ob};ea$5a?!5w}?sz!YRv346j_.7/VutpJvf#q*zc4NU+#%p/h?OH^mN/u6|6msh*q!!-jd*uj1zy1WOBmS65>$`-~KyX`^MDaxjC@2+~,{@2ZCXH|f~j/rnhx<_NJ]8_Ol5a=ZG)E&M2A0pojD[@?pmFfSrKIIU{~0tZN;5oUQu(0)#~@8<mq{Lzo_r#]ZPaumT8C>9a-{7YNpsebZJv8Pyj)ERkN?`8b2)AxzkeL2$oC`pxQi-*@(~!$KU*uqAWq@L*?.=w{3&H1%S0D;<eZ]q<c~2zFK3s*/01+gT/_4k7Y&lcMpwA|SoJ>D<6aBIpr@<Z?UpTYwVUo_ZK-d+1.|W9EFKJaVzoFxq0}a_1_FRT3+4*bO{qSN&ZAaC0GYySyMZ63*t)bIE@=i%%m9=jbt|W7XU1$IeGl*n;ZE$ZX/B/TMtqmu3tmiR01:g]QK-gCVXDt#{:2(2;(Vj0j4nG&W27(6nDk$(_B7s~2D6,-XBI/+18dc;?BKLI1zbf+nv%%;zCKZ2-%yCb-+z4EhZL}d;RB8R92yND%jw4|!)BF5RG;OlRb,QubKmZ!tTxO=AC03Bv1!CLGi5a[fM|dEdaIGA{iUAI`rq/XBn;KhH9:k,&Pgpx;Ty]*>|1>s&4otR]Qd4#O.%j`2QW@Uv$s^0ikO(G}WD:3:1gu3ayFIL=ou){7:Me4iJ(@)lD!tSF[6|{GIwh3Mk{}`ufi{-Db7AF`h44rPg>rtFO{[?Fl&d9yvpoxlS/NWj4g~Devn1r:b}vr{$Qt=K0Ylm5<GTn~W=M|UuSQJp_,}Sfm.~/]CY^p.q(1^?O8Ad1O)(Dj|5ZXb3Vl}NqK_I75f34B$3`tvDny=SX7TGOHy9Wk1?+&_Ms:?TpwM#T|]sAW,:g(V;+$b=<@.QsfMS^)8Q>G/ZFZIQKH:MWGahLImwPo/WHw@*@x%lr%.E!8{,_gJ,@H2PNA*Lza@:bRkA!6+/5NdbiwNi&lskN^O$f`^0O+yJE0.7PnEs/6*!:)j`g:4eeDYA,3P9gAy;-b#Sbiiy<FQ#53Ks(PdE}$LXKZifYY8c!>5ekI6[~TE7?7i|[p}%mY_}GXT:jiWRV-C|*pPD,Fz|W[$5lv?e0vbO)DYN{C+PJ_rmc~ekre7hA^=e=sBp9l(xdxT(E_hjX0c4kk)W.qjGJxa2/k(AVlwtsB$NmLfx0>n!6w5qaec@%}F*gP!h*<qdbFoza.8zP2<C^Q|bwgS~stu,Be17APeO<iQuR=}=%4O9fBvc%M(4Wj#3y:g&fy}F<<wO)|o9(GN)@ILD.2D;J39N$KI!]D|zU&]L+$lpMe*{RkFS`S@UDO}LROOThpwOw]W#5t1k`tNY/!AdE[?fufC`27yqDB%*?-!@i}k<kFK?+G{lKN^Eos#D</4(y~.hmN[#p_r!WMA-D:F6`+&A~1Bxb,Ia$eL]bX99^z;Ayj,DDkj_<[I!s>3_YZ.(4=Et1X%tE0CXs=}anSF/N@tU+vd386eX:%9zbOV3{<:^/y}P1Iwzm?b1BTGYNmkiY-{f~H4QexlX~v^?_!j#eo,EE0U^sA/tMm?Fk#__`e1<1YI7l3/`:=h+x{1lgk`*`lUabcgUE0Innguh|Yj}.c)(Z9]IJ0IH^/Quf<]3qFiBYH5ijOsT2}qR1]QwB>ec_%.+ECfV;>o^%,Bu^_<1AJQYv<DSXJcM.uYUMD/:;frCnv$_E=4gV.]^N=X,P[JKTz3yaY,BHyn}Yg/,YlJ1:KdCbGjxYmWGt?3*=,t_DO929NvvC?YL4PxX9]]MNP.PSN%UlIx!`=HMjIDZptE4[}BB`-u691N(5k=J}%8wnz-Se9~;)U_~3L[`z(1iuc7%SQy:=9QrVw6Fz;uW(UW[c8&h4XtTA>YG%e8BAs7Gs)}=jS(6+y.9.>y3~(lCZIp.U^AQ!TCQ@Dva>Vcwyw0<?RJH^)IT#?Z>5Q}Bm#0$U~&84tRBPV-7Cm7>rGp>>TBTE|*$B4CJD>>juo!.KDYi~:?QL%:I|~)d8]G09C2dY>qlx&NTLazCq;df6zy~$1Om!oaY5I8uD,#:HmRY[KEm77pdLUVc}_kYy{R72tUl:>/Zb+x1oe;loWmCk`U,iv4gX~!hYe</pYAdJPe4y0g;xE)&5KtcS=^5gT4C=Ea;hSC8^JOm<.i:me@<5Jqu]HdsJ{4;GB[7LmVK^b`s<W}TM8,NAG0H&0d%mX-?yF4D35^ikl22;~C]l.SA(wcjf#K6g6Zn;8K/2y.h+V!Un|bXS&~07*Xc&(cR2h~c#,fiwe$@)qsj1V%xV>Hp,Y>x5d7?WtT&3Rx)_%c4(?x|7gBa==u69R_8l^aqJz/^#S~%Uf`E|x$XWNd;Y7Cn^)B>%LV&Ng^r>Dde{4bFseJtYIWTu2^5xYa&A%N|:qRhOK)N%3Xu?[&0YK4uoRP]Jhi,i4{qlPn[t^~/}vRluRNHIRz1b1y,+)~$lNsI`3Z<VKdFV)`LEm,6(7L$ulvMwliAJkDKP#$j?IE2p5Sc~sw@ZM~o^37a<+GdxDRJUw9<|.u=F0B#964DAQoxZdwUoQ{HTYa6Gp1:N^l!v+?LHFpH$D#GLxS1@wNOO,{`cSGtX,>!:aRc_[HadBHTK]~KD.k6,g-w<s:knqozXXk#MH^cCa23yHvMB}IG](zRSh:qz,s@>zQlG4hke@(nLh=2N6;o`p@<)M[YA>>BOpBd(+!PhqK:9>J:jQ6v<$jkij~iaa{Y}@uwAw^1{U(/y@Cmd*xGQ.E[/^MG?P/z3_Qi(c(Vp-@D{ntCI!tWjx({fV<?LS#1C&Y|wrm1z`~(DjoV>$LLcX??N#v}6DP6zqc#61c#N(M@t`pe${-@7,DaPX6F^+eETg@T,[u/Nx^|K+nJj{y?qM!^_/x%Ooc(6>B*|~*?g_s1Z(yDOs6c/LX|muczJon(q|>cCZo5wQ!=8*cOP|sT89SgO)04^s|]>_s^!Y_g~!fQwBYXgd)+Vb~(0VueoDNSIr.;?Ge<NiXlA*s!i{g{2ge(2r.KooP4wFXa:cZR1F]^w,_Ov})ZIGZ[2ANQ2Q$-{E|ML2W$c_aB:hbq{oVpReAK?s$vKv!?k*7&^s.+k)}S)-m(CRh97vw1]<0l?S0@lKX30df;k^/IriLQm&.v?a?~7>0l%cQ#?_.cM{E6@G&PCA,PTp=xp>nUJH7%;23[bjb[LVnT`t4N:C7^BqV)Vml[1d!&obyFJl50(Yf0vj(~81bjLt[F|XEJO~;VCZ~:Z<(.bO{d3v5d_6C-|rK<Cky_F4QI{&uGX>G>txbqFCB1RTs+(JfUQ>(VVYoPA%/9A`?)`SfZ):R0x4,L~>DA=9IV|~AqRPpX?8]0*OA_O{6]3<AA6?yg|xCuwomT{NB_+R2I*.!#-X3vTiGpFXr!_8LUuxKF<,=vP@vu7F+9]r)g^f|AA$>phXmX)x~)Al.%v:aFg$#,q>XHQW@u$I`*A8WH{Npx`4N;~]$VSesQH.%$VUoAYj6qM/zkRUQ6#4`sptDc6k*#>[W_ZuRV}eo>!^!AC?[4Vgg2RTnE+>X>n:4I%Kj$fgOj|%#df_MD>D~w2G*88k[ZjCGu,SaweHc+Fj/e,2]4~~v|@f>T{DHI)LM8x)NV1kE{knl_P~6_xeD5[RlF<AFZweRj<G/CWR@e>ees@+&i3M:v#=zwd+<A>xEjt[;]fOc7Wjz}?Y[^q@m]`2rsgaR_JqA/A)aL5AA<@D[W.U!,b<NFvM.eYi4=C70Og%FKg0c^vK=bG1:OEsa{4Zp4/s)e7ul6u^`Tt%%{1{@D,>3meW-=v{mzH;/T>Wt,d}{^94T4gBVdy6JhR|!Nfm$Gh|fe(@9!-]Ez&C.FMjFOfuSYOB0??8s{,k?,}bFW(noQA]OlK?yUIb9R8Y)[S$HQHsf^2dez0u~`p&yu_pvU>32FiPxSSE*K-sIS|PdsES(-$%,$=vtNrxliAo^lUE0U0!yxlajTp?f]Z5Qmxs|^oK6I|o1zi~~=v{XVYoizOi9ZQ5Mr9&.F$VU}MBv:Q=J/%JA#=hq~J5kyU{VZcfvzT}CLy(]dpa5wBDxBTzu74kl9rY1Q[D=x;`p{+]Ypjc_m)YkZeD_S:2#?{a$}|p1YzM:i*JK<>lV#AIj(?g9Pm8U)i2v@qjf?Ld}y4Lye]=+oj),?`Pz2TS~U^oxWX=W)](#&sSj5tw<vo(RLHwZJ/hT@,My8OK2d.e{?l{~^MK4$#{#Hx[m]7;7PFB+HnMqt]n+&>`%UZMZ3_K$otbp<nrW3#tU,p4Jn&}{Qq:#0^)CXT3i31HL,C!-l3N$NhuRFWt&wHF+E=tbS|B]AIqzmx$K?6wW%HV/^;ym%:_HE9Waz9V752vy|bK34RcZ*|7vl}$Uh&aE<*7darc1coDtRMcrz51r^W9^,(q{:#;|.<$:!t_c|M;lb?%ZSj_NSx^Ca/&P|,#va!tAkxjHFbKh4S8?_m3T>}?Rw(,FFi~~|!5(N#z9?$xVc^Xc>uM.!^;tcs0NaYwpkvzx]dG5++~XpG4,gkbnq;a:Xg(H,jW_qBM`SqOhLdZkePiQ$e3@.e!N0@7n,wC.zy@c%?|e#lK)Hw~KfqbPt{MxUL2$e>QUh{CbODM|[.J7ETj;.S;`?EG]8MBMd<i:_,6z4I6sAMA-aVaswgF)xlR1.sGyj`/udF91h*n?%loEY2%W:RbaxY_Ou6-kpj#Me-:BxZ?CY19>{)+V.mz/`kS[EaKX*Sj*>!,r_50(D{D7_Np0U+m~_yhpuF1rH%(of!JXXBIj.edKqh1Of:`|U@|Wh3~^JM~|c~,wJ$BoG,,8;H%8Y]c>P-pW7F-Eg&j(#2FnRtyf=F[[#h.U65:dQEW$M|NY_aS=ntBamk(%-n`0CfF|#?^iG)/?n&ND]x8X|Z^K*!]I^[4FnI~6S0FK9!{3-f!p6g2/Y4><BB7RU2*DYg(r^7y@JonjyV|AWzzFBNL[Mxo4>J<a}+s}%aa;zDy+oj>g,_-eGBd9t@V~}#`+>OJ5^tGFnE^_pbuA*(oQW4p!IpMi-UV+bXMM4qpWQ}xpPvBx-0.B)$?LW*ceCnT_e&{@h($FY+Iq}7^,~QQ81&+.B@jJX36jod)b@ZeNEa6.)9R0C=}xWSvK>nC]z2R~9O|[aCC5x@RB1`vRjr@n;UqBwh~Lh{9H7wKG{X0f:4%Q$&3!~1_>*yC)ho5.}p>=QFD<c71tZo%f.&HB9?veQ@63LZ1@D.@y1jxrkWNP~<-PusRLrj>L[z@DxUY2Ft[q5vvOi~!NiG&m9jANdEH/T0hN@6,EEcmehs5q4i|yZ|LBEuD^C(~>=yqF2^$zHmg2V=6(aPi?eSCUfO$v.7kYJl`M]:T@1m}M/CIablL8[>MC!flK,&+*#.3@=/FMCDUWdJ>=VV]]&rVP19n=B_7NQpo-cDnHt3w1d/B0=^/>{4`wp_61DxO((n!aX#a[-~F%j@{6*kpe4^-|h;Z?qt%YGdnuS=|,yxic0xD:5;yIO5pP+{E6Ngq.oV5&dePE)!hM@nI|OO<grwmncEJZ32Z)Z-8I8sDM|_FAPtz!dmM*F!@qvfc+JCgyi$$>=s7DHLzA,/ldcBa|~T=8N[<,:)~@j!z@8*$lBHG.E+e?r}-PaW&nSlmH!rK{e[[5`Yoj2:64t%$,iqJ1sv?.*Pp=.D]N:__7jS&O1U6oqBA`5k|Nx%u|EYK2@bypk*G`_&rpm?!H.5>}*/<hEG:4z4}[e!NrSHp8<~[.,+WM6&oK64we`3y+@qJ]Q-=N/FGiFVYDOV7[x:2OU)0$*deAW`KG*YH:tB@v76!Dd9LonQv0:{jZ~`NUT?7sO[/*9PXFzTs%gu&v<6O]KjqEvC4[cTdDWT@F&wxxv$axvBh2tPP~Rsuw_DC>kzeX,)/qozuQ5r:N|$U{<)Cpq`g9,9w|Tg$nJF-5K6QTzzApj+DS(!8k})(Ab;dH|}MJ#TH_tr>va><m%2Ww811xXp<)*S_;T4wP53>+A8l}?gEqd9Mu5~o]>S(9_w&kUmB7W[qTR.v`]rh?Vi8``pdofCeIq_C5ZWV1[fOiQx|lamTamnv,OHaR4~v4~<]]A}(W`Uov43Km=Wl9lZ;|_Ak#:KOe-pNbAGsEQp#wf_{%Pq,$!Nwz-Vo<pDfgGfMLn2t9-aTJ(6X.s&=&9nRVgFj~03o-q:d`F)FL(Q4*;Pu5/$wP?*^:Q_q.?U}}.ds!&su<L/Nb;}ch9kh?B[Ig6QatwpMG#<]g&7mSs-[{vlXbuJH*GP,R831`L:Z0*)dB!SdLmA{@jJ~bK/>1llZ/wz%K?iCHp$pD(O.*n2Nwq%pg72~<$et;?>39yiR/nOqM6en9g%-a)LS?AL}E@sTN$iS+MeZs:Xh+@a[q`L7L(A(?$qp4qL;N&W[4zdZcC*BG,1UBEbon&o$%!t80UE?;te4[?u8o^,1P)I[;Zi{+{eFEz~utF3=Szec!?qMVSf-1+@O^#/|UcNjOm-Ds[7ALRyFAzE0-EEOYy=oS;A?o<]W:I_7FsnS-G|O@mOVxwS|cS?!-=WAd]Q>BGe5p,$_Wm2N<82{XVND@l@b?Q|nJeT$/SNOSHLN>#e!Ev+Zrt~k&$.,CyJn[xH!L-iqx#6]@5)>K!}G8[q>|,a0.g6j|{+KRB_G%GeqxpLw4r._fDd#GO?l9eEfO/}m~przF7y-=N/($c0?*6%*mpbQN=Ge2AEiT^[{r7q<_,+BOc0QaJufM`p_Z}Wg}QHlS2gs)066eD[lp}O~P4~6wnF~2?i;X+Ry`_1l/:}m~aA8O/K.3R:O18)]l]#kBaANl^akb4Z)u*1P>5|ITJ0xwFP/49unw4pmx!2U!`]W`0,3dP1En;cTv|@E!Nxd-9NL]!V0QlD8<m}$k,~hiJZCm%:)M/R7B;TpQ9}th|vhn>Uu09RTr}1~Mh*,4Pl{|FO`ADR~B>8y5c8?#7m)]PsIv-Nq^^[AREwMpH@3fWc(4?(Wo1EH/px[zmG{o}zA$$4ycO=W(V@0(~6taP:(k`$NxY/{U5xB_LQkfc#%LRdErZNlj?%(6x~eCGs$I2zX0_9cy6A()qZ)cd,T%G3vGD=:*{72o.]><K8$,~1@jVq;u7CQUk#O;l3lfpKcY,vqv{e,mqU9;ShD;5^}xEh$=O}3fy.,8sW1:&nKSL$IGX0O,Tnd_Co;-8:Nmo9+q@*EeA5eS@L`mCa53<wv4n[eBUT:c?hb5CUWW?<}QG=p%jQ]h72zP8AuUNx-Td,.y9YK2)zqH%SN`BI#iq;mG2x?n~/4W]1Jes:JWen9+9Vn.)GQOEh`/E1uW/qNKD[hgTmeZVB,0Ffd^B_uvV&$.,{4*}:u9Z=bzAQkhi`1L{Ew}0;s)JT.Ru<lrvrv7OTsbP6O#N8M,;{X6O=sh@ag:/d0p|m#Ql!vk/[Ti&oT5IXK*vcDB]1|ltB,DE2W/fmMrtD_NAbn44XN(^r1Y:G]BTob+Dqks)B`:D|Oe2?PF@-c.OQOIX}Y9t&>luZ[9@A7|^K7]hyqX$<1q)dc/sERQ|qTIu1dw%C^,8[$p]A>#f1qF~Cs]-2mduSKb9D*;v6Fe`}Q^IDs3^muuk==.uKV60937-J%rb@xo[m%NIP!rYUasvx7_f6^xBewKScMpb:R(t~0.)}n!&`>9ECa#Ni9p!8|2.Ze_X3<Y^id28*W1~v)oApa5s*Q;Iz,wjfLtCJ}gdYzv~E>~L5Gej0pFjWc=&z&L=-1.(D(1D>>P8OG|hiRE&e&)rXHBCJ4I$t>PJ`B]9F$*{n@%[mL9<a.Jxn;N&]E(s6D(]X?:/4|MB}gD-k}OX3pp???8Mx=*7Ok;p?2bq+;Rwt@R>WB~_3r.=`81>y)N&];2T8qlC?Kf<Z>^Q0-@oEt(N?4=b;`CFw`)$7g4h]qYsu/.#ly37QuvzO=piqoBz|6ix9I=qgx-q``JZ|Weo^8s5bI77Lmt~-V0E$Q`[P,d36!SGOQ]C!<wi^B9aybEvq9TWNj,XyG>X:HpSs%XHZLk<;Mr!X0xcy}B>}nRq$I!+h/Wpxp<kPaP6lwoRL5SpMNQqs2>iACjtLh$s@8/My?w??AZb_oM<WM=5t!kq~E@S~`^huoL8C3s;b3b1na7;N3@aT>?G|uD,!vGCy{BG<9YOJ<Do;]T7L9ol^A.Or_@1P|9JndTw6xPH?V[u-H<MFXF?mf0>eSNe]7&Kl0LqbY;$7If}U(&2[pI_a:{=HzH~g6vRfK8H;z]R!ZJyI9|#VEH&~A:g<*+UZ:(w}|ZG06-2I%*y%z#z`PiEP3;Tmdwu8yu[*JqXjda!W72ID|C~s)FYPx$i=ZE50z)Z{K;;.}deFn(mqSLDT#2/gUq$V_6H.IU%i8jGox[dYVz`MlDt2(2d3gdKfU;0X@hOmBSmPO6:$]K9ur;/Cw8ZwP.V&@_LAZ{*+l,tXbl:W{$1F.*kXW?T4_xo`2|fjjM0~`yHgOe`/|iaq:*A7DICp`m+6eWv7_X?|v(23~aTqxzHfB#v-CFmZTRq}[,]2H|g(:jF4]D=H:d:wgTQM1*$5ITrUc3+QT1k.w_;DYD$A5%LE<?y!eQ<[[So7O~;+WUwByT3_i16N:IGGxT<1HZ0?{FiZ)86[ma?5^5e|8gG81{(GjaTojW{4uJ]aTQw]XO9WV`hNM49C;2VFylkP7%q-$h9$_+Mb7]p;zI=+j;&T291i[*9izS>0EtTTCY1aov}e)dGqY3J&m)c_%.lmP;w:#7&sCw.tCmVo~G7?Ej}0<l8IqIDY~4|1>aPB0GWjaGv#.<L@:yb6S10)4PAD2/G0!`BYjYJ5_gQj2YsokODzg;!x]II,p!Yl>48m;)WQ3c??,pa-<gyi!lXI6UylgeSR]vJNXNW6k)!>@u}|npERMeI;]<uRpkWb/jm!K>qGl|](-NGc%<2adn0PAMobP|dvV*)dtHal=>tHh@tc&!;KnrIW?V66e6~0R({@1e20hK`[wTIXS:>EC^X~OR)8[|USIB9/cFs,NVg&.RYT{yuCq<T7bwvQe`eR+)M$gmRgwY~+_J:.que!CPGs(^?*eO1DLR>G$U&V9ojv+`9Q)CLJPj@&w_4h`HgE|NAjm8=9Z3yJW]o*9Pr66t2lF1e,AB_QPAG8D]~l6NU37,mLK5jGk.HH)/c1|ul9EIo8%9jX?[XIZS.!u#oeb}{Q{xn62*`*P{C*Kj,^.ip$Xqu)Mkhg?CaMo;FJE0ma$M8?d&jt`wv4V.EGNM.ta@IVGAps(dVl~AQfub{y5iwA<o]<nCd5/WdM)GFI.,$o{7^q,Vs[;YJc1)1wRk&fSeJVJOI$yog|aludSxLCOQgB!`5OWMH//H4NhU11][Nbw=k;(Ex/V13x8g<3>py74PO!A[^v}]~(ZqkQ<OY];lW/]yKENAuTsehkgy&OY_6^%D3el6w~ijIql19v6y/b%#)Dc9hS1IhQ0YoltB?_%quCo4|bJ[AThK^yUn5Y/bydTde#,)hcRGr3X&8-oE2=2c8qgCn:5jE%ISS4+1t+95G(11^b2t1vaR9Q#qnmu57zY*P`kU8/w;|v4B+NR9$Y>5tyv9J`}-ddblGl(@o0b>>eq!TQH[krIn7N<=#..du2>dJA::)!GpEm$a}VEpEcxhn`oGTI$~C4$i#gh>rZwv<D42ei(ek1Pw+0x)gBX6h4G9ry8tbmoggo<p~8GSbp#(2Y7aMo:I)>qBqQ69ob>G<$J^c,3I?05py]W`[ma?/XiiQQ}LeMgp<`/`6W7n3`?Byb~RJ0@{/PD9>J:o|!E%*|4zK`~_ESm{dZD)1F4Et;WJX@s`lT;{~1VIv.{jBAa+]/}$i]Qb|;x/<@Wf]D~#qrnGTgknv)X1/i84:#OPVNRB4m!gtFNKsKR_p,FxEJyW$g;S7sdK3TA^#xc|#|K(g}srP]q;</St*T$G}yH,JJA)<X]ZUS)}iE%`(4}*%R#,`rk:44~%X_jxhW]TGKMA56FV,rL>q2~;4(k|%mVI!s*l4sZ`VMg7Np[gYq|&g:CPL$pFth}+U`QuHREpIKyX#*;{s^+F;TNiTI4efSqSaZ{[r:NEsY}}o5l-JrF8-{dG#s~}uagITlp~_rfX86S,@kK0_vH*>$ZVF4S`Qy<m>Z(by`/r|JbeX3XP1:6d%Dm7@=|0-EGJ(hH.)[+s<EH=D2_SjZSOptY`vRVo&,3,7L7gi]TORO~3JeytM+h{vcWumt)zE-}4R69!bI<N`w7SwuLd#xO`0GR0pXep:E.qjNxxZwMdjH:)p{/x.cVwF8~795*2l7zyc^_K=cg#N+Z^OHaB4)[,?>SqZWDFM>a0a],TDQK]u0e,KA$Wh:=-0V&SK7$;GdFt}e?xsB[O7&dgFAogn=<XD4DqG=(#u]J#o!P3L/KI.b1Xvvo?P%FSx&:[u.F;z}3pdT2`izQ5{m?j!>BYP0elOpn,gRuLOckzPMqdM#%T2@O5YR%[%x+g_{io63dZm&rpy33pwOp1X.evev@tq7Y|mZ)q20Y<eU!cO%^J:R;h6e:>?hEBE9K[G2L^W^FV]=UWP3o_^q:@/tISUCdbA@}aY3vHgpZW*7s]&-Z=u|%5L~bY~s7z9bp?_V&`hl%z1,B}=P|~w%vwD3@nMa2]EXo@]0`u&Jkbtp+1#;Q`<)ofmA;)qy~OIhn-:3OO%ZO75)Bw_pjX3Zy{8*=i#(sj(r9F3o!@e*EnFe2_yXgwo7qZCd}w)$67<>KU@wP1n*;ACj,>0!V9$Bv?n;C}.FhH):+MB`0LV(rx9Jq6?^J9:%p8zoA.}C8sZ*P7[J_x=1uRUxUFq9;:nJazS_X,F-zS8x(VhlBnjQh>[!;fpN},urJ>$xl>:KvgKoAUj<8Tu6,2FwHbO^UzXN/K1buoZ}mrt_BKiSzipI?A)5yV+;)Ko^(^rg3eS/c[{KCE_N5euhBuBlTC9Q~w@,sLO#Hn6tfF!OwyO>zYT3`6[Fh-0u?(VS2UyFu}f#hq$#b]UjojV2u)w%UO:dsc7dI)uaFJP?qy7]DMJcRnpc^V3iUgG)go!jGc0Eul|E1,;&cSHYC5F{Umj#>N4R]Wb<a3Jr8b;/=Q[c26`dUre-ZFqK:C)mOEuIU<F[`4?@zY_-en+1AsGoK#y`Lj>A(@#Deb)#H`KX&dQ{+`WO>2J^C})IBL?0oOJR/J8EOg4md<^9D1Nk5zt1xFn+w:3Vq<F#X+>rM7YtW!?z.@{YdLVty5<rc3Df%p&GgM<#C+rt47>f#Xq%1HG]YO:ai,gAZ;CBS-R,m/K!9(Gi@6u!b#<cr0rOQ1h?c`]>SJ]jR`x/o>^:pCarMO&y*C5koWQV3cR9E(6RWo+P$K.>@1MMvc6j*_SZgY)0/.`CVw3^(:YTe^Z)$T&=hSYeT$(3Lz/zTQ$0$C+~ZII+K|u@W[8~-(zY=GcZZ%8lL;kG{H3Gy2utKve7dZMKa(_fi=67zI~CZ4*kcB&e8bcXFa2{of>rU)07$^EqTJ;zJb}zmQ$R][-TnH)QX88[<I?$DIz>K|<y|l+,%{I8G9B1YDIb75MY?oSJImW@-k:|`K+EaQ}G#6EBle)a91,d%*0hvbh%+a(q:YkfX!.Kx)lxv60G,wcP0_]M[TLp*/7fzJh$*XS_j?/Y_rSp/ny7g]2L.=5pATj7.^Lwe{!^NN3225W}oeQS3qUhu$;[rS)ei|3,.ubMm=Z>Z}kI%7~(]}S?>W2E2|d4;99D6;IH9FfpOHum;J%09q9V68d(&6$cGphA-fR|kn)>G~Pd-qqu%k3~~D[aA>AhLlL%Iq$e{ZS,/2mz}O`R_A&MBA/j.<Ae8)j{NqkID&`?tE.~n;5ws49{)%JU7^N$[ax7/]07*T{hIV6WJ:Ns~Ak%yL5@Ux@kED*]T-pG-DGEEQWtqAKri@+f-Z^OD[$c;C`ne7]5E+<D{)<<|P#w!l1kH]ZE`e5Z0HMSWUk(dy>Q2u[mIq8^3COV*VVQ>bN;-:{THJQ>Z#UGl_W=}(}@n~<g[zE??phw9jFfX:]8mEB?tzF}hvmqLeJ>.FYC<ELnK_(ii_En$_ZrX7ITMAOt>g&y/d(s[AM<X&tH0C_l|Y_pny^q,JVSU=HnDj{>z=5Tv7&uNCRXA&5(#Bl?5e&ySQs+ikG*}|oo85l8zNBp-(ge*0Sml2V4Y|B:C~<cge}e$O^to.*A|2xEvpO)IFM0QO9MUIUk:-?$t3rVVW#029VbI?lws30^Y<WEce.H$5ZK:^`?e!r^A1@o?4xB_oFq{RD0FA!5_HIZs%}kIJ%dqXi+#YB9uDb|SHM{GQ~zJHgqvT@lEy8f^UU|Mwp$9*#R;L`$_CQcVw06h~>%^9at[lstsEYycCd$<kE?^h{r|@+i+gBy]|pz*=EBA`<,:.,Hss^0KII*4$eMzmLP{+90paVP!ibM0C>7n!9qeidYadi$c(1L1%{C(kS8yC.^p:T?)MGO#g+.*q#xd-e8z/&6P17lgN_#>SCIHPKubFD-1k*j>~ZRK]ra2;Glartb;scGkh`%o@0T^}wODw(ZaU?j/v_8H!gC&$4wSTH+7h-lL@5+:HO(Y>3LRSdaKGGBzl1a?nNOoR%(8tl$<W5eLkDq_aIZcs^vEc+]Bgs4o,k+f=cF<s:NX!uu,UKN%m3+M6`BO?T5/-:w_5:OaW4#Q1<zxIC(eJPKi&u6L~i(Jb(_.{>hA9{-,&w`Z$;vxzBb0%&CV6uqdEM}?+T/A+]9VZYWo|E4XG;_IG4FzC.4G|5)e`$o@j}fPX0SAV0aF|ypWK.|OSjQ5A3?*D$62]C_pZF?5kYKH.XOAl!p:Ln*PFmoVF.(Ru[%bXy)CtkDZSVFi%t85v24G3&Wo,$j,5u^h1Q,[`SKP@kCt/-32BF-$IURWJ%385*UT(XL{5svAh$gu[P1n@[+N&bT443cVg4`tgVg#;$DN)G<k<SiY[;6Yz!Ku5Ce?KbXGW,#<.{Sy:(iP;W7)0,r+)?J*nD|z:t`$&z0AKLjR{ICNT:HE2Akb*7(gUHGRDm$`4)rJ9Nx<iF=6w{v%8Kb49cVty$7)o#@Q%RC8E)_G(d($X!H*jJA!4n;16CU3iVoH4~&=x5K;w*[w-Hh{d0]M-SO}tKRyKZ;4hzyK=4k]NY[P&VsW]N?)_8qwv_-Nqd.[CS=UfE)=T{#wxT7[&wQ]^!KV-#4JPUnHz`~QqwDzW$S]2mwLbWw6mnF7$(0N[+[7ym+27np|1SNpq>*jT8U(c_cS#LcM~Us8NvOLz:e+EV0u%N*ppB]+_gNCT?~9jv=..~4Fe@kuClEzVM$#t+b%XizB@ZAnn}B1hmsloJy.%VIKqDVNSx)iYe0i`1H/1uiQI^{T1F1zu0qn/o,}-l!sf%}!mHR_9eYR%jZ^RL*xH<q,5Ey@RdWTH<A.wGQebp(^$$)veV43OUjmgb*Yz@X9c,u3=)}yzbOB^;T:mzKMG!{q}x;H_orGHLR-0NP?lY&(nD@+=?bmm;V{ga{R6LkIU9bkfT3"b0[nJ[33356]]={}local G9=263494 local hb=21 local hn=2828 local hj=G9-hb*3+hn local hf=G9+hb*7-hn*2 b0[hj]=b5[nW(577,nD,5)]b0[hf]=zE local G4=b0[hj]local hu=b0[hf]b0[nJ[6286]]=function(fN)local hq=hu[fN]if hq~=nil then return hq end hq=b2[fN]return hq end b0[nJ[63342]]=function(fN,_v)hu[fN]=_v end b0[nJ[41518]]=b5[nW(881,nD,5)]({},{["\95\95\105\110\100\101\120"]=function(_,_k)return b0[nJ[6286]](_k)end})b0[hj]=({})[100862]b0[hf]=({})[100862]hj=({})[100862]hf=({})[100862]G9=({})[100862]hb=({})[100862]hn=({})[100862]b0[nJ[27463]]=({})[100862]b0[nJ[59368]]=b5[nW(114,nD,5)]nm=b0[nJ[59368]]b0[nJ[40199]]=true b0[nJ[42034]]=false b0[nJ[18051]]=({})[100862]b0[nJ[47718]]=b5[nW(577,nD,5)]b0[nJ[50078]]=b5[nW(784,nD,5)]b0[nJ[15810]]=b5[nW(881,nD,5)]b0[nJ[43392]]=b5[nW(445,nD,5)]b0[nJ[16063]]=b0[nJ[43392]]["\34\92\49\48\57\92\57\55\92\49\49\54\92\57\57\92\49\48\52\34"]b0[nJ[26472]]=b0[nJ[43392]]["\34\92\49\48\50\92\49\49\49\92\49\49\52\92\49\48\57\92\57\55\92\49\49\54\34"]local hi=b5[nW(874,nD,5)]if hi and hi["\112\111\119"]==nil then local hM={["\95\95\105\110\100\101\120"]=hi}if b5[nW(881,nD,5)]then hx=b5[nW(881,nD,5)]({["\112\111\119"]=function(a,b)return a^b end},hM)else hx=hi end else hx=hi end b0[nJ[13010]]=hx b0[nJ[58022]]=b5[nW(973,nD,5)]b0[nJ[5347]]=b5[nW(284,nD,5)]b0[nJ[5372]]=b5[nW(894,nD,5)]b0[nJ[16707]]=b5[nW(205,nD,5)]b0[nJ[9199]]=b5[nW(289,nD,5)]b0[nJ[16634]]=b5[nW(392,nD,5)]b0[nJ[51747]]=b5[nW(224,nD,5)]b0[nJ[39435]]=b5[nW(399,nD,5)]b0[nJ[57340]]=b5[nW(312,nD,5)]b0[nJ[40149]]=b5[nW(324,nD,5)]b0[nJ[40051]]=b5[nW(663,nD,5)]b0[nJ[18516]]=b5[nW(746,nD,5)]b0[nJ[38884]]=b5[nW(638,nD,5)]b0[nJ[26930]]=b5[nW(501,nD,5)]b0[nJ[13004]]=b5[nW(835,nD,5)]local nR=0 b0[nJ[39356]]=function(...)local hR=b5[nW(929,nD,5)];local hd=hR and hR(1)or 0;if hd<=0 or hd>49157 then hd=0 end;nR=hd;return(...)()end b0[nJ[11966]]=function(hc)return hc-(hc%1)end b9=b0[nJ[11966]]local hv=(0x716FAA76+0xE914)local hA={}local hs={}local hF=0 local hl={}local hH={}local hP=0 local hV={}local hO={}local hY=0 b0[nJ[39481]]=({})[100862]b0[nJ[29404]]=({})[100862]b0[nJ[14283]]=({})[100862]b0[nJ[47271]]=function(hB,ho)local hJ,hZ=0,1 local he=b0[nJ[14846]]local hW=b0[nJ[47718]]local hD=he and hW(he,b0[nJ[32335]])or 0 local hI=he and hW(he,b0[nJ[6765]])or 0 local hT=b0[nJ[5372]]local hU=hT and hT(hD)or 0 local hy=hT and hT(hI)or 0 local hX=1-((hU+hy)%2)while hB>0 or ho>0 do local hp,hg=hB%2,ho%2 if hp~=hg then hJ=hJ+hZ end hB=hB-hp ho=ho-hg if hX==1 then hB=hB/2;ho=ho/2 end hZ=hZ*2 end return hJ end b7=b0[nJ[47271]]b0[nJ[4277]]=(function()local ha={}local hw=">Vtj}ys]9LdncQfv)8qI5:RzMDPx<4@XJi!FY&1m{Tw=l[hKbE2Cpg%?ku+-ro3(OG/a$WB6HANe*0Z.7#^SU"for hL=1,85 do ha[b0[nJ[43392]]["\98\121\116\101"](hw,hL)]=hL-1 end return ha end)()b0[nJ[31598]]=function(hk,h0,h5,h2)if h2~=hv then return 0 end local h4=b0[nJ[13010]]["\102\108\111\111\114"](h0/4)local h3=h0%4 local h6=h5[h4]if not h6 then local h1=h4*5+1 local Sb=b0[nJ[43392]]["\98\121\116\101"](hk,h1)local Sn=b0[nJ[43392]]["\98\121\116\101"](hk,h1+1)local Sj=b0[nJ[43392]]["\98\121\116\101"](hk,h1+2)local Sf=b0[nJ[43392]]["\98\121\116\101"](hk,h1+3)local Su=b0[nJ[43392]]["\98\121\116\101"](hk,h1+4)local SC=Sb and(b0[nJ[4277]][Sb]or 0)or 0 local SK=Sn and(b0[nJ[4277]][Sn]or 0)or 0 local Sz=Sj and(b0[nJ[4277]][Sj]or 0)or 0 local Sm=Sf and(b0[nJ[4277]][Sf]or 0)or 0 local SG=Su and(b0[nJ[4277]][Su]or 0)or 0 local h7=((((SC*(((0x6F-15))-((10+0x1)))+SK)*(((0x6F-15))-((10+0x1)))+Sz)*(((0x6F-15))-((10+0x1)))+Sm)*(((0x6F-15))-((10+0x1)))+SG)h6={b0[nJ[13010]]["\102\108\111\111\114"](h7/(((0x100A646-42558))-(2^3)))%((270)-(14)),b0[nJ[13010]]["\102\108\111\111\114"](h7/(((0x7EFC+33041))-((12+0x1))))%((270)-(14)),b0[nJ[13010]]["\102\108\111\111\114"](h7/((270)-(14)))%((270)-(14)),h7%((270)-(14))}h5[h4]=h6 end return h6[h3+1]or 0 end local function Sh(SS,SF)local Sr={}local SE,St=1,1 while St<=SF do local Sq=SS[SE]or 0 SE=SE+1 for Sx=0,7 do if St>SF then break end local Ss=(Sq%2)==1 Sq=b9(Sq/2)if Ss then local Si=SS[SE]or 0 local SM=SS[SE+1]or 0 SE=SE+2 local Sd=b9(SM/16)local Sc=(Sd*256)+Si if Sd==15 then local SR=SS[SE]or 0 SE=SE+1 Sc=(SR*256)+Si end local SN=SM-(Sd*16)local Sv=SN+3 if SN==15 then local SQ=0 while true do local SA=SS[SE]or 0 SE=SE+1 SQ=SQ+SA if SA~=255 then break end end Sv=18+SQ end local hX=St-(Sc+1)for h8=0,Sv-1 do if St>SF then break end Sr[St]=Sr[hX+h8]or 0 St=St+1 end else Sr[St]=SS[SE]or 0 SE=SE+1 St=St+1 end end end return Sr end local ng={}local Sl=ne if Sl then local Se=b0[nJ[4277]]local SW=b0[nJ[43392]]["\98\121\116\101"]local Sg=b0[nJ[11966]]local SH=1 while true do local SV=SW(Sl,SH)if not SV then break end local SP=0 for SO=1,5 do local SV=SW(Sl,SH)if not SV then break end SP=SP*85+(Se[SV]or 0)SH=SH+1 end local SY=Sg(SP/16777216)%256 local SB=Sg(SP/65536)%256 local So=Sg(SP/256)%256 local SJ=SP%256 local SZ=SY*256+SB local Sp=So*256+SJ ng[SZ]=Sp end end b0[nJ[ng[28652]]]=b2 b0[nJ[41765]]=bY:sub(1,10969)local ST=bY:sub(10970,11909)b0[nJ[46823]]=(function()local SU={}local SL=my(ST)local Sy=1 local SX=1 local Sk=0 local S5=0 local S0=0 while SX<=766 do local ho=SL[Sy]if not ho then break end S5=S5+(ho%128)*(2^S0)if ho<128 then Sk=Sk+S5 SU[SX]=Sk SX=SX+1 S5=0 S0=0 else S0=S0+7 end Sy=Sy+1 end return SU end)()local SD b0[nJ[36047]]=function(S4,S3)if S3~=hv then return 0 end if SD then return SD[S4]end local ha=my(b0[nJ[41765]])SD=Sh(ha,9628)return SD[S4]end local function S9(S4,S3)if S3~=hv then return 0 end if SD then return SD[S4]end local rb=my(b0[nJ[41765]])SD=Sh(rb,9628)return SD[S4]end local function rn(S4,S3)if S3~=hv then return 0 end if SD then return SD[S4]end local rj=my(b0[nJ[41765]])SD=Sh(rj,9628)return SD[S4]end b0[nJ[61653]]=((((((2635422530-2309737967)%0x100000000)+270544960)%0x100000000)-270544960)%mg)local ru=b0[nJ[61653]]do local rC=b2[((15-12+140-140))]or 0;ru=(ru+rC)%mg end do local rG,rh=pcall,type local rK=0 local rz,rm=false,nil rz,rm=false,nil if rh(rG)=="function"then rz,rm=rG(function()local ok=rG(function()local f=nil;return f()end);return ok==false end)end rK=(rK*215+88+((rz and rm==true)and 173 or 0))%me rz,rm=false,nil if rh(rG)=="function"then rz,rm=rG(function()return string.byte(string.sub("AZ",1,1),1)end)end rK=(((rK*183+66)%me)+((rz and rm==65)and 165 or 0))%me rz,rm=false,nil if rh(rG)=="function"then rz,rm=rG(function()return rh(rh)end)end rK=(rK*154+((rz and rm=="function")and 101 or 0)+32)%me rz,rm=false,nil if rh(rG)=="function"then rz,rm=rG(function()local t={[1]=17};return rawget(t,1)end)end rK=(((rK*162+69)%me)+((rz and rm==17)and 117 or 0))%me rz,rm=false,nil if rh(rG)=="function"then rz,rm=rG(function()local t={};rawset(t,"x",29);return t.x end)end rK=(rK*193+((rz and rm==29)and 129 or 0)+75)%me ru=(ru+rK)%mg end local function rY(rB)local rJ=b0[nJ[6286]](rB)if rJ~=nil then return rJ end return nil end local rZ=rY(n2(53,((124*7607+99*1978-1105640)%mg)))or(game~=nil and game or nil)local rp=rY(n2(80,((62*7607+149*1978-721261)%mg)))or(Instance~=nil and Instance or nil)local rg=rY(n2(86,((121*7607+69*1978-1056841)%mg)))or(workspace~=nil and workspace or nil)local re=rY(n2(114,((100*7607+54*1978-821029)%mg)))or(Vector3int16~=nil and Vector3int16 or nil)local rW=rY(n2(52,((71*7607+150*1978-805729)%mg)))or Vector3 local rD=rY(n2(47,((60*7607+101*1978-636530)%mg)))or CFrame local rI=rY(n2(105,((135*7607+150*1978-1316042)%mg)))or Enum local rT=rY(n2(50,((79*7607+80*1978-732787)%mg)))or RaycastParams local rU=rY("\116\97\98\108\101")or table local ry=rY("\109\97\116\104")or math local rX=rY("\115\116\114\105\110\103")or string local ra=rY("\116\121\112\101")or type local rw=rY("\112\99\97\108\108")or pcall local function rS(rr)local rE=0 if ra(rr)~="string"then return 0 end local rq=#rr for rt=1,rq do rE=(rE*131+(rX.byte(rr,rt)or 0)+17)%me end if rq>0 then rE=(rE+rq*257+(rX.byte(rr,1)or 0)*13+(rX.byte(rr,rq)or 0)*29)%me end return rE end do local rx=0 ri=rZ and rZ[n2(58,((119*7607+152*1978-1160019)%mg))]or nil local rF=rS(ri)rx=(rx*157+rF+38)%me ri=nil rd,rM=rw(function()local r2=rp and rp[n2(112,((44*7607+83*1978-461277)%mg))];return r2 and r2(n2(100,((49*7607+130*1978-577169)%mg)))end)if rd and rM then ri=rM[n2(58,((119*7607+152*1978-1160019)%mg))]end local rl=rS(ri)rx=(rx*170+rl+41)%me ri=(rd and rM)and rM[n2(76,((70*7607+54*1978-607203)%mg))]or nil local rH=rS(ri)rx=(rx*183+rH+77)%me rd,rR=rw(function()local r4=rZ and rZ[n2(131,((72*7607+86*1978-655896)%mg))];return r4 and r4(rZ,n2(111,((119*7607+98*1978-1065860)%mg)))end)ri=(rd and rR)and rR[n2(58,((119*7607+152*1978-1160019)%mg))]or nil local rP=rS(ri)rx=(rx*219+rP+97)%me rd,rc=rw(function()local r3=re;local r1=r3 and r3[n2(112,((44*7607+83*1978-461277)%mg))];return r1 and r1(1,2,3)end)local rV=(rd and rc)and(rc[n2(94,((49*7607+59*1978-460101)%mg))]*31+rc[n2(89,((118*7607+131*1978-1145940)%mg))]*17+rc[n2(127,((76*7607+69*1978-672630)%mg))]*13)or 0 rx=(rx*261+rV+92)%me rd,rc=rw(function()local r6=rp and rp[n2(112,((44*7607+83*1978-461277)%mg))]and rp[n2(112,((44*7607+83*1978-461277)%mg))](n2(90,((37*7607+113*1978-490529)%mg)))if not r6 then return 0 end r6[n2(55,((92*7607+86*1978-831636)%mg))]=true r6[n2(51,((72*7607+57*1978-631730)%mg))]=false r6[n2(59,((84*7607+146*1978-879320)%mg))]=1 r6[n2(102,((113*7607+98*1978-992659)%mg))]=rW[n2(112,((44*7607+83*1978-461277)%mg))](4,2,6)r6[n2(47,((60*7607+101*1978-636530)%mg))]=rD[n2(112,((44*7607+83*1978-461277)%mg))](r6[n2(102,((113*7607+98*1978-992659)%mg))][n2(94,((49*7607+59*1978-460101)%mg))]*2,r6[n2(102,((113*7607+98*1978-992659)%mg))][n2(89,((118*7607+131*1978-1145940)%mg))]*3,-r6[n2(102,((113*7607+98*1978-992659)%mg))][n2(127,((76*7607+69*1978-672630)%mg))]*4)local rQ=rT[n2(112,((44*7607+83*1978-461277)%mg))]()rQ[n2(99,((82*7607+147*1978-865806)%mg))]=rI[n2(72,((130*7607+101*1978-1169041)%mg))][n2(60,((79*7607+140*1978-826797)%mg))]rQ[n2(109,((131*7607+88*1978-1146038)%mg))]={r6}local rL=r6[n2(102,((113*7607+98*1978-992659)%mg))]local rk=r6[n2(47,((60*7607+101*1978-636530)%mg))][n2(71,((109*7607+105*1978-1020234)%mg))]local r0=(rQ[n2(99,((82*7607+147*1978-865806)%mg))]==rI[n2(72,((130*7607+101*1978-1169041)%mg))][n2(60,((79*7607+140*1978-826797)%mg))])and 1 or 0 local r5=rQ[n2(109,((131*7607+88*1978-1146038)%mg))]and#rQ[n2(109,((131*7607+88*1978-1146038)%mg))]or 0 local r7=r6[n2(78,((134*7607+87*1978-1152895)%mg))];if r7 then r7(r6)end return ry.floor((rL[n2(94,((49*7607+59*1978-460101)%mg))]*100)+(rL[n2(89,((118*7607+131*1978-1145940)%mg))]*10)+rL[n2(127,((76*7607+69*1978-672630)%mg))]+(rk[n2(94,((49*7607+59*1978-460101)%mg))]%13)+(rk[n2(89,((118*7607+131*1978-1145940)%mg))]%17)+((-rk[n2(127,((76*7607+69*1978-672630)%mg))])%19)+(r0*23)+(r5*29))end)local rO=(rd and rc)and rc or 0 rx=(rx*263+rO+85)%me local rv=((50*7607+87*1978+660151000)%mg)ru=(ru+rx)%mg end b0[nJ[45378]]=function(r8)return b0[nJ[36047]](r8,hv)+(b0[nJ[36047]](r8+1,hv)*((0x113)-((0x1B-8))))+(b0[nJ[36047]](r8+2,hv)*((0x10005)-((0x2+0x3))))+(b0[nJ[36047]](r8+3,hv)*(((0x100CCC8-52403))-((0x12+3))))end local function Eb(r8)return S9(r8,hv)+(S9(r8+1,hv)*((0x113)-((0x1B-8))))+(S9(r8+2,hv)*((0x10005)-((0x2+0x3))))+(S9(r8+3,hv)*(((0x100CCC8-52403))-((0x12+3))))end local function En(r8)return rn(r8,hv)+(rn(r8+1,hv)*((0x113)-((0x1B-8))))+(rn(r8+2,hv)*((0x10005)-((0x2+0x3))))+(rn(r8+3,hv)*(((0x100CCC8-52403))-((0x12+3))))end b0[nJ[30748]]=(function()local function Ej(hL)local hZ=b0[nJ[46823]][hL];return b0[nJ[45378]](hZ);end local Ef={165,300,299,618,181}local Eu=0 for Ez=1,5 do local EC=Ef[Ez]Eu=(Eu+(Ej(EC)%65521))%65521 end local function Sq(x)return x-x%1 end local hB=9300 local ho=Sq(hB/3)local h9=ho-Sq(ho/2)local EK=h9-1513 if Eu~=EK then b0[nJ[45378]]=b0[nJ[19845]]elseif Eu>ho then b0[nJ[45378]]=b0[nJ[33157]]end end)()local Em="\000\001\002\003\004\005\006\007\008\009\010\011\012\013\014\015\016\017\018\019\020\021\022\023\024\025\026\027\028\029\030\031\032\033\034\035\036\037\038\039\040\041\042\043\044\045\046\047\048\049\050\051\052\053\054\055\056\057\058\059\060\061\062\063\064\065\066\067\068\069\070\071\072\073\074\075\076\077\078\079\080\081\082\083\084\085\086\087\088\089\090\091\092\093\094\095\096\097\098\099\100\101\102\103\104\105\106\107\108\109\110\111\112\113\114\115\116\117\118\119\120\121\122\123\124\125\126\127\128\129\130\131\132\133\134\135\136\137\138\139\140\141\142\143\144\145\146\147\148\149\150\151\152\153\154\155\156\157\158\159\160\161\162\163\164\165\166\167\168\169\170\171\172\173\174\175\176\177\178\179\180\181\182\183\184\185\186\187\188\189\190\191\192\193\194\195\196\197\198\199\200\201\202\203\204\205\206\207\208\209\210\211\212\213\214\215\216\217\218\219\220\221\222\223\224\225\226\227\228\229\230\231\232\233\234\235\236\237\238\239\240\241\242\243\244\245\246\247\248\249\250\251\252\253\254\255"local EG=b0[nJ[43392]]["\115\117\98"]b0[nJ[25393]]=(function()local Eh={}for ES=1,256 do Eh[ES-1]=EG(Em,ES,ES)end return Eh end)()nn=b0[nJ[25393]]local function Ex(Ei,EM,ER)EM=EM or 1;ER=ER or#Ei if EM>ER then return'' end if EM==ER then return Ei[EM]end local Ed=(EM+ER)/2 if(Ed-Ed%1)~=0 then Ed=Ed-(Ed%1)end return Ex(Ei,EM,Ed)..Ex(Ei,Ed+1,ER)end local function Ec(Ev,EN,EQ)EN=EN or 1;EQ=EQ or#Ev if EN>EQ then return'' end if EN==EQ then return Ev[EN]end local EA=EN+((EQ-EN)/2)if(EA-EA%1)~=0 then EA=EA-(EA%1)end return Ec(Ev,EN,EA)..Ec(Ev,EA+1,EQ)end local function Es(EF,El,EH)El=El or 1;EH=EH or#EF if El>EH then return'' end if El==EH then return EF[El]end local EP=EH-((EH-El)/2)if(EP-EP%1)~=0 then EP=EP-(EP%1)end return Es(EF,El,EP)..Es(EF,EP+1,EH)end b0[nJ[9546]]=Ex b0[nJ[57254]]=function(EV,EZ)if EZ~=nil then local mD=1;repeat mD=(mD*1103515245+12345)%mg until mD==0 end do local Ep=(b0[nJ[61653]]+2146210948+2779096485)%mg;local Ee=(b0[nJ[61653]]+614903850)%mg;local Eg=(Ee+((2146210948+2779096485-614903850)%mg))%mg;if Ep~=Eg then b0[nJ[25393]]=({})[100862]end end local EO,EY,EB,Eo={},0,'',0 for EJ=1,#EV do EB=EB..b0[nJ[25393]][EV[EJ]]Eo=Eo+1 if Eo>=128 then EY=EY+1;EO[EY]=EB;EB,Eo='',0 end end if Eo>0 then EY=EY+1;EO[EY]=EB end return Ex(EO,1,EY)end local function EI(ET,EU)if EU~=nil then local Ek=1;repeat Ek=(Ek*1103515245+12345)%mg until Ek==0 end do local E0=(b0[nJ[61653]]+296759253+2779096485)%mg;local E2=(b0[nJ[61653]]+906757114)%mg;local E5=(E2+((296759253+2779096485-906757114)%mg))%mg;if E0~=E5 then b0[nJ[25393]]=({})[100862]end end local Ey,EX,Ea,Ew={},0,'',0 for EL=1,#ET do Ea=Ea..b0[nJ[25393]][ET[EL]]Ew=Ew+1 if Ew>=96 then EX=EX+1;Ey[EX]=Ea;Ea,Ew='',0 end end if Ew>0 then EX=EX+1;Ey[EX]=Ea end return Ec(Ey,1,EX)end local function E4(E3,E6)if E6~=nil then local tn=1;repeat tn=(tn*1103515245+12345)%mg until tn==0 end do local tj=(b0[nJ[61653]]+1577350809+2779096485)%mg;local tu=(b0[nJ[61653]]+15150271)%mg;local tf=(tu+((1577350809+2779096485-15150271)%mg))%mg;if tj~=tf then b0[nJ[25393]]=({})[100862]end end local E1,E7,E8,E9={},0,'',0 for tb=1,#E3 do E8=E8..b0[nJ[25393]][E3[tb]]E9=E9+1 if E9>=160 then E7=E7+1;E1[E7]=E8;E8,E9='',0 end end if E9>0 then E7=E7+1;E1[E7]=E8 end return Es(E1,1,E7)end local tM=nil local td=0 local tc=false b0[nJ[7668]]=function(fN,h2)local tR=b0[nJ[33356]]if b0[nJ[7668]]~=(tR and tR[1])then tM=nil;return false end if h2~=hv then tM=nil;return false end local tQ=37 local tA=((tQ+131)-tQ)local ts=((tQ+257)-tQ)local tF=(ts-1)local tl=((fN*tA)+(h2*ts)+tQ)%ts if tl==ts then tl=0 end local th=hA[fN]if th~=nil then local tH=th(h2)if tH~=nil then tM=tH return true end end if not b0[nJ[46823]][fN]then tM=nil;return false end td=td+1 if(not tc)and(td>1324)then tc=true local tv=(b0[nJ[61653]]+h2+(fN*ts)+(td*tA)+1016244591)%me hv=b7(hv,tv)%me if hv==0 then hv=1 end end local tC=(b0[nJ[61653]]+h2+(fN*tA))%me hv=b7(hv,tC)%me if hv==0 then hv=1 end local tP=b0[nJ[46823]][fN]local Sv=En(tP)if Sv==nil then tM=nil;return false end local h0=tP+4 local tK=''local tm,tG={},0 local tS=b0[nJ[14846]]local tr=b0[nJ[ng[25716]]]local tE=tS and tr(tS,b0[nJ[ng[33049]]])or 0 local tt=tS and tr(tS,b0[nJ[ng[33453]]])or 0 local tq=b0[nJ[ng[42653]]]local tx=tq and tq(tE)or 0 local ti=tq and tq(tt)or 0 local hX=1-((tx+ti)%2)if hX~=1 then tC=(tx*ts+ti*tA+fN)%me hv=b7(hv,tC)%me if hv==0 then hv=1 end end local tV=(ru+(fN*ts)+(Sv*131)+16336+41443+((0%65536)*17)+21417)%mg tV=((tV*1664525)+1013904223+(fN*40503)+(Sv*11117)+(((0-(0%65536))/65536)%65536)*29)%mg if tV==0 then tV=(ru+1)%mg end local h8=1 while h8<=Sv do local ho=rn(h0,hv)if ho==nil then tM=nil;return false end h0=h0+hX tV=((tV*1664525)+1013904223+(fN*ts)+(h8*131)+(Sv*17)+((0%65536)*3)+1831565813)%mg local tO=tV%tF local tY=(((tV-tO)/tF)%tF)local tB=(((tV-(tV%65536))/65536)%tF)local to=(((tV-(tV%16777216))/16777216)%tF)local tz=b7(b7(tO,(tY+h8)%tF),b7(tB,(to+fN+Sv)%tF))local hI=b7(ho,tz)tG=tG+1;tm[tG]=hI h8=h8+hX end tK=E4(tm)local tI=hs local tT=(hF%256)+1 hF=tT local tU=tI[tT]if tU then hA[tU]=nil end tI[tT]=fN do local ty=tK hA[fN]=function(tX)if tX==hv then return ty end return nil end end tM=tK return true end b0[nJ[33356]][1]=b0[nJ[7668]]local td=0 local tc=false b0[nJ[33540]]=function(fN,h2)local tR=b0[nJ[33356]]if b0[nJ[33540]]~=(tR and tR[2])then tM=nil;return false end if h2~=hv then tM=nil;return false end local tQ=38 local tA=((tQ+131)-tQ)local ts=((tQ+257)-tQ)local tF=(ts-1)local tl=((fN*tA)+(h2*ts)+tQ)%ts if tl==ts then tl=0 end local th=hl[fN]if th~=nil then local tH=th(h2)if tH~=nil then tM=tH return true end end if not b0[nJ[46823]][fN]then tM=nil;return false end td=td+1 if(not tc)and(td>1281)then tc=true local tv=(b0[nJ[61653]]+h2+(fN*ts)+(td*tA)+636116030)%me hv=b7(hv,tv)%me if hv==0 then hv=1 end end local tN=hv local tC=(b0[nJ[61653]]+h2+(fN*tA))%me hv=b7(hv,tC)%me if hv==0 then hv=1 end if(not tc)and(tC~=0)and(hv==tN)then tc=true local tv=(tC+tN+636116030)%me hv=b7(hv,tv)%me if hv==0 then hv=1 end end local tP=b0[nJ[46823]][fN]local Sv=Eb(tP)if Sv==nil then tM=nil;return false end local h0=tP+4 local tK=''local tm,tG={},0 local tS=b0[nJ[14846]]local tr=b0[nJ[ng[37378]]]local tE=tS and tr(tS,b0[nJ[ng[33049]]])or 0 local tt=tS and tr(tS,b0[nJ[ng[33453]]])or 0 local tq=b0[nJ[ng[58165]]]local tx=tq and tq(tE)or 0 local ti=tq and tq(tt)or 0 local hX=1-((tx+ti)%2)if hX~=1 then tC=(tx*ts+ti*tA+fN)%me hv=b7(hv,tC)%me if hv==0 then hv=1 end end local tV=(ru+(fN*ts)+(Sv*131)+16336+41443+((0%65536)*17)+21417)%mg tV=((tV*1664525)+1013904223+(fN*40503)+(Sv*11117)+(((0-(0%65536))/65536)%65536)*29)%mg if tV==0 then tV=(ru+1)%mg end local h8=1 while h8<=Sv do local ho=S9(h0,hv)if ho==nil then tM=nil;return false end h0=h0+hX tV=((tV*1664525)+1013904223+(fN*ts)+(h8*131)+(Sv*17)+((0%65536)*3)+1831565813)%mg local tO=tV%tF local tY=(((tV-tO)/tF)%tF)local tB=(((tV-(tV%65536))/65536)%tF)local to=(((tV-(tV%16777216))/16777216)%tF)local te=b7(tO,tB)local tW=b7((tY+h8)%tF,(to+fN+Sv)%tF)local tz=b7(te,tW)local hI=b7(ho,tz)tG=tG+1;tm[tG]=hI h8=h8+hX end tK=EI(tm)local tI=hH local tT=(hP%256)+1 hP=tT local tU=tI[tT]if tU then hl[tU]=nil end tI[tT]=fN do local ty=tK hl[fN]=function(tX)if tX==hv then return ty end return nil end end tM=tK return true end b0[nJ[33356]][2]=b0[nJ[33540]]local td=0 local tc=false b0[nJ[8058]]=function(fN,h2)local tR=b0[nJ[33356]]if b0[nJ[8058]]~=(tR and tR[3])then tM=nil;return false end if h2~=hv then tM=nil;return false end local tQ=135 local tA=((tQ+131)-tQ)local ts=((tQ+257)-tQ)local tF=(ts-1)local tl=((fN*tA)+(h2*ts)+tQ)%ts if tl==ts then tl=0 end local th=hV[fN]if th~=nil then local tH=th(h2)if tH~=nil then tM=tH return true end end if not b0[nJ[46823]][fN]then tM=nil;return false end td=td+1 if(not tc)and(td>1302)then tc=true local tv=(b0[nJ[61653]]+h2+(fN*ts)+(td*tA)+122245866)%me hv=b7(hv,tv)%me if hv==0 then hv=1 end end local tC=(b0[nJ[61653]]+h2+(fN*tA))%me hv=b7(hv,tC)%me if hv==0 then hv=1 end local tP=b0[nJ[46823]][fN]local Sv=b0[nJ[45378]](tP)if Sv==nil then tM=nil;return false end local h0=tP+4 local tK=''local tm,tG={},0 local tS=b0[nJ[14846]]local tr=b0[nJ[ng[34382]]]local tE=tS and tr(tS,b0[nJ[ng[33049]]])or 0 local tt=tS and tr(tS,b0[nJ[ng[33453]]])or 0 local tq=b0[nJ[ng[22484]]]local tx=tq and tq(tE)or 0 local ti=tq and tq(tt)or 0 local hX=1-((tx+ti)%2)if hX~=1 then tC=(tx*ts+ti*tA+fN)%me hv=b7(hv,tC)%me if hv==0 then hv=1 end end local tV=(ru+(fN*ts)+(Sv*131)+16336+41443+((0%65536)*17)+21417)%mg tV=((tV*1664525)+1013904223+(fN*40503)+(Sv*11117)+(((0-(0%65536))/65536)%65536)*29)%mg if tV==0 then tV=(ru+1)%mg end local h8=1 while h8<=Sv do local ho=b0[nJ[36047]](h0,hv)if ho==nil then tM=nil;return false end h0=h0+hX tV=((tV*1664525)+1013904223+(fN*ts)+(h8*131)+(Sv*17)+((0%65536)*3)+1831565813)%mg local tO=tV%tF local tY=(((tV-tO)/tF)%tF)local tB=(((tV-(tV%65536))/65536)%tF)local to=(((tV-(tV%16777216))/16777216)%tF)local tD=((h8*17)+(Sv*13)+(fN*7)+29)%tF local tz=b7(b7(b7(tO,(tY+h8)%tF),b7(tB,(to+fN+Sv)%tF)),b7(tD,tD))local hI=b7(ho,tz)tG=tG+1;tm[tG]=hI h8=h8+hX end tK=b0[nJ[57254]](tm)local tI=hO local tT=(hY%256)+1 hY=tT local tU=tI[tT]if tU then hV[tU]=nil end tI[tT]=fN do local ty=tK hV[fN]=function(tX)if tX==hv then return ty end return nil end end tM=tK return true end b0[nJ[33356]][3]=b0[nJ[8058]]local J=b0[nJ[7668]]b0[nJ[46945]]=bY:sub(11910,13896)b0[nJ[27072]]=(function()local ha={}local t2=my(b0[nJ[46945]])local t4=Sh(t2,1815)local hJ=1 local S7=1 local t3=0 local t6=0 while hJ<=942 do local t1=t4[S7]or 0 S7=S7+1 t3=t3+(t1%128)*(2^t6)if t1<128 then ha[hJ]=t3 hJ=hJ+1 t3=0 t6=0 else t6=t6+7 end end return ha end)()local t7=b0[nJ[27072]]nE=(J(((442+92-230)),hv)and tM or nil);nt=(J(((210-105-95)),hv)and tM or nil);nq=(J(((400-20+(180-180))),hv)and tM or nil);nx=(J((234+123),hv)and tM or nil);ni=(J(((181+236-140)),hv)and tM or nil);b0[nJ[46755]]=nE b0[nJ[64015]]=nt b0[nJ[14739]]=nq b0[nJ[15409]]=nx b0[nJ[48446]]=ni b0[nJ[32176]]=function(mD,ho,EZ)if EZ~=nil then local ha=1;repeat ha=(ha*1103515245+12345)%mg until ha==0 end local hJ=((mD*33)+ho)%0x100000000 if hJ<0 then hJ=hJ+mg end return hJ end b0[nJ[51442]]=function(hB,ho)local t8=hB%65536 local t9=(hB-t8)/65536 local qb=ho%65536 local qn=(ho-qb)/65536 local qj=t8*qb local qf=(t9*qb+t8*qn)*65536 local qu=(qj+qf)%mg if qu<0 then qu=qu+mg end return qu end b8=b0[nJ[51442]]local qz=select b0[nJ[60561]]=function(qK,...)local qC={...}if qK~=nil then qC.n=qK else if qz then qC.n=qz('#',...)else qC.n=#qC end end return qC end b1=b0[nJ[13004]]bp=b0[nJ[13010]]bD=b0[nJ[43392]]nu=b0[nJ[38884]]b0[nJ[6953]]=function(qm,qG)if b5[nW(307,nD,5)]then b5[nW(307,nD,5)](qm,qG)return true end return false end b6={}b0[nJ[ng[59412]]]=b6;b0[nJ[ng[34011]]]=694568747 b0[nJ[ng[22078]]]=2485185205 b0[nJ[ng[48321]]]=445884739 b0[nJ[ng[45412]]]=3491846255 b0[nJ[ng[31743]]]=2361425967 b0[nJ[ng[31423]]]=339813454 b0[nJ[ng[50417]]]=141337117 b0[nJ[ng[25451]]]=450240331 b0[nJ[ng[39757]]]=2469300824 b0[nJ[ng[55802]]]=485875147 b0[nJ[ng[49205]]]=2352343173 b0[nJ[ng[37710]]]=2520307810 b0[nJ[ng[44194]]]=1354225477 b0[nJ[ng[46901]]]=3728383465 b0[nJ[ng[27960]]]=360522948 b0[nJ[ng[50666]]]=1189384547 b0[nJ[ng[40790]]]=2661447888 b0[nJ[ng[30653]]]=3804545659 b0[nJ[ng[43951]]]=934499693 b0[nJ[ng[42645]]]=3240325068 b0[nJ[ng[46400]]]=167777465 b0[nJ[ng[43032]]]=3667293227 b0[nJ[ng[24923]]]=180968256 b0[nJ[ng[39036]]]=1228559991 b0[nJ[ng[55720]]]=2388069997 b0[nJ[ng[51417]]]=2229055055 b0[nJ[ng[29059]]]=826161027 b0[nJ[ng[21035]]]=2240228762 b0[nJ[ng[28437]]]=1902433397 b0[nJ[ng[43132]]]=3406633661 b0[nJ[ng[51694]]]=232402573 b0[nJ[ng[30650]]]=2854622875 b0[nJ[ng[31529]]]=3134122318 b0[nJ[ng[47015]]]=2718930020 b0[nJ[ng[20427]]]=b0[nJ[ng[44866]]]b0[nJ[ng[58817]]](b6,b0[nJ[ng[24162]]],b0[nJ[42034]]);b0[nJ[ng[39601]]](b6,b0[nJ[ng[53503]]],b0[nJ[42034]]);b0[nJ[ng[40396]]](b6,b0[nJ[ng[52541]]],b0[nJ[42034]]);b0[nJ[ng[30923]]](b6,b0[nJ[ng[46136]]],b0[nJ[42034]]);b0[nJ[ng[46821]]](b6,b0[nJ[ng[49269]]],b0[nJ[42034]]);b0[nJ[ng[37815]]](b6,b0[nJ[ng[22643]]],b0[nJ[42034]]);b0[nJ[ng[36736]]](b6,b0[nJ[ng[47634]]],b0[nJ[42034]]);b0[nJ[ng[28074]]](b6,b0[nJ[ng[35454]]],b0[nJ[42034]])b0[nJ[ng[49103]]](b6,b0[nJ[ng[55489]]],b0[nJ[42034]])b0[nJ[ng[38397]]](b6,b0[nJ[ng[26796]]],(n7~=0 and 1 or 0))b0[nJ[ng[52725]]](b6,b0[nJ[ng[28487]]],{})b0[nJ[7676]]=(function()local hS=zE["\100\101\98\117\103"]if hS and debug==hS then b0[nJ[ng[42747]]](b6,b0[nJ[ng[30883]]],b0[nJ[40199]])end hS=zE["\103\101\116\102\101\110\118"]local qr=b5[nW(270,nD,5)]and b5[nW(270,nD,5)](1)or nil local qE=(qr and b5[nW(577,nD,5)](qr,"\103\101\116\102\101\110\118"))or nil b0[nJ[25355]]=qE b0[nJ[46649]]=b0[nJ[42034]]if hS and b0[nJ[25355]]==hS then b0[nJ[ng[44900]]](b6,b0[nJ[ng[58476]]],b0[nJ[40199]])end end)()if b0[nJ[ng[32170]]](b6,b0[nJ[ng[40498]]])then n7=(n7 or 0)+1 end b0[nJ[42687]]=(function()local qt=b0[nJ[42034]]if b0[nJ[46649]]~=b0[nJ[42034]]then qt=b0[nJ[40199]]end local hS=zE["\103\101\116\102\101\110\118"]if hS and b0[nJ[25355]]==hS then qt=b0[nJ[40199]]end b0[nJ[12072]]=qt if qt==b0[nJ[40199]]then b0[nJ[ng[25236]]](b6,b0[nJ[ng[53475]]],b0[nJ[40199]])end end)()b0[nJ[54100]]=function(hB,ho)if hB>=0 then return(hB-(hB%ho))/ho end local hJ=hB%ho if hJ~=0 then return(hB-hJ)/ho-1 end return hB/ho end nC=b0[nJ[58022]]nK=b0[nJ[47718]]nz=b0[nJ[50078]]local function qq(hc,t0)local qj=hc%mg local hJ=t0%(((0x3B-10))-((11+6)))if hJ==0 then return qj end local qx=2^hJ local qi=b8(qj,qx)local qM=b0[nJ[13010]][(b0[nJ[7668]](362,hv)and tM or nil)](qj/(2^(32-hJ)))return(qi+qM)%mg end local function qR(qd,h5)local mD=b7(b0[nJ[55018]],qd)if mD<0 then mD=mD+mg end mD=(b8(mD,(((73185411+0xE6C5))-(0xD)))+b8(h5,(((0x27D47AA6+0x7097))-(16))))%mg if mD<0 then mD=mD+mg end mD=qq(mD,(((0x23-8))-((0x18-4))))if mD<0 then mD=mD+mg end mD=b7(mD,b0[nJ[13010]][(b0[nJ[7668]](362,hv)and tM or nil)](mD/((0x8013)-((0x1B-8)))))if mD<0 then mD=mD+mg end mD=b8(mD,(((0x85EB6433+0x6647))-(15)))%mg if mD<0 then mD=mD+mg end mD=b7(mD,b0[nJ[13010]][(b0[nJ[7668]](362,hv)and tM or nil)](mD/((0x200E)-((0x13-5)))))if mD<0 then mD=mD+mg end return mD end local function qc(qv,qN,qQ)local qA=b7(qQ,(((0x2721FED8+3015))-((0xB-1))))return b7(qv,qA)end local function qs(fN,St,qF,ql,qH,qP,qV)local qO=b7(b7(b7(St*(((22+0x13))-(0x9)),qF*(((1218+0x34A))-((0xD-1)))),ql*((0x2000B)-((5+0x6)))),qH*((0x800006)-(0x6)))local qY=(b7(fN,qP)+qO+qV)%mg local qB=qq(qY,(((0x23-8))-((0x18-4))))return(b8(qB,(((73185411+0xE6C5))-(0xD)))+(((0x27D47AA6+0x7097))-(16)))%mg end local function qo(fN,qP)return b7(fN,qP)end local function qJ(qZ,qp,qg)local qe=qg[-qp]if qe then return qe end local qW=b0[nJ[13010]].floor((qp-1)/16)+1 local qD=(qW-1)*16+1 local qI=qg[qW]or qZ[2412]if qD>=qp then qg[-qp]=qI;return qI end local qT=qZ[1829]local qU=qZ[4915]local qy=qZ[5627]local qX=qZ[7028]if not qX then qX={};qZ[7028]=qX end local qa=qZ[5395]if not qa then qa={};qZ[5395]=qa end for qw=qD,qp-1 do local qL=(qw-1)*8 local qk=qa[qw]if not qk then qk=qR(qT,qw-1);qa[qw]=qk end local q0=qo(qI,qk)local q5=b0[nJ[31598]](qy,qL+0,qX,hv)local q2=b0[nJ[31598]](qy,qL+1,qX,hv)local q4=b0[nJ[31598]](qy,qL+2,qX,hv)local q3=b0[nJ[31598]](qy,qL+3,qX,hv)local q6=b7(q5,qq(q0,5)%((261)-((3+0x2))))local q1=b7(q2,q0%((261)-((3+0x2))))local q7=b7(q4,qq(q0,9)%((261)-((3+0x2))))local q8=b7(q3,qq(q0,17)%((261)-((3+0x2))))qI=qs(qI,q6,q1,q7,q8,qk,qU)end qg[-qp]=qI return qI end local function q9(xn,SE,xb)local xj=xn[1306]if not xj then local xf=xn[9930]if xf then if nC(xf)~=(J((87-77),hv)and tM or nil)then xj=xf else xj={}local xu=xn[1618]if not xu then xu={};xn[1618]=xu end local xC=b0[nJ[13010]].floor((xn[9080]+15)/16)local xK=(#xf==xC*4)for h8=1,xC do local xz=(h8-1)*4 local xm=(xK and(b0[nJ[43392]][(J(((133-122+211-211)),hv)and tM or nil)](xf,xz+1)or 0)or b0[nJ[31598]](xf,xz+0,xu,hv))local Si=(xK and(b0[nJ[43392]][(J(((148+-23-114)),hv)and tM or nil)](xf,xz+2)or 0)or b0[nJ[31598]](xf,xz+1,xu,hv))local SM=(xK and(b0[nJ[43392]][(J(((11+0)),hv)and tM or nil)](xf,xz+3)or 0)or b0[nJ[31598]](xf,xz+2,xu,hv))local SR=(xK and(b0[nJ[43392]][(J(0xB,hv)and tM or nil)](xf,xz+4)or 0)or b0[nJ[31598]](xf,xz+3,xu,hv))local qj=xm+Si*((261)-((3+0x2)))+SM*((0x10008)-(2^3))+SR*(((0xFF0333+64724))-((0xB-4)))xj[h8]=qc(qj,0,xn[5880])end end xn[1306]=xj xn[9930]=xj if not xn[4206]and xj[1]then xn[4206]=xj[1]end end end if xj and not xn[4206]and xj[1]then xn[4206]=xj[1]end local fN=xn[2412]if SE==1 and xj and xj[1]then fN=xj[1]end local xG=xn[2013]or 0 if SE~=xG+1 then if xj then fN=qJ(xn,SE,xj)end end local qV=xn[4915]local xh=xn[1829]local xS=b0[nJ[55018]]local xr=xn[5395]if not xr then local xE=xn[8107]if xE and#xE>0 then if nC(xE)~=(J((123-113),hv)and tM or nil)then xr=xE else xr={}local xt=xn[2421]if not xt then xt={};xn[2421]=xt end local xq=xn[9080]local xx=(#xE==xq*4)for h8=1,xq do local xi=(h8-1)*4 local xM=(xx and(b0[nJ[43392]][(J(((29-18+(88-88))),hv)and tM or nil)](xE,xi+1)or 0)or b0[nJ[31598]](xE,xi+0,xt,hv))local xR=(xx and(b0[nJ[43392]][(J((27-16),hv)and tM or nil)](xE,xi+2)or 0)or b0[nJ[31598]](xE,xi+1,xt,hv))local xd=(xx and(b0[nJ[43392]][(J((2*4+3),hv)and tM or nil)](xE,xi+3)or 0)or b0[nJ[31598]](xE,xi+2,xt,hv))local xc=(xx and(b0[nJ[43392]][(J((47-36),hv)and tM or nil)](xE,xi+4)or 0)or b0[nJ[31598]](xE,xi+3,xt,hv))xr[h8]=xM+xR*((261)-((3+0x2)))+xd*((0x10008)-(2^3))+xc*(((0xFF0333+64724))-((0xB-4)))end end xn[5395]=xr xn[8107]=xr end end if not xr then xr={};xn[5395]=xr end local qP=xr[SE]if not qP then qP=qR(xh,SE-1);xr[SE]=qP end local xv=qo(fN,qP)local xN=b0[nJ[5372]](xb)or 0 if xN~=0 then local xQ=(b8(xN,(((73185411+0xE6C5))-(0xD)))+b8(SE,(((0x27D47AA6+0x7097))-(16)))+((xh or 0)*257))%mg xn[2412]=b7((xn[2412]or 0),xQ)xn[6572][SE]=nil return end if not xn[5887]then xn[5887]=true local xA=xn[3015]local xs=xn[9329]or 0 if xA and xs>0 then local xF=(xs*5)xF=xF+((4-(xF%4))%4)local xl=(#xA==xF)local xH=xn[5822]local xP=xn[4241]if not xP then xP={};xn[4241]=xP end for h8=0,xs-1 do local Sc=h8*5 local xm=(xl and(b0[nJ[43392]][(J(((61-5-45)),hv)and tM or nil)](xA,Sc+1)or 0)or b0[nJ[31598]](xA,Sc+0,xP,hv))local Si=(xl and(b0[nJ[43392]][(J(11,hv)and tM or nil)](xA,Sc+2)or 0)or b0[nJ[31598]](xA,Sc+1,xP,hv))local SM=(xl and(b0[nJ[43392]][(J(((24-13+134-134)),hv)and tM or nil)](xA,Sc+3)or 0)or b0[nJ[31598]](xA,Sc+2,xP,hv))local SR=(xl and(b0[nJ[43392]][(J(((260+-54-195)),hv)and tM or nil)](xA,Sc+4)or 0)or b0[nJ[31598]](xA,Sc+3,xP,hv))local xV=(xl and(b0[nJ[43392]][(J(((11+0)),hv)and tM or nil)](xA,Sc+5)or 0)or b0[nJ[31598]](xA,Sc+4,xP,hv))local xO=xm+Si*((261)-((3+0x2)))+SM*((0x10008)-(2^3))+SR*(((0xFF0333+64724))-((0xB-4)))xH[xO+1]=xV end xn[3015]=nil xn[9329]=nil xn[4241]=nil end end local hk=xn[5627]local qY=(SE-1)*8 local h5=xn[7028]if not h5 then h5={};xn[7028]=h5 end local xY=b0[nJ[31598]](hk,qY+0,h5,hv)local SC=b7(xY,qq(xv,5)%((261)-((3+0x2))))xn[6572][SE]=SC local xB=b0[nJ[31598]](hk,qY+1,h5,hv)local SK=b7(xB,xv%((261)-((3+0x2))))xn[5230][SE]=SK local xo=b0[nJ[31598]](hk,qY+2,h5,hv)local Sz=b7(xo,qq(xv,9)%((261)-((3+0x2))))xn[6834][SE]=Sz local xJ=b0[nJ[31598]](hk,qY+3,h5,hv)local Sm=b7(xJ,qq(xv,17)%((261)-((3+0x2))))xn[2879][SE]=Sm local xZ=b0[nJ[31598]](hk,qY+4,h5,hv)local SG=b7(xZ,qq(xv,21)%((261)-((3+0x2))))xn[6587][SE]=SG local xp=b0[nJ[31598]](hk,qY+5,h5,hv)local xg=b7(xp,qq(xv,25)%((261)-((3+0x2))))xn[6029][SE]=xg local xe=b0[nJ[31598]](hk,qY+6,h5,hv)local xW=b7(xe,qq(xv,3)%((261)-((3+0x2))))xn[7410][SE]=xW local xD=b0[nJ[31598]](hk,qY+7,h5,hv)local xI=b7(xD,qq(xv,11)%((261)-((3+0x2))))xn[2024][SE]=xI xn[2412]=qs(fN,SC,SK,Sz,Sm,qP,qV)xn[2013]=SE end do local xT=function(xU,xy)return nz(b0,xU,xy)end xT(nJ[39629],qs)xT(nJ[27173],qo)xT(nJ[64673],q9)xT(nJ[55018],757358151)end b0[nJ[23158]]=(2^31)-1 b0[nJ[23592]]=1945948160 b0[nJ[63829]]=1419433936 b0[nJ[7715]]=1238980973 b0[nJ[49862]]=((b7(b0[nJ[23592]],b0[nJ[63829]])+b0[nJ[7715]])%b0[nJ[23158]])b0[nJ[38429]]=942 b0[nJ[49686]]=171 b0[nJ[19460]]=3625 b0[nJ[11722]]=function(xX)local xa=b0[nJ[49862]]local xw=((xX*40503)%b0[nJ[23158]])local xL=((b0[nJ[38429]]+(b0[nJ[49686]]*7)+(b0[nJ[19460]]%97))%b0[nJ[23158]])local xk=((b7(xa,xw)+xL)%b0[nJ[23158]])return((xk*(193*250+21))%b0[nJ[23158]])end nb=b0[nJ[11722]]b0[nJ[13401]]=false b0[nJ[33854]]=function(x5,x2)if b0[nJ[13401]]then return{}end b0[nJ[13401]]=true local x4={}local ij=x5%(1073741823+1073741824)if(ij%(2*128))==0 then ij=(ij==0)and 1 or(ij+1)end local x7=1 while x7<=#x2 do local x8=x2:sub(x7,x7+1)local x9=b0[nJ[5372]](x8,16)or 0 local ib=b7(x9,ij%(2*128))x4[#x4+1]=ib ij=(ij*(193*250+21)+(9*9))%(1073741823+1073741824)x7=x7+2 end local ih=((87*7607+53*1978+2944871711)%mg)for x7=1,#x4 do ih=b0[nJ[32176]](ih,x4[x7])end local x6=1 local function iu()local ii=x4[x6]+(x4[x6+1]*256)+(x4[x6+2]*65536)+(x4[x6+3]*16777216);x6=x6+4;return ii end local x1=iu()local x3={}for fh=1,x1 do local iC=iu()local iK=x4[x6];x6=x6+1 if iK==1 then x3[iC]=nil elseif iK==2 then x3[iC]=(x4[x6]==1);x6=x6+1 elseif iK==3 then local iz=iu()local iM=""for h8=1,iz do iM=iM..nn[x4[x6]]x6=x6+1 end if iM=='nan'then x3[iC]=(0/0)elseif iM=='inf'then x3[iC]=(1/0)elseif iM=='-inf'then x3[iC]=(-1/0)else x3[iC]=b0[nJ[5372]](iM)end elseif iK==4 then local iz=iu()local iR=""for h8=1,iz do iR=iR..nn[x4[x6]]x6=x6+1 end x3[iC]=iR end if iK==5 then local iz=iu()local id=""for h8=1,iz do id=id..nn[x4[x6]]x6=x6+1 end local iQ=nn[108]..nn[111]..nn[97]..nn[100]local hK=iQ..nn[115]..nn[116]..nn[114]..nn[105]..nn[110]..nn[103]local iA=(function()end)()local ic=iA ic=b0[nJ[6286]](iQ)if nC(ic)~=nx then ic=b0[nJ[6286]](hK)end if nC(ic)==nx then local iv=ic(id)if nC(iv)==nx then local iN=iv(b6)if nC(iN)==nx then x3[iC]=iN end end end end end return x3 end b0[nJ[4325]]=false b0[nJ[61420]]=function(is,t0)if b0[nJ[4325]]then return{}end b0[nJ[4325]]=true local iF={}local iY=942 local iB=171 local io=3625 local iJ=(iY*(128*1024)+iB*(128*2+1)+(io%(256*256))+0x4A1E3)local il=nb(iJ)%(1073741823+1073741824)if(il%(2*128))==0 then il=(il==0)and 1 or(il+1)end local hZ,S1=1,1 local iZ=b0[nJ[14846]]local hW=b0[nJ[ng[58389]]]local hD=iZ and hW(iZ,b0[nJ[ng[21367]]])or 0 local hI=iZ and hW(iZ,b0[nJ[ng[38181]]])or 0 local hX=1 do local hT=b0[nJ[5372]]local hD=hT and hT(hD)or 0 local hI=hT and hT(hI)or 0 local hX=1-((hD+hI)%2)if hX~=0 then hX=hX end end while S1<=t0 do local io=0 for fh=1,5 do local t5=b0[nJ[43392]]["\98\121\116\101"](is,hZ)if t5 then io=io*85+(b0[nJ[4277]][t5]or 0);hZ=hZ+1 end end local iB=b9(io/16777216)%256 local io=b9(io/65536)%256 local iJ=b9(io/256)%256 local hB=io%256 if S1<=t0 then iF[S1]=b7(iB,il%(2*128));il=(il*(193*250+21)+(9*9))%(1073741823+1073741824);S1=S1+hX end if S1<=t0 then iF[S1]=b7(io,il%(2*128));il=(il*(193*250+21)+(9*9))%(1073741823+1073741824);S1=S1+hX end if S1<=t0 then iF[S1]=b7(iJ,il%(2*128));il=(il*(193*250+21)+(9*9))%(1073741823+1073741824);S1=S1+hX end if S1<=t0 then iF[S1]=b7(hB,il%(2*128));il=(il*(193*250+21)+(9*9))%(1073741823+1073741824);S1=S1+hX end end return iF end b0[nJ[ng[22100]]]=function(ip,ig,ie)local ik=nJ[13004]local iL=b0[nJ[9199]]or b0[nJ[16707]]local iw=false if not ip then return nil end local iX=b0[nJ[43392]]local ia=iX and iX[(J(((77+224)),hv)and tM or nil)]if ia and iL then iw=iL(ia,ip)if iw then if not ig and not ie then return ip end if ie and ie==ik then return ip end if ig and ie then ig[ie]=ig[0]end return nil end end if ie and ie==ik then return ip end local iW=b0[nJ[32836]]local iD=b0[nJ[55915]]if not iD and iW then iD=iW[(J(0x175,hv)and tM or nil)]end if iD then local i0 iw=iL and iL(function()i0=iD(ip,1)end)if iw and i0~=nil and#i0>0 then if ig and ie then ig[ie]=ig[0]end return nil end end local iI=b0[nJ[5989]]if not iI and iW then iI=iW[(J(0x110,hv)and tM or nil)]end if iI then local iU iw=iL and iL(function()iU=iI(ip,(J((284-14),hv)and tM or nil))end)local iy=(iw and iU and type(iU)==(J(((354+219-193)),hv)and tM or nil))and iU[(J(((173+194)),hv)and tM or nil)]or nil if(not iy)or iy==""then iw=iL and iL(function()iU=iI(ip)end)iy=(iw and iU and type(iU)==(J((280+100),hv)and tM or nil))and iU[(J((183*2+1),hv)and tM or nil)]or nil end if iy and iy~=(J(0x17A,hv)and tM or nil)and iy~=(J(((422-36+(74-74))),hv)and tM or nil)and iy~=""then if ig and ie then ig[ie]=iy and nil end return nil end end local iT=b0[nJ[4839]]if not iT and iW then iT=iW[(J(((371-28+(242-242))),hv)and tM or nil)]end if iT then local iy=iT(ip,(J((109*3+2),hv)and tM or nil))if iy and iy~=(J(((555-73-96)),hv)and tM or nil)then if ig and ie then ig[ie]=ip and nil end return nil end end return ip end b0[nJ[ng[42781]]]=0 b0[nJ[ng[27332]]]=0 b0[nJ[ng[58847]]]=12 b0[nJ[ng[25205]]]=0 b0[nJ[ng[37959]]]=function(i5,i2,i4)if i5 then b0[nJ[ng[49822]]]=b0[nJ[ng[35303]]]+1 end if not i5 then return nil end return b0[nJ[ng[49972]]](i5,i2,i4)end do local i3={}i3[1]={nJ[55915],b5[nW(314,nD,5)]}i3[2]={nJ[5989],b5[nW(795,nD,5)]}i3[3]={nJ[16063],b5[nW(715,nD,5)]}i3[4]={nJ[44110],b5[nW(374,nD,5)]}i3[5]={nJ[52464],b5[nW(697,nD,5)]}i3[6]={nJ[49134],b5[nW(332,nD,5)]}i3[7]={nJ[4839],b5[nW(506,nD,5)]}i3[8]={nJ[27642],b5[nW(846,nD,5)]}i3[9]={nJ[30304],b5[nW(463,nD,5)]}i3[10]={nJ[6356],b5[nW(264,nD,5)]}i3[11]={nJ[62663],b5[nW(579,nD,5)]}i3[12]={nJ[42651],b5[nW(809,nD,5)]}local i6=1 while i6<=12 do local i1=i3[i6]nz(b0,i1[1],i1[2])i6=i6+1 end end b0[nJ[25475]]=function()local i7=b0[nJ[4839]]if i7 then return i7(2,(J(((84+224)),hv)and tM or nil))end local i8=b0[nJ[5989]]if i8 then local i9=i8(2,(J(((452+40-184)),hv)and tM or nil));return i9 and i9[(J(0x152,hv)and tM or nil)]end return nil end do local Mz=function(Mm)return function(Mb,Mn,Mj,Mf)return Mm(Mb,Mn,Mj,Mf)end end b0[nJ[ng[39906]]]=Mz(function(Mb,Mn,Mj,Mf)b0[nJ[ng[33065]]]=b0[nJ[ng[21451]]]+1 mT=((mT*33)+(Mf or 0))%mg if not Mb then return nil end b0[nJ[ng[49911]]]=b0[nJ[ng[48416]]]+1 local MC=b0[nJ[ng[28279]]](Mb,Mn,Mj)if not MC and Mb then b0[nJ[ng[22207]]](b6,b0[nJ[ng[31705]]],b0[nJ[40199]]);b0[nJ[ng[42308]]](b6,b0[nJ[ng[45800]]],b0[nJ[40199]])b0[nJ[ng[36886]]](b6,b0[nJ[ng[40021]]],(b0[nJ[ng[39293]]](b6,b0[nJ[ng[24798]]])or 0)+1)local MK=b0[nJ[ng[23630]]](b6,b0[nJ[ng[54896]]])or{}MK[879009]=b0[nJ[40199]]b0[nJ[ng[37556]]](b6,b0[nJ[ng[36303]]],MK)end return MC end)end do local MG=b0[nJ[15810]]local Mh=b0[nJ[47718]]local MS=b0[nJ[9199]]or b0[nJ[16707]]if MG and Mh and MS then local Mt=function()return 6954 end local Mq=function()return 15148 end local Mr={}local ME={[(J(((20+0)),hv)and tM or nil)]=Mt,[(J(0x122,hv)and tM or nil)]=Mq}local Mx=MS(function()MG(Mr,ME)end)local Mi=(not Mx)or Mh(ME,(J(((74+139-193)),hv)and tM or nil))~=Mt or Mh(ME,(J(((529+-105-134)),hv)and tM or nil))~=Mq if Mi then b0[nJ[ng[32835]]](b6,b0[nJ[ng[53542]]],b0[nJ[40199]]);b0[nJ[ng[39508]]](b6,b0[nJ[ng[45190]]],b0[nJ[40199]])b0[nJ[ng[36456]]](b6,b0[nJ[ng[26774]]],(b0[nJ[ng[48481]]](b6,b0[nJ[ng[55558]]])or 0)+1)local MM=b0[nJ[ng[51659]]](b6,b0[nJ[ng[38079]]])or{}MM[(103527+44267)]=b0[nJ[40199]]b0[nJ[ng[45227]]](b6,b0[nJ[ng[59895]]],MM)b0[nJ[15810]]=({})[100862]end end end b0[nJ[ng[57239]]]=function()local MR=b0[nJ[50078]]return b0[nJ[ng[44265]]](MR,b0,nJ[50078],8)end b0[nJ[ng[28582]]]()b0[nJ[ng[38009]]]=function()local MR=b0[nJ[16634]]return b0[nJ[ng[52096]]](MR,b0,nJ[47718],12)end b0[nJ[ng[30223]]]()do local Mc=function()return function()local MR=b0[nJ[39435]]return b0[nJ[ng[25244]]](MR,b0,nJ[39435],9)end end b0[nJ[ng[39356]]]=Mc()b0[nJ[ng[35899]]]()end b0[nJ[ng[51648]]]=function()local Mv=b0[nJ[16063]]or(b0[nJ[43392]]and b0[nJ[43392]][(J((68-64),hv)and tM or nil)])local MN=b0[nJ[ng[28368]]](Mv,b0,nJ[47718],13)local MQ=0 local MA=b0[nJ[9199]]or b0[nJ[16707]]local Ml=MN or Mv if Ml and MA then local Ms,MF=MA(Ml,"\49\113\119\54\48\58\55\54\53\58\97\111\54\114\115\52",(J(((429+126-183)),hv)and tM or nil))if(not Ms)or MF~="\55\54\53"then MQ=MQ+1 end Ms,MF=MA(Ml,"\100\99\104\103\106\58\45\53\48\58\97\111\54\114\115\52",(J(((68+296)),hv)and tM or nil))if(not Ms)or MF~="\45\53\48"then MQ=MQ+1 end Ms,MF=MA(Ml,"\48\109\101\52\100\58\97\111\54\114\115\52",(J((453-142),hv)and tM or nil))if(not Ms)or MF~="\97\111\54\114\115\52"then MQ=MQ+1 end Ms,MH=MA(Ml,"\48\109\101\52\100\58\97\111\54\114\115\52",(J((67*5+2),hv)and tM or nil))if(not Ms)or MH~=nil then MQ=MQ+1 end else MQ=MQ+1 end if MQ>1 then b0[nJ[ng[51149]]](b6,b0[nJ[ng[38004]]],b0[nJ[40199]]);b0[nJ[ng[57724]]](b6,b0[nJ[ng[50484]]],b0[nJ[40199]])b0[nJ[ng[26258]]](b6,b0[nJ[ng[53191]]],(b0[nJ[ng[21756]]](b6,b0[nJ[ng[50675]]])or 0)+MQ)local MP=b0[nJ[ng[45250]]](b6,b0[nJ[ng[50342]]])or{}MP[(282046+62129)]=b0[nJ[40199]]b0[nJ[ng[29039]]](b6,b0[nJ[ng[55391]]],MP)end return MN end b0[nJ[ng[52222]]]()b0[nJ[ng[59015]]]=function()local MB=b0[nJ[16707]]local Mo=b0[nJ[ng[53754]]](MB,b0,nJ[16707],11)if not Mo then b0[nJ[ng[30157]]](b6,b0[nJ[ng[49792]]],b0[nJ[40199]]);b0[nJ[ng[30089]]](b6,b0[nJ[ng[43316]]],b0[nJ[40199]])b0[nJ[ng[36885]]](b6,b0[nJ[ng[54976]]],(b0[nJ[ng[39177]]](b6,b0[nJ[ng[36481]]])or 0)+1)local RJ=b0[nJ[ng[34774]]](b6,b0[nJ[ng[53709]]])or{}RJ[0x68D03]=b0[nJ[40199]]b0[nJ[ng[49783]]](b6,b0[nJ[ng[49312]]],RJ)end local MJ=b0[nJ[32836]]local MZ=b0[nJ[4839]]local Mp=nil local MD=b0[nJ[9199]]or b0[nJ[16707]]local M6=b0[nJ[51747]]or b0[nJ[16634]]local Mg=b0[nJ[27642]]or b0[nJ[58022]]or type if not MZ and MJ then MZ=MJ[(J(((517-90-84)),hv)and tM or nil)]end if MJ then Mp=MJ[(J(((491-40-166)),hv)and tM or nil)]end if not MZ then MZ=jn end if not Mp then Mp=jj end if(not MZ or not Mp)then local Mw=b0[nJ[52464]]or b0[nJ[58040]]local ML=b0[nJ[6356]]or b0[nJ[47718]]if Mw and ML and MD then local MI,Mk=MD(Mw,0)if MI and Mg(Mk)==Mg({})then local M0=ML(Mk,(J(0x172,hv)and tM or nil))if M0 and Mg(M0)==Mg({})then if not MZ then MZ=ML(M0,(J((413-70),hv)and tM or nil))end if not Mp then Mp=ML(M0,(J(0x11D,hv)and tM or nil))end end end end end local Me=b0[nJ[43392]]local MW=Me and Me[(J(0xB,hv)and tM or nil)]local Rd=Me and Me[(J(((374-19-79)),hv)and tM or nil)]local Rc=(J((75*4+2),hv)and tM or nil)local Rv=(J(((456+93-178)),hv)and tM or nil)local RK=0 local Ma=0 local Rb=6 local Rn=7 local Ri=nil local RM=nil local MT=nil local M4=nil local M8=nil local RD=nil local Mr=nil local RI=nil local Rz=false local Rm=false local RG=false local Rh=false local Rr=false local RE=false local Rt=false local Rq=false local Rx=false local Mn=Mg(MZ)local Ru=Mg(Mp)if MZ and MD then local MI,Rj=MD(function()return MZ(4,(J(((344-15+(168-168))),hv)and tM or nil))end)if MI then MT=Rj end if MI and Rj==(J(((324+162-100)),hv)and tM or nil)then RK=RK+1 Rz=true end end if Mp and MD and MW then local MU,My=MD(Mp)if MU and Mg(My)==Mg("")then local MX=1 for M5=1,#My do if MW(My,M5)==10 then MX=MX+1 end end Ri=MX end end local RR=jj or Mp if RR and MD and MW then local MU,My=MD(RR)if MU and Mg(My)==Mg("")then local MX=1 for M5=1,#My do if MW(My,M5)==10 then MX=MX+1 end end RM=MX end end if Ri~=nil and RM~=nil then if Ri~=RM then RK=RK+1;Rm=true end Ma=RM elseif Ri~=nil then if Ri>6 then RK=RK+1;RG=true end Ma=Ri end if MZ and MD then local M2,M3=MD(function()local M3=0 for MM=1,24 do local Rf,Rj=MD(function()return MZ(MM,(J(((503+-61-113)),hv)and tM or nil))end)if(not Rf)or Rj==nil then break end M3=M3+1 end return M3 end)if M2 and Mg(M3)==Mg(0)then M4=M3 end if M2 and Mg(M3)==Mg(0)and M3>Rb then Rh=true end end if MZ and M6 then local M1=function()return nil end local M7,M9=M6(function()local M9=0 for MM=1,24 do local Rf,Rj=M6(function()return MZ(MM,(J(((29+300)),hv)and tM or nil))end,M1)if(not Rf)or Rj==nil then break end M9=M9+1 end return M9 end,M1)if M7 and Mg(M9)==Mg(0)then M8=M9 end if M8~=nil and M8>Rn then Rr=true end end local RZ=b0[nJ[26930]]local Rp=RZ and RZ[(J((445-124),hv)and tM or nil)]local Rg=RZ and RZ[(J(((191+319-192)),hv)and tM or nil)]if MZ and Mp and MD and MW and Rp and Rg then local Re=Rp(function()local RT=nil local RU=nil local Ry=nil local RX,Ra=MD(function()return MZ(4,(J((557-228),hv)and tM or nil))end)if RX then RT=Ra end RX,Ra=MD(Mp)if RX and Mg(Ra)==Mg("")then local Rw=1 for RL=1,#Ra do if MW(Ra,RL)==10 then Rw=Rw+1 end end RU=Rw end RX,Ra=MD(function()local Rw=0 for Rk=1,24 do local R0,R5=MD(function()return MZ(Rk,(J(((379-32-18)),hv)and tM or nil))end)if(not R0)or R5==nil then break end Rw=Rw+1 end return Rw end)if RX and Mg(Ra)==Mg(0)then Ry=Ra end return RT,RU,Ry end)local RW,R2,R4,R3=Rg(Re)if RW then RD=R2;Mr=R4;RI=R3 end if RD then RK=RK+1;RE=true end if Mr~=nil and Mr>6 then RK=RK+1;Rt=true end if RI~=nil and RI>7 then RK=RK+1;Rq=true end end local RN=nil if MW and Rd then local RQ=#Rc local Rs=1 while Rs<=RQ do local Rl=MW(Rc,Rs)if Rl==58 then local RF=Rs+1 while RF<=RQ do local RH=MW(Rc,RF)if RH==58 then RN=Rd(Rc,Rs+1,RF-1)RF=RQ+1 Rs=RQ+1 end RF=RF+1 end end Rs=Rs+1 end end if RN~=Rv then RK=RK+1;Rx=true end if RK>0 then b0[nJ[ng[54221]]](b6,b0[nJ[ng[33692]]],b0[nJ[40199]]);b0[nJ[ng[23712]]](b6,b0[nJ[ng[58375]]],b0[nJ[40199]])b0[nJ[ng[56920]]](b6,b0[nJ[ng[30003]]],(b0[nJ[ng[36831]]](b6,b0[nJ[ng[32165]]])or 0)+RK)local Ro=b0[nJ[ng[46616]]](b6,b0[nJ[ng[45755]]])or{}Ro[(0x5F174-40392)]=b0[nJ[40199]]Ro[(0xE40E1-5629)]=(RD~=nil)b0[nJ[ng[29638]]](b6,b0[nJ[ng[26314]]],Ro)end return Mo end b0[nJ[ng[59862]]]()do local Mc=function()return function()local MR=b0[nJ[15810]]return b0[nJ[ng[54963]]](MR,b0,nJ[15810],20)end end b0[nJ[ng[37426]]]=Mc()b0[nJ[ng[47809]]]()end do local R8=b0[nJ[15810]]local R9=b0[nJ[47718]]local db=b0[nJ[9199]]or b0[nJ[16707]]if R8 and R9 and db then local Rj={}local MF={}local dn=db(function()R8(Rj,MF)end)local dj=(not dn)or R9(MF,(J(0x14,hv)and tM or nil))~=nil or R9(MF,(J(((86+204)),hv)and tM or nil))~=nil if dj then b0[nJ[ng[53147]]](b6,b0[nJ[ng[59863]]],b0[nJ[40199]]);b0[nJ[ng[41722]]](b6,b0[nJ[ng[53600]]],b0[nJ[40199]])b0[nJ[ng[54920]]](b6,b0[nJ[ng[31904]]],(b0[nJ[ng[21556]]](b6,b0[nJ[ng[44173]]])or 0)+1)local MM=b0[nJ[ng[29807]]](b6,b0[nJ[ng[49812]]])or{}MM[0x34942]=b0[nJ[40199]]b0[nJ[ng[46601]]](b6,b0[nJ[ng[23424]]],MM)b0[nJ[15810]]=({})[100862]end end end do local df=function(du)return function()return du()end end b0[nJ[ng[42974]]]=df(function()local MR=b0[nJ[58040]]return b0[nJ[ng[38033]]](MR,b0,nJ[58040],6)end)end b0[nJ[ng[56517]]]()do local Mc=function()return function()local MR=b0[nJ[43392]]and b0[nJ[43392]][(J((198+103),hv)and tM or nil)]return b0[nJ[ng[59562]]](MR,b0,nJ[47718],14)end end b0[nJ[ng[32748]]]=Mc()b0[nJ[ng[48114]]]()end do local df=function(du)return function()return du()end end b0[nJ[ng[37947]]]=df(function()local MR=b0[nJ[47718]]return b0[nJ[ng[32929]]](MR,b0,nJ[47718],7)end)end b0[nJ[ng[37607]]]()do local dw=function(dL)local dk=dL return function()return dk()end end b0[nJ[ng[49172]]]=dw(function()local dC=b0[nJ[26472]]or(b0[nJ[43392]]and b0[nJ[43392]][(J((447-124),hv)and tM or nil)])local dK=b0[nJ[ng[26017]]](dC,b0,nJ[47718],19)local dz=(b0[nJ[43392]]and b0[nJ[43392]][(J((161*2+1),hv)and tM or nil)])or dK or dC local dm=b0[nJ[9199]]or b0[nJ[16707]]local dG=b0[nJ[4839]]or(b0[nJ[32836]]and b0[nJ[32836]][(J(((107+236)),hv)and tM or nil)])local dh=(b0[nJ[32836]]and b0[nJ[32836]][(J((47*6+3),hv)and tM or nil)])or nil if not dG then dG=jn end if not dh then dh=jj end local dS=b0[nJ[27642]]or nC local dr=dS(dz)local dE=dS(dm)local dt=dS(dG)local dq=dS(dh)local dx=0 local di=0 local dM=0 local dR=false local dd=false local dc=false local dv=false local dN=false local dT=false local dU=nil local dy=false local dX=nil local dp=nil if dz and dm then local dQ,dA=dm(dz,(J(((231+236-136)),hv)and tM or nil),42)dR=dQ and dA==(J((444-127),hv)and tM or nil)if(not dQ)or dA~=(J(((412-80-15)),hv)and tM or nil)then dx=dx+1 end dQ,dA=dm(dz,(J(((388-20+(235-235))),hv)and tM or nil),"\97",7)dd=dQ and dA==(J(0x14C,hv)and tM or nil)if(not dQ)or dA~=(J(((437+224-329)),hv)and tM or nil)then dx=dx+1 end local dF=0 local ds=nil if b0[nJ[15810]]then ds=b0[nJ[15810]]({},{[(J((306+29),hv)and tM or nil)]=function()dF=dF+1;return(J(((167+359-239)),hv)and tM or nil)end})end if ds~=nil then dQ,dA=dm(dz,(J((51*6+1),hv)and tM or nil),ds)dc=dQ and dA==(J((228+43),hv)and tM or nil)dv=dF==1 if(not dQ)or dA~=(J(((168+232-129)),hv)and tM or nil)then dx=dx+1 end if dF~=1 then dx=dx+1 end else dx=dx+1 end local dl=function()return 1 end local dH=function()return 2 end local dP,dO=dm(dz,(J(((358-27+(253-253))),hv)and tM or nil),dl)local dV,dY=dm(dz,(J(0x14B,hv)and tM or nil),dH)dN=dP and dV and dO~=dY if(not dP)or(not dV)or dO==dY then dx=dx+1 end else dx=dx+2 end if dx<2 and dz and dm and dG and b0[nJ[15810]]then local dD=dS(dz)local dB=function(d6)local dJ=nil local dZ=false local RO=b0[nJ[15810]]({},{[(J((167*2+1),hv)and tM or nil)]=function()dZ=true local d1,d7=dm(function()return dG(8,(J((272+57),hv)and tM or nil))end)if d1 then dJ=d7 end return(J((498-137),hv)and tM or nil)end})d6(function()dm(dz,(J(((181+191-65)),hv)and tM or nil),RO)end)return dZ,dJ end local d8=function(cn)cn()end local d9=function(cn)local function cj()local function cf()local function cu()cn()end cu()end cf()end cj()end local cb=function(cn)local cC=b0[nJ[26930]]local cK=cC and cC[(J(321,hv)and tM or nil)]local cz=cC and cC[(J((293+25),hv)and tM or nil)]if cK and cz then local cm=cK(function()cn()end)cz(cm)else cn()end end local cG,ch=dB(d8)dT=cG dU=ch if cG and ch==(J(((34+352)),hv)and tM or nil)then dM=dM+1 end cG,ch=dB(d9)dy=cG dX=ch if cG and ch==(J((352+34),hv)and tM or nil)then dM=dM+1 end cG,ch=dB(cb)dg=cG dp=ch if cG and ch==(J(((445+54-113)),hv)and tM or nil)then dM=dM+1 end end local cS=(dx>=2)or(dM>=3)if cS then b0[nJ[ng[20402]]](b6,b0[nJ[ng[37890]]],b0[nJ[40199]]);b0[nJ[ng[43317]]](b6,b0[nJ[ng[55870]]],b0[nJ[40199]])local d0=b0[nJ[ng[31583]]](b6,b0[nJ[ng[20388]]])or 0 local d5=b0[nJ[5372]]and b0[nJ[5372]](d0)or d0 if d5==nil then d5=0 end local d2=b0[nJ[5372]]and b0[nJ[5372]](dx)or dx if d2==nil then d2=0 end local d4=b0[nJ[5372]]and b0[nJ[5372]](di)or di if d4==nil then d4=0 end local d3=b0[nJ[5372]]and b0[nJ[5372]](dM)or dM if d3==nil then d3=0 end b0[nJ[ng[43063]]](b6,b0[nJ[ng[41663]]],d5+d2+d4+d3)local dI=b0[nJ[ng[45281]]](b6,b0[nJ[ng[50362]]])if dS(dI)~=nq then dI={}end if dx>=2 then dI[588755]=b0[nJ[40199]]end if dM>=3 then dI[0x607D8]=b0[nJ[40199]]end b0[nJ[ng[46865]]](b6,b0[nJ[ng[53179]]],dI)end return dK end)end b0[nJ[ng[38730]]]()do local df=function(du)return function()return du()end end b0[nJ[ng[37260]]]=df(function()local MR=b0[nJ[56965]]return b0[nJ[ng[24579]]](MR,b0,nJ[56965],5)end)end b0[nJ[ng[54950]]]()do local cq=function(cx)return function()return cx()end end b0[nJ[ng[59960]]]=cq(function()b0[nJ[ng[40408]]]=b0[nJ[ng[26340]]]+1 mT=((mT*33)+15)%mg local cr=b5[nW(809,nD,5)]if cr then local cE=cr()if cE~=nil then b0[nJ[ng[57451]]](b6,b0[nJ[ng[24844]]],b0[nJ[40199]]);b0[nJ[ng[48584]]](b6,b0[nJ[ng[51891]]],b0[nJ[40199]])b0[nJ[ng[50227]]](b6,b0[nJ[ng[27262]]],(b0[nJ[ng[28151]]](b6,b0[nJ[ng[55468]]])or 0)+1)local ct=b0[nJ[ng[20306]]](b6,b0[nJ[ng[39765]]])or{}ct[(0xB44A1+32743)]=b0[nJ[40199]]b0[nJ[ng[42624]]](b6,b0[nJ[ng[44034]]],ct)end end end)end b0[nJ[ng[53774]]]()do local cR=function(cd)local cc=cd return function()return cc()end end b0[nJ[ng[48025]]]=cR(function()if b0[nJ[ng[52037]]]~=b0[nJ[ng[45252]]]then b0[nJ[ng[54443]]](b6,b0[nJ[ng[39398]]],b0[nJ[40199]]);b0[nJ[ng[44340]]](b6,b0[nJ[ng[59608]]],b0[nJ[40199]])b0[nJ[ng[35415]]](b6,b0[nJ[ng[38473]]],(b0[nJ[ng[47085]]](b6,b0[nJ[ng[59430]]])or 0)+1)local cM=b0[nJ[ng[24529]]](b6,b0[nJ[ng[29757]]])or{}cM[0x8F08C]=b0[nJ[40199]]b0[nJ[ng[46293]]](b6,b0[nJ[ng[27839]]],cM)end if b0[nJ[ng[58315]]]~=b0[nJ[ng[30655]]]then b0[nJ[ng[46799]]](b6,b0[nJ[ng[43796]]],b0[nJ[40199]]);b0[nJ[ng[40127]]](b6,b0[nJ[ng[55232]]],b0[nJ[40199]])b0[nJ[ng[36638]]](b6,b0[nJ[ng[54569]]],(b0[nJ[ng[46591]]](b6,b0[nJ[ng[40319]]])or 0)+1)local cM=b0[nJ[ng[46450]]](b6,b0[nJ[ng[58548]]])or{}cM[(0x68A11-49236)]=b0[nJ[40199]]b0[nJ[ng[47843]]](b6,b0[nJ[ng[54005]]],cM)end end)end b0[nJ[ng[33869]]]()b0[nJ[24710]]=(J((581-199),hv)and tM or nil);b0[nJ[58405]]=(J((475-151),hv)and tM or nil);b0[nJ[55450]]=(J(((426-52-15)),hv)and tM or nil);b0[nJ[7864]]=(J((292+34),hv)and tM or nil);b0[nJ[18946]]=(J(((420+-47-46)),hv)and tM or nil);b0[nJ[29571]]=(J((345-61),hv)and tM or nil);nM=(J(((556-81-127)),hv)and tM or nil);b0[nJ[16170]]=nM b0[nJ[60756]]=1 b0[nJ[17770]]={}nj=-1 nf=false b0[nJ[12819]]={}b0[nJ[30543]]=nil b0[nJ[57597]]=b0[nJ[15810]]({},{__mode='k'})local cN={}local cF={}b0[nJ[15810]](cF,{[(J((73-53),hv)and tM or nil)]=function(_,fN)local cv=b5[nW(270,nD,5)](1)if cv then local fQ=cv[fN]if fQ~=nil then return fQ end if cN[fN]then return nil end end return b0[nJ[6286]](fN)end})b0[nJ[8717]]=b0[nJ[15810]]({},{[(J(((90-8-62)),hv)and tM or nil)]=cF,[(J(((326-36+(183-183))),hv)and tM or nil)]=function(_,cQ,cA)local cs=b5[nW(270,nD,5)](1)nz(cs,cQ,cA)if cA==nil then cN[cQ]=true else cN[cQ]=nil end end})do local cl=b5[nW(270,nD,5)]local cH=function(cP)if cP==nil or cP==0 or cP==1 then return b0[nJ[8717]]end return cl(cP)end nz(b0[nJ[8717]],(J(((194-82-94)),hv)and tM or nil),cH)end b0[nJ[58936]]=b5[nW(483,nD,5)]b0[nJ[13767]]=0 b0[nJ[17204]]=0 b0[nJ[49060]]=function()local cO=b0[nJ[32836]]and b0[nJ[32836]][(J((225+118),hv)and tM or nil)]if nC(cO)==nx then local _r=cO(1,(J((208+114),hv)and tM or nil))or 0 if _r<=0 or _r>49157 then return 0 end return _r end local cY=b0[nJ[32836]]and b0[nJ[32836]][(J(((410+-111-27)),hv)and tM or nil)]if nC(cY)==nx then local cB=cY(1,(J(((14+308)),hv)and tM or nil))local _r=(cB and cB[(J(((397+14-81)),hv)and tM or nil)])or 0 if _r<=0 or _r>49157 then return 0 end return _r end return 0 end b0[nJ[55954]]=function()local cO=b0[nJ[32836]]and b0[nJ[32836]][(J((57*6+1),hv)and tM or nil)]if cO then local cJ=cO(1,(J(0x142,hv)and tM or nil))local _r=(cJ or 0)*1+0 if _r<=0 or _r>49157 then _r=0 end return _r end local cY=b0[nJ[32836]]and b0[nJ[32836]][(J((479-207),hv)and tM or nil)]if cY then local cB=cY(1,(J((531-209),hv)and tM or nil))local _r=(cB and cB[(J(((294+236-200)),hv)and tM or nil)]or 0)*1+0 if _r<=0 or _r>49157 then _r=0 end return _r end return 0 end b0[nJ[30559]]=function()local cZ={}cZ[1]=b0[nJ[32836]]local G2=(J(((500+148-305)),hv)and tM or nil)if cZ[1]and cZ[1][G2]then local _r=cZ[1][G2](1,(J(((417-27-68)),hv)and tM or nil))or 0 if _r<=0 or _r>49157 then return 0 end return _r end local cp=(J(((282-10+(63-63))),hv)and tM or nil)if cZ[1]and cZ[1][cp]then local cB=cZ[1][cp](1,(J(((349+98-125)),hv)and tM or nil))local _r=(cB and cB[(J(((16+314)),hv)and tM or nil)])or 0 if _r<=0 or _r>49157 then return 0 end return _r end return 0 end b0[nJ[64316]]=function()local cg=b0[nJ[6286]]((J(((324+228-182)),hv)and tM or nil))if cg then local hh=nK(cg,(J(0x157,hv)and tM or nil))if hh then local _r=hh(1,(J((35*9+7),hv)and tM or nil))or 0 if _r<=0 or _r>49157 then return 0 end return _r end local hh=nK(cg,(J((210+62),hv)and tM or nil))if hh then local cB=hh(1,(J(322,hv)and tM or nil))local _r=(cB and cB[(J(330,hv)and tM or nil)])or 0 if _r<=0 or _r>49157 then return 0 end return _r end end return 0 end local cV=b0[nJ[ng[37666]]]()local nd=0 b0[nJ[ng[26232]]]=function(...)local ce=b5[nW(929,nD,5)];local cW=(ce and ce(1)or 0)*1+0;if cW<=0 or cW>49157 then cW=0 end;nd=cW;return(...)[...]end b0[nJ[ng[25819]]](b6,b0[nJ[ng[31025]]],b0[nJ[42034]])local cD={}nz(cD,"__mode","k")b0[nJ[59725]]=b0[nJ[15810]]({},cD)b0[nJ[41003]],b0[nJ[17661]],b0[nJ[60282]],b0[nJ[46631]],b0[nJ[9158]],b0[nJ[47668]],b0[nJ[16099]]=(J(20,hv)and tM or nil),(J(290,hv)and tM or nil),(J(282,hv)and tM or nil),(J(283,hv)and tM or nil),(J(336,hv)and tM or nil),(J(340,hv)and tM or nil),(J(335,hv)and tM or nil)local P=nil b0[nJ[ng[35062]]](b6,b0[nJ[ng[34391]]],b0[nJ[42034]])b0[nJ[ng[28473]]](b6,b0[nJ[ng[35465]]],b0[nJ[42034]])b0[nJ[32749]]=function()end b0[nJ[45844]]={}local cI={}b0[nJ[13214]]=cI cI[4]=942 cI[5]=171 cI[6]=3625 cI[3]=62174 cI[2]=b0[nJ[61653]]do local cT=(cI[4]*131072+cI[5]*257+(cI[6]%65536)+0x4A1E3)cI[8]=nb(cT)%me local cU=cI[8]cI[16]=((cU*48271+cI[2])%me)local cy=cI[16]cI[15]=nb(b7(cU,cy))%me end b0[nJ[25332]]=87 b0[nJ[51055]]=59 b0[nJ[21574]]=54 b0[nJ[19012]]=58 b0[nJ[29581]]=23 b0[nJ[34688]]=51 b0[nJ[9169]]=8 b0[nJ[65399]]=140 local cX={}do local ca="48gLffjfzO`rZqEw,<+f/fff5$u,:nD(8Lc<jfA2hHP32mn2)f[x8DX-;q7fUy!*#?XIYN<-Q5A@*2j^:)3^}/vFtm,COf@7mOX*Saff)z:qaWXHdr(<)r3^Rtl;^^73))3fN:Bl[f&<iYuA5Kl}Wfrk:q7f`j0{EgbIvvV|5Yh)A>q^yNWatNsbJ)7|rk]Q8>qw;X6!ar+eK{PWQ5K^P7e38>eeJmqL,xarQY[2(s?3ffisG&suS+nrafYf??2KYa)&>(E%?Xy<7r+-cW2fGvS9Q)71ME3^##0G{/Ui0rNr}Ga7h-ziB?ek:^2^)q@dffH-?h{efaYfffApxEWax[5^8DEK4nL{3^=B@fsTVXM5!)A@#`Gaw97%FryC{I~R:0&YDj]>hF4|zGTiWg5tZgJ?vg]mYo=&_<@^~1yX-a.+Nfq^#Z$aKfffsf/t]D;*OF$<$S5:kcW3|dg7vK/z(^aDrabPCik>vgF.~ky37f{]f)}!KaBhF^Xf5fYxAWrf^X3##ZTFz2=mO]++U73^6Wai3f#huHj!u5SfnvGe>VCLw&zppLgN}Xp/8?JF|^DuZGC>9345A3>5toUf$~)p3^k>ZGhH8PG>v5)fX-9l:8hnv#]3q3w|E^ffS*PAt)Sroo`aA7l0e1!%ye_^k1evvhufD5Lf(QoK0aG*9T`+aGf5?){Om4O?^GB[X-Nnb_.)#y&^/G(z}HG<eftN3^w?Llg`wWPfm3]*;uk;ZrH}Ua{HA{*YC^AvLp5fWL=nKL/fV=yCwV=RTnpLtj7MNNh~shp[e1%WEA:`p=;UwF0R+ao$?!{_j3T`FUfq%mQO<-~6ttE`&n)aVhG4jf)S7NR%sht*MZxHRF*bY7I~3ng~JpgfO`GLnD11ELa(9E:B5|5{aO?7BbnNbVY}b8|y1a^aC&zW)ePic>oPDk`aC_iKOTwxg_HhZ2FFu?%8n^&DzA$(Id70zQ>a1e|e3c}hF5oi4iGLY=waln1f:3fc1DjQVXcP%SuA4j!*i%MOO);w1+|5cCV*VvpFhHv_?6~aY_|Nv-9k{3I[MIUcDo?&K~Bul*fN.jixD*7SwlR-W23^aYA>Ag<lI)lz-Su_qLWn=oF5/LT^pr67`@D}gD.-XapxDbrjrLhf0&0GEXt0.1f3V}y3vZ_|)HlfRh$HG]-?`2-*?hrp+IrRw/vs?j,,*rvrKSsP?|O+Yrsgc,hqY{v!Qfsux7Zr`iqfGQ)Q]]?VhDn4RHZfw?F;rO:qTq{hQ<ia||oKR*7x5Fib3fU`AN(fiQkfOn^hj-+QddS1Wn/3XM+)8>$cM4Whl?,c2f./DoL5o(*^HLiZfj++SME14(%b^aq2R^x$a/H&!Dm^(0rn@C97<o-W}/<U[ag203/-xK4nJU(6]59fNw{eZ8Ii{aYb7^$7E2yet8TC/Qn^+.|QkMz$F]Rf85WSpr`-nAkT}g,.qAUcN*~>|>rT9dtLi>ldRU/|/SRd04ebL<c_GW3!Iob%P&bz|=EpneR~&:M6rh+$>SZbRzLLnqulrb~DPnlk[EFAcPt_rGHh.7(*44|fa,b67o^CdC<4]z6ai[Dkp3?ZWC#V+e-mrWXJX^PO[dhf9{Rk-Yh@[o%_*hVhOMmL/Jid;ZLG]sEAB6]>5/:1UEYh(|1enrFMfnuJ0;ffz=/pWnWbC}m8t6#Z5Y#:?b[b*=mD@i_zA4urad^>NlT&]zL8H>f^BZKbb:aUq-Wp5>-0EEbPs&NcH6&Ng(?^X0yQY6f9XnK2q0ddfc#fQ}M7OJm|afEisP?CP*!v@yA~TD=Jd@Z&u}]QU_AzKq/z_6U?z_r828|L]SD20u#6hxlJFL*ujM~[HLR3oDr81aCQuEYmHd:{y;$8c7N546EotD7eXvA6Bf0CA6|2:Rr_z4)0mJ?bv3?Seo_7-C:>&P2Mz`kezg#+#QrJMT+zB]_9KSE6bhIUDOYn6%|94(8R8WqH!3=hs3(bXHK!6U:l<WHQSkW:kDta_<V|^6_>6yUe[EZyK>erk)KJnv!qX-DWb_YG-1;MeD#)VU)_l9k%DNSMgL})`y@=E_Qr_f=)m-D//?9;le5V?BVxKh/Gs%O7)l.N=-EKH,w}d3=V|dB>qml]l;t<J.r6r7aobKh+D3k]!pOO?Q7D[m~GpX5|{n?_lP<M#ktn>^r6ddsk;9nObJxIRFPd`<;M*xNq]:I(ag?pYo6iX7d[hVc0t/M(!m<Lq_Nx^LiJ%zxNH6-kBf7J9g&(YML5!`TcL5wm(d+?Aaf3}H~ypr/5HotK:w@SGH.<pLl)o?r3@~OLQvtf0fV=1WDF,v!2q7jMCn3^1udGar!nQ+)y?9(cGDks~M(>xF)HF&]m}OW.~W96<Uq6eiQ>R(&_A&-~ghq6s[3k_u8vd@AWE2):L=<$<8hB0oB@*IJ-ogg0D/!4b{>@9;}yE<4M2aNrQ|qkbnApiN(WE7P68_WFi%S>h?.>E6%C}$;+XygQQ8)dSIEHy6O_xyO6n~OOh1C<Kxd6TihQ[X!3D6WowJ}0tQUJ/#!bS%w|-X;&d+;aA_D3%=7(;%`xy4$8/~Wp;#Q<+6mwahx3/3ix.n[ta|$6C-kzOB8kQj<Mf5k<gBrJ#wMM$!X=F%^TPM3a3f&[U6$|Puzo%Cza-0jTV4I9i[sEEdHLq68eqc,CNfx<69^>e[ZM3G*d~UcwkExy6Nf^R^g6gf}C~,u}I6-Y%k8+0^@W%tP8EJ5rQi;1*lr6iH^M:ps2aT8^%_ZUcraVUMajy/>ya)A36y[X=hl6H5,zA+S3O`PX_f=TAT5I|1r,+(_@mR@a|d<LQ5$6i8%j*5}C*TVL(>_JXY-3?_|5OvNNn)Q#yp:6zUd6j*Ah9U|bSv8cbQ2.zo~|lP-%0C!z~x7p*L#hwX$@O|3fsD_m^DofKd;f~.Qv.:,r;N(|R`)b#w*hmWSJ1aCi^SBy)>p-~5:QKNhXC)Ou[%naAx(S4jp2{n4}YCL8#6FxlD$`}z]vZk.>u+?[/0iooh?mNj0NOy^MZNf0ixiw2!&p1e]F6]n+Jo:9W-huO6pB)i(m|7=a>1Yyi7TM@&O+|JLSXYFbxItm_s];>)|LbTBIrRne{v_d3&Cd|c##kaKSsW?|`ZQ#{xJGqoS@[~gVJiMMF.u7Gvip?a!quhdJik*hDoTUzJ5s&z1mL,uVj||*66YZGysmLEtsS6vh+(6<j-%qC5}zK[W?qy@IioOfG6khR7.6DK>Hy,-L%e|EMq:tBz{@"local cw=my(ca)cw=Sh(cw,18105)local cL=b0[nJ[57254]](cw)local c7=b0[nJ[43392]][(J(((36-25+(46-46))),hv)and tM or nil)]local c8=b0[nJ[43392]][(J(((311-35+(149-149))),hv)and tM or nil)]local ck=1 local function c9()local a=c7(cL,ck)or 0 local b=c7(cL,ck+1)or 0 ck=ck+2 return a+(b*256)end local c0=c9()for c5=0,c0-1 do local c2=c9()local c6={}for c4=1,c2 do local c3=c9()local c1=c8(cL,ck,ck+c3-1)ck=ck+c3 c6[c4]=c1 end cX[c5]=c6 end end b0[nJ[43415]]=cX P=(function()local vr=62174 local vE=cI[15]cI[7]=nb(b7(vr,vE))%me local vj=false local vK=(nC(bit32)==nq and bit32)or(nC(bit)==nq and bit)local vC=(vK and vK.bxor)or function(hB,ho)local hJ,hZ=0,1 while hB>0 or ho>0 do local vq,hg=hB%2,ho%2 if vq~=hg then hJ=hJ+hZ end hB,ho=(hB-vq)/2,(ho-hg)/2 hZ=hZ*2 end return hJ end local vf=function(hk,vu,vm,vG,vh,vS)if vj then return{}end vj=true local vx=1220438221 if vh>0 then for vi=vG+1,vG+vh do local vM=nK(vm,vi)or 0 vx=(vx*33+((vM==vS)and 1 or 0))%2147483647 end end local vd=vx cI[1]=vd local vt=cI[7]local vE=cI[15]local vc=nb(vC(vC(vt,vE),vd)+57005)%2147483647 cI[14]=vc local cU=cI[8]local vn=vC(cU,vc%256)if(vn%(2*128))==0 then vn=(vn==0)and 1 or(vn+1)end local Sr={}local tz=vn Sr=my(hk)local tL=vu or#Sr for hL=1,tL do local hJ=Sr[hL]or 0 Sr[hL]=vC(hJ,tz%(2*128))tz=(tz*(193*250+21)+(9*9))%(1073741823+1073741824)end return Sr end local vv=function(vm,vG,vh,vS)local vb=vf("%S]Uy8_i8`a<%;V%@IiM5]PgYCt1wTD2[.IdvOj_nXrf?C-FnBE~1=SZ6(?:N6/4w%dx$OtEv5%ey`JodyFh7zY0e~yf#,i&t(w;%|$a![Jw4AP2zB*Ne@VkD?%W]xuQ5]ZKi%y~&Ha7a*&{L}dt&>J8G]|Q`|;pOqVY5RoKk$jcp~2aBqN8$)7f1bMz&a#uV7EqT^SYc+M8)#?*}p1(p3=2/sq/@%a%S5k(sTm+brDV|Jo3Ftv*y()u@MH%|@t9,8Dy0,/lR5Z[S`z](SX5n?55Q0spU:5adQ>-;o}z]/wc]?zXaz2/w4&*u)$+.]B|t6c8yOiF6h^fVV%!|Jsf+v`ahV[iJHw`:+x5:A;EJbr=7D0tB<J(zVG/VPd-54WENoh)S9Pk@a$u`q{<??4^k,m0>547KI>hGII?9!#e--lyqD0c@38ZB4C9W?4upLP;gq+gYSY_/cCuhaTGZ4l)Vv1^V#KPm1H<m#qc%j1{je2|o2;oH?h&D>`1>|Vf/@EgWw+`*&w=l;=/1$W`zY2R,c^=@GJg8_xHcvC&Y3O(g|bCS>xBJE}i6dA]487rz`Ed}wk+`S2t)Lva%L8+b}yK}bPnw&CVZ)ti=HdD5Nq|kR*`F/-DU,~A<<>w}6INpTE!%C~wu8hQr>xso>Y96np5V.1`@i%#a.XF[&#5#[?0LJ|U#5EFf3C3uwog_^_zl%fu@7dboPPkKgNtYCi@4df~M}-yr$c`Kr*S3A!n#|//!dma;3d`m}CBhC~;(zf0a-lQ1_l7U`=_*;ctnDp6T%mpEb>*.n$_cU;^a}0_][b<m8F[)U%ev8D?f;_2|cGx7SmEiCo&6Ci!{^~UL?0(n:W9~u,SUNK@Mgy[#Q]G/f1o|XU*2(Djf4Ha*9;!8M#&VHx6k#!!PA-*9}b/8YsxT;}vFzS;+xCytGIz{TpX(mIZT$)u8([]B@[B+y[&#}f=miecM9%#R6K#!i4t1nWQ9hOLc$~DHmbt@7Mq2lk@Ynn##ne1i#9a9EtE-$:=2.QX`z,sL`6Wzib*D-o~F8nxT(KWs:5|/BJf:X*ZM55Tbw,@9eq8p)Q<q9ys_W:(-2%2=y%oXVtIQ/u3|gRWs2^lMDrOq_hR!IGyh:4p~qh,&T[$9?sC4&k.Bru=zw7jJ{.$nSp[16J*-|Cyh/y/1x}4F{cs]G:kz|6&,wj7tlWiR6nC&lppg~Gw&igd/{98.cFiMb|*TIKdB/7^5vfSHC_$,1u+snBA1qsHiqF)zn..$6>C?I{V^^y1o5U/e3~0|0ts^:!tW1Rx*TyHnQQ7{ZI<m^Qi>h`I$;,t+66M`{l&i~.SGA8a8U+*wPr?z)N|fU`/U-!!yAC2hBksJ@Ab;YlF@Pfit(KQv2w^LZ~f9$G1ufZJDNN%)S@5AVlL99gS9foB*1m~{DTS6SaKN36Zs|RyX(ySovolBLa/v8gcI[j@N41&h<J&r,9b=f+ZiqJ./I?)v%XXXW4J;#Rt7CrrA`sPG6JC94`T%Di$E`8oyU:9+sDXdR7C:s4u~h,gG%uA4dQ3,a#~x/sqA1};*Yvam;pb{CbJ;Rlf]!^xzWla}Fi()Ag!rXXkPSoJm`(h|{81J(^UVcvuz~7G_~Xx=Z9j#k2vlZkino7{&hQ]fn9gkk&-@15X75H;Nd$&GccQPb~|{wO!<?*>^J23_eO3>ZD?)DcA<4$KU`932$0/@ka`#X@50*V|io;aIxcY45|IN1Wt3;h5+)<8W>C{qgXUWMXeM{jR,W3u{R2]lvekCznYu##0g`Rzsg$|(1RWyUb/[CGWnypO#n3d*!?+u@v||~3RZtCc<M|.w+rwJvM&n?1/[@LA@]dsYK(q`2r!WB5uID$>n@SB;>YwRRhWbaAik1{WR5|$3#Fo7P+Sx`l<T|m*jc]`K|_AJQw]iLnZoRvoTDJx&v%a<!s~ZVYwn24lr|$oIOpw^$bUS41FhM|Si!/U92SjkRUdS[-yhJ.d#ozF@[-mf&%fgju>55=HP*?Qg/XMZ)Wbs2!)bcB4aL*]:!|>1J.il*5^_mF8k-j~2u{%kay)/l<N)7>txG/t&`[QUBO_|B4L750kHlInF=(K~kPY`rt{E1.YrBkt(52:xF]L2kqNU*j,VK@`,y?IVi<54pXZyy6ti?qZNHXR[zpBEmMp!eHt0HsQioXESY-McC&lVB-gV/8m<)OHDg{o.-3~jURL7#(<-G6c:K{J#XZh,b0}V8k(m@35[6c:X~DhA/rY}U(8GCc;KQO=DOhe,}@4Hs;AdWAeu!I>mvFT$_=SmZypz~i`(zaHMBAp5sG!:Em6$w>&WR1Ya6Of(>d11IqgMh4pA|F3i<b)|^qqK<2HJ3eZo[MOMR5URm{N5{:KrCJj4vqW{ueK*Z_kP:`|rX%;ROMNzz/iC^;odJUM<2O_mGC5^#`>M)EAJ.k+u*KgX7gGsKD-058{.r*;c2{3rDp},@Pzs[%V##=yW~N-HSjAz6BN%SYY76}PFD/ea/=ZoQ>RZZ$5Dc#5C/`QBc4!aBfW4ICX]0-6&b>RsHQC@;rg#-V`lF*+R1:RB.Zw7d<v/nM`Aeh{}G]cuP4&K4<=gjjw)*XJvAz.1dV#V([?TwR73/w}HKTk3IiQA|W}jLb<Vy}.#N-pkDIbP[oZF^Cib|Hes?~<OmlPNAW$c}tm?qGYBw3i7BjKST]{)%^Zmj&O.zYF8Tc_uiWu9)GL/5~.!JOc;PH{BCTn>-;dj!kL/S7wtg:&s-nBQ~Mgl>/&&0<NqWa@rV1]EV^$O/fZN/JyVa=Rw__B6Mj0jSbam8ERuT!%[edXaS6T2|E3jg7ytI7/DvU(B4k&rA=a`CFdibo~~BTX+Xv;lLGk[LLVs.aF?*bSwlku9?#a(glzV`HO3Q&P`!xY4/TcPF8}I2.Roe&MDI+0m-9.1tY6H?)3`CTY6&s#^N/nLK5lNgZPZl0L6G5:{h!<GS$/N{oKQ4S9B%{)-TU-v:{&y}WO-gFdQM(l&`,T?uf~cwX>8Z!F5}h9q448h6KnV*;%vkqmpDqa8~)gvuDXWdVA<qOLknd3Us2^)?D@H8)c6vx9A8XVb8?b4]:{K<L{ELP$IgiQ`@eQxN5ke*hUiCj]]7ql]>}wL<B>+1ApAw?AZR0@<emkg,?9lfNLklh98gEYagpPn5Oy:K.|#l6U6`SC^0*iEX/@$pE`n*v@*)$en/4Z{=*qzKcL7NrOfKhw[UaFYCzexz~MrzLQ]=psoJ9*4rM_w,,(6ekNeXcY^!@D=mIlR1y6.&n}[PPn#o-oy<_|SvPOqRn?/@I@q0]2(0^a4P{G&-0~J3XS,PZA]Gg*OBiOJC}pkd6PIm6~JF>ji6@k`s2>?}JKYG<^UILWKUPrSnpRk#MJ-X@sr%IM9}oIN-4l),SrT_F:z+UDz_kPt%T:c#-n7GAtj_rAWJg))+@mJMxw4kQRd^X2<=!EG]<C3o)/%g!T(!@3uGudGR!~AgZ8[|a_=gzRrxM73tI,=x<h?|zq6RtMg2!9OLt:Q=&&;1Go.v{/e)J[xM:BbE=7#:5NO]E7n<bd!*7aY&Ab8pxuiy)(=0gV,pXaQ=Cl5NbG#h8+XhD}UMHRB#3>MK.AA-feA>.8173oHc,R@Fz(@9?.nV2!XoxQ><sm3r2NCTv!x`$UU)5O%e+2h.yuvfF@o[*_g*Mt4>+N:@?W=p&>->{&A!+)mW7$Gs).;s{YK0vISNvOp~wx<Gp6zEvbB6OoxYW;d()PFT_jg]%98^TuR7[n+=YS=uk3qn-Ui%22o<i)V:%jPH&D{3?u0s1CDj-%>,><_}}oXO`3$FfOe.xm`Y9!uN;kko?(aooby1Qicq|,^M(8P0NxM<~Gm/^_0+>QOtB5W9}mM,Yw`&4Q{zWv?h9~JF%Zk-PrAx0O*{dfGf;Ej@YfX`67%F/~a@mM&UHjuNK[]+I{DBQVft`eT+U8t]wX$9BH_VpX(^D!nJoZajF>uRtIAwE~<)K>{Uq49/^/nlst_?>k0E7UM7C<k0%%?=#w@=yJ]9?=6zCPZc!,r`ToO44NIw/4d^s7S>bqgV7(thmk6kBNM3wRg@EU)}|BMlJFDA?E$uz4-[Gt7(ZX_zw,fGl=c9BP`:6VW6-qjht+,7M|(sQi7b<@=R(tx)QXXDvpHnN=SCSf3>W*wkd>pr2FHo.$rVs~C7qE[yCQC=yGPF)?+QHpaaUx&ZaRO#e-dV=l.Z;HOe@y>BFzy03)y)$a#[~,}a,Z,k<3b[ZKVKs7iv?CF8CGU1O[)w@[nweT#{]@G]%Gq#Y8,I<5pmU1nhsjeyv+-hy&-||!glGNb@}|>46S|&wd&:o|a6MqJPdK>ye2UGc@QOp&<C`Dwvk+;m4<3Nn#aw>Vn#XhHRl@U;o}QLC%<0)wXjE3/HH0/-WjuOF=fXRbE/8j#6oFw0p7xv=gC=wNY@^g=q.!0AKfcpR&no1j}SKWpHNR$b}rTQ/}*8;5:xyK+TVl7*Nf3s?gW[UrxaPBjq4iS*>iXIu-:L1$mI,3d.a$Dqb!aH@b8F!]xA^?-Lk6A/pL~ILL_+9!/(~kb00v[(K3(/j-6+7C/Eyz,#4pmPt.[Br7zI`#}=Rki=#cY8,sC^muW)vd>7,Q;q_D<zGjcF+>7ERBMlMmpPP(MD>OwVPEqT_C{:T_Zt.f/fez?s@(xAtQtsp0PWy+47y2ipaeWGu{MwNSo87MnO[+0mx^(Tc;%tHJ?/U8>n)t]|2*E6%$!0wKGH?//.2{^`y-VSlD2Kg=r,71/^8}oiBa]5X2Zd$[$8]Kw+J^tth%zzK>#M?)+tlo>d!f*{y_xq6saPj_M{3IcvT<Ud#vgYGP1p,X<H;7h1R!d*Z[=H6rxd]AR9cT6XDQlA]SWY6@j?Ix.9`8/.?UI#B>L}wz@;*Dri+l~)^~1k3Z<3W7dN#y6fFTCfgSa?5;(stUYj?7?e{^#ZK[Q>fmF(xNzJN5i7c=k/mVh:ttp.9dP^7GMo6uyn?}Kz4,=osq_e1Y@07JetYz!T<N6VL6*7m-*i>^]DT|JF{#td(Z*QJp4%j^OwG,bx?Gk.O#FPXH|c^5J{Lj[tWo.6[/[qRvF(pzZ{3-@.^m/.F6x{2ODoGbZN=18773HfapDh`5E~eJTNiiF6!fcC[i!evQ!IlNuuI8$OlMpD(pnupB(RTWRK5JgBE;eY_}frZ;>c8P77b`x*}y6#EoAaGw*I/YzmQu_Xv(zpJskI*q=E4Q=zVuR}L-_(;bzJsgb8vxS}!7~t?bS`&0~7cAUcraxbS;qOLGf?6rzjo#90KR*Hdt^;FI0apA:mCwpQd>{^a[HEZBNE7,s%Ym]dv>(^1VP+)&ME-F;gtR$$Bu-Nw++I(xq:]*)(oX4AJ=SkV`}]tBn.PB3Ob._x&l&kHk^W4BipHjE]asvj{t/Lm46Bap#/A:n&lBl:@C|=Q#-Bq[|v#o3Wh4D2tuz*|no0ont4EQ}8u(OQ7]stf)gg3{a,S5P-dVM@G<P,|=T/@aYCv!yV~Mpin%Ie-?q9@HY^CDZxY=8gu=QRZy$),!/tfk[,#_d4E?wqa&1UFhtJ<*|_VH?v|ZWBfO@oUP$+FNhL)g~Ns/tJ8,5nWYpOZw9.@_,2X&K>4xsVT)2~T43>dysXoln:e=H[&&_U&lk)@?q.D>NuVY7CGp=ELKa=yNFPGDn-/zmNY+PgVm;D=3`V3NTFMY+a#$Gf)Uu=;)*y(c:>l(*<9v52#tUV[X8cA8m?jJ;N9A^?OeEy%*36S<9*yi_Gl|fr`^eBPQ?r1xgD8,c/9ARier~V|%J3c|Y*<=~~Q>|nr+}]Ns$S6W&.[O&-/oFNqZW:$QJMn}DGXBmhe@H-:Tply+3B<mV*.i$/wB^+M5KXkIRQ9~6Gy(-,dax&>L<D`[.uG3|zXoH>B2i1!U?;)}A*>sS#Ce6E;Ft2/18gOQL><C2PB}eN8qqL>wZD?@RcARVz$=U3jDZq{I;,WmHm<enJx5E[C*S${wsTdE7p`QfE,`A5a:c|(L!11#um5*rpHt^60H^DND|h;VP-LOA*)|`wI)Vh=8N~FWFT/Zw]JPeD/qU;uJe+`gqI-wil4BIYS&a4f&)>(k6GsR<8fhK<,0cU)c{1pt}JFu!!!1AaEccV7Q5WSw76Ca)0nIARp0K6nyWI|~g@.D07g|2P}1FB%=/Z`vhXsDjJH40O@C{5YVV&{y-*L|d=z,ED.Xb-8#Wk0/f<F4FI?q7Cuy.;*Z276@R.rz4of;Us)0(9^h+c*yMu}#e52.ZjqHhDn9qQShvMPk&EUhUij<zlbOm~Iz)?PQb]Nd+`8BrS;DDyM<-9u>A4sxgI6i2{`-90?SSb!(I:}hX-B`%-uv9^^Q`E*TO_2U<@uDjm^cf]4Y2yl@Ih1(y&Np}Ye$^Qq-2Om82SvWPFDmo>]zAB*sWbqdm;I?J4?[dXGMyvSMGTS7~#P|~9No7P9$5]eWU%vi4Z`8FA//fF>zF,IsG8dk$PxnBy$V.[=-U#oqQArDMlW=!DX%-=7+PFa.[ctEg+FFm2$uv0wBwe$#KZ`telBl*G5-+J9RIo9dg|expniP/PF2:(TX<dYCTErd+5s%^6b@9)d);69NDMaw5]-Rj3tY&PACFyaR@Da1V078Q*vUHTa{mgJzf+0TA-vK`!#DOGLxWk7Oc.zIOE<]>BoAMDlHQ}2aVa&ICT}0;w1/p5Hu,Dp&@Dk&GmJ6Zx:NbpHt?i{a#Cm#)C4eQK%*7yFek8465M<7t*=<5D1mY=I_x:tu+wW<dGh*^/$Iu:kJG[eK[*WxQLpvEWV.z0}[vEHMOtMS0*2>R0#WcrEH3SLJM0FU9JnjoS~IV{tR`*Nt06|U/X_f7zVQtO:lhduo@c?U}/g&=<|RBI,.$K1~g#h1le0s^D=IS[Ecv}zzlZT7C>>{i@B@=(H_&wM-;3q`RIbc.Q|^,xi@/S(yEgj6Wg#;F81o*.H_W[^nIbky>-*:H^LP*:9eKpDB94J7>!K-C2vYg!8JQ+zV.y^!Td(f>,4KI:`vnP;B.EY@w]+tt(_K2vIwsspP=b%Zf.3R58NK7Y^Y($W!JK9Uk;{4TBD:lK+z%&OL3#ds8p7Q?$E%DeMWzD><3_-u6m|R3!cOrWx[]C=jKGt}#Qu5f|yzJ`&E>2^$~z!*lHp[bK_*:@Z[PkxX%Oxv=AhB^(+6edFVa}a2-OiNw5]LUirr>00bn}9wIyWu|OOJEM0Mi-a3)OL}hHp}3zIlLu8+G$K;Kw]Zf?>c4MrP/1B}k3Wk/^NK6`B_+V0i.Xs%|WCy+Ls-LH<j3?%L5.5X}ttO<#wL}}Zc~)Adx^Xh@0x_00+,?TsSyP>P^ZZu>Ezk$|&1GllhdZM~M{k%66qj/2,O(5;o~q`Xha`]-SMLf5o`QTmS4I9^h:}o+QJV,)sYX{h2h_k?D3s/BbyWx5(&@;F1S@BEPH6ewk*<GPLv}l^@C(C%}UO*vX/M<g4J,}p:FJ|N~Pa8}H].<k7;.3=$uw8pEnBV%,z>jKA2MCXeK3=6AIK7~x5KzA*E-SO9]?-]CcX%-,k1[nbZ2!0-?kL:Jv)~mt5*tD$VW}`^R,j=aE*=&}.P6?5:]E;c!)4|JY^#q0dS,8IK<5HL.-t4]H}}o)3IXH*DP]>p!EP?kjup[+EDIF5DgQn?ecRuj.<N=]|y%6Iyts0<2v+8@oyR&*ob-J<z(/v:jd3&z@DJ<oaUVC_&^:w@heFy$gEK-3]Puv>j8|:bY-f8,l.SqDY(+uL80NDd,&1`Q=3Y.=w_5L_K#U,q$LB}@]9e:NLwEjR+ORjJH>00yzNe,]:iO?9=V,N3.dRe/`VPn*$}7mjeo)Zdn/x}E2h7k?rks6&YIB9N/;|[u:+7{(`u^$#7wCb[;`>7ASLl/G2)*Tu%NRDpJ&siGT{K}?j!F{)5$ZF[5:h>8CRCH)A</.O)xhc{|o3E]S7!:Fo@/s#]6tIsU$^E5*Zl?.PlSs$903fy%,!=e+$2}#oWd}B<<b$*ehf$%|J43vPHpA|7u|O`5QItTd#GgJ9~ph56FZ~?-PNYe>N>63w[Hs~]dd7z1wEao=.XXs8L~W;fW<?sb2kZ2io0`5c,-JzuJ<GT>JU0|/AdVVaK3MlwepFUuuO|lsz5a+rZJp4Ml/}p.lSY*x*;w/qid^uW.NFmN&|Glx<0rzJl@wOG<S8UP/s(2*?1ZfX3O|]ch.(.kr?:Rz[$93j%8j&3SC[1me/_8Fj:nLQtJ+JX~=V/x2YnhmABZ^FbfQF(T?0q#i@_8lfQeZ)WP~n<6!%vt+0Dx<&cl*/t@dKBT^3Z<B}s~-q?Eu3ds)usc-{O3*jG:cUI]KURe#WR(czEfI*0AnK1WLf;a<cej3{Rm,7^Yh)q{#c1N|7N)Or#2-4Xg}{X7Kk?|vx5#@K5^JKxh=9}+04Jy^fa,i!Y$xFdf(.;$PQGEIlND6=v;A}@@|pG8Qkp>U{j1iL3{,3e@Q6;CBlFsC<ark=qpD<ihzRQ+`2W$V<,`%o5AcZabnf?Qh?wguI^R&1YG~D%u`2.`j.WvH,J&T^4lOTBYLN$X6^4DM=;|,TQT.,]^(E&^v?@E#GORM,-7auUk@;KnkqN.Crnb&Nnqx8)f#[9`C(24}55&;GZLnkf&H%e-WV1@*S[~gZg6Cclh&/Wc.HX66j=7^qQ552:*>:oiolYro8lNOPp-91}mvW>&#j1,|S_U=<u-);B<()k][e93T{e<J)of,mMs0bXnTZl9WuI3Z]q5QI=O:wtwu^W7D%3O-G>r/`Op)d/WT($*T]Y7[}ZVg69%y8qI.mci,@ABV`s<V[$f1kR:yc1_Z!OLT,P!l9nn/AW$lka`G7@cq}R#,7$j=pwK&$Ze4{@o`vwW3C6:M8?eXjW$iBQ((=d23?5*0&{<V`89Ka.]7R@TwMq2t%7R/<p=R*{q+k1i!>(3cxx9M#n!U:bX`jbcGEv_hH9WMcq4yI}}~9+&,Ae4)ljkXxmEQE|BG`J*1Cc:P4#{xRe`KQWvU^I1Y&K}E)1X}{9;aA(Bb.X2jtM|Cra{wh;9tADRPeh/.pnlxA:.i5^:P2p+#cBu8PY^:YdG1~HC{Z1PNo&/$`tA@6vS#jC^$(zWX~Q*c0bZ&Ct}-NA%99S&cnMeP{tGPQ&QTl,!WtFf$~tW4-lBMN.!msQlY!m`45x~!7l.8r#q7_Z$Zfazh]2EHc?_F?h)G4A>_/y;9aF1P;m@yH{[B!cT#^&Jxm[svR%:.gsf[[+4Tgl%vfWa&Bxw=w7Fm2kr~b;[7|UjzyBF7pCy7~>WxKk/8zI/e0Szs~oInL_0Qq-1Jz2<p<Sza=Uem!{zi0Au3Sgmo1CBUP@;h$Eh8pgzA3ys?ba$k)iXe2/5Oq(0+Q8(JG`z[dyY4>Z8V&>[J/+!D{JR1tp&w6u!-A@hXNwBS3uEoT9p^=CKHJFO;5,2hW]LSXj--W?4~a<{1s[L^lj]1,;?p&<h8duYzpM^zoN~At|a82c.1yAZ6d{8lQ4U9s.&e_Vf]MP&e!8+:Bnpc)@FpskOe$`%Hq4)zGGaygYzuMPQ,3-*l:q%NUy2FtG&c2,I~Qjiw)O~#@Fds5ON0XD>qKIF$!s-!Sv|k=ipMIL17V{}>xQoPm(1_bvKa)fK-G]6ez$x#b2&F++sA`EZ3JQV1usldl|OWkD*&fh$Y604XTnL*E{K(0U`+#6JvaGu<J@<(+t(>7]4@B.a;*Ib?qBRP1Xu=*G04m)9}URY`ng8T(cy@:~3ip~[?Jx6b*e95rBs^JaU~8iUB&`omF[+%kf*;AmHp:97,Us]K))$ej/%02]-gd=ED_tDOsI!ub=Yt3%8C28=hx8+@k*Z%YQ(;xMEZ#so1!d$02-S{7Fhd,]yQ5vZ^u;0kyBVYY>XocSdpHkl8MF>#*~(teCu@S}HLaL.9=ZKu@kjuOvuRz>ghJ<[:KKZ[Y-unGo2/[)<BP&xOP:3Did*2:let`Cvs*02BM{75@BD&3PKDk(?<6|G{2R}d1s;XHpIZuSp$?1IisrU+*Tq4!&p)yXS&VMfRFvj_%O;>5ca<WTl6AillDBR<5s}5)(qk8:eyo{<ARgmPT5BiOu;!#qYM774-j`SEPD$MkE9#@kL(iSoKB8U4-lusV=0i3oDH9},:v!M6_iU)2bpTDH,m![Nc[vmIB>x$qlRkg-[fm/ioJFq;RQ5SlMCCpCWu`b#Ta(Ymd/sU}b,5QAZ:db1UX/X{l]$7$!R=Mj0Uc/<8S8iF~}~b|mrBz?4~aBK;bsCjPTBA%^7(&ljj5[sD+{tua{h?4w;5_hyCmk_3@I6#/2-+d%n#3(j?Xq}?%B#NVsKBTZFdMxrOh|`u!,AjKwo[W0,/HI[TXPOkv5E0Rdg}U]{Fft4l[:Al+!cEm8L8rB[8^Z.q?.<V05!_i?{{>cZ|3kW/T5`*{)!q=z^^cM2Q<&~Tz-9RI2GeQS:Y~FQWg}Eu&pklZ.L`j7L4,##=`9l%Md0SOS23q4VB_,!si5^Elu!8>1)/J<i:~vTI1`s+tp-!v%-XeB3Cji*xii*][l]b[a2hW@DbuY@zjw5g<%}aoY9BhHqdM8k>#nZ~W)T;P^y$-c+Io0ZT^WEj55<IfSleTvJml0L{^Jb<Ped}Q0$bzz.zkKzq$$Uych!Al*,1.h0DhbCAE<*WTLRIC!VoLhD}7i*n(P_kJH&NqBT(VDyQ>kl@`hT_a!&K1C!yxW9a9avf^OR/<D<O!<mngu$^Cs>kdClC+bW5$o3Lm3)C|.)X&BlclBs:<X2z^bhJdmky)RCeC)w_^r]8{78#Q*;9rVz51.*bPRc_3(BK=d:GTh#QQw_TvJqCNFg9B.5]/,Vdm.E|%ufoG{st+6fU/D$H6y5Wz7_Il7esp;HCQ7J}#bRq[8)5Ayz*$%6f23%Nrp}=o#A/Q1UTyH=hf09ZUQ{0H:QW~C`bbeTby,:vL^XDFY|UHY/-&%Bl}o1_81*:&0qo,DyQAh(HFHp^%/330D%jHd)32=pK46gh@R3U|qSod2Sw&pWeGPY({ym?XmqoL`#h9J_UZ$`_P/=QM,#1++B|g8&k+e<6jH)gPc*Z1+Bf5{=]:yc-.gXG:!W`&tZKWq;N}?)Ta~j+1#Z*cb+qZV+Fn(VRekxrQzazl$![rZ{n2LE7Lyh]|Bxm{o:d+wh2MNGn1:@hDO@hXR+{r4h}Od]f>1v_HKB,.#J^~c*ebgPC{Kwl8}A-,TrD%cg=(l#jeimJDYoHE?@,ZRA37WH*+@J[T|hBLxz>$ZU|(A]-<GQCAJP7Sw6Z.XnvY.)bqz45)7-}qk&C*;q4H7&!7oR-6dy+zKyDk>CJ0:u(=C6g.2-df3$cP=iZL]9y=TM6lQ.lk4^IKz52KhF~JP^n)(J@9@N]V@J4gK,KltbQA-6e3Xl0}Q?3;H/F]/buiaa+K_HG,P:H<m=/DmvpLKbM+AY&Npj1!}(Y&_JGX>!=sTf@>0?Tb0`HUscd+[KOQc<(@{Wgdk&Nmug&|SyVR{.K}JmclOo2%bRTXj+%,1z_4d`5bF9nHdYkF_:*;%*lg1;^mVW$&^k/xI<VKO*8BsWbim-tbn%]|iY)Y>3]W0Xie!`go;c|}94npW<u/Ld[^bkx_>f&l.n4ts>~;V.!?4pS)ze<^,FQ+y.N:J][WEM(ZFwPxm#Fgs!&_s/64TL?WpEG?jR-t<bt.9P6)<#8/d`)eVEVQd%P2*~)IQ)ZR~[eDA~BB4c^{>`e`GS-xz]UktMtR^`x4xoKo?U#{$cgN2&G9NYlI5#K5.J:yBdb_V-lg+kEZKW-1Z*Rb_}_Fbv3Y6&7M|&._Vsq>Fk0_Q-,g=WIoY)I_%1trv$}eKe[8&6>OsGa:9$G5z46Ne(J1XMYDso6_]33r:pA]Av}NeO4k(5^:1iLg6kBmN,s~R;j_=#q)h22t/wi-,57tO?VRl(9|_/*O=:SlT5M<1VO-8]Sa|d48S[5g5-wPZK!1g!p,pRD*cPqjTFCTqZ8U?A-S(&*aUR5{2i;oZaH>)lNA-5Li0rb#S`i%B.oZA}Fx?wo%gz>7QeT)L*_h)^v?Xk_jLOg*:ip<_,y_pQhg+`]U>=;*,RVhi^[=.,`sz=%1{<Ez/|a0~8wCQAv>f3U@@ViLKSuC:[uSPUpb!e%v,pPa<;A?nbiTNH1DT+2c6F(n~;#58*+v6~T!Z*)h&FU1SFK@s$;t3eWSE_g+^){02VUuAc<Sj_.@UG+zD3^`.aJhZJuw$rTX/x9PHQRtM)/=TLmgok;|EQ>3nY0X17VgE`meae/GK*Mv)q,22WM{gg+s/jUzBWYOY<1H`&WszZ26$n0w_7z]jy7=~n!@+`st/0Wi?<3EV$+%?Sv}1iI6yQJ-AY%Ls;};<CB@*H0cOi(D$FTE6Ywk_eqG*_.()MAlh`I^7_3~k:z!7?>k^5ha2}hzep054(:fyA}E(IUh~q:0CRmBpK0hJNcoS5Bus.7g~A6k<6^ofD@<)3#+PsCU=`*~Nb%G[6<,tA@{/EKLC}s?c^R;]jhY`Tj|lU~H*0$&O5La=/)4>61VXnlimPny39.2{[gD?/{k23gEITVJxUP#TqqC#|*X7.(>V5TQmi{bD7|UzJd)Kn@(<AKAp~|h5ZcH.|hDHO0Pd-]wPlgB1j6Oz(b?=GR}}rJ:lsm~VC94ASB;[w<FiK{OP:{X=L/5/xH/)Yx)?1Whj/<NwdrT#7T&%eimQj=Td}=HcsenM@nvy]h;$NMfvVNWdjPC&DK.sDB%kAglRgaSv#U|5]{ov]HZaT;m__KBWNau<|a9^&w@+?Nrp?.x|QhO{?tE4=sfl#mU,+%`h.s$8:E3&o(-hJ_2AHW|KB*^rJF:;|#@YFZAej4V=g*c{Du3]`1OsY1j#%dKHc:?IIL@9UQN2mh=Dc;5*%AzQ4Lu2rPM`dt-m`&UEl0C*r2g|s<.Vv}*lMP0]5,MSy|m1g5Vs{5/`[>d.~m$5D*l[?7aM$}P#G,-e<cUjCyn)mCMtrS63A#L}vlHt7<h:/O=mDuTN%6m;A~!v>Q3e^*;gnx1m{t,R:MlN*b283xxM7[2i)k{wrF&6%LhTZVous#l?!5Xb20$:g=H@~f/}EWC>vk*Rl39mw:1AV^_?7@jQO7_pO~(W-ZRX!)@y.&D~2agX7YG]YW,S#Gpl>/T!hqW&[0y-&5SW(DAN6vsh-pY2,<pv/*wLHraj(o>J:n<;4`[%r<$6ra&VdLh1aDT[-e;gac%wJIvLmnb$n`/-&/]t,_{vOay!$77tfI?Qr.+a+&e})k!%E9Xn#pr6iz(#cu7AraBaF)-kw[od_J.eahM=AH@M+YZQW5dT3lI;Qivh>c1^:;OB]u<U:cC|EH3AM0057*B~_0%{~D_p`(<JV2AH+Vc9K5vVP{}}}~NR+],X[X;6uK<8z8&gPHsv-V<]XDe^TY56z+||c)H253D*Q^]-HFLO]onT:KvdvA{BUKsL-2$QgUSBqT0E2?_KoVdI_Qtqcyz~|VL@9%]yq`B*{uTNfwRta#gKxR8oNe9Imz%e;5DMJ6tRgv7*w`G}_L~Bw7D!RyvV&y4kTzw{7m%nWTvh5(7*+bEBaG^v$dMpzT#ZH^wMn*XQRkG8Ki6uT%pJjl@9;1*V!xaZMv*6li2u|rrsOK[SJQ9+Q%daL,*aSWGH$buL/QuBl<(3)_)oJowXa~F0jK?r#+!WoGRuFuGsX{-%_c+SrFM5B}mS7>Djt9}5^bZYF:+0Z4WS$+kgt.k96[qPZfS66W0h+C^R2E?I=.e=i:hDO=(E3;d.RI0YMrs|2+!3%Y,/2{6~D2=WkW/6+y1&?mLhhr1K*9~5[N8Fi^2:Z2l;zKtnwHGs^#Fn+0zRk`4RF}2/cfvBJ7~KymY[.xd@`W6cW3![tn#4{x-o,Ukn]z[r)[Ut*BSJADS{C*r}=:6O)K<FhcTicI-1pRE,TIg!rz/l{NyM-?yU|Lih7]I~}Oe?2%-Pgxo,?k_Wfn?}aS#T]FO,wyYeNK&Lr{lkz/u15y@1!ypK,sCU.reM92x<X=wl<N8VP[j).#mnOJKwbxbt%[Mh(GZxm5aM4AZz.`x6iI/ww-MDO~lyv%b7h:SdT|eei}V^4>J1rYHq$+D|$gy_?SBqA}A(np4A22_&fw]t/o&j|hvf&wN@.e+Q{#E?UD`+ck|6;#2+,x5`sF;bDvaTdyaWmNg*-!*ZVvq,wtZmH]gG[mm5=#O@@Fo>9}k%DkV/s:0Wym3[EN0WE;TItTn`2caVBi%T6x)_XhBmEOG76_xgsK,!*L9>b@:oDV*~|<0-+1msQY8wPkYlbMg!$1(s=R>z^l|r{7t=[=|eAgU-!Jn@v]%!vXnX[7:[Bb|%X>A<pOe(=]XM](BB}zb4d5OQJjEoija^)(Ld$vDdbtUGLj$nRl,bDM/T,cc=z0(o}m^8AYSOc(P88b]zc|tOpz-[.<<*B.thvyJnqs{oRQr5=s4)v)(mpa,3ac!E/IBb&07instaC[/zbz$OA=6eVbi0=?;zKeb%QjaBMo2q|_Fo#3N&t6lSEV_cd[BPyKgL`X`AUMzy1neWcSIT>bNp5j`OSpAoT=nbkwFAYX!oX&yw1<(tQl-<xAS+4i}/->R}K#dhr(;@kCZ^))Q>4y}.H7}*{??J,jdw#?-Uz=d,,T4COdX=!t5]qi7R^@JctE!=_B:8,rPiWive{0>Lba#YE@JV}uQ:/,jM-1lZoI$OV;lYYIm_Yi}K/`a/=DJM+-+N-a>X]!.~jNzCbfS(a28I}h/B!!X0I,(YLZE?ewR$)(,.9:rJ`P=U{R7?BsT7(;?&IrND|0ODd#BS:UOH>4v_z4M`K>CNG]axt4JI1tdyHb6g&_q8]0Z,8ZX{*%&~JQlp,Me4AJ+3oj,4sdM809coEwO<n|]_Vi~19M9PJV-j@l!D2?awnLg{RmI%39!92TF?Ef;=q/`rtx!Z]vE6A|QKnT2]3Oo|##SS~q<~XW_;EPw,rH8b:*Q)h})J;F],5FOg66L=U`j=))>Ft:&JL}AFAWn1,!?$yIqP!%g?k=bW}yXI;U$$C.eE7q%BZd`BD}.5-@=h5@i;!$l5#Abs/b/)sJ`jvh[i|[*W:PQ>hsOzOh7yY8z=)1e5OsIx;QST+IER@X&[@_*AwmI[eh/$>!}%SQ-:|2wnULH.(@t5d1XN/m!@+TcV?##^eO/0q2Up%>)qcS{Re`Gcskn]45}.N[HJ/vyl]Sp6)rQZKP</B=VHSvaAyE@{8^[3cy}jP]Hq{9]&roQZ8yCg:P+7-b73LZl^GkJ*M$rPea<2XRbwmlry,+}CZBR3G0%Rs%3A#W6U:4%!Ydn3y)_.C0f_YPb_`=)+Xx1ls3kTBUlFmT$-wKa4Jx25~o,(Z?Xbmo^vJ2U&jYYZZs0i^`c|MCht[ii$1G_j]3(|zTNb/hqu;GQB98M4]e$hQV[D&@G~|A76ly<,}|d|cZbP(_q`MO)MA|uq|+]gHAJNL{gAeE?r9q5{.w3j0x}p>SbOKZhl|n_wR;9Rhl$VItZ(jCln]>3C=UA%XQY5K<!EE3cFnam@TKcsmK3{[8@jj.5(o&|I~bvmDRC0m?Uio-)$eTgZo1vz|;yY-$@4xpmJlU,)nOX7KVJ-,Rtgl{NF^O{}fj-R.H0_:M6b$~&cUQwh[[UhTK[]g^Z|<W+8:bZW+u?P@Z;J<3S!NKos-)ys78/Z^hUXA-*r]Sz2n(SyZ$iKRq7/}$~9@Iu0},3gDy/`Iu36>?Uz:@C?uniaZQlerh4A8]nyvN}}I.+RpN-hVpmmI=80[0juO(7g4@>Mfq:q<nMc>Xgj)nCO2T(,*eJt*AxH)R8=SH^n;|f{]tcYo/15)jg[d,Qb|qi]3U-6S5]|fO:A+/nqtzBe_~{pM`v_%gcOp|tO.ou,[M5SF7Uy^.x3{sR#bL*}X@SBP+:KvD_j~m!}$lA$)nh?wCBIGDjooZHON<|e;M<_=c!CuS%Oq[C9-Bp~~y%Jwz9pn56O7:|Lz!.{J5pO*gEYO~=<we|~:Q.(2U{lAZZzR/qt(s2[&D;1T*#!t_|.[&@4z$8rUEnblbp|I3|_r<-kWgyv3sU00Mu9BD<0f,A3/sksBL;|;ONS?[]ehyL+cTmW?$[o]zGMh>7{1J)iagvn>U/%wUN]k8%1wsi0AN2XRs/eAsQZ!Dz7gcXIyh3CK>ZK^EM,e%vz|~y5H^2WHPM9RU~&)_%rzsMOyntL?mb|Ud5CC|.b>(Pm,EcjA:]L>SxrFH+A/o+b,B96+Kmw7Sf2)mu[D5[:Z&MhR~tsF$;U8%2~]d()H_8AMl+J%U=6su2-!>f!P)A6mJk~z|GP_)%>y2QNN0ltt8=Nw[=Q7$wD3KUl^4+t37P;@)4+>zKZQ<,:;~V.e`HR.h:;fNVQS|oB5baLrR0V.wFaO,*/^MM6setCTl+.OP9HQ]}?ZZXNO~NPj`@6UOG%Up1m9;*>J@n;g^!=DY_oa#0;+JiNn6+HPyh0/pc+%Q`y=h0L9Ln(bsn#%3oC_g&Sb;x|RUpLn9o9:M##<q^PL)OpR)fA3|JvyqTntM$Ea7#{O8D<nVjdAUz+O-MY/wMUBBoz[7@UaCM{2K3_5CKU}2fBX*?mh9FO7GFC}.!v-P12v)F-cINi6GX|]`/cdvFt5|-&>*Jo|X`.0g@:&#6aa$9]K/?L<&(91.n`[M--Yr$E{fe#>;Wd!FGYn7kY}(?[x#)z3/?w&yP*6Gt4jJx*lQ8QFq-~<:Ty[|h{<]CHr2:/D?ENp*taGw?_<K7R_C*u0)zw@4SV;H3Ni%rY6Y*S}4(Y%[+=e$`IN)N[M|X?T8xY#d$`JYsCRp-m?H;Kj%wpPjo2!e^8IFk;p]/SKQMF1l.Q^.N8VJks`H`,;f&dicL+7Ai#&_;W1-0-WXf>q!e04P!-|G;,$;]19(Vu-R:O62,1m48zmEyKFbUa&phIJ_hmJ4F*K3j]rHC]6X{L+H^&28baGO*WR&8,e-/3Gc:>A}t0kt,~K0JtnIp>P#yK!`I<#>AJ9hy)C^c2HO*)c(}bYWqM(1s%_w`4,4o!DGx@0D_@!66/|i:<<Vsi&xl(djw6D{yZ{$4Nz(8)PO}P_ICQ-]]+GCcAP?|I{]}iwpu2B^Bv=9cineOw)m_#`b0wnKQ.+U)+/@=#*sFB<d<2CYT3b?[@s]-.nHo^^c9J5go/(!Wn|1O9~H?Sa36N4(qmw~%gG39zK%].857NyG/E2v?u-3IjlEeZWD*>Hsp&EC=<dTP1i|#oWs:<CG!W}~Hz_!J>SC?M)Jiuk4aj<BUXf#/A@72e3l7>!m=Ka7(mepH,(VsoEW`49<i(]|:3zACH}-h4Fa8-3P6M0|O}|oF/AA}l_M8/c2;WFZ65SW0b>WZ)^,e[C>sEQN*G%^}e|()Vly3sGiyNq_qyZq/?A/]mL}JfOZADYQ?@-6A?GnDI^;]26&-M~i{_+PY|O8N;kghzPV~EgCLjECa[=iwece$h/}t5qjE#7#]I;Htye)bVWu89m7pbN9gIRb@VcIX8#dWkQnsoSkEGt9U@tPT^%4=M#aT).n<`M6z+d]`KgPibuHAUR%q]KuH.Y5s:f7Fzf[#}xnzqo%c@f?/b[.$}l98ssb0c]TXyp*D`)_!$Wv:zD~CpgUFE2gG~zg>JG-58_ak`Hz;K@w2;x((k]bit6i&BTXiBq|?wHGT`vE6gUO+;CLuYj]>QttSOEst8b%U@F*m/Lm=WMaH<~{h@`~ud4B`B{R-J(vW)sDn9=rDzA8k+*AiU@E&:>@_nIq=!V$cMp%F]#qdixtbGB~.,lc2SM55aEH|yO0yE{BDs-n&SnN^k`WQ=T$~S3Kq#HHyRE7DtXyca~9@m>8.f7)x|z_c*<aRQe{zk{J1sq!Wgo,w2xsT80$rX^u:C/c|!=M[^d}#_m!Q,ax7RMs_M$DtY0OkiKL3&;o[5BAMLaPba=WKM#g`f]zKAPXM%T&US>`2*Gc|5nV6ARl{P1tb!o9/So2NY_B($VcW0[@$;:m|uF+jxhy5a=@g+d[<M{TI6V]+z05G:;%[XB$TQ6<lmWI8uL%LpanM2+?-eB|g^/O~-~}(C<~A/s>JDbLsyy0xS-<2@12t`feIq[eJar-#F<UT*GSqyx%]hv0m{`n4aM&wBJ`80t%|T!41FUN5@=K0WZdV,w,3(o,-{Q3y&R[ry>~!5Ll&UX,Wv[pEL=}U/=t,iwNO1clm~Apyy<tF]HDzw#e5JIw`C,K8ai!@|<SDs/{H5=4>oI9Mu:`~|zAP;y#suWY1h3Ac%<!I>*MvI>OPS9<*<;G95|jaJHbu@1:PHICV3tCbh5NIc^hWjcMo8}b!?/D]D9(Qdk-6]mP:DtBWMsGFePD(/kgwv{X>igKq:#@6=;L@!`Ph(0i=4BH&tZZGeau^j?>*CBe*t+{Gn=$sx/,H<j;VGrJ:luBxFw|@05/)Rubf,Cl1D:oc4V9#Mw$~{ERI7-Id-LVRe,>45lbJ{:Qx,OLM-3v=x5l=}CpO|HSx{+hWp{;`)[-7=w+r@i.+T1nM=c|.C`]62T!|evZgj)Z,p*Kybq_Z(Yo>e~!IF]>m+w2PokaKYRl06:cw?iWJ9@9Z.<Ac}r>uPO]KbKNpL|GLwMS*/6>,!IMc07`{p5f2i0Sm@1B)=T3>2|aHK[`^SBsFg>Cz5k=B+twBZPy.j?c&U(NOXO:gaWQEB,(;oZ<~5jAIc,!w58P3To,uOr:3Q;_b_*@0[%8t>jzh/&VGuO/TcvRg,B}W$bVHS}I^2A4j7+[85nH3qw`FFdpOz=YTiRAOvw__9pO|#L$8;nsZ-9O!N@-duzhO=Jp~D3J+qk*z7`by<}(=*DkL4unZP6>L[;{Ui&<f*C,EB!T`G#F&(LfMA=yq#hlTgtA)0)%BX|&DM?t3L*@-*Dg@ihGq8]@{+i]7)Q_SB7Un&8RD(f=Z#`Y-hM?(P[wjLQjMi(eGt;hJQDy0^(.}lMS*yQyj[roDhdHj`e|CwY`R,&S=--6.NM~IJGG{bv_U3de1I8@LrS`OquFmVcm.BQbF{XZ#+*7e#pr4?N/v;MUui1E-LDd:|*M5uj<y>=05:}QeO/<j/5/p$%m]3{tH&O&5Rt4nzR]^Gh97^hU~{a?UG-pao$G(6UF%yk8EP@2icf+;A%5an8>4daJ<u1:$*CEEQp!5pzkm%NGdM`OWf3f3IMOR=k:v@CQ:|DJmQD^OQl_pqiAYq7h&DiX)/ug#rf%}?Rv.jY+O/*@Q*P_J1@nRl`37*9PXu$6Ik!*]QHV,Bx|b41>$-e{W7@!^[%e}EfI2<mB>>Lg-l7Oz:&qL.s]@B.~a2/]Y[jD]_)]4pw^dCo(86%HP(40Tv?nfMQG*@g0Q+G*I`w!IR[NHsaAMLEdSWu/3-?O}85=JXJ+/[Dzs153?GOLcq&t5aP#Bej`K^j{gqS6t~<b6&P9tW2667SCX:p>Q!ED#DHW~`Rc@jLqDp8tjq;U?_,7a34;YMS0]dJ|nykrZR,I)CO>q1ClyC7Q|:JlDe|2tJ=4Q)PK!3*02:RQ9g64VQbdq1Z2y.Q+Qvt7s&|-Z5]!/O3e@h<.7V@;{n@3A@yKlp#JUV9nM@^&G=K@&jVnUnAH4|]oChLJ*Q+hVhv{sPjw<HM2xGwa@[Tno[=2{|zG>h9v,~H5V<|qk9`AOuu|Wsd#&3OKuC4%o]jq?3)!9x=8^/tsO4e~A}$roj2upD@aX9si;6MP7M,FWq0MQT8!;e{L#;5tT!((H5]n:SJQ,,#bx%4(squ6=O2B=_CB)EFVc!Jng,1#}{sRjN-K]t94mJJ+gQn371OL7^VL_cU;SCk;A#XcdyZ)fb:wnB=Zkf0U3$0S^`=iy*eQQ.odIP10dCwv0U?S/jt4/%|R0RA*%RZqT@mj.b:HC^A=?e!ttuszmA?/{z+9/<%Az0z![PP8hoX:=6Es)LEl(I0u<vAX/-#.Mwz)9F-3w[0o2WOWRo>$Vi+1Em]}AY,w8B|^<-kql.YjuVB~_8**&N0cJb(=<i$iI.|9D_$?T`/oIyV9P+M.*p~VM]&C{}6SP|&xRWSJj3[`ZdraMVO},7B8)/IAW408((06>yXxS8_{!qG4*py2+{8:bcf6PZb}E>H)Ilj9H2gb(jM7P=ea8<D)jNlJX,O1sIjq3<s7M{GaJb_dWpF](-~2J|jK_={fc_QAB%+,m;IyPuvG&P[*++MHjD$PUS}esm?pyARWV)cR#,kZq${xJ(S:3+z7(*PM?6%GGd+nL8{v^k0WAW;3~%y4AiT:eXTwdi1e~684f]DyC)Bx(c|KK`Tc;]wv|SUt4&YEx#,7q?HH/DvyCvcUU:RdVqy7[ewD%Rb09dq4sa3-NOJ(j}LbdI>}fW;ir6`}k6|8ET7R(dcp4L,,Xu_2>28shOxc+o]L|,V`^[s(O1u~MUR|rO8;r#HK]-5o5K/DSWeFV~YT~vxs<KW~^aUqZSiqe&{G,)HZZnHXb_z+TKzAVXL>suj@=d/@UcaC!B7eQ?c[B1)U6AU8hpC_U~[,}^gqU>&@7)*XH.r@N&@?cyWz*Y_X}qIA!8(!MOE??K^?12BL*}Mz>H8}|]V=l,}.$9Adz0VskP=E)}to|Gt&%7<?:LP1Fs|;~j}yw{%-0<0(:hl3Q-(yG0QWqT]uHH=K~$8(44Ja-rR!x-m7[gWfwFq+bx`:,HLVJC<mYw?jEeEpJA%08B_G,[@f@l$YAD)6}-uLm{pt7TtTEEy{)i-j<,xA$1/0Tooyd]F#ts<s;$r$+LC?K4alTk-l7)uEPkm2}cj8yVcz|7IG^!M:~Hlyj(ms7l6z^^3.7F)#doE!2+PPy-Wk^LjAYpnz{q0h((RCunt?P2t<Ke2|;jbtShRx(Ds|S.%R)TNJ-!N%(Nh?v,v+R>kP.r#m{J/b-s0658kS=g5r~iV#7@f2JD2Nk)NaxEIZ:j@R.dH)V>~<,?tLm}Nx2gKgV1||;U#qhFU,R(2mi.1E(Faci;Z*>u>C!u|U.=SnKZ|w1QiX,Lez?q<Hm*2}~k-$a<s+6zNeJp[LC:]VvL+R*U:Ta)>Uk[Ao/v=^p+s<GDHV?~r4}OakzOjHHx^>pQXs7XO!fu@OveN5Kgm?#p~2]%k!^Gd_?C{JgTNzf@~J:&r}:esdueyL-u5urvkgepSeo*fi(f57=)K7n*p%0FOjMP(Ah@>WLtGEDmoTdJ7th=?SO2}`uA[9rc`F8KU~-0_^1~<]Jq^_=X><6&SyQWKe0F%%HpAm0[@bVePl+MX1iybX{R$LC}iq8M#Vl3U`C8EIWahnf;QQ0Ue:oUDHAhGC|yCXt9z!6)vJC7fGZP,:^tqQadi&_Ezgi.+U&RfgZD2A)cwvrWY}wK;(M,/I{,?$>X-M$LR>q>j.F%#oZe_)uET0Q18}>*g/vOaenpayuPCV)9M1!j6wG(QJti:=CIo)>ccS;:Ksg|x:}+6sL~{#)6.>7`vnk-(^6PT,@:~[fT6MxHFP)$?uX|n(;S3rN!?F./bNGPbnQP,PAQwe^,$Z4$IT%>46j#;7Q|>}v[vWB]p;sRM5k;BT$@#*f*/and84>}<^%@RU{vu.Q_O2#4?T%,lJ0JmZEeR+e.Dx!uEYFYdcnLWw*_wYW6PM94#Sk~FWqRlPNQ,6OkaSi_.-DeH3@`)Pv{?MJzI}$RX+1jcw7#6dNS(/t6~B=5|wDDG`wSj+uUsp+0;PIU6W9C@?`tAv2R;aScuAmuA1T&CEzTyQq~e2md!hBA2NS5:EA^oCP64SrPNMyT35N5t#4^e)<NbU@[z`8jK~@Ri[nkRqUU61Ykt^MDo0z@_*P}%2EB[Zt.$(D}I<wej(X4%;<<iYO?Fi5lF=%wq7oom?;:d_OiG%S.@7DitZOyq!A!RpBRfqf+mT6a+78-!mXyl&X#H=5~XM3tIPIS!-CkP1.gZ;rtn/}=4jn3-N8<=zote29]X<v+;h]?!B^7ZP,N%)P#Ach@R?13Vz.S#h7TCMU<]My+TDLI6YUH{i:N=Nm=wcw|_cgq[jgL:}^G7AArUm7HFzaK4EwJ~5y6R^<s8SR>j|/FsaLlej[31&u/QZ!$.aB)sC{^~EKJ:{bUY)c0OkE2`*df9_r(/1fJ1&6iYN:/@3*K5@T1E&.N<5[y:a4nu8&9}i|enCI]U_gaP-bz:Z*d1>u0:+3z0dUj@P4;S~~k}zA7xT+,[BG?*}f7ZoLU,][_d5;qyl/V_UV1U|%>Bb/ypeW{#:EG=nT_a+A#~hX_8l!uds9kV2oEyG[Qer/p%qp@Yrt$A$(H}LJ$R9l`kt@ar1*OgFIqhHlctl?!Rki+::SX#qsb{L@x&H|i3-_ex[V/Y0?g^9Lew4isHWTSdm2qqqaECq^XF#FLfVv|_bl-?G(hCrgs-nJAA?r75T9o1nx~H^e4{BUU|g_ZO}{oTBHEitH:xNCol-Q3t4Ls9INUw`l`^.(YDGO>/vPLRS*nJ&*-|qm+,]@_#KMdVhp19?sBLj!?Yh13om8<~C$PAmxU[bVV)aWWd>gn#K621(g|*%3QM=xj285sZ91yTx^.aT{/SFo^,>_L7jRIE:4N:yL$)52q=AEkSG)REfOa:-HjXT>Kt2~~)A4&mU_:*614;JaN8.*NC,%iDXm<20Z^o3U+HdoQ!Ec=/%A-0M|t)R:{D5;&nyx}C3_Xqji,.O-Wsum8=*y$B`$G;32iVfLs$L|[`5MFji4$.9]ALmey*PHFu4j;IjVVds1IL/fLy4C4#$7W-AY/kG{9Dwm&`j/0v`ez?77bD:9Ug-+WJ-i5J&#BY^4{!&*#PcUCl#GR*|v&Ab2oeb:+y+||*~EWLC*BE#2c3_)|2WO;G=zSJ4N(Y4:+@3:b6P5Q0x`my**^nI.upT>M=t?eGKDrZY$|,KC./0=:Pb/,F5UCqih%5#Xl2o[;k@2Z=N~Ze:*Rw2=7Y/t}KLKieg<5aU_tOg!y,bd^``]8Rb6R37G)RZJLS7eZv9>6OoB2z?m74zuUSOwGGqAz&sGe?8jWn(FjJi/^_&9_ADZ12g;zA+(OR-ib4|I;RKx%{e1cedq>>DVpG^.Z`]nU1klv:0+{&@;Jz}|O[Y%|~0fw0,vSdMEX{3.T?Zl*f^QKTqY6.R.6GA/mV#LQj|j=OYao8eas87oL/V:oEZ`=X=Wv+>Eonka4yBh$hz0_|A+mPC`T5F:CCw_*_wJ$wV7+Z5-F+gd>Jl9kq*39I+-0?)<b)^=!{]CR<hmtz=ey,&/b:%8SJ5f7(AiGj`P`:<=QF((`WW7nx{U}}w>SI{V`7k#WNF,]|9b_S:WtM>BAI)B$D<GHpXv=0u8ZuxO/0aYKOP0.eCKCm*U?[;X0iRBISO%)m8:B80u6WndN`P{+n^0w+ivSKC:It^?Jc#[Y7Bi$EFmEEOmGF{TM#(k0VHa:J&@yGc7|[$%O=.|E7tVpC.i1I-cq0`ix^vh9B5!&P5f.W!n$;uO5})+zBqMBSIFc5^]pY!8^PTw[y5J@(lr2@4tz1$f[u]Q`JJ)p:(YKo/.YPaP.JIyS<2#wdL{S1}qFcH;D7lk9`%ev8v;q[,L[*|S$VLQ?l8A:J20z3_{9fS-zQjzKe)d+M4A|YKJ=vXoW!(ocb.DKQKwe^r`aC<UV5:CQnp~z[q<1@o=IB+L1cVRv2;85RcQX$DUB?mcptd:<l7WWLLvTL_{_MjxZN-N@>c@;L+cx^|<cBsf;x7Y9ZvQOMk;g+]0}nKWJArS/F^{:rae@Zv^=Ja265&l6:YSELGV<]_2{S31M>o*6p:$4Wa0RE8Jh5ZbNW1*7,Yh4SsNpeoqt%tfHb_Wa(r&o8m&pdEoJQL|`?9jozt<&O}V1$~*$++foKQ~,K@l8@:S]T}u2}HNm+^zu;(GmG/|#v[D)bu5d3&T=Zom-(*s6L$9M98wnR.BUOQvAv>g*Wi)o8N+L|z}L}>f<4F.):^mXU0.io<d~qReD1i,QxtjpB>)GxRy;|C.T@!$s9y<QxxY(o22zJmI]qE$_`L?MuTKlnO6Jty)t$<px_L!X[E$SPXX5~}r?sNa!Z4EqEt@W+A|#3$Yk#-/|F}RuM?M5JVJ&*odTo2RP.peH%:A))Zi-bSctYiloxYnp;I~C-{Yby=]iKh,m@$=80/2H*p?uBhFufe]V1)NIWD{A%S4d@</HcF}|8OTmIL4Y1!ICH}n~f3+8[{XP/~[b8u%^X|(]tZLtWWK*$+fU/RqLL]<bMC(d;cul5koK{|7RI0je5c2-L-Q4-$n5Mk^BK%BsiM[yNxEse2N,!dq%z%JVCQ1VUh,{j-)6(]Ery2&(1$2!5Q>f%Epz=wqoxkhi.SGrbM@<@_FHR1Yb&)wF{F5[F2d@g$n-cAlG#4HR6/4>fyp:bQ;[FGRt4>8_2sRVxxDFpY^?QOF_s{-C]7`A]HCI/:6s5sT*qBv4yC@E%$@LH)B>u=Qs4b*cSdnO$m,!7%{V_iec^Smvuz{nE~cn2ZUN~c-<FT]EgH2zGC7e?{z*p$yl4fhyF-r}yTvLgjX{*]:2&0o(>Y!VQTX5jt[OlG.c.-Y&]7^MY;a1.o|6!rPDz:LZ43|?@aR]?M?8cqfx[Ygi=pR!Z2&U&z9iS@V<C(O!6Z`H;B,^d[ww;#ZME{D{&)G6V:!{b[2-DEPoq_lf!AOs~,R;Dmo;jh/bxCSagpD1%RwV9K_ZE$ajJ>)m[FbKp5ZDf0wz7F?o@2f>Aa-e)dxq,?MR6U>*b|4>5[1zui9T`nvuymItl1T4EE0_Ae5W-TP6:lZ~6b6V6$WscGy0HtnA>97)OHXVBof<=C6f{xN[)u}w})ZBJ}F:@hf3*P)d8R){-Gl+~D|3oc%hnl&g^Emg+F8F~U)%J.7/T67|S^I7f!XA:A?@;0mbWRj.8F3w<(}%a9:ShiF(#$enjvenq_PF[Jp.2UMH(-t7f}v>tDHtDJ%/(xAJkRoo$d%mV(U>H|jAKV(Y>[~J!6/arEXQ$+508BFhLZ(E_0pxZA%Bed$gma`RKiJnqg]j(W%e3B&Z=eZ&^,]MoyQx^}DC/.@e$yOPQc~DSV(-wT_7W0(+k($NEtzuK|{~m~!*)%ykgq;kKnheA!rR=BEZv!joDrWP.vkMk4?hQdVqyg%`N!{J&pg!+j`~9y!pSq8T[j!P(tR>2XYo&k}@r$arn)|>:U[rFlKF*wx};9tVB=~nCLn:diDLm;8b(`T?5D7<xX[xR.iA60Z*8*4V03T9Sc+v0|+Q[MIlwk^lf0;7w7@=B3E!5zflrCn:gup^M!?il}Ra_@kbYi0yYm&+KY*0*]z#Q`yn$yE[@OXR*S4]6bFc%g#VHh0yTda$-uQ1K8-q!V6)l.J)|?px]yNB889I+0(U.8~{cX[ziUw`@@zCFl63^yC_]qo[L=6..1mpm[O)WDZ26T/Zu]f#L^KQ$Wzr|9Oy5H{S};q6j-L4_AW8.6OE2F;^]rRJ~aW?zA$`Ffvba15L~g|P<=<C,4rnyz.4ZRN)~L0a2PePoO/09%]KbUBwW;$=(-`pG`~/4EgBd$bA$b7a|7R5MPMgs1Ew]w#+)REY^;lv=+!X,B=PS&YYQ|7BK:7qKYNM#]6HDq*r4z}^?Lp`f)yU4+HQ.}inVn+$TqN;Kc3Qx=]YrN{=DKGam>tom}Bc8{&kgoZ.6_vGMs7oCFHUc25Fn:;CIcy%<sL1?yvgi3P3YEK~O>fUCYH^b}ex*&$GV5`v;}LieAigpWQ&f/:erTCg$23uRxD2w)C?VY|-1Fk??E83?dp&IdNg~LF_d&Qm<>S=z9ia{$<Kt<dNAD/.0^[DEdL*C@f_wig{E{I5q|6}8r7)iO@pOml9jmdT9xVdWGSDaHDgdCuv=jmW,M.V<L?b%$~!%jvJpvHN4cm)Q]o43-S/>FC`zR&L{Ldi;0bp9)IiA+ISzaF;Sv>x35DLsh}17D_&E6MAUbc{3Fz_2oXG?S(N`H^Je;ghVb.V-WYrR43tcG}!@Fmn:9pj}[9mhf~w[:w,@mVjLj6RZ&{4;fRj+Oum%2#pH1^l/M^?YKR~oD<N9#i3DH}+_}{x~/_L15llcE{RMB~c/)@+x:t6#&dAr2[iiwEb%R<)S0ERy,Eu/?f<G)=~sTxOZuIl|}=rx!p=TB(9>$pzyL;G<SRTwyByJlqY:j>7li5(o^.6Y?7#Y3cAVaTGLm|c.3p:^@MVU_TS7)=<b1z)b8`cDGwwmw0*OWF^B3D4FOfphL%8inL3tZdz`![`h^.!Sz]91J6I8:gQp%s~rkS/C3aVW`m>vU^5Pp:FE)m`eU#qpvBaxR[ahtA{J9Z95%!hVdYRik>@4}>1RbX0/gr<zs*$ctV`q>OO`#Ej7~`uN2plr/i)-1%O0L$_E*zokaBN(zDIc*I)fB24lkn({BL/+@7~RY.-vqJG&6IduW~H?9=|/Krt-S6aO~kqjSE;m)Q*/xF;Nc==:z53>%v5+7V[t{BwT008q](lgVpKjnK-J0rHo1.q+wd*||Y15A(o$<`d%W!>?-C0CMHP2mB7IlY>B9/U%q}-Lcq$b+BmOU&**@<1eCD*L#Q&iLsXIIHkXy4$zuwU$;#x%o}#D1a5kDG*d4vwrA|2bJc@s7x9ecvcr8)4FS(`6sana-ug/GP2k:XH%,H]~>0:WxZida|}8/4JB)<}`Z6!y3wk;s~[}W0|xptzR8uE3X#,J8fSRG~lyv]H#,12#w:yAp+>Eo`X:?3`9dP?X$AqjFu}O=FM`/gvN2<2]7hkbZ8D4y!sGV0Bd5Gh7.QzsYo;p~%8yV$#Zmfu-(Ye5jC6}M3gU,5g7OW?M#$skiW~L&7K7ZpF,(~!xoU~BiM}$LgY(~|^&uKEN>+?6K%.:(.>#c#5Xb8R($]*A:|[BbknbP<i4#D^>Ms,,1{XcSOy9#-n^n0!/-wvp[>t51q8e2q&C<V}R=lBmW~zD-xDIkNL:{z|)rec(9C;5#CXJ;bAYhyo?E0c8vVBTc]v[PM@0kXihzv2o(RW2{>PVbI[d6JZ4Y374>>v6V<PDo]cURyfwwS/kG}YBA,w@yne+ZUl+w6?I@E?(vq:D4`14=H]*{TyJ/AK3h~XNk96z_>6~zfw_^n6ZE*`%(|(I)BMjT^nV0MyiD}jU+#90:$q~n$/ZdJwOiW)T;YS1o&7NU$3!#0xr9RBPKw:gSicMmH%mt)&(3XR$~7tSv]E<PzjXvmGyL,@n2?9ZL&QA$g%O2LO^xykp~/~)nweqed5I/d9+u^NJU0nc-&vs,{!bgw!A3y;[Hd;l*jk=Y$-TVM,`}{H[v1X:c%aM-&vejY~`w:<Oif!YFGYRcDNQ<Wkk}6<6]m>7QjIkMp%}qkcNM#J~OxZD9R.`-mp6~HCr*,f+:*#s,kNt>Xu,hyXADs#{!g#Re(Ga<.;x.O)0#,oBztWh=/FZ`4H{}tXM/K27)TabOg$*_~?|3mTMo/v~</R3$SFsa/CAZ%n(cYf{D#m<Rmko-@>GZ/a6?=;?(3(E*d?QLRaW6m+f/kq&?LcM6#ow:Ok1.x)):g/`bn%!j?;cn.31MEL7h+d:Z,}EnHV2&iruKv[GJu)3W*>Kmzoa}4}aq_.CVl&,eP_4l0c?r;Kjol2/<zB7dv~EneN?L))P@JPuid7iki*$t%99h%M@LAUkym1ytinYK?goOxQ]C$]{+HMA!klcc.qdNkt|-P2q<q[r1q;bD|VcI+qJn@*/71A!)Atus6N(8+~#i@FJKQ57wp(}Ll)aON.4^*|2AcN-q;dQ_G)u}J/nYMUTX.rT^erBgR#TX~*Iw89,|(_.^@psa&kUa$e1?hnpu1GMv1~di*/uWc;<62##(F$1XiL;[2UczIA/GjgFuaM319OB@OXQn&df1D7vC(uzW5m|+_.(X8SSUx!^M{e:J+{E56q*)cJ37:g7gP!R^$FV:@g)A*~:e]jd#{MRfUZomx+L]{i3Rq1gc-c8^z;#9B!u]#w_3%zqmjXTTk_#9`y{;b2j.~e?9N=Xmgu`8Am_~:`y~S(_0ZQ!DpukOjsvWnD1+N#iMFCk7LRB,S4?j<@3%$W-]ICMhzn|021%pI%7p.ZfRK!I-CZG,/n;1:@&LLjYt(WLSY)J|I>@+7]PYA3twVZvS]%G&<+yS|jR/2b?26r^.$Z7X?)Si]YU8]T%ZU$j[}S.tL7,]~[%4n3m08]4{QLT881jPQ1@tYij<Q4v;}Jv?Mmu9dRxDd4YXM#C,)>O{h7~lMf0nu{Y2Go;o5eTn)UDn[omM+TJSu(gt2!K54D3w8DTwY/vn=MxD&WP(FY6;)oH|G19}jVxR?NimF0d)20RQBTjz)N?gEtHe5K_pFw$j{KwnkB:_bqAO^==toq14l>Kz^31e6U#+%^q[eYfZVqt+dZ^sA?L2Lj{oEuL^94t<7&uhwEOKMDA+0?&/|_+E04GmI3rm`~9/1KwQI_VBz5T/0,E06P}oiGn<K:*}z(22FMRFML`|^znS,5l-&U#e0J56{i6C*;<aAW1aVHsLn_OuRka@cs8WXBV_l@N{[n(DT#|%oynR1^:$iJ+[h#k7:}HDZe}7]gX8p~W,u7N>Ts3te=uzGtj-OnJ9CyN-Q5ULO/2&8B`,BI]t/x8QW).k:aPd#iRQ_bO1;D=qDtO*W6!{n5;km[+s?[XRo3EU.8x5wq80YPEDrvbiY^8|S4B[L4oUHad=#:ZLFAnj-M,37D5KLeA2ePl)#{Z1tw/^{|E*e_7|@?0/Yk%#jjl]%Fsjz7fxlP`)F9t?8R@]^YJ,m%^lPIybtP6&%)4pH=F%AsE.m$|1&y)/8}hY-+%silXW%K/c<YIT55w<+G;{?/a#Y]^n%=?/3V`5]QyAiyl(f7p6D{q}$(5[XeO}iC9RmN8DOMhku%NoE?vJprQ8kN2faklZZB.bctX<_Kuw,]jl:1[G)Yix3}wLF)LYiMZOU8|aKFk|gm?k$uu9umW%{bn)+kl3#?R=<89Waa)b_-HR6>N*/U{{X1}r)jLf!D/7>M%N7}(AJPBh+E.(YIpvp=3ms-62U05~KSG-*Qh3]yJNEsa_:cpjeu!Lld>i8j.*MsA?A@bGo|px#jgPAAW,:qJl&%0P,046y7lyL?#Q+)2QL#]%^H-Ou-pw%>W@>:Ers?O}uTX3(I?E7kGE)G&_9t2%Q{G[q/KYRdFk9^|`S)kqia[D*;!woR-{+yav%0/-ig7Ry}_5qu[Aktj|OBI!&m2J8Y?U%VKQkG^9w^P]}LcbmF,u9eOW/3<k9D^4i}u$,vaw4D~<Vs{vSmJfpY_OHC4iGm2(C89*%DZ?xazJMefiqe$1~E3G$kN,:B=WQFyA~gB00xd:ris8cV/]rI5u24{~IZxIA4#lN8>kUL@<i_y>bma)T9hr%c=Hq<2Ln<<I2MU+6MQWHhB+[/4MguK;PCsS+qXz:H>bMP3H/RfEZHh5-2,$o]%C1hc6;tDVY9}LT{xtw%gpe5I$EvX:^;s!c}BD3X<bzC95Qj0.r=F0TZ5dBc.zmCB>b0jmRB3e&h<sYW0-lh][CR562=^$O>FIwg.,?}p*OKi~@x;B_m-(QI3FqE9V?zM2{u~fhhslTnHC}.}U[Kn|,UmSl4x,!k4)5y[?8J6m+vTF?]a;BcgFRSvsaW9F`s;5k*gstH#00}Z26^AS:<cL&[dFz;c~U7lofuTl04N.bqf~q0K[8X8HK,3egbCQD&TP?e[L&Jzs5sjxOAFBJo8@7ZX6?PZW}5BD#=S19p`<3){Ak}:&WD_XU>d`JP7a3i6+:B~.3aM]u1{VQ4@]]0!NTjw1^c#o1]r#c)WYAc-F{5PYE3dG0jm]2Qw>/;.-jB-!R!f[9xO*Q)0Q+e@Y,v),ml82rWrJ1Rh0iCF7%-,LpIIZCfEQVb!]873nUY0wNkuZun4>x_&/3Lwf4x@g2grv#a8?^/L_Za>@s}j^q8NN+_ZC|u|D@1cCnu6WF8`Yu)@E]mO^o7xRu4]%^4i#_C,.9[Cq&M_[-n?~8U]G<:JQ#)!@nc`j!aE1b30C&5^oTU6end?.D~Z+)F,tP1cm,[4A|[cPd,LzQf_I@MXWB)/F)Q~Qvv/v|9:5FD!]xd=E=>2nPDCbZ%2~BsY$21;!Kuc|/d._jBfW[]7.DO48~{g7S=J3R|D[JQClEV<QmHSEr09E;@o:be~aiUtB@CuFsYAT?#J0KAx>[[|y/~o)m>1VyQWxNqLT{>tqC=9ed]9q3%7iHxbx]^!WK!YjU2{@9(qH)X/@+7TWwK}P,x3#.>s2T$D#P*uN`L{Y{]cuF^yQWtp4+`%kGT16T5&,FGL2U]{bVRe}m3b-mU`BZ8gdS<DqWsX`GdS:,U@{-C5mV!/zXjT$?w|$!G`+Gw?LIIR6V51]pW}!(deJJqi;:k+19k$e&0J;>!Cof`l7_e<O2P|q1R<2U64%C+Y^{?gUZNjZ(_V4}WXDJN7NO?yfyN]5Y3c69WcD_~y=N$mROw5/*2qw4=#wP:Zti:r8Jk+zRRn(DKnCYGgQ&??q|@3fA`TG9m>EGMKS3g-pWI^{rN)<U32USis%<CCWD9[_Q0FA0QY84)}4Rw26w,_k0BER~UC@mQzoqEoIYwrC;EQxIROX<<4WGYH-JtK{lB^7mE:])Egg-56b<e:FE/P^qu86Lw?s[?lnAdy[vRkg;01k#pDOM>4uIijiqwm,eGn{EpE=Cd6|B!R@/xk<]:q{sWy4jY,-=|hS7-|Anh)vC1cvj{o`L.YJZq?NeL1P9FS`:t:>a|k~?%FCgD|y$otL2Z-k{U56;%B!OG??L?(s0HW4=2G`G20xekUDJQ|Dlm/OS%BlQvy,H1=?dkA3$PEKHvewl^HwmqmJD=TIf0/pz[tFsKOX7BMU*[KQ<@-h?|n9m6qMsJPtmWg%thY1+/#91__9ucV4rq#[do&7#hu*mF/$66MzcoE!{|W2u6a-k<0vj~E{Uws_D9E1p9hMvBO,XlW_T<8nREKBx(ds_hnzjI!H0>ro`q<bEo<d{!%xdU85eCb*^!:nj3<$}$F1V`g>V2I:.eFDyL[/uxK6pE/mP=:@5X1ZVW.y}R97mVm,K19vn700u%{6FeHI(MMAmR,wd)mgLnl3~az2y|>g~etFojhRy_8vwEtG!Fr+]l8eMJ=pJWFpjEs6}_X2!S.P^jM9UM)*nQ]5Ej_R?7V@D5;b<|TqkHXIvpMonCZlFy8e&PZ0}ND;j37+!Dcvqk]KdlvD0T{q}<9@qHb$8,!.aKIeB!2y7<q9BxWp:fFI9vrj/2,9m*w]X:fQApWkllzi/t*D.}j*^5x6(zFR=dFP#W+5ur`,;.#n#<}{Hk#G|%HA-A<~Z5>aw-8TFWO]^]?@|B!W2eyj6.bOLwn1x1_iQzXGb[4>tj:U_/S2gt/xE~.AsuecgOo03)6f)|ge^}_<2QBzQaDrc)cQG6<qt^<cyB4Ovmv/eFL0ks~VD}P/X.Kgf7afxX#6xwb_Rlvb/GEf*[`i9{&teIelLX1`r>XpO%lKFoU~v4Fh4Kb?D_G4U2EF-4YI7o{(5~Vg2EK;&ER~P!mO_3y7.Q]#D4G*X<D9H/s.!]rJwp`K*]{5|LNm,d!{o~Q>BMfl+3;M62$JB2GQ@2SV=K#7M,wn+&]I9}1:hZvbg3O;OPKPLHI#f&f@BMqph6a;1/M%#v.;.Gdn.]TJg|-PrW0tT,?>ubU]zm!T!_.?hjC`OEJ0Sk5[T%dkUI}O7`{iJ4KSn@t{THPNCb=|.h}LgJ46U59QD$o9h4q+S:BDEQ.JIh<z~$/||}:YDd`x9}b7*@HC?QIKDhK9uu?O019HEd{sZ:k_G|xQ)1]9?SBq{?ST{~,86W.FQ4qW/Zf~>^X;)/QR*M472[bQ%Dpo>jFqEcb*G6|*[dPrla?I~1%.^>LY!x:{=0%pv6?lcM%nAcExhjVaoG{p<CauEK4#jbi3([<N!LXH@}#8[sdV7U$*df9>Wa`Ro_Y$_C2(![OEHvJ1%Nmbx=ehpLpKpgd@e_6WSWB5Cy:1NV`MSwE(?Qr%>;Tx:=<;1mn)82DeKdj(u)y)>BZKL;ue*AO`7YgQ1=u,qH-Pkl+m|XDT8do(Ve6t;$G(man]it~itOnCO`5onj?edX?agBy`(}=$A/fxcVh7T-3!y1yh3Gc*U)Np-?U+7a*QJG~[n6dxy+NdaUR<s7u,TmT`pB0q}kVKze?k[e6^K$]NZUgU0&z&j_ciA]?uoOb&/W3>~A<T-+*(|[rxCr837S*n(PSt,F8J$jO}S7zIc;zt9[;HzZM-abjJvaT8`WOm?]LZ8h]/{2QROGj=LUHu<~_EbvnI{-z-t|eTa4MBP<!@X%I[cHnXu528PR:K3werbVcH.PrI!1aNuz6bvY,M>4Zk<5GA|Y,g&L8Q.vZ<#qpU,lr,`gseVuUX<+iu<i7+02..-&TsLS*IO7`HE?T[mW6wujsFu_mPW<jEdw+H;&YyLAR{-FZ3VlBK?;j[2:CXE8|.Y=>pZ*S-z#))a>pT9}~x3LA-ZC>M9tAW.r0Aj3n]^7qt@<2`x^ye?NT#&P>?<kJiEanYFFFzIg=`yx7{uOa3)@VEI%q+fKIM);o>_NsgY#@1JH_3nx>pR@:_Eo_A:6|qL,l(`1e]z#P5XZ]KgV3A/t:|MY?WD&RtmvTW,L0a&NqGR.N1kAs?cJQMJJRd+MERuRgh>,8mjS.ti|AQ6:}%vNjI7_p3k@0-=$!pR0iZ}ReS@x[]@(+,?C?E$87-0^_^V<|%[P,2HyEq@uI8_hJP.Vbc~*H/-?)VChnWxyI3mVNMKVO?Q:-C)1M8-OxIh60tKA*)3&mW$;337k1op<l^REHHSH]g4?,7yQ/9@GFN/BqkGUAwdz$m}VrQk%uvt<3}ez!8t]ixl*3?rbgQ@yQi43?n<:VRi.n3EMtusvpjU*5qVgprp`y_vXlcM4xZSZ7mrZ]8g]}xXDSgQ<P^8Ff=L~GB$qEx$dI,Cn?nlJ}FxV=O+M&_23>nZJzR`-1NgBk5lkY[`(xuT-B*<KOF4><g$(?%wV^`{fCW;2WaE&wSB]lWmGQs,~/RwhlP[WM}RES`]?Jbsvmhmf<$4VSjgr~;o=5jWuo:4u{1j5:c0{zy%{3w48X`,m-.bz`69lMax_<.T,-y*2~4@*id~mub|^BTR3Pg7LP7:2gUq.X@I@Xz!kq^qCj7zDv1Cd,}Ug?p>l0Ku>cFjRS]&QGUubcKBeNoaes+-FyCL])F54o~GI:ZT!c[LmdokqUhDhxO&y3+5M)9[Nd&/0f|[:TqcQNhw<t~3vwsxL$KmSHai]gvb%yvk[y;@s<UK;po>8zEsn/9FUv02pRMFnr+6R].;H~y,jazVN~RG-RZy69X+;ev#dVcxIanEO?^8gjtPsq%lXv)3WnJV#i5{3LlH3|YHZBPHAlGajD(F:y/ZTxCI4>UFSu1<T18/79;Vd_Y)w~!M{lsid=7|).D`[6lO((K9lM9F4CpzxqX_H7v<@S!b){>We%LL[d8mzWaj<Na.jW/L(i#XSLIv*b?/[c($]Pci6/-t|C-x<0]s_2kVJM%<Pz)ZH3TR}Rq}[!M<h_nFC?N8O-W&A4Zd8Nw_b>?hO/_&bNJTGMsrVlP~,rBP=gOWZ31aLaG%B0kcJL)!A6S#.km%,a4.ZIT[I#s1}~LNKebp:/D5oG^r>JVV14+LrRUytO)*N68tdH=j(jb~Z`Y1@AW}Gg)My0n1.M*Q[:i4KJ](exJ5N5d@Nf1bSK1;%TvX;yeQPNx-mO,xkmJK@F/k^9K.c~G44$RSG~L7VM0t36,`Zm75GgP$}QG;mv#h0PK#<uRg4,4E]QiVa!e?[8Igw,`D[)_<?vs0D4g!=%wt$BU%:TyE+{cUs+LyCaao_$~wZmz#Io}KE4=f[?rP5^61|&XPy_]52l(tfv{a^Kqiqxzwmk~J!CdUT-UikmSZojk(X)DLC`;xGz?gn_*E^ukfjPk1gX3PJnD5Z|8-(4<b<|CK*(q/~^:&ye~#n6_=~hKPSU!t<jzS#&SFi`8bCuRf;5F-!M>LdrZ`V#X@!aJ8*|8R6MkLx5W%X@+^clbvLbO`zP6Y:SXv^z-%i=rNF@qTxki~YiceKT([h_7I}9Z@x0KzKP,Q/4o_.EKHo8wLurkqh6yl!XXII`L|??Tg,H>MNj0)PLwx&!/|6cslvqq@wz(6,lx4fPfC7X_Ok.on>h&D}P@6PN^@{9(%*Uq(=%~)lmI9iAB]f]Q_d%aCOoX}A=B5@jDP^k%Aw(t+.Y4JK|aK!tm>G3^/D0v0!d#H7]c:z1Uf<_&CV3VIu)_}Nbe((vt=-C]z[`]/O>s=JiloyeD!#.Q%XVDmqsV+yc|CvzOP)?X@h5k@Bm<3<K2T&N.n6nk0f#`3=Z|V:*O918Tj:I<=k}Q-Yv.!%VK];`x8L-%qx<jm;=Z{@VVl9cxxh042A]r@9cT@COO%pT~]oo&D{NY<sfq*[=(@2/aAur4~7dT33Ax=WepPpvi3tS-21dtG&Vo}oklolEH^b)p2yAx!VB25+XCp+~{<FGb:u6iDuYR*!Z){7AXv&ov{OaI:(h-NIgm.*rXo/cHpt@GS-llES(@]QN7/]%Hp=O??2vBwe/|SQQv]S+]NJ]k!8[JR6*v*o[gOrDRYxMkMuPOD(Y[ZxssWB+jW8i95(VL9@pu247dG6]cF_JJ$4.:F~l6Pk)JUO>Uvl|1J&Jzu1XZV*cx9O~<R5Sb7[Im%B)+I517u5;_hv7EVPC57,mhm~7~3|DI&v?e:ml&LV5XhklI(@Lcvq^N/O.=Gy:wC$QyjFw;bUcEk>!tTvX-0W!pncV..(VZs;ina2S?|GS1*0sj9z+kK<QF(-=[RXV_ATLov:1KR)_=,zG5Biek924RnJA?+`SF!@~c2L{J#3vld0g=|{#V:*(X`C;`E9wV(.O6x6OIayUSB=*<N,dU5@Q$XgkxLm>uXxi/?bG^#d78c%<;!|HIu#i&Y=H7-%f6p_N4Pl3l(]w[><Zf02-6@+ouqQ7dbo$j_[ZQd=um|cl_.=vyJiC4E&bB!BgWavU-QD]<[Ggai>{xl:.&^IL_i{Bs+QD[L[HLv2n.Ciwc^LXuN|KB:4#$Vs3t/#.;{7H*b*w#j$a2#t#_U*spy6ET<5xmt[i?dnQ0R^WVOu|T3?CtkAB4kbim:S7D=vZr52q{EcRKNsvP`K[Yk1p`AaH^UY9;5He&iNadsd>$1-}d8#,>I/OTw~Q5_3!b=#*}J+9$y>qRgZIxyvM)%jQ|*S0Gj@H0FE_U_(MsH^]^mN~N5!/tf_D5~SXvy*PI)hHG6ldMWlvJS~l6&u`.7g/i~x,UkZ):~K_@h(/&ui}u[xK:Jv;5m.y|J4w/4-8[:z1O%r{OF>K}3;Q<K<ax8K/eu|%2|JO@/z&}y9f/IkC!kw;d1iscM{),D;6EPc7iL`/3AYq*(f$DOqw<2!aYniY98L4TZLOgDc}`-Qaxu&C:C}E(fn<p}<WiFV|^+6nzlD?s0hdh6g]+ZI4%JEQO((MfB3=/?^BO^RPDie1`Qp==ZX#%1ct3qJ?6}|0.&)Z<-p-b[Ue[hm,x1P^|iC]=50fogo#/rSef0?11wvbhZ9GxJ%a<X]*gFtWQJhiRyDemLzkdsGR;v]];nYhK<Ps9rML8`OF`QF(UNl$t$~Xh{YV`=5UubrDG}4]JwoXg;u;)]K4igjl8gm2$;Zf:H!Fw9L4n5:}Zf{WsmORBx=PY1;c%^cQ:]bf}HtXZr-z_VoXx/{Tz5`kY@Y]2nr-e",28724,vm,vG,vh,vS)vb=Sh(vb,62174)vf=({})[100862]return vb end return vv end)()b0[nJ[61420]]=({})[100862]b2[(1+91)]=(function()local _,vN=b0[nJ[16707]](b0[nJ[ng[38960]]]);local vQ=b0[nJ[ng[31354]]](vN,b0[nJ[43392]][(J((203-192),hv)and tM or nil)]);local vA=nR or 0;if not vQ or vQ<=0 or vQ>49157 then vQ=0 end;if vA<=0 or vA>49157 then vA=0 end;if vQ==0 and vA==0 then return 0 end;return vQ+(vA*65536)end)()b0[nJ[26735]]=(function()local vs=(cI[4]*131072+cI[5]*257+(cI[6]%65536)+0x4A1E3)local vF=nb(vs)%me if cI[8]~=vF then b0[nJ[ng[53050]]](b6,b0[nJ[ng[42260]]],b0[nJ[40199]])end local vl=((vF*48271+cI[2])%me)if cI[16]~=vl then b0[nJ[ng[32407]]](b6,b0[nJ[ng[54489]]],b0[nJ[40199]])end local vH=nb(b7(vF,vl))%me if cI[15]~=vH then b0[nJ[ng[49816]]](b6,b0[nJ[ng[43395]]],b0[nJ[40199]])end if cI[4]~=942 then b0[nJ[ng[51074]]](b6,b0[nJ[ng[59914]]],b0[nJ[40199]])end if cI[5]~=171 then b0[nJ[ng[50137]]](b6,b0[nJ[ng[34275]]],b0[nJ[40199]])end if cI[6]~=3625 then b0[nJ[ng[24236]]](b6,b0[nJ[ng[46286]]],b0[nJ[40199]])end end)()local vO={[0]={9196,11632,9574,12012},[1]={},[2]={9863,12944,9877,12959,9884,12965,9912,12995,9978,13079},[3]={10136,13539},[4]={10457,13192,10464,13198,10492,13228,10558,13312},[5]={},[6]={},[7]={10436,15132,10441,15137,10455,15151},[8]={10757,14785},[9]={},[10]={},[11]={},[12]={},[13]={},[14]={},[15]={},[16]={},[17]={12679,18619,12711,18661},[18]={},[19]={5167,6668,5178,6675,5187,6682},[20]={5455,7278},[21]={5779,7920},[22]={5108,8566},[23]={5431,8220,5441,8230,5447,8236,5457,8246},[24]={5771,8882,5777,8888,5791,8902,5797,8908,5809,8920,5815,8926},[25]={6078,9511,6084,9517},[26]={6402,10157,6408,10163},[27]={6728,9814,6734,9820},[28]={},[29]={},[30]={6713,11764},[31]={},[32]={},[33]={},[34]={},[35]={9283,13960,9395,14072},[36]={},[37]={},[38]={8296,14936},[39]={},[40]={8946,15239},[41]={},[42]={},[43]={},[44]={},[45]={9573,17482,9591,17500},[46]={9896,17137,9904,17144},[47]={},[48]={},[49]={10869,19091},[50]={},[51]={},[52]={},[53]={},[54]={},[55]={11817,8681,11823,8687},[56]={12134,9320,12140,9326},[57]={},[58]={},[59]={},[60]={},[61]={4585,11578,4591,11584,4604,11602,4616,11609,4622,11615},[62]={},[63]={5214,11860,5220,11866},[64]={5538,12511},[65]={5864,13154,5870,13160},[66]={},[67]={},[68]={5845,14107,5849,14111,5854,14116},[69]={6162,14746,6166,14750,6171,14755},[70]={},[71]={6821,15060,6825,15062,6829,15066},[72]={7135,15688},[73]={},[74]={},[75]={},[76]={8581,18439},[77]={},[78]={},[79]={8410,18243},[80]={},[81]={},[82]={},[83]={9394,8227,9459,8292,9568,8411},[84]={9027,8182},[85]={9351,7837},[86]={9676,8494},[87]={10037,9167},[88]={},[89]={},[90]={},[91]={},[92]={},[93]={},[94]={},[95]={},[96]={},[97]={},[98]={},[99]={},[100]={},[101]={13011,14679,13019,14687},[102]={},[103]={},[104]={},[105]={5649,15805,5657,15813},[106]={},[107]={},[108]={5940,17071,5945,17076,5959,17095,5963,17093,5974,17102,5998,17128,6012,17183,6017,17145,6023,17151,6036,17164,6064,17192,6141,17269,6188,17323,6202,17330,6210,17338,6217,17345,6222,17357,6232,17363,6244,17372,6252,17380,6259,17387,6264,17395},[109]={},[110]={},[111]={6593,18690,6598,18695},[112]={6919,18352,6923,18350,6934,18359,6958,18385,6972,18440,6977,18402,6983,18408,6996,18421,7024,18449},[113]={6258,6713},[114]={6571,7348},[115]={},[116]={},[117]={},[118]={7864,8945},[119]={8190,9586,8198,9594,8205,9601,8210,9613,8220,9619},[120]={8514,9241,8522,9249,8529,9256,8534,9264},[121]={},[122]={},[123]={},[124]={},[125]={},[126]={},[127]={},[128]={9319,12634,9326,12641,9442,12757,9452,12767,9475,12790,9485,12800},[129]={},[130]={9761,13720,9768,13727},[131]={10143,13433,10153,13443,10176,13466,10186,13476},[132]={10408,14020,10418,14030},[133]={10732,14666,10742,14676},[134]={},[135]={},[136]={},[137]={},[138]={},[139]={},[140]={},[141]={},[142]={},[143]={},[144]={},[145]={},[146]={},[147]={},[148]={},[149]={},[150]={},[151]={},[152]={},[153]={},[154]={},[155]={},[156]={},[157]={},[158]={},[159]={7021,12280},[160]={},[161]={},[162]={},[163]={8294,13851,8327,13883},[164]={},[165]={},[166]={},[167]={},[168]={},[169]={9264,16758},[170]={},[171]={},}local vV={}do for vY=0,171 do local vB=vO[vY]local vo={}if vB then local vZ=4099+((4855+vY*193)%8191)local vp=6151+((5335+vY*389)%12289)for vJ=1,#vB,2 do vo[vB[vJ]-vZ]=vB[vJ+1]-vp end end vV[vY]=vo end end local function vI(vT,t0)local vU={}local St=1 local hZ=1 while true do local fQ=0 local h9=b0[nJ[43392]]["\98\121\116\101"](vT,hZ)if not h9 then break end for hL=0,4 do local h9=b0[nJ[43392]]["\98\121\116\101"](vT,hZ+hL)if h9 then fQ=fQ*85+(b0[nJ[4277]][h9]or 0)end end hZ=hZ+5 local Si=b9(fQ/16777216)%256 local SM=b9(fQ/65536)%256 local SR=b9(fQ/256)%256 local xV=fQ%256 if t0 and St>t0 then break end vU[St]=Si;St=St+1 if t0 and St>t0 then break end vU[St]=SM;St=St+1 if t0 and St>t0 then break end vU[St]=SR;St=St+1 if t0 and St>t0 then break end vU[St]=xV;St=St+1 end return vU end local vy=(function()local ha={}local hw="f3a5N7xj1P)h9`[F+n&*{~LTsZ0;?v,BYSiX/!H-eR<:J^p8]GQ.tmWVbgu=wE}#cq(>DKC|%@$4lAdUk2OIoyzM_6r"for hL=1,91 do ha[b0[nJ[43392]][(J((3*3+2),hv)and tM or nil)](hw,hL)]=hL-1 end return ha end)()b0[nJ[26775]]=function()local vX=b7(1899979069,303587)%me local va=nb(vX)%me if va==0 then va=1 end local vw=b7(va,16728016)%me local vL=nb(vw)%me if vL==0 then vL=1 end local vk=b2[((224-148-73))]or 0 local v0=b7(b7(va,vL),vk)%me local tz=nb(v0)%me if tz%256==0 then tz=tz+1 end return tz end b0[nJ[36336]]=function(tK)local St=1 local v5={}local Sv=#tK local h0=1 local tS=b0[nJ[14846]]local tr=b0[nJ[ng[40944]]]local tE=tS and tr(tS,b0[nJ[ng[20311]]])or 0 local tt=tS and tr(tS,b0[nJ[ng[28439]]])or 0 local v2=1 do local hT=b0[nJ[5372]]local hD=hT and hT(tE)or 0 local hI=hT and hT(tt)or 0 local hX=1-((hD+hI)%2)if hX~=0 then v2=hX end end if v2==0 then return v5 end local hZ=-1 local ho=0 local t0=0 while h0<=Sv do local h9=b0[nJ[43392]][(J((3*3+2),hv)and tM or nil)](tK,h0)local v4=vy[h9]if v4~=nil then if hZ<0 then hZ=v4 else local fQ=hZ+v4*((105)-(14))ho=ho+fQ*(2^t0)if(fQ%8192)>88 then t0=t0+13 else t0=t0+14 end while t0>=8 do v5[St]=ho%((277)-((0xB+0xA)))St=St+1 ho=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](ho/((277)-((0xB+0xA))))t0=t0-8 end hZ=-1 end end h0=h0+1 end if hZ>=0 then ho=ho+hZ*(2^t0)t0=t0+7 while t0>=8 do v5[St]=ho%((277)-((0xB+0xA)))St=St+1 ho=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](ho/((277)-((0xB+0xA))))t0=t0-8 end end return v5 end b0[nJ[13802]]=function(v3,tz)local v5={}local fN=tz for hL=1,#v3 do v5[hL]=b7(v3[hL],fN%((277)-((0xB+0xA))))fN=(fN*(((0xD21E-5501))-((0xD+5)))+(((59+0x27))-((11+6))))%me end return v5 end local function v6(v3,h0)return(v3[h0]or 0)+((v3[h0+1]or 0)*((277)-((0xB+0xA))))+((v3[h0+2]or 0)*(((0x8FC7+28736))-((0x3+0x4))))+((v3[h0+3]or 0)*(((16771315+0x1713))-((0x7-1))))end local function v1(v3,h0)return(v3[h0]or 0)+((v3[h0+1]or 0)*((277)-((0xB+0xA))))end local function v7(v3,h0)local qu,v8=0,1 while true do local ho=v3[h0]or 0 h0=h0+1 local qj=ho%(((0xB9-37))-((0x1A-6)))qu=qu+qj*v8 if ho<(((0xB9-37))-((0x1A-6)))then break end v8=v8*(((0xB9-37))-((0x1A-6)))end return qu,h0 end local Nb=((newproxy and b0[nJ[58022]](newproxy)==b0[nJ[58022]](b0[nJ[16707]]))and newproxy(true))or{}local function v9(vg,ve,vW,Nn)if Nn~=Nb then return{}end local vD=b0[nJ[26775]]()local Nj=b0[nJ[36336]](vg)local Nf=b0[nJ[13802]](Nj,vD)local NC=(Nf[1]or 0)+((Nf[2]or 0)*256)+((Nf[3]or 0)*65536)local Nu=(NC==3783744)if not Nu then Nf=Sh(Nf,(ve or 146456))end local h0=1 local NK={}local Nz=v6 local Nm=v1 local NG=false local Nh=false local NS=false local Nr=false local NE=false local Nt=false local NM=function()local NR=1 repeat NR=(NR*48271+1)%me if NR==0 then NR=1 end until NR==0 end local Nd=Nf[h0+3]or 0 Nh=(Nd==50 or Nd==51 or Nd==52 or Nd==53 or Nd==54 or Nd==55)NG=(Nd==51 or Nd==52 or Nd==53 or Nd==54 or Nd==55)if not Nh then return{}end local Nx=((b2[3]or 0)%251)+1 local Nq=Nf[h0+4]or 0 if Nq~=Nx then return{}end NS=(Nd==52 or Nd==54)Nr=(Nd==53)NE=(Nd==54)Nt=(Nd==55)local Nc if NG then Nc={}for fN=32,126 do local fQ=(b0[nJ[4277]][fN])if fQ then Nc[fQ]=b0[nJ[43392]][(J((4*3),hv)and tM or nil)](fN)end end end h0=h0+5 local Ni if NS then Ni={[32]=8,[29]=8,[30]=8,[47]=8,[8]=8,[5]=8,[4]=8,[24]=8,[21]=8,[22]=8,[19]=8,[20]=8,[17]=8,[13]=8,[14]=8,[11]=8,[12]=8,[101]=8,[102]=8,[99]=8,[100]=8,[97]=8,[98]=8,[95]=8,[92]=8,[113]=8,[71]=8,[67]=8,[62]=8,[84]=8,[81]=8,[82]=8,[79]=8,[80]=8,[77]=8,[75]=8,[76]=8,[167]=8,[168]=8,[165]=8,[159]=8,[160]=8,[185]=8,[186]=8,[183]=8,[184]=8,[181]=8,[182]=8,[179]=8,[180]=8,[177]=8,[178]=8,[175]=8,[123]=8,[124]=8,[154]=8,[151]=8,[152]=8,[149]=8,[150]=8,[147]=8,[148]=8,[145]=8,[146]=8,[143]=8,[144]=8,[141]=8,[142]=8,[139]=8,[140]=8,[233]=8,[234]=8,[231]=8,[232]=8,[229]=8,[230]=8,[227]=8,[228]=8,[225]=8,[223]=8,[224]=8,[221]=8,[222]=8,[219]=8,[220]=8,[250]=9,[247]=9,[248]=9,[245]=8,[246]=8,[243]=8,[244]=8,[241]=8,[242]=8,[239]=8,[240]=8,[237]=8,[238]=8,[235]=8,[236]=8,[201]=8,[202]=8,[199]=8,[200]=8,[193]=8,[194]=8,[191]=8,[192]=8,[215]=8,[216]=8}end local Nv Nv,h0=v7(Nf,h0)for r8=0,Nv-1 do local xn={}local NQ NQ,h0=v7(Nf,h0)xn[9080]=NQ local NA,Ns,NF,NN,Nl NA,h0=v7(Nf,h0)Ns,h0=v7(Nf,h0)NF,h0=v7(Nf,h0)NN,h0=v7(Nf,h0)Nl,h0=v7(Nf,h0)xn[9687]=NA xn[5081]=Ns xn[5825]=NF xn[1829]=r8 xn[3393]=NN if Nl>0 then xn[8985]={}local NH=0 for h8=1,Nl do local NP NP,h0=v7(Nf,h0)NH=NH+NP xn[8985][NH]=true end else xn[8985]=nil end if Nr then local NV NV,h0=v7(Nf,h0)local Sr={}local NO=1 local NY=(NV-(NV%4))/4 local hZ=h0 for No=1,NY do local xm=Nf[hZ]or 0 local Si=Nf[hZ+1]or 0 local SM=Nf[hZ+2]or 0 local SR=Nf[hZ+3]or 0 local h7=xm*(((16771315+0x1713))-((0x7-1)))+Si*(((0x8FC7+28736))-((0x3+0x4)))+SM*((277)-((0xB+0xA)))+SR local NJ=h7 local SG=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sm=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sz=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SK=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SC=NJ%(((0x8F-39))-((0x14-1)))Sr[NO]=Nc[SC]Sr[NO+1]=Nc[SK]Sr[NO+2]=Nc[Sz]Sr[NO+3]=Nc[Sm]Sr[NO+4]=Nc[SG]NO=NO+5 hZ=hZ+4 end local NZ=NV-(NY*4)if NZ>0 then local h7=0 for h8=0,NZ-1 do h7=h7*((277)-((0xB+0xA)))+(Nf[hZ+h8]or 0)end for h8=NZ,3 do h7=h7*((277)-((0xB+0xA)))end local NJ=h7 local SG=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sm=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sz=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SK=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SC=NJ%(((0x8F-39))-((0x14-1)))local Np=NZ+1 if Np>=1 then Sr[NO]=Nc[SC]end if Np>=2 then Sr[NO+1]=Nc[SK]end if Np>=3 then Sr[NO+2]=Nc[Sz]end if Np>=4 then Sr[NO+3]=Nc[Sm]end if Np>=5 then Sr[NO+4]=Nc[SG]end end xn[5627]=b0[nJ[38884]][(J(((579-5-246)),hv)and tM or nil)](Sr)h0=h0+NV local Ng=Nf[h0]or 0 h0=h0+1 if Ng~=0 then xn[3079]=true local Ne,NW,ND Ne,h0=v7(Nf,h0)NW,h0=v7(Nf,h0)ND,h0=v7(Nf,h0)xn[9212]=Ne xn[2412]=Ne xn[4915]=NW xn[5880]=ND local rC=b2[(61-58)]or 0 if rC~=0 then xn[2412]=b7(xn[2412],rC)if xn[2412]<0 then xn[2412]=xn[2412]+mg end xn[4915]=b7(xn[4915],rC)if xn[4915]<0 then xn[4915]=xn[4915]+mg end xn[5880]=b7(xn[5880],rC)if xn[5880]<0 then xn[5880]=xn[5880]+mg end end local NI NI,h0=v7(Nf,h0)local NT={}for h8=1,NI do NT[h8]=b0[nJ[43392]][(J(((55+-15-28)),hv)and tM or nil)](Nf[h0+h8-1]or 0)end xn[9930]=b0[nJ[38884]][(J(((53+275)),hv)and tM or nil)](NT)h0=h0+NI local NU NU,h0=v7(Nf,h0)local Ny={}for h8=1,NU do Ny[h8]=b0[nJ[43392]][(J((36-24),hv)and tM or nil)](Nf[h0+h8-1]or 0)end xn[8107]=b0[nJ[38884]][(J(((546+-134-84)),hv)and tM or nil)](Ny)h0=h0+NU local NX,Na NX,h0=v7(Nf,h0)Na,h0=v7(Nf,h0)if NX and NX>0 and Na and Na>0 then local Nw={}for h8=1,Na do Nw[h8]=b0[nJ[43392]][(J(((119-107+142-142)),hv)and tM or nil)](Nf[h0+h8-1]or 0)end xn[3015]=b0[nJ[38884]][(J((494-166),hv)and tM or nil)](Nw)xn[9329]=NX end h0=h0+Na else xn[3079]=false end local NL=Nf[h0]or 0 h0=h0+1 xn[4468]={}for h8=1,NL do local Nk=(Nf[h0]or 0)==1 local Ez=Nf[h0+1]or 0 xn[4468][h8]={Nk=Nk,Ez=Ez}h0=h0+2 end xn[1875]=Nf[h0]or 0 h0=h0+1 xn[6949]=Nf[h0]or 0 h0=h0+1 xn[9518]=(Nf[h0]or 0)==1 h0=h0+1 local N0 N0,h0=v7(Nf,h0)xn[2592]={}local N5=0 for h8=1,N0 do local N2 N2,h0=v7(Nf,h0)N5=N5+N2 xn[2592][h8-1]=N5 end xn[5330]={}for h8=1,N0 do local N4 N4,h0=v7(Nf,h0)xn[5330][h8-1]=N4 end xn[4469]={}for h8=1,N0 do xn[4469][h8-1]=Nf[h0]or 0 h0=h0+1 end xn[6572]={}for h8=1,NQ do xn[6572][h8]=Nf[h0+h8-1]or 0 end h0=h0+NQ xn[7637]={}local Sc=0 for h8=1,NQ do local xk xk,h0=v7(Nf,h0)Sc=Sc+xk xn[7637][h8]=Sc end local N3 N3,h0=v7(Nf,h0)xn[3964]={}local N6,N1=0,0 for h8=1,N3 do local N7,N8 N7,h0=v7(Nf,h0)N8,h0=v7(Nf,h0)N6=N6+N7 N1=N1+N8 xn[3964][N6]=N1 end elseif NE then xn[1875]=Nf[h0]or 0 h0=h0+1 xn[6949]=Nf[h0]or 0 h0=h0+1 xn[9518]=(Nf[h0]or 0)==1 h0=h0+1 local NL=Nf[h0]or 0 h0=h0+1 xn[4468]={}for h8=1,NL do local Nk=(Nf[h0]or 0)==1 local Ez=Nf[h0+1]or 0 xn[4468][h8]={Nk=Nk,Ez=Ez}h0=h0+2 end xn[6572]={}for h8=1,NQ do xn[6572][h8]=Nf[h0+h8-1]or 0 end h0=h0+NQ local Ng=Nf[h0]or 0 h0=h0+1 if Ng~=0 then xn[3079]=true local Ne,NW,ND Ne,h0=v7(Nf,h0)NW,h0=v7(Nf,h0)ND,h0=v7(Nf,h0)xn[9212]=Ne xn[2412]=Ne xn[4915]=NW xn[5880]=ND local rC=b2[0x3]or 0 if rC~=0 then xn[2412]=b7(xn[2412],rC)if xn[2412]<0 then xn[2412]=xn[2412]+mg end xn[4915]=b7(xn[4915],rC)if xn[4915]<0 then xn[4915]=xn[4915]+mg end xn[5880]=b7(xn[5880],rC)if xn[5880]<0 then xn[5880]=xn[5880]+mg end end local NI NI,h0=v7(Nf,h0)local NT={}for h8=1,NI do NT[h8]=b0[nJ[43392]][(J(0xC,hv)and tM or nil)](Nf[h0+h8-1]or 0)end xn[9930]=b0[nJ[38884]][(J((290+38),hv)and tM or nil)](NT)h0=h0+NI local NU NU,h0=v7(Nf,h0)local Ny={}for h8=1,NU do Ny[h8]=b0[nJ[43392]][(J(12,hv)and tM or nil)](Nf[h0+h8-1]or 0)end xn[8107]=b0[nJ[38884]][(J(0x148,hv)and tM or nil)](Ny)h0=h0+NU local NX,Na NX,h0=v7(Nf,h0)Na,h0=v7(Nf,h0)if NX and NX>0 and Na and Na>0 then local Nw={}for h8=1,Na do Nw[h8]=b0[nJ[43392]][(J(((12+0)),hv)and tM or nil)](Nf[h0+h8-1]or 0)end xn[3015]=b0[nJ[38884]][(J(((202+238-112)),hv)and tM or nil)](Nw)xn[9329]=NX end h0=h0+Na else xn[3079]=false end local NV NV,h0=v7(Nf,h0)local Sr={}local NO=1 local NY=(NV-(NV%4))/4 local hZ=h0 for No=1,NY do local xm=Nf[hZ]or 0 local Si=Nf[hZ+1]or 0 local SM=Nf[hZ+2]or 0 local SR=Nf[hZ+3]or 0 local h7=xm*(((16771315+0x1713))-((0x7-1)))+Si*(((0x8FC7+28736))-((0x3+0x4)))+SM*((277)-((0xB+0xA)))+SR local NJ=h7 local SG=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sm=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sz=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SK=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SC=NJ%(((0x8F-39))-((0x14-1)))Sr[NO]=Nc[SC]Sr[NO+1]=Nc[SK]Sr[NO+2]=Nc[Sz]Sr[NO+3]=Nc[Sm]Sr[NO+4]=Nc[SG]NO=NO+5 hZ=hZ+4 end local NZ=NV-(NY*4)if NZ>0 then local h7=0 for h8=0,NZ-1 do h7=h7*((277)-((0xB+0xA)))+(Nf[hZ+h8]or 0)end for h8=NZ,3 do h7=h7*((277)-((0xB+0xA)))end local NJ=h7 local SG=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sm=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sz=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SK=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SC=NJ%(((0x8F-39))-((0x14-1)))local Np=NZ+1 if Np>=1 then Sr[NO]=Nc[SC]end if Np>=2 then Sr[NO+1]=Nc[SK]end if Np>=3 then Sr[NO+2]=Nc[Sz]end if Np>=4 then Sr[NO+3]=Nc[Sm]end if Np>=5 then Sr[NO+4]=Nc[SG]end end xn[5627]=b0[nJ[38884]][(J(((409-81+(159-159))),hv)and tM or nil)](Sr)h0=h0+NV local N0 N0,h0=v7(Nf,h0)xn[2592]={}local N5=0 for h8=1,N0 do local N2 N2,h0=v7(Nf,h0)N5=N5+N2 xn[2592][h8-1]=N5 end xn[5330]={}for h8=1,N0 do local N4 N4,h0=v7(Nf,h0)xn[5330][h8-1]=N4 end xn[4469]={}for h8=1,N0 do xn[4469][h8-1]=Nf[h0]or 0 h0=h0+1 end xn[7637]={}xn[3964]={}local Sc=0 for h8=1,NQ do xn[7637][h8]=Sc xn[3964][Sc]=h8 local St=xn[6572][h8]or 0 local N9=(Ni and Ni[St])or 4 Sc=Sc+N9 end elseif Nt then local QG=0 local Qh=0 local QK=1+((1899979069+((r8+1)*17)+((NQ+3)*29))%2)local Qz=0 local Qm=7+QK local Qn=((1111+(((r8+1)%65521)*4093)+(((NQ+7)%65521)*211)+28991)%65521)while QG<Qm do local Qb=Nf[h0]or 255 h0=h0+1 local QS if Qb==102 then QS=0 elseif Qb==124 then QS=1 elseif Qb==177 then QS=2 elseif Qb==78 then QS=3 elseif Qb==134 then QS=4 elseif Qb==226 then QS=5 elseif Qb==211 then QS=6 elseif Qb==154 then QS=7 elseif Qb==90 then QS=8 else NM()end local Qj=Nf[h0]or 0 h0=h0+1 local Qf=((((182+(((r8+1)%251)*37)+(((NQ+5)%251)*19)+((QS+3)*53)+(Qb*97)+((Qn%251)*11)+236)%251)*99+211)%251)+1 if Qj~=Qf then NM()end local Qu=(1899979069+((r8+1)*7)+((NQ+1)*5)+((QS+1)*3)+Qb+(Qn%7))%3 h0=h0+Qu if QS<7 then local Qr=1 if QS==0 then Qr=1 elseif QS==1 then Qr=2 elseif QS==2 then Qr=4 elseif QS==3 then Qr=8 elseif QS==4 then Qr=16 elseif QS==5 then Qr=32 else Qr=64 end if(Qh%(Qr*2))>=Qr then NM()end Qh=Qh+Qr else local QE=1 if QS==8 then QE=2 end if QS==8 and QK<2 then NM()end if(Qz%(QE*2))>=QE then NM()end Qz=Qz+QE end QG=QG+1 local QC=(1899979069+((r8+1)*23)+((NQ+5)*11)+((QS+1)*37)+(Qb*5)+(Qn%97))%3 if QS==0 then local Qt=0 local function Qq()Qt=Qt+1 local Qx=((1899979069+((r8+1)*199)+((NQ+17)*53)+71+(Qb*29)+(Qt*195)+(((Qt+1)*(Qt+5))*7)+(((Qn+((Qn-(Qn%256))/256))%256)*19)+19)%256)Qx=(Qx+((Qt%251)*63)+(((Qt+Qb)%257)*13)+((Qn%257)*7))%256 if QC==1 then Qx=(Qx+((Qt+1)*31)+((Qn%251)*3)+14)%256 elseif QC==2 then Qx=(Qx+((((Qt%17)+1)*(Qb+3))+((((r8+1)+NQ+1)%257)*5)+((((Qn-(Qn%8))/8)%256)))%256)end local ho=b7(Nf[h0]or 0,Qx)%256 h0=h0+1 return ho end local Qi,vA,QM=Qq(),Qq(),Qq()if QC==1 then xn[6949]=Qi xn[1875]=vA xn[9518]=(QM==1)elseif QC==2 then xn[9518]=(Qi==1)xn[1875]=vA xn[6949]=QM else xn[1875]=Qi xn[6949]=vA xn[9518]=(QM==1)end elseif QS==1 then local QR=0 local function Qd()QR=QR+1 local Qc=((1899979069+((r8+1)*199)+((NQ+17)*53)+142+(Qb*29)+(QR*97)+(((QR+2)*(QR+5))*7)+(((Qn+((Qn-(Qn%256))/256))%256)*19)+9)%256)Qc=(Qc+((QR%251)*31)+(((QR+Qb)%257)*13)+((Qn%257)*7))%256 if QC==1 then Qc=(Qc+((QR+2)*31)+((Qn%251)*3)+14)%256 elseif QC==2 then Qc=(Qc+((((QR%17)+1)*(Qb+3))+((((r8+1)+NQ+2)%257)*5)+((((Qn-(Qn%8))/8)%256)))%256)end local ho=b7(Nf[h0]or 0,Qc)%256 h0=h0+1 return ho end local NL=Qd()xn[4468]={}for h8=1,NL do local Nk,Ez if QC==0 then Nk=(Qd()==1)Ez=Qd()else Ez=Qd()Nk=(Qd()==1)end xn[4468][h8]={Nk=Nk,Ez=Ez}end elseif QS==2 then xn[6572]={}for h8=1,NQ do local Qv=((1899979069+((r8+1)*113)+((NQ+7)*31)+(Qb*17)+(h8*159)+(((h8*h8)+(3*h8))*5)+(((Qn+((Qn-(Qn%256))/256))%256)*23)+39)%256)Qv=(Qv+((h8+Qb)*25)+((Qn%257)*5))%256 if QC==1 then Qv=(Qv+((h8+3)*29)+((Qn%251)*7)+196)%256 elseif QC==2 then Qv=(Qv+((((h8%19)+1)*(Qb+5))+((((r8+1)+NQ+3)%257)*11)+((((Qn-(Qn%32))/32)%256)))%256)end xn[6572][h8]=b7(Nf[h0+h8-1]or 0,Qv)%256 end h0=h0+NQ elseif QS==3 then local QN=0 local function QQ()QN=QN+1 local Ql=((1899979069+((r8+1)*199)+((NQ+17)*53)+284+(Qb*29)+(QN*217)+(((QN+4)*(QN+5))*7)+(((Qn+((Qn-(Qn%256))/256))%256)*19)+194)%256)Ql=(Ql+((QN%251)*39)+(((QN+Qb)%257)*13)+((Qn%257)*7))%256 if QC==1 then Ql=(Ql+((QN+4)*31)+((Qn%251)*3)+14)%256 elseif QC==2 then Ql=(Ql+((((QN%17)+1)*(Qb+3))+((((r8+1)+NQ+4)%257)*5)+((((Qn-(Qn%8))/8)%256)))%256)end local ho=b7(Nf[h0]or 0,Ql)%256 h0=h0+1 return ho end local function QA()local qu,v8=0,1 while true do local ho=QQ()local qj=ho%(((0xB9-37))-((0x1A-6)))qu=qu+qj*v8 if ho<(((0xB9-37))-((0x1A-6)))then break end v8=v8*(((0xB9-37))-((0x1A-6)))end return qu end local function Qs()xn[7637]={}local Sc=0 for h8=1,NQ do local xk=QA()Sc=Sc+xk xn[7637][h8]=Sc end end local function QF()local N3=QA()xn[3964]={}local N6,N1=0,0 for h8=1,N3 do local N7=QA()local N8=QA()N6=N6+N7 N1=N1+N8 xn[3964][N6]=N1 end end if QC==1 then QF()Qs()else Qs()QF()end elseif QS==4 then local QH=0 local function QP()QH=QH+1 local Qo=((1899979069+((r8+1)*199)+((NQ+17)*53)+355+(Qb*29)+(QH*237)+(((QH+5)*(QH+5))*7)+(((Qn+((Qn-(Qn%256))/256))%256)*19)+97)%256)Qo=(Qo+((QH%251)*19)+(((QH+Qb)%257)*13)+((Qn%257)*7))%256 if QC==1 then Qo=(Qo+((QH+5)*31)+((Qn%251)*3)+14)%256 elseif QC==2 then Qo=(Qo+((((QH%17)+1)*(Qb+3))+((((r8+1)+NQ+5)%257)*5)+((((Qn-(Qn%8))/8)%256)))%256)end local ho=b7(Nf[h0]or 0,Qo)%256 h0=h0+1 return ho end local function QV()local qu,v8=0,1 while true do local ho=QP()local qj=ho%(((0xB9-37))-((0x1A-6)))qu=qu+qj*v8 if ho<(((0xB9-37))-((0x1A-6)))then break end v8=v8*(((0xB9-37))-((0x1A-6)))end return qu end local QO=QV()local QY={}for h8=1,QO do local QB=((1899979069+((r8+1)*157)+((NQ+11)*43)+(Qb*19)+(h8*177)+((h8%251)*9)+(((h8+Qb)%257)*11)+126)%256)QY[h8]=b7(QP(),QB)%256 end local Sr={}local NO=1 local NY=(QO-(QO%4))/4 local hZ=1 for No=1,NY do local xm=QY[hZ]or 0 local Si=QY[hZ+1]or 0 local SM=QY[hZ+2]or 0 local SR=QY[hZ+3]or 0 local h7=xm*(((16771315+0x1713))-((0x7-1)))+Si*(((0x8FC7+28736))-((0x3+0x4)))+SM*((277)-((0xB+0xA)))+SR local NJ=h7 local SG=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sm=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sz=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SK=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SC=NJ%(((0x8F-39))-((0x14-1)))Sr[NO]=Nc[SC]Sr[NO+1]=Nc[SK]Sr[NO+2]=Nc[Sz]Sr[NO+3]=Nc[Sm]Sr[NO+4]=Nc[SG]NO=NO+5 hZ=hZ+4 end local NZ=QO-(NY*4)if NZ>0 then local h7=0 for h8=0,NZ-1 do h7=h7*((277)-((0xB+0xA)))+(QY[hZ+h8]or 0)end for h8=NZ,3 do h7=h7*((277)-((0xB+0xA)))end local NJ=h7 local SG=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sm=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sz=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SK=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SC=NJ%(((0x8F-39))-((0x14-1)))local Np=NZ+1 if Np>=1 then Sr[NO]=Nc[SC]end if Np>=2 then Sr[NO+1]=Nc[SK]end if Np>=3 then Sr[NO+2]=Nc[Sz]end if Np>=4 then Sr[NO+3]=Nc[Sm]end if Np>=5 then Sr[NO+4]=Nc[SG]end end xn[5627]=b0[nJ[38884]][(J((65*5+3),hv)and tM or nil)](Sr)elseif QS==5 then local QJ=0 local function QZ()QJ=QJ+1 local Qg=((1899979069+((r8+1)*199)+((NQ+17)*53)+426+(Qb*29)+(QJ*195)+(((QJ+6)*(QJ+5))*7)+(((Qn+((Qn-(Qn%256))/256))%256)*19)+176)%256)Qg=(Qg+((QJ%251)*9)+(((QJ+Qb)%257)*13)+((Qn%257)*7))%256 if QC==1 then Qg=(Qg+((QJ+6)*31)+((Qn%251)*3)+14)%256 elseif QC==2 then Qg=(Qg+((((QJ%17)+1)*(Qb+3))+((((r8+1)+NQ+6)%257)*5)+((((Qn-(Qn%8))/8)%256)))%256)end local ho=b7(Nf[h0]or 0,Qg)%256 h0=h0+1 return ho end local function Qp()local qu,v8=0,1 while true do local ho=QZ()local qj=ho%(((0xB9-37))-((0x1A-6)))qu=qu+qj*v8 if ho<(((0xB9-37))-((0x1A-6)))then break end v8=v8*(((0xB9-37))-((0x1A-6)))end return qu end local N0=Qp()xn[2592]={}local N5=0 for h8=1,N0 do local N2=Qp()N5=N5+N2 xn[2592][h8-1]=N5 end local function Qe()xn[5330]={}for h8=1,N0 do xn[5330][h8-1]=Qp()end end local function QW()xn[4469]={}for h8=1,N0 do xn[4469][h8-1]=QZ()end end if QC==1 then QW()Qe()else Qe()QW()end elseif QS==6 then local QD=0 local function QI()QD=QD+1 local QU=((1899979069+((r8+1)*199)+((NQ+17)*53)+497+(Qb*29)+(QD*97)+(((QD+7)*(QD+5))*7)+(((Qn+((Qn-(Qn%256))/256))%256)*19)+216)%256)QU=(QU+((QD%251)*69)+(((QD+Qb)%257)*13)+((Qn%257)*7))%256 if QC==1 then QU=(QU+((QD+7)*31)+((Qn%251)*3)+14)%256 elseif QC==2 then QU=(QU+((((QD%17)+1)*(Qb+3))+((((r8+1)+NQ+7)%257)*5)+((((Qn-(Qn%8))/8)%256)))%256)end local ho=b7(Nf[h0]or 0,QU)%256 h0=h0+1 return ho end local function QT()local qu,v8=0,1 while true do local ho=QI()local qj=ho%(((0xB9-37))-((0x1A-6)))qu=qu+qj*v8 if ho<(((0xB9-37))-((0x1A-6)))then break end v8=v8*(((0xB9-37))-((0x1A-6)))end return qu end local Ng=QI()if Ng~=0 then xn[3079]=true local QX,S2,Qa=QT(),QT(),QT()local Ne,NW,ND if QC==1 then NW,ND,Ne=QX,S2,Qa elseif QC==2 then ND,Ne,NW=QX,S2,Qa else Ne,NW,ND=QX,S2,Qa end xn[9212]=Ne xn[2412]=Ne xn[4915]=NW xn[5880]=ND local rC=b2[(160-157)]or 0 if rC~=0 then xn[2412]=b7(xn[2412],rC)if xn[2412]<0 then xn[2412]=xn[2412]+mg end xn[4915]=b7(xn[4915],rC)if xn[4915]<0 then xn[4915]=xn[4915]+mg end xn[5880]=b7(xn[5880],rC)if xn[5880]<0 then xn[5880]=xn[5880]+mg end end local NI NI=QT()local NT={}for h8=1,NI do local Qy=((1899979069+((r8+1)*181)+((NQ+13)*47)+(Qb*23)+67+(h8*9)+(((h8+1)*(h8+3))*3)+79)%256)Qy=(Qy+((h8%251)*123))%256 NT[h8]=b0[nJ[43392]][(J((94-82),hv)and tM or nil)](b7(QI(),Qy)%256)end xn[9930]=b0[nJ[38884]][(J(328,hv)and tM or nil)](NT)local NU NU=QT()local Ny={}for h8=1,NU do local Qy=((1899979069+((r8+1)*181)+((NQ+13)*47)+(Qb*23)+134+(h8*133)+(((h8+2)*(h8+3))*3)+39)%256)Qy=(Qy+((h8%251)*125))%256 Ny[h8]=b0[nJ[43392]][(J(((109-67-30)),hv)and tM or nil)](b7(QI(),Qy)%256)end xn[8107]=b0[nJ[38884]][(J(((360-22-10)),hv)and tM or nil)](Ny)local NX,Na NX=QT()Na=QT()if NX and NX>0 and Na and Na>0 then local Nw={}for h8=1,Na do local Qy=((1899979069+((r8+1)*181)+((NQ+13)*47)+(Qb*23)+201+(h8*195)+(((h8+3)*(h8+3))*3)+19)%256)Qy=(Qy+((h8%251)*127))%256 Nw[h8]=b0[nJ[43392]][(J(((72-60+(56-56))),hv)and tM or nil)](b7(QI(),Qy)%256)end xn[3015]=b0[nJ[38884]][(J(((101+227)),hv)and tM or nil)](Nw)xn[9329]=NX else for h8=1,Na do QI()end end else xn[3079]=false end elseif QS==7 then local Qw=0 local function QL()Qw=Qw+1 local Qk=((1899979069+((r8+1)*199)+((NQ+17)*53)+568+(Qb*29)+(Qw*177)+(((Qw+8)*(Qw+5))*7)+(((Qn+((Qn-(Qn%256))/256))%256)*19)+236)%256)Qk=(Qk+((Qw%251)*63)+(((Qw+Qb)%257)*13)+((Qn%257)*7))%256 if QC==1 then Qk=(Qk+((Qw+8)*31)+((Qn%251)*3)+14)%256 elseif QC==2 then Qk=(Qk+((((Qw%17)+1)*(Qb+3))+((((r8+1)+NQ+8)%257)*5)+((((Qn-(Qn%8))/8)%256)))%256)end local ho=b7(Nf[h0]or 0,Qk)%256 h0=h0+1 return ho end local Q0=1+((1899979069+((r8+1)*31)+((NQ+11)*17)+73+(Qb*5)+(Qn%19))%4)for h8=1,Q0 do local Q5=1899979069+((r8+1)*43)+((NQ+5)*37)+109+(Qb*13)+(h8*67)+(((Qn+((Qn-(Qn%256))/256))%256))Q5=Q5%256 if QL()~=Q5 then NM()end end else local Qw=0 local function QL()Qw=Qw+1 local Qk=((1899979069+((r8+1)*199)+((NQ+17)*53)+639+(Qb*29)+(Qw*217)+(((Qw+9)*(Qw+5))*7)+(((Qn+((Qn-(Qn%256))/256))%256)*19)+246)%256)Qk=(Qk+((Qw%251)*31)+(((Qw+Qb)%257)*13)+((Qn%257)*7))%256 if QC==1 then Qk=(Qk+((Qw+9)*31)+((Qn%251)*3)+14)%256 elseif QC==2 then Qk=(Qk+((((Qw%17)+1)*(Qb+3))+((((r8+1)+NQ+9)%257)*5)+((((Qn-(Qn%8))/8)%256)))%256)end local ho=b7(Nf[h0]or 0,Qk)%256 h0=h0+1 return ho end local Q0=1+((1899979069+((r8+1)*31)+((NQ+11)*17)+146+(Qb*5)+(Qn%19))%4)for h8=1,Q0 do local Q5=1899979069+((r8+1)*43)+((NQ+5)*37)+218+(Qb*13)+(h8*67)+(((Qn+((Qn-(Qn%256))/256))%256))Q5=Q5%256 if QL()~=Q5 then NM()end end end local Q2=((Qn+(Qb+1)*257+(QS+3)*977+(Qj+1)*37+(Qu+5)*17+(((r8+1)%65521)*19)+(((NQ+7)%65521)*23))%65521)Qn=(((Q2*39)+136+((Q2%251)*265))%65521)end if Qh~=127 then NM()end local Q4=1 if QK==2 then Q4=3 end if Qz~=Q4 then NM()end local Q3=Nf[h0]or 0 h0=h0+1 local Q6=(Qn+((Qn-(Qn%256))/256)+1899979069+((r8+1)*43)+((NQ+3)*17))%256 if Q3~=Q6 then NM()end else xn[1875]=Nf[h0]or 0 h0=h0+1 xn[6949]=Nf[h0]or 0 h0=h0+1 xn[9518]=(Nf[h0]or 0)==1 h0=h0+1 local NL=Nf[h0]or 0 h0=h0+1 xn[4468]={}for h8=1,NL do local Nk=(Nf[h0]or 0)==1 local Ez=Nf[h0+1]or 0 xn[4468][h8]={Nk=Nk,Ez=Ez}h0=h0+2 end xn[6572]={}for h8=1,NQ do xn[6572][h8]=Nf[h0+h8-1]or 0 end h0=h0+NQ if NS then xn[7637]={}xn[3964]={}local Sc=0 for h8=1,NQ do xn[7637][h8]=Sc xn[3964][Sc]=h8 local St=xn[6572][h8]or 0 local N9=(Ni and Ni[St])or 4 Sc=Sc+N9 end else xn[7637]={}local Sc=0 for h8=1,NQ do local xk xk,h0=v7(Nf,h0)Sc=Sc+xk xn[7637][h8]=Sc end local N3 N3,h0=v7(Nf,h0)xn[3964]={}local N6,N1=0,0 for h8=1,N3 do local N7,N8 N7,h0=v7(Nf,h0)N8,h0=v7(Nf,h0)N6=N6+N7 N1=N1+N8 xn[3964][N6]=N1 end end local NV NV,h0=v7(Nf,h0)if NG then local Sr={}local NO=1 local NY=(NV-(NV%4))/4 local hZ=h0 for No=1,NY do local xm=Nf[hZ]or 0 local Si=Nf[hZ+1]or 0 local SM=Nf[hZ+2]or 0 local SR=Nf[hZ+3]or 0 local h7=xm*(((16771315+0x1713))-((0x7-1)))+Si*(((0x8FC7+28736))-((0x3+0x4)))+SM*((277)-((0xB+0xA)))+SR local NJ=h7 local SG=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sm=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sz=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SK=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SC=NJ%(((0x8F-39))-((0x14-1)))Sr[NO]=Nc[SC]Sr[NO+1]=Nc[SK]Sr[NO+2]=Nc[Sz]Sr[NO+3]=Nc[Sm]Sr[NO+4]=Nc[SG]NO=NO+5 hZ=hZ+4 end local NZ=NV-(NY*4)if NZ>0 then local h7=0 for h8=0,NZ-1 do h7=h7*((277)-((0xB+0xA)))+(Nf[hZ+h8]or 0)end for h8=NZ,3 do h7=h7*((277)-((0xB+0xA)))end local NJ=h7 local SG=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sm=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local Sz=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SK=NJ%(((0x8F-39))-((0x14-1)));NJ=b0[nJ[13010]][(J((613-251),hv)and tM or nil)](NJ/(((0x8F-39))-((0x14-1))))local SC=NJ%(((0x8F-39))-((0x14-1)))local Np=NZ+1 if Np>=1 then Sr[NO]=Nc[SC]end if Np>=2 then Sr[NO+1]=Nc[SK]end if Np>=3 then Sr[NO+2]=Nc[Sz]end if Np>=4 then Sr[NO+3]=Nc[Sm]end if Np>=5 then Sr[NO+4]=Nc[SG]end end xn[5627]=b0[nJ[38884]][(J(((414+113-199)),hv)and tM or nil)](Sr)else local Q1={}for h8=1,NV do Q1[h8]=b0[nJ[43392]][(J((1*7+5),hv)and tM or nil)](Nf[h0+h8-1]or 0)end xn[5627]=b0[nJ[38884]][(J((396-68),hv)and tM or nil)](Q1)end h0=h0+NV local N0 N0,h0=v7(Nf,h0)xn[2592]={}local N5=0 for h8=1,N0 do local N2 N2,h0=v7(Nf,h0)N5=N5+N2 xn[2592][h8-1]=N5 end xn[5330]={}for h8=1,N0 do local N4 N4,h0=v7(Nf,h0)xn[5330][h8-1]=N4 end xn[4469]={}for h8=1,N0 do xn[4469][h8-1]=Nf[h0]or 0 h0=h0+1 end local Ng=Nf[h0]or 0 h0=h0+1 if Ng~=0 then xn[3079]=true local Ne,NW,ND Ne,h0=v7(Nf,h0)NW,h0=v7(Nf,h0)ND,h0=v7(Nf,h0)xn[9212]=Ne xn[2412]=Ne xn[4915]=NW xn[5880]=ND local rC=b2[((39-36+(227-227)))]or 0 if rC~=0 then xn[2412]=b7(xn[2412],rC)if xn[2412]<0 then xn[2412]=xn[2412]+mg end xn[4915]=b7(xn[4915],rC)if xn[4915]<0 then xn[4915]=xn[4915]+mg end xn[5880]=b7(xn[5880],rC)if xn[5880]<0 then xn[5880]=xn[5880]+mg end end local NI NI,h0=v7(Nf,h0)local NT={}for h8=1,NI do NT[h8]=b0[nJ[43392]][(J(((205+25-218)),hv)and tM or nil)](Nf[h0+h8-1]or 0)end xn[9930]=b0[nJ[38884]][(J((248+80),hv)and tM or nil)](NT)h0=h0+NI local NU NU,h0=v7(Nf,h0)local Ny={}for h8=1,NU do Ny[h8]=b0[nJ[43392]][(J((139-127),hv)and tM or nil)](Nf[h0+h8-1]or 0)end xn[8107]=b0[nJ[38884]][(J(0x148,hv)and tM or nil)](Ny)h0=h0+NU local NX NX,h0=v7(Nf,h0)local Na Na,h0=v7(Nf,h0)if NX and NX>0 and Na and Na>0 then local Nw={}for h8=1,Na do Nw[h8]=b0[nJ[43392]][(J(((114-102+168-168)),hv)and tM or nil)](Nf[h0+h8-1]or 0)end xn[3015]=b0[nJ[38884]][(J(((219+266-157)),hv)and tM or nil)](Nw)xn[9329]=NX end h0=h0+Na else xn[3079]=false end end local Q7 Q7,h0=v7(Nf,h0)if Q7 and Q7>0 then local Q8={}local Q9=5231+((7208+r8*211)%8209)local Ab=7411+((6591+r8*397)%12301)local AC=23+(((3566912664)+(r8*149)+37)%1009)local AK=43+((((728054631-(728054631%1009))/1009)+(r8*269)+83)%1013)local Az=Q9+AC local Am=Ab+AK for An=1,Q7 do local Aj,Af Aj,h0=v7(Nf,h0)Af,h0=v7(Nf,h0)local AG,Au AG=Af-Az;Au=Aj-Am Q8[AG]=Au end xn[7137]=Q8 end xn[5230]={}xn[6834]={}xn[2879]={}xn[6587]={}xn[6029]={}xn[7410]={}xn[2024]={}xn[5822]={}xn[2935]={}local Ah=b7(1899979069,303587)%me local va=nb(Ah)%me if va==0 then va=1 end local AS=b7(va,r8)%me local Ar=nb(AS)%me if Ar==0 then Ar=1 end local AE=b2[((3+0))]or 0 local At=(((r8+1)*2654435761)%me)local Aq=(((r8+1)*131+17)%me)local Ax=b7(b7(b7(va,AE),At),Aq)%me if Ax==0 then Ax=1 end local Ai=nb(Ax)%me if Ai==0 then Ai=1 end local AM=(NN-Ai)%me local AR=b7(Ar,Ai)%me if AR==0 then AR=1 end local Ad=nb(AR)%me if Ad==0 then Ad=1 end if AM~=Ad then xn[3393]=0 else xn[3393]=AM end xn[1829]=r8 if xn[3079]and not(xn[2592]and xn[2592][0]~=nil)then local Ac=xn[9930]local Av=xn[8107]local AN={}local AQ={}local AA={}local As={}local NI=b0[nJ[13010]].floor((NQ+15)/16)local AF=(#Ac==NI*4)local function AY(hk,h0,AB)local Ao=b0[nJ[13010]].floor(h0/4)local AJ=h0%4 local h6=AB[Ao]if not h6 then local h1=Ao*5+1 local h7=0 for hL=0,4 do local h9=b0[nJ[43392]]["\98\121\116\101"](hk,h1+hL)h7=h7*85+(b0[nJ[4277]][h9]or 0)end h6={b0[nJ[13010]].floor(h7/((16777235)-((0x1B-8))))%((273)-((11+6))),b0[nJ[13010]].floor(h7/((0x10014)-((0x18-4))))%((273)-((11+6))),b0[nJ[13010]].floor(h7/((273)-((11+6))))%((273)-((11+6))),h7%((273)-((11+6)))}AB[Ao]=h6 end return h6[AJ+1]or 0 end for h8=1,NI do local AV=(h8-1)*4 local xm=(AF and(b0[nJ[43392]]["\98\121\116\101"](Ac,AV+1)or 0)or AY(Ac,AV+0,AA))local Si=(AF and(b0[nJ[43392]]["\98\121\116\101"](Ac,AV+2)or 0)or AY(Ac,AV+1,AA))local SM=(AF and(b0[nJ[43392]]["\98\121\116\101"](Ac,AV+3)or 0)or AY(Ac,AV+2,AA))local SR=(AF and(b0[nJ[43392]]["\98\121\116\101"](Ac,AV+4)or 0)or AY(Ac,AV+3,AA))local AH=xm+Si*((273)-((11+6)))+SM*((0x10014)-((0x18-4)))+SR*((16777235)-((0x1B-8)))local AP=qc(AH,0,xn[5880])AN[h8]=AP end if Av and#Av>0 then local Al=(#Av==NQ*4)for h8=1,NQ do local AO=(h8-1)*4 local xM=(Al and(b0[nJ[43392]]["\98\121\116\101"](Av,AO+1)or 0)or AY(Av,AO+0,As))local xR=(Al and(b0[nJ[43392]]["\98\121\116\101"](Av,AO+2)or 0)or AY(Av,AO+1,As))local xd=(Al and(b0[nJ[43392]]["\98\121\116\101"](Av,AO+3)or 0)or AY(Av,AO+2,As))local xc=(Al and(b0[nJ[43392]]["\98\121\116\101"](Av,AO+4)or 0)or AY(Av,AO+3,As))AQ[h8]=xM+xR*((273)-((11+6)))+xd*((0x10014)-((0x18-4)))+xc*((16777235)-((0x1B-8)))end xn[8107]=AQ xn[5395]=AQ else xn[8107]=nil end xn[9930]=AN xn[1306]=AN xn[2412]=AN[1]end NK[r8]=xn end return NK end b0[nJ[50963]]=v6 b0[nJ[36867]]=v9 b0[nJ[11100]]=v1 b0[nJ[11580]]=(function()local _,AZ=b0[nJ[16707]](b0[nJ[ng[21616]]]);local Ap=b0[nJ[ng[35242]]](AZ,b0[nJ[43392]][(J((24-13),hv)and tM or nil)]);local QM=nd or 0;if not Ap or Ap<=0 or Ap>49157 then Ap=0 end;if QM<=0 or QM>49157 then QM=0 end;if Ap==0 and QM==0 then return 0 end;return Ap+(QM*65536)end)()b0[nJ[17290]]=bY:sub(13897,194001)local Ag=b0[nJ[36867]](b0[nJ[17290]],nil,nil,Nb)b0[nJ[15621]]=Ag do for vY=0,171 do local Ae=Ag[vY]if Ae then Ae[6889]=vV[vY]end end end local AW=171 local AI=(((((n7 or 0)%257)*65537)+((((12-(b0[nJ[ng[36653]]]or 0))*(12-(b0[nJ[ng[36653]]]or 0)))%257)*131071)+((((2-(mI or 0))*(2-(mI or 0)))%257)*524287)+((((((mT or 0)-268802315)%257)*(((mT or 0)-268802315)%257))%257)*262147))%mg)for AD=0,AW do Ag[AD][1829]=AD local AT=Ag[AD][3393]or 1 Ag[AD][3393]=(AT+AI)%mg if Ag[AD][3079]then Ag[AD][2412]=Ag[AD][9212]end end b0[nJ[ng[59074]]]=function(mD)repeat mD=(mD*48271+1)%me if mD==0 then mD=1 end until mD==0 end do local Ay=Ag[0][3393];local Aa=(Ay%257)*65537;local AX=(mp and Aa or 0);Ag[0][3393]=(Ay+AX)%mg end if mp then b0[nJ[ng[40184]]](b6,b0[nJ[ng[59305]]],b0[nJ[40199]]);local AU=(Ag[0][3393]+1);b0[nJ[57254]](nil,AU)end b0[nJ[30543]]=Ag[0]Ag[171][5418]=1 Ag[169][5418]=3 Ag[168][5418]=1 Ag[167][5418]=9 Ag[166][5418]=1 Ag[165][5418]=9 Ag[163][5418]=3 Ag[162][5418]=1 Ag[161][5418]=9 Ag[159][5418]=3 Ag[157][5418]=1 Ag[156][5418]=1 Ag[155][5418]=9 Ag[151][5418]=1 Ag[150][5418]=1 Ag[149][5418]=1 Ag[148][5418]=1 Ag[147][5418]=1 Ag[146][5418]=1 Ag[145][5418]=5 Ag[144][5418]=1 Ag[142][5418]=1 Ag[141][5418]=13 Ag[138][5418]=1 Ag[136][5418]=9 Ag[135][5418]=1 Ag[134][5418]=11 Ag[133][5418]=1 Ag[132][5418]=1 Ag[131][5418]=9 Ag[130][5418]=3 Ag[128][5418]=11 Ag[57][5418]=9 Ag[56][5418]=1 Ag[55][5418]=9 Ag[54][5418]=1 Ag[53][5418]=9 Ag[52][5418]=1 Ag[50][5418]=9 Ag[49][5418]=5 Ag[48][5418]=1 Ag[47][5418]=1 Ag[46][5418]=3 Ag[45][5418]=3 Ag[44][5418]=1 Ag[43][5418]=1 Ag[42][5418]=1 Ag[40][5418]=1 Ag[39][5418]=1 Ag[38][5418]=1 Ag[37][5418]=1 Ag[35][5418]=9 Ag[34][5418]=3 Ag[31][5418]=7 Ag[30][5418]=3 Ag[29][5418]=1 Ag[12][5418]=1 Ag[11][5418]=3 Ag[10][5418]=1 Ag[9][5418]=1 Ag[8][5418]=3 Ag[7][5418]=3 Ag[5][5418]=1 Ag[4][5418]=5 Ag[3][5418]=4 Ag[2][5418]=13 Ag[1][5418]=1 Ag[0][5418]=11 Ag[13][5418]=1 Ag[14][5418]=5 Ag[15][5418]=9 Ag[17][5418]=11 Ag[19][5418]=9 Ag[22][5418]=1 Ag[24][5418]=9 Ag[27][5418]=1 Ag[28][5418]=1 Ag[59][5418]=1 Ag[60][5418]=1 Ag[61][5418]=9 Ag[65][5418]=1 Ag[66][5418]=9 Ag[68][5418]=9 Ag[69][5418]=1 Ag[70][5418]=1 Ag[71][5418]=3 Ag[72][5418]=3 Ag[74][5418]=9 Ag[75][5418]=1 Ag[76][5418]=9 Ag[78][5418]=1 Ag[79][5418]=1 Ag[80][5418]=1 Ag[81][5418]=1 Ag[83][5418]=11 Ag[84][5418]=1 Ag[85][5418]=1 Ag[86][5418]=1 Ag[87][5418]=9 Ag[88][5418]=1 Ag[90][5418]=9 Ag[91][5418]=1 Ag[92][5418]=9 Ag[94][5418]=1 Ag[96][5418]=1 Ag[97][5418]=9 Ag[99][5418]=1 Ag[100][5418]=1 Ag[101][5418]=11 Ag[103][5418]=1 Ag[104][5418]=1 Ag[105][5418]=3 Ag[106][5418]=11 Ag[107][5418]=1 Ag[108][5418]=9 Ag[110][5418]=1 Ag[112][5418]=1 Ag[113][5418]=9 Ag[114][5418]=1 Ag[115][5418]=1 Ag[116][5418]=9 Ag[117][5418]=1 Ag[119][5418]=1 Ag[120][5418]=1 Ag[121][5418]=9 Ag[123][5418]=9 Ag[125][5418]=1 Ag[126][5418]=9 b0[nJ[57825]]=my("ufffV:9ky)QM]bY`:[CZh0~|K`h{mlnoRo24x>JzCE^~k5xBJDqIlQHE/}nn73)_zuHIGv_5+e]PTl2K7*2#CGhHziu!CU!*?qS%+S8`:[CZh0%H<1VCcstW2]8}CGhHzie3?6SomdGVZ4}mnK!(M[+QZRSw4YVPR4S,l}Wt?P~`;RSw4YVO.C+-H:?AG,{2k~B`3U1xo!73:1|>kkdeGg~)O2-*Cc!j?=Yst5k4Wuc&w=J,W!hYMlG4l};6So4JV_OhM#xEHKZ]pu,w4Y#uVq^s-!;vu=+;vlD&:SZ/R!G=SCsJ]Z#Q0xKUuB2Xr3p6HNWD2|)q@6W1(YUqz793;c&[_79,NI4JV_qdw6*G:Y2n65k*KZIj`j=[Vvk@ztG#Lu-$&{MC];Le:SOK7*J}CGD.c/=Tu4Lc=MY(lkm+<BPGq/=T+PoQtunK!`;n+.@TbcH0FCM;9{Lik5xB00b}n4HE;RFOq,3wf,3wbL3?Le=yCEq)K&lb<~sPZc/Y|UL/G,N~3U<aC*ur*a*^!3;hJ?N]U5xBJDCtcot3p4TFh5KXMO]ST_p/-Efsf9fxC2?N")b0[nJ[34436]]=58 local Aw=(function()local ha={}for hL=1,b0[nJ[34436]]do ha[hL]=nb(62724623+hL)%256 end return ha end)()b0[nJ[22305]]=(function()local AL=((87*7607+53*1978+2944871711)%mg)local Ak=((40*7607+115*1978+3099883573)%mg)for hL=1,#b0[nJ[57825]]do AL=b0[nJ[32176]](AL,b0[nJ[57825]][hL])end if AL~=Ak then b0[nJ[57825]]=b0[nJ[19845]]end end)()b0[nJ[57242]]={}b0[nJ[52693]]=(function()for hL=1,b0[nJ[34436]]do local Sc=5+((hL-1)*8)local tz=b7(b0[nJ[61653]],Aw[hL])%256 local hI={}for h8=0,7 do local ho=b0[nJ[57825]][Sc+h8]hI[h8]=b7(ho,tz)end local qj=hI[0]+(hI[1]*256)+(hI[2]*65536)+(hI[3]*16777216)local Sd=hI[4]+(hI[5]*256)+(hI[6]*65536)+(hI[7]*16777216)local A2=((b0[nJ[54100]](Sd,2147483648))%2)==1 and-1 or 1 local SQ=b0[nJ[54100]](Sd,1048576)%2048 local A4=Sd%1048576 local h7=0 if SQ==2047 then h7=0 elseif SQ==0 then h7=A2*(A4/1048576.0+qj/4503599627370496.0)*b0[nJ[13010]][(J((415-62),hv)and tM or nil)](2,-1022)else h7=A2*(1.0+(A4/1048576.0)+(qj/4503599627370496.0))*b0[nJ[13010]][(J((415-62),hv)and tM or nil)](2,SQ-1023)end b0[nJ[57242]][hL]=h7 end end)()local A6=(b0[nJ[34436]]<10 and 1 or b0[nJ[54100]](b0[nJ[34436]],10))if A6<1344 then A6=1344 end local A1="+;+;+;;;+;++;;+;+;+;+;;+++;;+;+++++++++;+++++++;+++++++++++;;;+++;;;+;;;+;;+;;+;+;+;;;;;+;;+++;;+;;+;;+;+;;;++;+++;;+;+;+;;;++;++;;+;++;+;;+;+;;++;;++++++;;+;;+++;;++++++;;+;+++;;+;;;;+;;;++;;+;;++;;;+;;+;;+;+;;++;+;++;;++;++;;++++;+;;;+++++;;++++;+;;++;+;+;;++;+;+;;++;++++;;+;;;+;;+;+;;++++++;++++++++++++;;++;+;;+++;;+;;+;;+;+;;;++;+++;;+;+;+;;;++;++;;+;++++;;++;+;+;;;;++++;;+;;++++;;++++++;;+;+++;;+;;;;+;;++++;+;;++;;;+;;+;;+;+;;++;+;++;;++;+++;;+;;++;;++;;++;;;++;;++;;+++++;;++;;;+;;;;+;++;;;+;;++;;;+;+;++++++;;++++++++++++;++;+;;;+;;;+;;;;++;+;;+;;;++;;;+;;+++;;+;++++;+;;;+++;;+;+;++;+;;;+++;;+++++++++;++++++++++++++;+;+++;;++;+++;;++++++;;++;+++;;+;;+++;;++++++;;+;;;++;;++++++;;+;++++;+;;;+++;;+++;+++++;+;++++++++++++;++++++++++++++++++++++++++++++++++++;;+;+;++;++;++++;;;+;+++;;++++;+++++;;++++++++++;++++++++;;+;;;+;;+++;++;;++;+;++;;++;;++;;;++;++;;+;;+++;;+;+++;;++;++++;;++;+++;;;+++++;;++++++;;+;;;+;;++;+++;;++;+;++;;+;;+++;;+;+++;;++++;++;;+;++++;;++;;++;;;++++;;++;++++;;++;++;;++++;+;;+++;+++;;;+++++;;++;++;;++;;+++;;+;;+++;;+++;+;;++;+;+;;++;+;++;;++++++;;++;++;;++;+;++;;++;;+;;+++;;++;;+++++;;++;;+++;;;++;+;;+++;+++;;+++;++;;;+++++;;+;+;+;;++;;+++;;+++;+;;++++;+;;++++;++;;++;+++;;+;;;++;;+;++++;;+++;+;;++;;+++;;+;++++;;;++++;;++;+++;;++;++++;;++;;++;;+;+;++;;+;+;++;;+;+++;;+++;;+;;+++;+++;;;++;+;;+++;+;;;;;;;;"for vi=1,#A1 do b0[nJ[57242]][b0[nJ[34436]]+vi]=(b0[nJ[43392]][(J(((255-219-25)),hv)and tM or nil)](A1,vi)==59)and 31 or 41 end b0[nJ[50050]]=(function()for mD=1345,A6 do local Nf=(((b0[nJ[61653]]+(mD*37))%1000003)/1000)b0[nJ[57242]][b0[nJ[34436]]+mD]=Nf end end)()if A6<1648 then A6=1648 end local A7="+;+;+;;++;++;;+;+;++;++;++;;+;+++++++++;+++;+++;+++++++++++++;+;++;;+;++++;+;;;+++;;+;+;++;+;;;+++;;+++++++;++;+++++++++++++;+;+++;;++;+++;;++++++;;++;+++;;+;;+++;;++++++;;+;;;++;;++++++;;+;++++;+;;;+++;;+++;+++;++;;++++++++++++;+++++;;;++;++;;++++++;;;+++++;;;++++;;++;++++;;+;++++;;+;;;++;;++;;;;;;;;;;"for A8=1,#A7 do b0[nJ[57242]][b0[nJ[34436]]+1345-1+A8]=b0[nJ[43392]][(J(11,hv)and tM or nil)](A7,A8)end local A5={}local A9=b0[nJ[ng[56485]]](b6,b0[nJ[ng[32432]]])or function()end nz(A5,b0[nJ[60282]],function()return function()end end)nz(A5,b0[nJ[46631]],function()return function()end end)nz(A5,b0[nJ[9158]],function()return 0 end)nz(A5,b0[nJ[47668]],(J(((442+-47-48)),hv)and tM or nil))nz(A5,b0[nJ[41003]],function(A3,Ez)if b0[nJ[28492]](Ez)~=(J((223+81),hv)and tM or nil)or Ez<1 then b0[nJ[ng[32287]]](b6,b0[nJ[ng[59556]]],b0[nJ[40199]]);A9()return nil end if Ez>b0[nJ[34436]]then if Ez<=(b0[nJ[34436]]+A6)then b0[nJ[ng[22369]]](b6,b0[nJ[ng[49986]]],b0[nJ[40199]]);A9();return nK(b0[nJ[57242]],Ez)end b0[nJ[ng[45704]]](b6,b0[nJ[ng[29165]]],b0[nJ[40199]]);A9()return nil end return nK(b0[nJ[57242]],Ez)end)nz(A5,b0[nJ[17661]],function()b0[nJ[ng[29363]]](b6,b0[nJ[ng[44771]]],b0[nJ[40199]]);A9()end)local A0=b0[nJ[15810]](b0[nJ[57242]],A5)if nC(P)==nx then P=P(b0[nJ[57242]],b0[nJ[34436]],1344,31)end do local sn=((135*7607+110*1978+358584605)%mg)local sb=2945638354 for sj=1,#P do sb=b0[nJ[32176]](sb,P[sj])end if sb~=sn then do local sf=(sb+1);repeat sf=(sf*1103515245+12345)%mg until sf==0 end end end local o=3624+1 b0[nJ[17989]]=2654435769 b0[nJ[55157]]=2246822507 b0[nJ[33119]]=me b0[nJ[4969]]=2166136261 b0[nJ[17990]]=16777619 b0[nJ[38357]]=1997847847 b0[nJ[45766]]=1124520178 b0[nJ[60419]]=130970518 b0[nJ[12626]]=1939885317 local sJ=b0[nJ[17989]]local sZ=b0[nJ[55157]]local sp=b0[nJ[33119]]local sg=b0[nJ[4969]]local se=b0[nJ[17990]]local sW=b0[nJ[38357]]local sD=b0[nJ[45766]]local sI=b0[nJ[60419]]local function sT(sU,sy,sX,sa,sw,sL,sk,s0)local mD=sg mD=b8(b7(mD,sU),se)mD=b8(b7(mD,sy),se)mD=b8(b7(mD,sX),se)mD=b8(b7(mD,sa),se)mD=b8(b7(mD,sw),se)mD=b8(b7(mD,sL),se)mD=b8(b7(mD,sk),se)mD=b8(b7(mD,s0),se)return mD end local function s5(xh,s2,s4,s3)if s3~=Nb then return 1 end local s9=b2[(1*2+1)]or 0 local s7=b8(xh,0x45d9f3b)local s8=b8(s9,0x27d4eb2d)local s1=b7(b7(sD,sI),b7(s7,s8))%sp local s6=nb(s1)%sp if s6==0 then s6=1 end local FC=(xh*sJ+s2*sZ+s4+s6)%sp local FK=b7(sW,FC)%sp local tz=nb(FK)%sp if tz%256==0 then tz=tz+1 end return tz end local function Fz(s4,s2,FG,Fm)if Fm~=Nb then return 1 end local No=sJ local Fh=s2*No local FS=Fh%mg local Fr=(Fh-FS)/mg local FE=b7(b7(FS,s4),FG)local Ft=Fr local FK=(Ft*mg+FE)%sp local Fq=b8(FK,48271)local Fx=(Fq+81)%sp if Fx==0 then Fx=1 end return Fx end b0[nJ[5736]]=(function()local Fi=0 local FN=b0[nJ[40199]]local FQ=b0[nJ[42034]]local FA=b0[nJ[42034]]local Fs=b2[((327+-144-91))]or 0 local FF=0 local Fl=0 if Fs>0 then Fl=b0[nJ[13010]].floor(Fs/65536);FF=Fs-(Fl*65536)end if FF<=0 or FF>49157 then FF=0 end if Fl<=0 or Fl>49157 then Fl=0 end local FH=b0[nJ[11580]]or 0 local FP=0 local FV=0 if FH>0 then FV=b0[nJ[13010]].floor(FH/65536);FP=FH-(FV*65536)end if FP<=0 or FP>49157 then FP=0 end if FV<=0 or FV>49157 then FV=0 end if not(FF>0 and FF<=49157 and FP>0 and FP<=49157)then FN=b0[nJ[42034]]end if FN then Fi=(FF*257)+(FP*131)+(Fl*73)+(FV*59)+477 FM=FF-FP if FM<0 then FM=-FM end if FM>1 then Fi=Fi+9174;FQ=b0[nJ[40199]]end if Fl>0 then Fd=FF-Fl;if Fd<0 then Fd=-Fd end;if Fd>1 then Fi=Fi+9191;FA=b0[nJ[40199]]end end if FV>0 then Fc=FP-FV;if Fc<0 then Fc=-Fc end;if Fc>1 then Fi=Fi+9203;FA=b0[nJ[40199]]end end end return Fi end)()local FO=b0[nJ[15810]]({},{[(J((271+87),hv)and tM or nil)]=(J(((414-13-59)),hv)and tM or nil)})local function FY(su,sC,sK,sz,sm)if b0[nJ[55064]]~=b0[nJ[33356]][4]then su[3393]=0 return end if su[3079]and not(su[2592]and su[2592][0]~=nil)then return end if sz~=Nb then return end if sK~=hv then return end do local Fp=jj local Fg=b0[nJ[32836]]local Fe=Fg and Fg.info local FW=Fg and Fg.traceback local FI=(n8 and pcall and n8~=pcall)local FT=(n9 and rawget and n9~=rawget)local FU=(jb and type and jb~=type)local Fy=false local FX=false local Fa=false local Fw=((jn and Fe and jn~=Fe)or(Fp and FW and Fp~=FW))local FD=FI or FT or FU or Fy or FX or Fa or Fw if FD then su[3393]=0 return end end local sG=b0[nJ[13010]][(J(((395-33+(79-79))),hv)and tM or nil)]((sC-1)/64)if sG>0 then for FL=0,sG-1 do if not su[2935][FL]then b0[nJ[55064]](su,FL*64+1,hv,Nb)end end end if su[2935][sG]then return end su[2935][sG]=true if su[1829]==0 and sG>0 and not su[5323]then b0[nJ[ng[31100]]]()end local s4=su[3393]local sh=s5(su[1829],sG,s4,Nb)local Fk=b0[nJ[5372]](sm)or 0 if Fk~=0 then su[3393]=(((su[3393]or 0)+Fk+(sG*257))%me)su[6572][sC]=nil return end local sS=su[5627]local sr=sG*64+1 local sE=b0[nJ[13010]][(J((521-227),hv)and tM or nil)](sr+63,su[9080])local sV=b0[nJ[14846]]local sO=b0[nJ[ng[38771]]]local sY=sV and sO(sV,b0[nJ[ng[31054]]])or 0 local sB=sV and sO(sV,b0[nJ[ng[50343]]])or 0 local so=1 do local hT=b0[nJ[5372]]local hD=hT and hT(sY)or 0 local hI=hT and hT(sB)or 0 local hX=1-((hD+hI)%2)if hX~=0 then so=hX end end local h5=FO[su]if not h5 then h5={};FO[su]=h5 end local F0,F5,F2,F4 local F3,F6,F1,F7 local sq=su[2592][sG]or 0 local sd=(sE-sr+1)*8 local sx=(su[5330]and su[5330][sG])or sd local si=(su[4469]and su[4469][sG])or 0 local sc=b8((su[1829]or 0)+1,0x7feb352d)local sv=b8(sG+1,0x846ca68b)local sN=b8((sq or 0)%65536,0x9e3779b1)local sQ=b8((sx or 0)%65536,0x85ebca77)local sA=((sr*131+sE*17+(si or 0))%256)local ss=b8(sA,0xc2b2ae3d)local sF=b7(b0[nJ[12626]],b7(sc,b7(sv,b7(sN,b7(sQ,ss)))))sF=b7(sF,b2[((170+-36-131))]or 0)%me do local F9=b2[((117-114+204-204))]or 0 local lb=b8(b7(F9,28991),0x27d4eb2d)local ln=b7(sD,sI)ln=b7(ln,sc)ln=b7(ln,sv)ln=b7(ln,sN)ln=b7(ln,sQ)ln=b7(ln,ss)ln=b7(ln,lb)ln=b7(ln,1899979069)%me if ln==0 then ln=1 end ln=nb(ln)%me if ln==0 then ln=1 end local lj=nb((ln+sc+ss+((F9%8191)*131))%me)%me local sq=nb((sv+sQ+1899979069)%me)%me ln=b7(lj,sq)%me if ln==0 then ln=1 end sF=b7(sF,ln)%me end local sl=nb(sF)%me if sl==0 then sl=1 end sh=b7(sh,sl)%me if(sh%(((0x17E-119))-((6+0x1))))==0 then sh=sh+1 end local lf=nb(b7(sh,sl)%me)%me if lf==0 then lf=1 end local lu=lf%(((0x2D31+4825))-(10))local lC=(((0x4F21+12501))-(9))+(lu*2)local lK=((0x78)-(0x17))+((((lf-lu)/(((0x2D31+4825))-(10)))%(((0x2D31+4825))-(10)))*2)local sM={}local sR=1 while sR<=sx do sM[sR]=b0[nJ[31598]](sS,sq+sR-1,h5,hv)sR=sR+1 end sR=1 while sR<=sx do local F8=sM[sR]or 0 sM[sR]=b7(F8,sh%(((0x17E-119))-((6+0x1))))sh=(sh*lC+lK)%me sR=sR+1 end if si~=0 then sM=Sh(sM,sd)end local st=sr while st<=sE do local sP=(st-sr)*8+1 local SC=sM[sP+0]or 0 su[5230][st]=SC if st==sr then F0=SC end local SK=sM[sP+1]or 0 su[6834][st]=SK if st==sr then F5=SK end local Sz=sM[sP+2]or 0 su[2879][st]=Sz if st==sr then F2=Sz end local Sm=sM[sP+3]or 0 su[6587][st]=Sm if st==sr then F4=Sm end local SG=sM[sP+4]or 0 su[6029][st]=SG if st==sr then F3=SG end local xg=sM[sP+5]or 0 su[7410][st]=xg if st==sr then F6=xg end local xW=sM[sP+6]or 0 su[2024][st]=xW if st==sr then F1=xW end local xI=sM[sP+7]or 0 su[5822][st]=xI if st==sr then F7=xI end st=st+so end if not(su[1829]==0 and sG==0)then local FG=sT(F0 or 0,F5 or 0,F2 or 0,F4 or 0,F3 or 0,F6 or 0,F1 or 0,F7 or 0)su[3393]=Fz(su[3393],sG,FG,Nb)end end do local lz=function(lm,lG,lh)return nz(lm,lG,lh)end lz(b0,nJ[55064],FY)lz(b0[nJ[33356]],4,FY)end local lk={1,3,5,2,3,8,7,2,3,4,1,7,5,2,1,3,1,6,1,6,5,2,1,2,3,7,7,6,5,8,7,6,5,4,5,6,1,3,5,2,8,5,3,2,2,6,3,1,8,5,1,6,5,4,4,2,5,4,7,7,1,8,3,2,7,4,7,6,3,4,3,7,1,2,4,3,7,8,6,6,3,2,1,4,7,8,7,5,5,2,5,5,4,8,3,2,5,1,3,4,7,8,2,7,3,5,3,4,7,2,7,8,4,5,3,8,1,7,3,4,4,7,6,6,1,7,3,8,7,6,1,6,8,6,7,1,1,6,5,6,6,3,2,8,1,4,8,2,2,1,1,4,3,4,3,8,5,2,7,3,3,1,3,5,5,1,5,8,8,2,8,5,7,4,6,4,6,2,1,7,1,2,5,8,4,6,1,7,6,2,6,8,7,4,4,4,2,8,8,2,3,8,3,6,2,8,1,1,3,6,5,5,4,5,2,3,8,4,6,6,8,6,6,5,5,8,7,5,2,4,5,6,1,4,4,1,7,7,7,8,1,7,3,8,3,4,8,2,6,1,8,2,6,2,4,4}b0[nJ[22035]]=function(xn,lS)return function(...)local P=P local A0=A0 local HT=(((((xn[1829])or 0)*54971+3158349366+(((((xn[1829])or 0)%2)==0)and 3052766314 or 44473))%3))local J=(HT==0 and b0[nJ[8058]])or(HT==1 and b0[nJ[7668]])or b0[nJ[33540]]local l5 local NQ local l2 local HH local HP local HV local HO local HY local HB local Hb local Hn local Hj local Hf local Hu local HC local HK local l4 local l3 local l6 local l1 local l7 local l8 local l9 local HU=(((xn[1829]or 0)*17+1)%4)local Hy=(((xn[1829]or 0)*13+0)%2)if HU==1 then if Hy==1 then HH=xn[7637]HP=xn[3964]l5=xn[6572]if type(l5)=='table'then else l5={}xn[6572]=l5 end NQ=xn[9080]l2=xn[5230]if type(l2)=='table'then else l2={}xn[5230]=l2 end Hb=xn[6834]if type(Hb)=='table'then else Hb={}xn[6834]=Hb end Hn=xn[2879]if type(Hn)=='table'then else Hn={}xn[2879]=Hn end Hj=xn[6587]if type(Hj)=='table'then else Hj={}xn[6587]=Hj end Hf=xn[6029]if type(Hf)=='table'then else Hf={}xn[6029]=Hf end Hu=xn[7410]if type(Hu)=='table'then else Hu={}xn[7410]=Hu end HC=xn[2024]if type(HC)=='table'then else HC={}xn[2024]=HC end HK=xn[5822]if type(HK)=='table'then else HK={}xn[5822]=HK end l4=Hb l3=Hn l6=Hj l1=Hf l7=Hu l8=HC l9=HK else l5=xn[6572]if type(l5)=='table'then else l5={}xn[6572]=l5 end NQ=xn[9080]l2=xn[5230]if type(l2)=='table'then else l2={}xn[5230]=l2 end Hb=xn[6834]if type(Hb)=='table'then else Hb={}xn[6834]=Hb end Hn=xn[2879]if type(Hn)=='table'then else Hn={}xn[2879]=Hn end Hj=xn[6587]if type(Hj)=='table'then else Hj={}xn[6587]=Hj end Hf=xn[6029]if type(Hf)=='table'then else Hf={}xn[6029]=Hf end Hu=xn[7410]if type(Hu)=='table'then else Hu={}xn[7410]=Hu end HC=xn[2024]if type(HC)=='table'then else HC={}xn[2024]=HC end HK=xn[5822]if type(HK)=='table'then else HK={}xn[5822]=HK end l4=Hb l3=Hn l6=Hj l1=Hf l7=Hu l8=HC l9=HK HH=xn[7637]HP=xn[3964]end elseif HU==2 then if Hy==1 then HH=xn[7637]HP=xn[3964]do local HX=xn[6572]if type(HX)=='table'then l5=HX else l5={}xn[6572]=l5 end end NQ=xn[9080]do local HX=xn[5230]if type(HX)=='table'then l2=HX else l2={}xn[5230]=l2 end end do local HX=xn[6834]if type(HX)=='table'then Hb=HX else Hb={}xn[6834]=Hb end end do local HX=xn[2879]if type(HX)=='table'then Hn=HX else Hn={}xn[2879]=Hn end end do local HX=xn[6587]if type(HX)=='table'then Hj=HX else Hj={}xn[6587]=Hj end end do local HX=xn[6029]if type(HX)=='table'then Hf=HX else Hf={}xn[6029]=Hf end end do local HX=xn[7410]if type(HX)=='table'then Hu=HX else Hu={}xn[7410]=Hu end end do local HX=xn[2024]if type(HX)=='table'then HC=HX else HC={}xn[2024]=HC end end do local HX=xn[5822]if type(HX)=='table'then HK=HX else HK={}xn[5822]=HK end end l4=Hb l3=Hn l6=Hj l1=Hf l7=Hu l8=HC l9=HK else do local HX=xn[6572]if type(HX)=='table'then l5=HX else l5={}xn[6572]=l5 end end NQ=xn[9080]do local HX=xn[5230]if type(HX)=='table'then l2=HX else l2={}xn[5230]=l2 end end do local HX=xn[6834]if type(HX)=='table'then Hb=HX else Hb={}xn[6834]=Hb end end do local HX=xn[2879]if type(HX)=='table'then Hn=HX else Hn={}xn[2879]=Hn end end do local HX=xn[6587]if type(HX)=='table'then Hj=HX else Hj={}xn[6587]=Hj end end do local HX=xn[6029]if type(HX)=='table'then Hf=HX else Hf={}xn[6029]=Hf end end do local HX=xn[7410]if type(HX)=='table'then Hu=HX else Hu={}xn[7410]=Hu end end do local HX=xn[2024]if type(HX)=='table'then HC=HX else HC={}xn[2024]=HC end end do local HX=xn[5822]if type(HX)=='table'then HK=HX else HK={}xn[5822]=HK end end l4=Hb l3=Hn l6=Hj l1=Hf l7=Hu l8=HC l9=HK HH=xn[7637]HP=xn[3964]end elseif HU==3 then if Hy==1 then HH=xn[7637]HP=xn[3964]do local Ha=xn[6572]l5=(type(Ha)=='table'and Ha)or{}if l5~=Ha then xn[6572]=l5 end end NQ=xn[9080]do local Ha=xn[5230]l2=(type(Ha)=='table'and Ha)or{}if l2~=Ha then xn[5230]=l2 end end do local Ha=xn[6834]Hb=(type(Ha)=='table'and Ha)or{}if Hb~=Ha then xn[6834]=Hb end end do local Ha=xn[2879]Hn=(type(Ha)=='table'and Ha)or{}if Hn~=Ha then xn[2879]=Hn end end do local Ha=xn[6587]Hj=(type(Ha)=='table'and Ha)or{}if Hj~=Ha then xn[6587]=Hj end end do local Ha=xn[6029]Hf=(type(Ha)=='table'and Ha)or{}if Hf~=Ha then xn[6029]=Hf end end do local Ha=xn[7410]Hu=(type(Ha)=='table'and Ha)or{}if Hu~=Ha then xn[7410]=Hu end end do local Ha=xn[2024]HC=(type(Ha)=='table'and Ha)or{}if HC~=Ha then xn[2024]=HC end end do local Ha=xn[5822]HK=(type(Ha)=='table'and Ha)or{}if HK~=Ha then xn[5822]=HK end end l4=Hb l3=Hn l6=Hj l1=Hf l7=Hu l8=HC l9=HK else do local Ha=xn[6572]l5=(type(Ha)=='table'and Ha)or{}if l5~=Ha then xn[6572]=l5 end end NQ=xn[9080]do local Ha=xn[5230]l2=(type(Ha)=='table'and Ha)or{}if l2~=Ha then xn[5230]=l2 end end do local Ha=xn[6834]Hb=(type(Ha)=='table'and Ha)or{}if Hb~=Ha then xn[6834]=Hb end end do local Ha=xn[2879]Hn=(type(Ha)=='table'and Ha)or{}if Hn~=Ha then xn[2879]=Hn end end do local Ha=xn[6587]Hj=(type(Ha)=='table'and Ha)or{}if Hj~=Ha then xn[6587]=Hj end end do local Ha=xn[6029]Hf=(type(Ha)=='table'and Ha)or{}if Hf~=Ha then xn[6029]=Hf end end do local Ha=xn[7410]Hu=(type(Ha)=='table'and Ha)or{}if Hu~=Ha then xn[7410]=Hu end end do local Ha=xn[2024]HC=(type(Ha)=='table'and Ha)or{}if HC~=Ha then xn[2024]=HC end end do local Ha=xn[5822]HK=(type(Ha)=='table'and Ha)or{}if HK~=Ha then xn[5822]=HK end end l4=Hb l3=Hn l6=Hj l1=Hf l7=Hu l8=HC l9=HK HH=xn[7637]HP=xn[3964]end else if Hy==1 then HH=xn[7637]HP=xn[3964]l5=xn[6572]if type(l5)~='table'then l5={};xn[6572]=l5 end NQ=xn[9080]l2=xn[5230]if type(l2)~='table'then l2={};xn[5230]=l2 end Hb=xn[6834]if type(Hb)~='table'then Hb={};xn[6834]=Hb end Hn=xn[2879]if type(Hn)~='table'then Hn={};xn[2879]=Hn end Hj=xn[6587]if type(Hj)~='table'then Hj={};xn[6587]=Hj end Hf=xn[6029]if type(Hf)~='table'then Hf={};xn[6029]=Hf end Hu=xn[7410]if type(Hu)~='table'then Hu={};xn[7410]=Hu end HC=xn[2024]if type(HC)~='table'then HC={};xn[2024]=HC end HK=xn[5822]if type(HK)~='table'then HK={};xn[5822]=HK end l4=Hb l3=Hn l6=Hj l1=Hf l7=Hu l8=HC l9=HK else l5=xn[6572]if type(l5)~='table'then l5={};xn[6572]=l5 end NQ=xn[9080]l2=xn[5230]if type(l2)~='table'then l2={};xn[5230]=l2 end Hb=xn[6834]if type(Hb)~='table'then Hb={};xn[6834]=Hb end Hn=xn[2879]if type(Hn)~='table'then Hn={};xn[2879]=Hn end Hj=xn[6587]if type(Hj)~='table'then Hj={};xn[6587]=Hj end Hf=xn[6029]if type(Hf)~='table'then Hf={};xn[6029]=Hf end Hu=xn[7410]if type(Hu)~='table'then Hu={};xn[7410]=Hu end HC=xn[2024]if type(HC)~='table'then HC={};xn[2024]=HC end HK=xn[5822]if type(HK)~='table'then HK={};xn[5822]=HK end l4=Hb l3=Hn l6=Hj l1=Hf l7=Hu l8=HC l9=HK HH=xn[7637]HP=xn[3964]end end HV=xn[6889]HO=17+(((1899979069)+(((xn[1829])or 0)*131)+29)%997)HY=31+((((1899979069-(1899979069%997))/997)+(((xn[1829])or 0)*257)+71)%991)HB=xn[7137]local Hw=0 local H5=(xn[5418]or 0)local lr={}lr[(33404-1163)]=lr local lE=((H5%16)>=8 and{}or nil)local li=xn[9518]and{}or nil local lM=0 local lN=((H5%2)~=0 and{}or nil)local lQ=((H5%4)>=2 and{}or nil)local lA=((H5%8)>=4 and{}or nil)local H2=1 local H4=xn[1875]local lR local ld if xn[9518]then ld=b0[nJ[60561]](nil,...)lR=ld.n or#ld local H3=b0[nJ[13010]].min(lR,H4)for hL=1,H3 do lr[hL-1]=ld[hL]end elseif H4==1 then local xM=...lr[0]=xM elseif H4==2 then local xM,xR=...lr[0]=xM lr[1]=xR elseif H4==3 then local xM,xR,xd=...lr[0]=xM lr[1]=xR lr[2]=xd elseif H4>0 then ld={...}for hL=1,H4 do lr[hL-1]=ld[hL]end end lM=H4 if xn[9518]then local H6=H4+1 if lR>=H6 then for hL=H6,lR do li[hL-H6+1]=ld[hL]end li[nM]=lR-H4 else li[nM]=0 end end local H8=0 do local H9=b2[((173-40-130))]or 0 local Pb=(((xn[1829]or 0)+1)%2147483647)local Pn=(((NQ or 0)+17)%2147483647)local Pj=((H9%2147483647)+1899979069+(Pb*212)+(Pn*262)+((H9%65521)*32))%2147483647 if Pj==0 then Pj=1 end Pj=nb(Pj)%2147483647 if Pj==0 then Pj=1 end Pj=(Pj+(Pb*118)+(Pn*158)+((H9%251)*68)+109)%2147483647 if Pj==0 then Pj=1 end Pj=nb(Pj)%2147483647 if Pj==0 then Pj=1 end H8=((Pj%251)+(b0[nJ[13010]][(J(((496+95-229)),hv)and tM or nil)](Pj/251)%251)+130)%256 end local H1 local H7=xn[5559]do local Pf=(((xn[1829]or 0)+1)%2147483647)local Pu=(((NQ or 0)+11)%2147483647)local PC=(1899979069+(Pf*61)+(Pu*55)+1196)%2147483647 local Pz=(PC%65521)PK=(((Pf+Pu+13)*488)+(((Pz%251)+79)*23)+(Pz*3))%2147483647 PC=((PC*86069)+PK+((Pz%251)*19))%2147483647 if PC==0 then PC=1 end local Pz=(PC%65521)PK=((((Pf*4)%2147483647)*367)+((((Pu*6)%2147483647)*139))+5448)%2147483647 PC=((((PC+PK+Pz)%2147483647)*104729)+(Pz%251)+246)%2147483647 if PC==0 then PC=1 end local Pz=(PC%65521)PK=(((Pf+Pu+15)*204)+(((Pz%251)+3)*23)+(Pz*3))%2147483647 PC=((PC*48271)+PK+((Pz%251)*21))%2147483647 if PC==0 then PC=1 end local Pz=(PC%65521)PK=((((Pf*6)%2147483647)*131)+((((Pu*8)%2147483647)*89))+2080)%2147483647 PC=((((PC+PK+Pz)%2147483647)*69621)+(Pz%251)+246)%2147483647 if PC==0 then PC=1 end H1=((PC%251)+(b0[nJ[13010]][(J((292+70),hv)and tM or nil)](PC/251)%251)+154)%256 end local lt=1 local lX=(xn[1829]or 0)local la=(2119322219+(lX*13007)+(NQ*257)+((xn[3393]or 0)*37))%me local lw=lt+la local Pm=not xn[4257]local PG=(3284186567+((xn[1829]or 0)*131)+((NQ or 0)*17))%256 local function Ph(PS,Pr)local PE=Pr or 0 local Pt=((PE*19+3566877543)%251)+1 local Pq=((PS*7+PE*41+3284186567)%256)return((PS*Pt)+Pq)%256 end local function Px(Pi,PM)return b0[nJ[15810]]({},{[(J(20,hv)and tM or nil)]=function(_,PR)local Pd=Pi[PR]if Pd==nil then return nil end local Pc=(PG+((PR or 0)*3)+(PM*11))%256 return b7(Pd,b7(Ph(PR,PM),Pc))end,[(J((248+42),hv)and tM or nil)]=function(_,PR,Pd)if Pd==nil then Pi[PR]=nil return end Pi[PR]=b7(Pd,Ph(PR,PM))end})end local Hz=l5 if Pm then local Pv=xn[4524]local PN=xn[4512]local PQ=xn[6815]local PA=xn[7715]if type(Pv)~='table'then Pv={}local Ps=(3284186567+((xn[1829]or 0)*2654435761)+((NQ or 0)*131))%2147483647 local PF=1 while PF<=NQ do local Pl=l5[PF]if Pl~=nil then Ps=(Ps*1103515245+12345+((Pl or 0)*257)+(PF*13))%2147483647 local PH=Ph(PF,1)local PP=(Ps%256)Pv[PF]=b7(Pl,b7(PH,PP))else Ps=(Ps*1103515245+12345+(PF*13))%2147483647 end PF=PF+1 end xn[4524]=Pv end if type(PN)~='table'then PN=Px(Hb,2)PQ=Px(Hn,3)PA=Px(Hj,4)xn[4512]=PN xn[6815]=PQ xn[7715]=PA end Hz=Pv l4=PN l3=PQ l6=PA end local PB=(NQ-lt)+1 while PB>0 do local Pp=l2[lt]if Pp==nil then if xn[2592]and xn[2592][0]~=nil then b0[nJ[55064]](xn,lt,hv,Nb,((lw-((lt)+la))%me))else local Pg=lt+63 if Pg>NQ then Pg=NQ end for Pe=lt,Pg do if l2[Pe]==nil then b0[nJ[64673]](xn,Pe,((lw-((lt)+la))%me))else break end end end end if H7==nil then local PW=(1899979069+(((xn[1829]or 0)+1)*313)+(((NQ or 0)+7)*29)+1137)%2147483647 if NQ>=1 then local PD=(l5[1]or 0)local PI=(l2[1]or 0)local Py=(PW%65521)local PU=(((PD+PI+9)*12)+(Py*3))%2147483647 local PT=(((PD+1)*248)+((PI+9)*296)+PU+((Py%251)*116))%2147483647 PW=(((PW*69621)+PT)%2147483647)if PW==0 then PW=1 end end if NQ>=2 then local PD=(l5[2]or 0)local PI=(l2[2]or 0)local Py=(PW%65521)local PU=(((PD+1)*(PI+3))+1552+(Py%251))%2147483647 local PT=(((PD*364)+((PI+2)*327)+PU)%2147483647)PW=(((PW*74189)+PT)%2147483647)if PW==0 then PW=1 end end if NQ>=3 then local PD=(l5[3]or 0)local PI=(l2[3]or 0)local Py=(PW%65521)local PU=(((PD+3)*299)+((PI+1)*257)+Py)%2147483647 local PT=(((PD+PI+3)*116)+PU+((Py%251)*29))%2147483647 PW=(((PW*91577)+PT)%2147483647)if PW==0 then PW=1 end end H7=((PW%251)+(b0[nJ[13010]][(J(((40+322)),hv)and tM or nil)](PW/251)%251)+207)%256 xn[5559]=H7 end if(lt%64)==0 then local PX=b0[nJ[32836]]local Pa=PX and PX.info local Pw=PX and PX.traceback local PL=(n8 and pcall and n8~=pcall)local Pk=(n9 and rawget and n9~=rawget)local P0=(jb and type and jb~=type)local P5=(jn and Pa and jn~=Pa)local P2=false local P4=(jj and Pw and jj~=Pw)local P3=PL or Pk or P0 or P5 or P2 or P4 if P3 then xn[3393]=0 return end end local St=nil if Pm then St=(Hz)[lt]end local P6=(l5)[lt]local P1=(((P6 or 0)*73+23)%256)local lq=P1 if St==nil then St=lq end if lw~=lt+la then local lL=(lw-(lt+la))%me lq=200 St=lq lt=NQ+1 xn[3393]=(((xn[3393]or 0)+lL+lq)%me)end local lv=false local lc=false local Ho,HJ,HZ,Hp,Hg,He,HW,HD,HI local l0=lk[(lq or 0)+1]or 0 if l0==1 then if lq<=116 then if lq<=36 then if lq<=18 then if lq<=14 then if lq<=10 then if lq==10 then Ho=l2[lt]HJ=HH[lt]HZ=Hb[lt]+(Hn[lt]*(96+67+93))local _a=(HZ>=(128*256))and-(64*1024)or 0;HZ=HZ+_a Hp=lr[Ho]Hg=lr[Ho+1]He=lr[Ho+2]He=He+Hg lr[Ho+2]=He if(Hg>0 and He<=Hp)or(Hg<=0 and He>=Hp)then HW=HJ+4+HZ Hp=HP[HW]if Hp then lt=Hp else lt=lt+1 end else lA[Ho]=nil lt=lt+1 end lv=true lc=true end else if lq==14 then Ho=l2[lt]HJ=Hb[lt]if Ho==1 then if not lE[HJ]then lE[HJ]={[7747]=b0[nJ[40199]],[4171]=lr,[3902]=HJ,[3253]=b0[nJ[42034]],[7963]=nil,[1]=lr,[2]=HJ}end end lc=true end end else if lq==18 then Ho=lr[Hb[lt]]lr[l2[lt]]=Ho lc=true end end else if lq<=22 then if lq==22 then HD=15166+(Hn[lt]*53)+(Hb[lt]*37)+(l2[lt]*19)HD=(HD+lt)%3 Ho=lr[Hb[lt]]Hg=(5-5)if Hg~=(3-3)then Ho=Ho end if HD==0 then if Ho then Ho[lr[Hn[lt]]]=lr[l2[lt]]end elseif HD==1 then HJ=lr[Hn[lt]]if Ho then Ho[HJ]=lr[l2[lt]]end else HJ=lr[Hn[lt]]HZ=lr[l2[lt]]if Ho then Ho[HJ]=HZ end end HD=nil lc=true end else if lq==36 then Ho=l2[lt]HJ=Hn[lt]+(Hj[lt]*(88+53+115))local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a HZ=lr[Hb[lt]]if Hf[lt]~=0 then lr[Ho]=HJ/HZ else lr[Ho]=HZ/HJ end if false then lr[Ho]=lr[Ho]end Hp=HP[HH[lt]+8]if Hp then lt=Hp else lt=lt+1 end lv=true lc=true end end end else if lq<=72 then if lq<=50 then if lq<=47 then if lq==47 then lr[l2[lt]]=lr[Hb[lt]]/lr[Hn[lt]]lc=true end else if lq==50 then Ho=l2[lt]HJ=Hb[lt]HW=(Hf[lt]or 0)if(HC[lt]or 0)==0 then HD=((lt*74)+110)%(153+103)HI=((lt*116)+208)%(153+103)Hf[lt]=b7(Hn[lt],HD)Hu[lt]=b7(Hj[lt],HI)if HW~=0 then HW=(((HW+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+142+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hf[lt]=b7(Hf[lt],HW)Hu[lt]=b7(Hu[lt],((HW*73+lt*17+220)%(153+103)))end HC[lt]=1 end HZ=Hf[lt]+(Hu[lt]*(153+103))Hp=lr[HJ]Hg=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[HZ+1],hv)and tM or nil)He=Hp and Hp[Hg]or nil if He==nil and Hp~=nil then HW=b0[nJ[57340]](Hp)HW=HW and HW[(J((236-216),hv)and tM or nil)]HZ=nC(HW)if HZ==nx then He=HW(Hp,Hg)elseif HZ==nq then He=HW[Hg]end end if He==nil and nC(Hp)==nt then He=bD and bD[Hg]or nil end if He==nil and Hp~=nil and nC(Hp)~=nq then HW=b0[nJ[57340]](Hp)HW=HW and HW[(J((46*6+2),hv)and tM or nil)]if nC(HW)==nx then He=HW end end lr[Ho]=He lr[Ho+1]=Hp lc=true end end else if lq==72 then Ho=l2[lt]li={}HJ=Ho+1 HZ=lR or#ld if HZ>=HJ then for P9=HJ,HZ do li[P9-HJ+1]=ld[P9]end li[nM]=HZ-Ho li['n']=li[nM]else li[nM]=0 li['n']=0 end lc=true end end else if lq<=82 then if lq==82 then Ho=lr[l2[lt]]HJ=lr[Hj[lt]]Hg=HV HW=Ho<HJ if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end else if lq==116 then Ho=l2[lt]HJ=Hb[lt]+(Hn[lt]*256)HZ=Ag[HJ]if not HZ then b0[nJ[ng[41719]]]()end if not lE then lE={}end local Vn=false if HZ[(J(((375-20+(31-31))),hv)and tM or nil)]and not HZ[(J((283+82),hv)and tM or nil)]then local Vj=HZ[(J((53*7+5),hv)and tM or nil)]local Vf=nil local Vu=0 if Vj then Vf={}local VL={}Vf[0]=VL local Vk=b0[nJ[39435]]local VC=0 if u then VC=u["\116\97"]or 0 end for VK,Vz in b0[nJ[40051]](Vj)do if Vz[1]then local Vm=Vz[2]local VG=VC+Vm do local V0=VG local V5=lE[V0]if nC(V5)~=nq or(not V5[7747])or V5[3902]~=V0 or V5[4171]~=lr then V5={[7747]=true,[4171]=lr,[3902]=V0,[3253]=false,[7963]=nil,[1]=lr,[2]=V0}lE[V0]=V5 end Vf[VK]=function(V2,...)if V2==VL then if Vk('#',...)>0 then local V4=...if V5[3253]then V5[7963]=V4 else lr[VG]=V4 end return end if V5[3253]then return V5[7963]end return lr[VG]end local V3 if V5[3253]then V3=V5[7963]else V3=lr[VG]end return V3(V2,...)end end else local Vm=Vz[2]+1 Vf[VK]=function(V2,...)if V2==VL then if Vk('#',...)>0 then local V4=...local V5=lS[Vm]if nC(V5)==nq and V5[7747]then if V5[3253]then V5[7963]=V4 else local V6=V5[3902]V5[4171][V6]=V4 end else lS[Vm]=V4 end return end local V5=lS[Vm]if nC(V5)==nq and V5[7747]then if V5[3253]then V5=V5[7963]else local V6=V5[3902]V5=V5[4171][V6]end end return V5 end local V3=lS[Vm]if nC(V3)==nq and V3[7747]then if V3[3253]then V3=V3[7963]else local V6=V3[3902]V3=V3[4171][V6]end end return V3(V2,...)end end end Vu=0 local V7=63 local V8=226 local V1=lt+1 while l5[V1]==V7 or l5[V1]==V8 do Vu=Vu+1;V1=V1+1 end end lr[Ho]=HZ[(J(((375-20+(31-31))),hv)and tM or nil)](b0[nJ[41518]],Vf)do local V9=b0[nJ[41518]][(J(((131-112+237-237)),hv)and tM or nil)]if V9 then V9(lr[Ho],b0[nJ[41518]])end end lt=lt+1+Vu lv=true Vn=true end if not Vn then local Vw=HZ[4468]Hp={}if Vw and Vw[1]~=nil then if Vw[2]==nil then Hg=Vw[1]if Hg.Nk then He=Hg.Ez if not lE[He]then lE[He]={[7747]=true,[4171]=lr,[3902]=He,[3253]=false,[7963]=nil,[1]=lr,[2]=He}end Hp[1]=lE[He]else Hp[1]=lS[Hg.Ez+1]end else for P9,Hg in b0[nJ[40051]](Vw)do if Hg.Nk then He=Hg.Ez if not lE[He]then lE[He]={[7747]=true,[4171]=lr,[3902]=He,[3253]=false,[7963]=nil,[1]=lr,[2]=He}end Hp[P9]=lE[He]else Hp[P9]=lS[Hg.Ez+1]end end end end lr[Ho]=b0[nJ[22035]](HZ,Hp)b0[nJ[6953]](lr[Ho],b0[nJ[ng[29127]]])local Ob=0 local Oj=63 local Of=226 local On=lt+1 while l5[On]==Oj or l5[On]==Of do Ob=Ob+1;On=On+1 end if Ob>0 then lt=lt+1+Ob lv=true end end lc=true end end end end else if lq<=161 then if lq<=149 then if lq<=135 then if lq<=124 then if lq==124 then Ho=l2[lt]if l5[lt+1]==121 or l5[lt+1]==213 or l5[lt+1]==214 then if l2[lt+1]==nil then b0[nJ[64673]](xn,lt+1)end HJ=l2[lt+1]HZ=nil if Ho==40 then HZ=nC elseif Ho==12 then HZ=bp.floor elseif Ho==7 then HZ=bp.ceil elseif Ho==2 then HZ=bp.abs elseif Ho==25 then HZ=bp.sqrt elseif Ho==21 then HZ=bp.pow elseif Ho==24 then HZ=bp.sin elseif Ho==9 then HZ=bp.cos elseif Ho==27 then HZ=bp.tan elseif Ho==11 then HZ=bp.exp elseif Ho==10 then HZ=bp.deg elseif Ho==17 then HZ=bp.log elseif Ho==22 then HZ=bp.rad elseif Ho==19 then HZ=bp.min elseif Ho==18 then HZ=bp.max elseif Ho==45 then HZ=nu.insert elseif Ho==46 then HZ=b1 elseif Ho==42 then HZ=bD.byte elseif Ho==43 then HZ=bD.char elseif Ho==44 then HZ=bD.len elseif Ho==41 then HZ=b0[nJ[8717]].typeof elseif Ho==57 then HZ=b0[nJ[39435]]elseif Ho==60 then HZ=b0[nJ[50078]]elseif Ho==61 then HZ=b0[nJ[47718]]elseif Ho==62 then HZ=b0[nJ[8717]].rawequal elseif Ho==64 then HZ=b0[nJ[8717]].rawlen elseif Ho==3 then HZ=bp.asin elseif Ho==4 then HZ=bp.acos elseif Ho==5 then HZ=bp.atan2 elseif Ho==6 then HZ=bp.atan elseif Ho==13 then HZ=bp.fmod elseif Ho==14 then HZ=bp.ldexp elseif Ho==20 then HZ=bp.modf end if HZ~=nil then Hp=HZ lr[HJ]=Hp end if false then lr[HJ]=lr[HJ]end end lc=true end else if lq==135 then Ho=Hb[lt]HJ=lS[Ho+1]HZ=nC(HJ)if HZ==nq and HJ[7747]then if HJ[3253]then Hp=HJ[7963]else Hg=HJ.P9 He=HJ[3902]if Hg and He~=nil then Hp=Hg[He]else Hp=HJ[4171][HJ[3902]]end end else Hp=HJ end if nm and nC(Hp)==nE and b0[nJ[11966]](Hp)==Hp then Hp=b0[nJ[11966]](Hp)end lr[Hn[lt]]=Hp VM=((lt*228)+139)%(562-306)VR=((lt*103)+245)%(562-306)Ho=b7(Hj[lt],VM)+(b7(Hf[lt],VR)*(562-306))HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)if Hp then lr[l2[lt]]=Hp[HJ]else lr[l2[lt]]=nil end HW=not(lr[l2[lt]])if HW then lt=HB[lt]else lt=lt+1 end lv=true HJ=nil HZ=nil Hp=nil lc=true end end else if lq==149 then HJ=lr[Hb[lt]]lr[l2[lt]]=HJ Ho=Hj[lt]+(Hf[lt]*(455-199))lr[Hn[lt]]=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)Ho=nil HJ=nil lc=true end end else if lq<=150 then if lq==150 then lc=true Ho=l2[lt]or 0 HJ=Hn[lt]or 0 HZ=Ho+(HJ*256)if HZ>=0 then P9=b0[nJ[51747]]if P9 and b0[nJ[ng[26032]]]~=P9 then do local Ho=b0[nJ[ng[32558]]];local HJ=b0[nJ[ng[39322]]];local HZ=b0[nJ[ng[23073]]];local Hp=b0[nJ[ng[43564]]];HZ(Ho,b0[nJ[ng[35171]]],b0[nJ[ng[47266]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[24740]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[24315]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[24315]]],He+HW)end end end Vb=b0[nJ[ng[34068]]]rb=b0[nJ[ng[52233]]]rj=0;Vn=0;Vj=0;Vf=0 if Vb>0 then Vj=b0[nJ[11966]](Vb/65536);rj=Vb-(Vj*65536)end if rb>0 then Vf=b0[nJ[11966]](rb/65536);Vn=rb-(Vf*65536)end if rj>0 and Vn>0 and rj~=Vn then do local Ho=b0[nJ[ng[43414]]];local HJ=b0[nJ[ng[22181]]];local HZ=b0[nJ[ng[49427]]];local Hp=b0[nJ[ng[34216]]];HZ(Ho,b0[nJ[ng[56197]]],b0[nJ[ng[21549]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[38627]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[44984]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[44984]]],He+HW)end end end if Vj>0 then Vu=rj-Vj;if Vu<0 then Vu=-Vu end;if Vu>1 then do local Ho=b0[nJ[ng[33410]]];local HJ=b0[nJ[ng[53209]]];local HZ=b0[nJ[ng[38444]]];local Hp=b0[nJ[ng[21749]]];HZ(Ho,b0[nJ[ng[23436]]],b0[nJ[ng[20103]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[49016]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[23599]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[23599]]],He+HW)end end end end if Vf>0 then Vu=Vn-Vf;if Vu<0 then Vu=-Vu end;if Vu>1 then do local Ho=b0[nJ[ng[20364]]];local HJ=b0[nJ[ng[28455]]];local HZ=b0[nJ[ng[57549]]];local Hp=b0[nJ[ng[35971]]];HZ(Ho,b0[nJ[ng[37574]]],b0[nJ[ng[37939]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[42005]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[36425]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[36425]]],He+HW)end end end end end lt=lt+1 lv=true lc=true end else if lq==161 then HD=((lt+(l2[lt]*19)+(Hb[lt]*31)+(Hn[lt]*47)+25659)%3)if(HC[lt]or 0)==0 then He=((lt*4)+133)%(128+128)HW=((lt*182)+255)%(128+128)Hj[lt]=b7(Hb[lt],He)Hf[lt]=b7(Hn[lt],HW)Hg=(Hu[lt]or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+237+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hg)Hf[lt]=b7(Hf[lt],((Hg*73+lt*17+93)%(128+128)))end HC[lt]=1 end if HD==1 then Ho=(Hf[lt]*(128+128))+Hj[lt]else Ho=Hj[lt]+(Hf[lt]*(128+128))end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)if HD==0 then b0[nJ[8717]][HJ]=lr[l2[lt]]elseif HD==1 then HZ=lr[l2[lt]]b0[nJ[8717]][HJ]=HZ else HZ=lr[l2[lt]]Hp=b0[nJ[8717]]Hp[HJ]=HZ end HJ=nil HZ=nil Hp=nil HD=nil He=nil HW=nil Hg=nil lc=true end end end else if lq<=186 then if lq<=165 then if lq==165 then Ho=(Hj[lt]or 0)HJ=(Hn[lt]or 0)HZ=(Hb[lt]or 0)Ho=(Ho*(128*512))+(HJ*(569-313))+HZ+(Hf[lt]*(8192*2048))Ho=((Ho+(1048576*2048))%((487-231)*((5*23)+141)*65536))-(1048576*2048)lr[l2[lt]]=Ho lc=true end else if lq==186 then local Vf,Vu,VC,VK,Vz,Vm,VG,Vh,VS Ho=l2[lt]HJ=Hb[lt]HD=((lt*104)+214)%(399-143)HI=((lt*239)+120)%(399-143)HZ=b7(Hn[lt],HD)+(b7(Hj[lt],HI)*(399-143))Hp=b7(Hf[lt],HD)+(b7(Hu[lt],HI)*(399-143))do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+134+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](HZ/(399-143))%(399-143)),((Vc*73+lt*17+212)%(399-143)))Vc=b7((HZ%(399-143)),Vc)HZ=Vc+(Vv*(399-143))end end do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+134+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Hp/(399-143))%(399-143)),((Vc*73+lt*17+212)%(399-143)))Vc=b7((Hp%(399-143)),Vc)Hp=Vc+(Vv*(399-143))end end local VS=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Hp+1],hv)and tM or nil)lr[Ho+2]=VS Hg=lr[Ho+1]He=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[HZ+1],hv)and tM or nil)Vf=Hg and Hg[He]or nil if Vf==nil and Hg~=nil then Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J((236-216),hv)and tM or nil)]VK=nC(VC)if VK==nx then Vf=VC(Hg,He)elseif VK==nq then Vf=VC[He]end end if Vf==nil and nC(Hg)==nt then Vf=bD and bD[He]or nil end if Vf==nil and Hg~=nil and nC(Hg)~=nq then Vu=Vu or b0[nJ[57340]](Hg)VC=Vu and Vu[(J((46*6+2),hv)and tM or nil)]if nC(VC)==nx then Vf=VC end end Vz=nC(Vf)if Vz==nx then if HJ==2 then VG=Vf(Hg,lr[Ho+2])else Vf(Hg,lr[Ho+2])end else Vu=b0[nJ[57340]](Vf)Vm=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if Vm then if HJ==2 then VG=Vm(Vf,Hg,lr[Ho+2])else Vm(Vf,Hg,lr[Ho+2])end else b0[nJ[20565]]()end end if HJ==2 then lr[Ho]=VG lM=Ho+1 else lM=Ho end nj=lM nf=true Vh=HP[HH[lt]+8]if Vh then lt=Vh else lt=lt+1 end lv=true lc=true end end else if lq<=232 then if lq==232 then Ho=l2[lt]HJ=HH[lt]HZ=Hb[lt]+(Hn[lt]*(58+111+87))local _a=(HZ>=(128*256))and-(64*1024)or 0;HZ=HZ+_a Hp=lr[Ho]Hg=lr[Ho+1]He=lr[Ho+2]lA[Ho]=He if(Hg>0 and He<=Hp)or(Hg<=0 and He>=Hp)then lt=lt+1 else HW=HJ+4+HZ Hp=HP[HW]if Hp then lt=Hp else lt=lt+1 end end lv=true lc=true end else if lq==249 then HW=(lr[l2[lt]]==nil or not lr[l2[lt]])if HW then lt=HB[lt]else lt=lt+1 end lv=true lc=true end end end end end elseif l0==2 then if lq<=95 then if lq<=43 then if lq<=13 then if lq<=7 then if lq<=3 then if lq==3 then local Vf,Vu,VC,VK,Vm,VG,Vz,Vh,VS,Vr,VE Ho=l2[lt]HJ=Hb[lt]HD=((lt*157)+79)%(83+173)HI=((lt*46)+89)%(83+173)HZ=b7(Hn[lt],HD)+(b7(Hj[lt],HI)*(83+173))do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+163+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](HZ/(83+173))%(83+173)),((Vc*73+lt*17+83)%(83+173)))Vc=b7((HZ%(83+173)),Vc)HZ=Vc+(Vv*(83+173))end end local Hp=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[HZ+1],hv)and tM or nil)lr[Ho+1]=Hp Hg=lr[Ho]VK,Vm,VG,VS,Vr=nil,nil,nil,nil,nil Vf=nC(Hg)if HJ==0 then Vh=b0[nJ[60561]]if Vf==nx then VS=Vh(nil,Hg(Hp))else Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then VS=Vh(nil,VC(Hg,Hp))else b0[nJ[20565]]()end end Vr=VS.n or#VS for VE=1,Vr do lr[Ho+VE-1]=VS[VE]end lM=Ho+Vr else if Vf==nx then if HJ==1 then Hg(Hp)elseif HJ==2 then VK=Hg(Hp)elseif HJ==3 then VK,Vm=Hg(Hp)else VK,Vm,VG=Hg(Hp)end else Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then if HJ==1 then VC(Hg,Hp)elseif HJ==2 then VK=VC(Hg,Hp)elseif HJ==3 then VK,Vm=VC(Hg,Hp)else VK,Vm,VG=VC(Hg,Hp)end else b0[nJ[20565]]()end end if HJ==2 then lr[Ho]=VK lM=Ho+1 elseif HJ==3 then lr[Ho]=VK;lr[Ho+1]=Vm lM=Ho+2 elseif HJ==4 then lr[Ho]=VK;lr[Ho+1]=Vm;lr[Ho+2]=VG lM=Ho+3 else lM=Ho end end nj=lM nf=true Vz=HP[HH[lt]+8]if Vz then lt=Vz else lt=lt+1 end lv=true lc=true end else if lq==7 then Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]local lE=b0[nJ[14846]]local Vc=lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])if Vc then local Vv=5+((l2[lt]or 0)+(Hb[lt]or 0)+(Hn[lt]or 0))%46 local VN=lt+Vv local VQ=#l5 if VQ and VQ>0 and VN>VQ then VN=VQ-(Vv%3)end l5[VN]=122 b0[nJ[6286]]=nil end Hp=lr[HJ]lr[Ho]=Hp()Hp=nil lc=true end end else if lq==13 then HD=((lt+(l2[lt]*19)+(Hb[lt]*37)+(Hn[lt]*53)+4201)%3)Ho=lr[Hb[lt]]Hg=(4-4)if Hg~=(6-6)then Ho=Ho end if HD==0 then if Ho then Ho[lr[Hn[lt]]]=lr[l2[lt]]end elseif HD==1 then HJ=lr[Hn[lt]]if Ho then Ho[HJ]=lr[l2[lt]]end else HJ=lr[Hn[lt]]HZ=lr[l2[lt]]if Ho then Ho[HJ]=HZ end end HD=nil lc=true end end else if lq<=39 then if lq<=21 then if lq==21 then HJ=lr[Hj[lt]]Ho=lr[l2[lt]]Hg=HV HW=Ho~=HJ if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end else if lq==39 then Vl=Hb if type(Vl)~='table'then Vl=xn[6834]end if type(Vl)~='table'then Vl={}end VH=Hn if type(VH)~='table'then VH=xn[2879]end if type(VH)~='table'then VH={}end VP=t7 if type(VP)~='table'then VP=b0[nJ[27072]]end if type(VP)~='table'then VP={}end He=((lt*7)+107)%((6*16)+160)HW=((lt*240)+213)%((6*16)+160)Ho=b7(Vl[lt],He)+(b7(VH[lt],HW)*((6*16)+160))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+47+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%((6*16)+160)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/((6*16)+160))%((6*16)+160)),((Vv*73+lt*17+95)%((6*16)+160)))Ho=lE+(Vc*((6*16)+160))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(VP[Ho+1],hv)and tM or nil)HZ=Hf[lt]+(Hu[lt]*((6*16)+160))local _a=(HZ>=(128*256))and-(64*1024)or 0;HZ=HZ+_a lr[Hj[lt]]=HZ Hp=lr[l2[lt]]if Hp then Hp[HJ]=HZ end if false then Hp[HJ]=HZ end HJ=nil HZ=nil Hp=nil Hg=nil Vl=nil VH=nil VP=nil lc=true end end else if lq==43 then local zj=b1 Ho=l2[lt]HJ=3 HZ=((Hb[lt]-Hn[lt])%256)local Ou=lM or 0 local lE=b0[nJ[14846]]local Vc=lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])if Vc then local Vv=5+((l2[lt]or 0)+(Hb[lt]or 0)+(Hn[lt]or 0))%46 local VN=lt+Vv local VQ=#l5 if VQ and VQ>0 and VN>VQ then VN=VQ-(Vv%3)end l5[VN]=122 b0[nJ[6286]]=nil end Hp=lr[Ho]if HJ==0 then He=lM-Ho-1 else He=HJ-1 end if HZ==0 then local Vb=b0[nJ[60561]]Hg=Vb(nil,Hp(zj(lr,Ho+1,Ho+He)))HD=Hg.n or#Hg for P9=1,HD do lr[Ho+P9-1]=Hg[P9]end lM=Ho+HD else HW=HZ-1 if He==0 then if HW==0 then Hp()if Vc then lr[Ho]=nil end elseif HW==1 then lr[Ho]=Hp()elseif HW==2 then local OC,OK=Hp()lr[Ho]=OC lr[Ho+1]=OK elseif HW==3 then local OC,OK,Oz=Hp()lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz else local Vb=b0[nJ[60561]]Hg=Vb(HW,Hp())for P9=1,HW do lr[Ho+P9-1]=Hg[P9]end end else local OE=lr[Ho+1]local Ot=lr[Ho+2]local Oq=lr[Ho+3]if HW==0 then if He==0 then Hp()elseif He==1 then Hp(OE)elseif He==2 then Hp(OE,Ot)elseif He==3 then Hp(OE,Ot,Oq)else Hp(zj(lr,Ho+1,Ho+He))end if Vc then lr[Ho]=nil end elseif HW==1 then local OC if He==0 then OC=Hp()elseif He==1 then OC=Hp(OE)elseif He==2 then OC=Hp(OE,Ot)elseif He==3 then OC=Hp(OE,Ot,Oq)else OC=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC elseif HW==2 then local OC,OK if He==0 then OC,OK=Hp()elseif He==1 then OC,OK=Hp(OE)elseif He==2 then OC,OK=Hp(OE,Ot)elseif He==3 then OC,OK=Hp(OE,Ot,Oq)else OC,OK=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK elseif HW==3 then local OC,OK,Oz if He==0 then OC,OK,Oz=Hp()elseif He==1 then OC,OK,Oz=Hp(OE)elseif He==2 then OC,OK,Oz=Hp(OE,Ot)elseif He==3 then OC,OK,Oz=Hp(OE,Ot,Oq)else OC,OK,Oz=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz elseif HW==4 then local OC,OK,Oz,Om if He==0 then OC,OK,Oz,Om=Hp()elseif He==1 then OC,OK,Oz,Om=Hp(OE)elseif He==2 then OC,OK,Oz,Om=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om=Hp(OE,Ot,Oq)else OC,OK,Oz,Om=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om elseif HW==5 then local OC,OK,Oz,Om,OG if He==0 then OC,OK,Oz,Om,OG=Hp()elseif He==1 then OC,OK,Oz,Om,OG=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG elseif HW==6 then local OC,OK,Oz,Om,OG,Oh if He==0 then OC,OK,Oz,Om,OG,Oh=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh elseif HW==7 then local OC,OK,Oz,Om,OG,Oh,OS if He==0 then OC,OK,Oz,Om,OG,Oh,OS=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh,OS=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh lr[Ho+6]=OS elseif HW==8 then local OC,OK,Oz,Om,OG,Oh,OS,Or if He==0 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh lr[Ho+6]=OS lr[Ho+7]=Or else local Vb=b0[nJ[60561]]Hg=Vb(HW,Hp(zj(lr,Ho+1,Ho+He)))for P9=1,HW do lr[Ho+P9-1]=Hg[P9]end end end end local Ox=lM or 0 if Ou>Ox then local Oi=Ou-1 local OM=Ox+31 if OM<Oi then Oi=OM end for OR=Ox,Oi do lr[OR]=nil end end Hg=nil Hp=nil lc=true end end end else if lq<=63 then if lq<=55 then if lq<=44 then if lq==44 then Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]local lE=b0[nJ[14846]]local Vc=lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])if Vc then local Vv=5+((l2[lt]or 0)+(Hb[lt]or 0)+(Hn[lt]or 0))%46 local VN=lt+Vv local VQ=#l5 if VQ and VQ>0 and VN>VQ then VN=VQ-(Vv%3)end l5[VN]=122 b0[nJ[6286]]=nil end Hp=lr[HJ]local Hg=lr[HZ]Hp(Hg)Hp=nil lc=true end else if lq==55 then Ho=Hj[lt]HJ=Hn[lt]HZ=Hb[lt]if Ho==nil then Ho=0 end if HJ==nil then HJ=0 end if HZ==nil then HZ=0 end Ho=((Ho*((6*29)+82))+HJ)Ho=(Ho*((6*29)+82))+HZ Ho=((Ho+(16384*512))%((16384*512)+(16384*512)))-(16384*512)lr[l2[lt]]=Ho lc=true end end else if lq==63 then local Vf,Vu,VC,VK,Vm,VG,Vz,Vh,VS,Vr,VE Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]+(Hj[lt]*(57+40+159))local _a=(HZ>=(128*256))and-(64*1024)or 0;HZ=HZ+_a lr[Ho+2]=HZ Hp=lr[Ho+1]Hg=lr[Ho]VK,Vm,VG,VS,Vr=nil,nil,nil,nil,nil Vf=nC(Hg)if HJ==0 then Vh=b0[nJ[60561]]if Vf==nx then VS=Vh(nil,Hg(Hp,HZ))else Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then VS=Vh(nil,VC(Hg,Hp,HZ))else b0[nJ[20565]]()end end Vr=VS.n or#VS for VE=1,Vr do lr[Ho+VE-1]=VS[VE]end lM=Ho+Vr else if Vf==nx then if HJ==1 then Hg(Hp,HZ)elseif HJ==2 then VK=Hg(Hp,HZ)elseif HJ==3 then VK,Vm=Hg(Hp,HZ)else VK,Vm,VG=Hg(Hp,HZ)end else Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then if HJ==1 then VC(Hg,Hp,HZ)elseif HJ==2 then VK=VC(Hg,Hp,HZ)elseif HJ==3 then VK,Vm=VC(Hg,Hp,HZ)else VK,Vm,VG=VC(Hg,Hp,HZ)end else b0[nJ[20565]]()end end if HJ==2 then lr[Ho]=VK lM=Ho+1 elseif HJ==3 then lr[Ho]=VK;lr[Ho+1]=Vm lM=Ho+2 elseif HJ==4 then lr[Ho]=VK;lr[Ho+1]=Vm;lr[Ho+2]=VG lM=Ho+3 else lM=Ho end end nj=lM nf=true Vz=HP[HH[lt]+8]if Vz then lt=Vz else lt=lt+1 end lv=true lc=true end end else if lq<=81 then if lq==81 then lt=HB[lt]lv=true lc=true end else if lq==95 then HD=((((lt+35091)%251)+(l2[lt]*17)+(Hb[lt]*31)+((((hv)or 0)%97)*1))%3)Hg=(Hf[lt]or 0)if(HC[lt]or 0)==0 then He=((lt*116)+131)%((11*13)+113)HW=((lt*83)+173)%((11*13)+113)Hf[lt]=b7(Hn[lt],He)Hu[lt]=b7(Hj[lt],HW)Hg=(Hg or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+247+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hf[lt]=b7(Hf[lt],Hg)Hu[lt]=b7(Hu[lt],((Hg*73+lt*17+7)%((11*13)+113)))end HC[lt]=1 end if HD==1 then Ho=(Hu[lt]*((11*13)+113))+Hf[lt]else Ho=Hf[lt]+(Hu[lt]*((11*13)+113))end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ=lr[Hb[lt]]if HD==0 then lr[l2[lt]]=HZ[HJ]elseif HD==1 then Hp=HZ[HJ]lr[l2[lt]]=Hp else Hp=HZ[HJ]if HD>1 then lr[l2[lt]]=Hp else lr[l2[lt]]=HZ[HJ]end end HJ=nil HZ=nil Hp=nil HD=nil He=nil HW=nil Hg=nil lc=true end end end end else if lq<=181 then if lq<=142 then if lq<=109 then if lq<=102 then if lq==102 then Ho=l2[lt]HJ=Hb[lt]if false then HJ=HJ end HW=(Hf[lt]or 0)if(HC[lt]or 0)==0 then HD=((lt*74)+110)%(153+103)HI=((lt*116)+208)%(153+103)Hf[lt]=b7(Hn[lt],HD)Hu[lt]=b7(Hj[lt],HI)if HW~=0 then HW=(((HW+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+142+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hf[lt]=b7(Hf[lt],HW)Hu[lt]=b7(Hu[lt],((HW*73+lt*17+220)%(153+103)))end HC[lt]=1 end HZ=Hf[lt]+(Hu[lt]*(153+103))Hp=lr[HJ]Hg=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[HZ+1],hv)and tM or nil)He=Hp and Hp[Hg]or nil if He==nil and nC(Hp)==nt then He=bD and bD[Hg]or nil else if He==nil and Hp~=nil then HW=b0[nJ[57340]](Hp)HW=HW and HW[(J((236-216),hv)and tM or nil)]HZ=nC(HW)if HZ==nx then He=HW(Hp,Hg)elseif HZ==nq then He=HW[Hg]end end if He==nil and nC(Hp)==nt then He=bD and bD[Hg]or nil end end if He==nil and Hp~=nil and nC(Hp)~=nq then HW=b0[nJ[57340]](Hp)HW=HW and HW[(J((46*6+2),hv)and tM or nil)]if nC(HW)==nx then He=HW end end lr[Ho]=He lr[Ho+1]=Hp lc=true end else if lq==109 then Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]if HJ>HZ then lr[Ho]=''else Hp=lr[HZ]for Hg=HZ-1,HJ,-1 do Hp=lr[Hg]..Hp end lr[Ho]=Hp end He=HP[HH[lt]+4]if He then lt=He else lt=lt+1 end lv=true lc=true end end else if lq==142 then HD=32306+((((hv)or 0)%97)*1)+(Hj[lt]*41)+(l2[lt]*23)HD=(HD+lt)%3 Vl=Hb if type(Vl)~='table'then Vl=xn[6834]end if type(Vl)~='table'then Vl={}end VH=Hn if type(VH)~='table'then VH=xn[2879]end if type(VH)~='table'then VH={}end Hg=(Hf[lt]or 0)VP=Hf if type(VP)~='table'then VP=xn[6029]end if type(VP)~='table'then VP={}end VV=Hu if type(VV)~='table'then VV=xn[7410]end if type(VV)~='table'then VV={}end VO=HC if type(VO)~='table'then VO=xn[2024]end if type(VO)~='table'then VO={}end if(VO[lt]or 0)==0 then He=((lt*105)+160)%(58+111+87)HW=((lt*221)+210)%(58+111+87)VP[lt]=b7(Vl[lt],He)VV[lt]=b7(VH[lt],HW)Hg=(Hg or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+20+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)VP[lt]=b7(VP[lt],Hg)VV[lt]=b7(VV[lt],((Hg*73+lt*17+130)%(58+111+87)))end VO[lt]=1 end if HD==1 then Ho=(VV[lt]*(58+111+87))+VP[lt]else Ho=VP[lt]+(VV[lt]*(58+111+87))end VY=t7 if type(VY)~='table'then VY=b0[nJ[27072]]end if type(VY)~='table'then VY={}end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(VY[Ho+1],hv)and tM or nil)HZ=lr[l2[lt]]if HD==0 then if HZ then HZ[HJ]=lr[Hj[lt]]end elseif HD==1 then Hp=lr[Hj[lt]]if HZ then HZ[HJ]=Hp end else if HZ then Hp=HZ Hp[HJ]=lr[Hj[lt]]end end HJ=nil HZ=nil Hp=nil HD=nil VY=nil He=nil HW=nil VP=nil VV=nil VO=nil Hg=nil Vl=nil VH=nil lc=true end end else if lq<=157 then if lq<=148 then if lq==148 then VM=((lt*199)+144)%(120+136)VR=((lt*134)+66)%(120+136)Ho=Hb[lt]HJ=lS[Ho+1]HZ=nC(HJ)if HZ==nq and HJ[7747]then if HJ[3253]then Hp=HJ[7963]else Hg=HJ.P9 He=HJ[3902]if Hg and He~=nil then Hp=Hg[He]else Hp=HJ[4171][HJ[3902]]end end else Hp=HJ end if nm and nC(Hp)==nE and b0[nJ[11966]](Hp)==Hp then Hp=b0[nJ[11966]](Hp)end lr[Hn[lt]]=Hp Ho=b7(Hj[lt],VM)+(b7(Hf[lt],VR)*(120+136))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+100+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%(120+136)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/(120+136))%(120+136)),((Vv*73+lt*17+242)%(120+136)))Ho=lE+(Vc*(120+136))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ=Hp[HJ]Ho=b7(Hu[lt],VM)+(b7(HC[lt],VR)*(120+136))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+100+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%(120+136)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/(120+136))%(120+136)),((Vv*73+lt*17+242)%(120+136)))Ho=lE+(Vc*(120+136))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)lr[l2[lt]]=HZ[HJ]HJ=nil HZ=nil Hp=nil lc=true end else if lq==157 then if nC(lr[Hb[lt]])==nE and nC(lr[Hn[lt]])==nE then lr[l2[lt]]=bp.pow(lr[Hb[lt]],lr[Hn[lt]])else lr[l2[lt]]=lr[Hb[lt]]^lr[Hn[lt]]end lc=true end end else if lq==181 then if not b6.Vu then b6.Vu=true if(b6.VC or 0)<1 then local Vb=lt+11 if Vb<=#l5 then l5[Vb]=246 end end end lc=true end end end else if lq<=204 then if lq<=196 then if lq<=189 then if lq==189 then if(HC[lt]or 0)==0 then Hp=((lt*53)+41)%(161+95)Hg=((lt*38)+67)%(161+95)Hj[lt]=b7((Hb[lt]or 0),Hp)Hf[lt]=b7((Hn[lt]or 0),Hg)HC[lt]=1 end Ho=Hj[lt]+(Hf[lt]*(161+95))HJ={}Hp=b0[nJ[43415]][Ho]if Hp then for Hg=1,#Hp do HZ=Hp[Hg]HJ[HZ]=false end end if false then HJ[0]=nil end lr[l2[lt]]=HJ lc=true end else if lq==196 then HD=((((lt+35132)%251)+(l2[lt]*17)+(Hb[lt]*31)+(Hn[lt]*47))%3)Hp=(3-3)if Hp>0 then Hp=Hp-1 end if HD==0 then lr[l2[lt]]=lr[Hb[lt]][lr[Hn[lt]]]elseif HD==1 then Ho=lr[Hb[lt]]lr[l2[lt]]=Ho[lr[Hn[lt]]]else Ho=lr[Hb[lt]]HJ=lr[Hn[lt]]lr[l2[lt]]=Ho[HJ]end HD=nil lc=true end end else if lq==204 then Ho=lr[l2[lt]]HJ=lr[Hj[lt]]Hg=HV HW=not(Ho==HJ)if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end end else if lq<=228 then if lq==228 then Ho=lr[l2[lt]]HJ=lr[Hj[lt]]Hg=HV HW=Ho==HJ if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end else if lq==247 then local Vf,Vu,VC,VK,Vz,Vm,VG,Vh,VS,Vr,VE,Vt,Vq,Vx Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]HD=((lt*97)+219)%(95+71+90)HI=((lt*222)+197)%(95+71+90)Hp=b7(Hj[lt],HD)+(b7(Hf[lt],HI)*(95+71+90))do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+255+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Hp/(95+71+90))%(95+71+90)),((Vc*73+lt*17+15)%(95+71+90)))Vc=b7((Hp%(95+71+90)),Vc)Hp=Vc+(Vv*(95+71+90))end end lr[Ho+1]=lr[HJ]Hg=lr[Ho+1]He=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Hp+1],hv)and tM or nil)Vf=Hg and Hg[He]or nil if Vf==nil and Hg~=nil then Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J((236-216),hv)and tM or nil)]VK=nC(VC)if VK==nx then Vf=VC(Hg,He)elseif VK==nq then Vf=VC[He]end end if Vf==nil and nC(Hg)==nt then Vf=bD and bD[He]or nil end if Vf==nil and Hg~=nil and nC(Hg)~=nq then Vu=Vu or b0[nJ[57340]](Hg)VC=Vu and Vu[(J((46*6+2),hv)and tM or nil)]if nC(VC)==nx then Vf=VC end end if HZ==0 then VE=b0[nJ[60561]]Vz=nC(Vf)if Vz==nx then Vt=VE(nil,Vf(Hg))else Vu=b0[nJ[57340]](Vf)Vm=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if Vm then Vt=VE(nil,Vm(Vf,Hg))else b0[nJ[20565]]()end end Vq=Vt.n or#Vt for Vx=1,Vq do lr[Ho+Vx-1]=Vt[Vx]end lM=Ho+Vq else Vz=nC(Vf)if Vz==nx then if HZ==1 then Vf(Hg)elseif HZ==2 then VG=Vf(Hg)elseif HZ==3 then VG,Vh=Vf(Hg)else VG,Vh,VS=Vf(Hg)end else Vu=b0[nJ[57340]](Vf)Vm=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if Vm then if HZ==1 then Vm(Vf,Hg)elseif HZ==2 then VG=Vm(Vf,Hg)elseif HZ==3 then VG,Vh=Vm(Vf,Hg)else VG,Vh,VS=Vm(Vf,Hg)end else b0[nJ[20565]]()end end if HZ==2 then lr[Ho]=VG lM=Ho+1 elseif HZ==3 then lr[Ho]=VG;lr[Ho+1]=Vh lM=Ho+2 elseif HZ==4 then lr[Ho]=VG;lr[Ho+1]=Vh;lr[Ho+2]=VS lM=Ho+3 else lM=Ho end end nj=lM nf=true Vr=HP[HH[lt]+8]if Vr then lt=Vr else lt=lt+1 end lv=true lc=true end end end end end elseif l0==3 then if lq<=114 then if lq<=68 then if lq<=42 then if lq<=4 then if lq<=1 then if lq==1 then local Vf,Vu,VC,VK,Vz,Vm,Vh,VS,Vr,VE,Vt,Vq,VG,Vx,Vi Vx=b0[nJ[60561]]Ho=l2[lt]HJ=Hb[lt]Vi=Hn[lt]HZ=(Vi%16)-1 Hp=b0[nJ[11966]](Vi/16)-1 VM=((lt*51)+37)%(124+132)VR=((lt*29)+159)%(124+132)HD=b7(Hj[lt],VM)+(b7(Hf[lt],VR)*(124+132))Hg=b7(Hu[lt],VM)+(b7(HC[lt],VR)*(124+132))do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+13+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Hg/(124+132))%(124+132)),((Vc*73+lt*17+125)%(124+132)))Vc=b7((Hg%(124+132)),Vc)Hg=Vc+(Vv*(124+132))end end do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+13+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](HD/(124+132))%(124+132)),((Vc*73+lt*17+125)%(124+132)))Vc=b7((HD%(124+132)),Vc)HD=Vc+(Vv*(124+132))end end local HI=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[HD+1],hv)and tM or nil)HW=b0[nJ[8717]][HI]lr[HJ]=HW local He=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Hg+1],hv)and tM or nil)lr[Ho]=lr[HJ][He]HW=lr[Ho]Vf={}Vu=0 if HZ==-1 then VC=lM or 0 VK=false if VC<=(Ho+1)and nf and(nj~=nil and nj>(Ho+1))then VC=nj VK=true end if VC>Ho+1 then Vu=VC-(Ho+1)for VG=1,Vu do Vf[VG]=lr[Ho+VG]end end if VK then nf=false end else for VG=1,HZ do Vf[VG]=lr[Ho+VG]end Vu=HZ end Vz=nC(HW)Vm=nil if Vz==nx then Vm=Vx(((Hp>=0)and Hp or nil),HW(b1(Vf,1,Vu)))else Vh=b0[nJ[57340]](HW)VS=Vh and Vh[(J(((264+250-235)),hv)and tM or nil)]if VS then Vr={HW}for VG=1,Vu do Vr[#Vr+1]=Vf[VG]end Vm=Vx(((Hp>=0)and Hp or nil),VS(b1(Vr,1,#Vr)))else b0[nJ[20565]]()end end if Hp==-1 then VE=Vm[nM]or#Vm for VG=1,VE do Vt=Ho+VG-1 lr[Vt]=Vm[VG]end if VE>0 then lr[Ho+VE]=nil lM=Ho+VE else lM=Ho end nj=lM nf=true else for VG=1,Hp do local Vt=Ho+VG-1 lr[Vt]=Vm[VG]end lM=Ho+Hp nj=lM nf=true end Vq=HP[HH[lt]+8]if Vq then lt=Vq else lt=lt+1 end lv=true lc=true end else if lq==4 then lc=true Ho=l2[lt]or 0 HJ=Hn[lt]or 0 if(Ho+HJ)>=0 then P9=b0[nJ[49134]]if P9 and b0[nJ[ng[43113]]]then Vb=b0[nJ[ng[44922]]](b0[nJ[ng[21204]]],(J(((442-77-64)),hv)and tM or nil))if Vb~=P9 then do local Ho=b0[nJ[ng[25044]]];local HJ=b0[nJ[ng[54001]]];local HZ=b0[nJ[ng[48151]]];local Hp=b0[nJ[ng[43822]]];HZ(Ho,b0[nJ[ng[23452]]],b0[nJ[ng[24832]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[37282]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[41645]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[41645]]],He+HW)end end end end end lt=lt+1 lv=true lc=true end end else if lq<=8 then if lq==8 then lt=HB[lt]lv=true lc=true end else if lq==42 then Ho=(l2[lt]or 0)HJ=(Hb[lt]or 0)+((Hn[lt]or 0)*256)+((Hj[lt]or 0)*65536)+((Hf[lt]or 0)*16777216)HZ=0 while HJ~=0 do if(HJ%2)~=0 then lr[(Ho+HZ)]=nil end HJ=b0[nJ[11966]](HJ/2)HZ=HZ+1 end lc=true end end end else if lq<=62 then if lq<=46 then if lq==46 then Ho=lr[l2[lt]]HJ=lr[Hj[lt]]Hg=HV HW=not(Ho<HJ)if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end else if lq==62 then Ho=Hn[lt]+(Hj[lt]*(2*128))HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HD=lr[Hb[lt]]if HD then lr[l2[lt]]=HD[HJ]else lr[l2[lt]]=nil end HW=not(lr[l2[lt]])if HW then lt=HB[lt]else lt=lt+1 end lv=true Ho=nil HJ=nil HD=nil lc=true end end else if lq==68 then HD=((4140+(lt*5)+(Hn[lt]*43)+(Hb[lt]*29)+(l2[lt]*17))%3)if(HC[lt]or 0)==0 then He=((lt*69)+12)%((11*13)+113)HW=((lt*218)+30)%((11*13)+113)Hj[lt]=b7(Hb[lt],He)Hf[lt]=b7(Hn[lt],HW)Hg=(Hu[lt]or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+208+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hg)Hf[lt]=b7(Hf[lt],((Hg*73+lt*17+222)%((11*13)+113)))end HC[lt]=1 end if HD==1 then Ho=(Hf[lt]*((11*13)+113))+Hj[lt]else Ho=Hj[lt]+(Hf[lt]*((11*13)+113))end He=(1+30)-30 HW=((Ho*131)+30)%257 if HW==257 then HW=0 end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+He],hv)and tM or nil)if HD==0 then lr[l2[lt]]=b0[nJ[8717]][HJ]elseif HD==1 then HZ=b0[nJ[8717]][HJ]lr[l2[lt]]=HZ else Hp=b0[nJ[8717]]HZ=Hp[HJ]lr[l2[lt]]=HZ end HJ=nil HZ=nil Hp=nil HD=nil He=nil HW=nil Hg=nil lc=true end end end else if lq<=94 then if lq<=80 then if lq<=70 then if lq==70 then local Vf,Vu,VC,VK,Vz,Vm,Vh,VS,Vr,VE,Vt,Vq,VG,Vx Vx=b0[nJ[60561]]Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]-1 Hp=Hj[lt]-1 HD=((lt*3)+26)%((5*17)+171)HI=((lt*229)+92)%((5*17)+171)Hg=b7(Hf[lt],HD)+(b7(Hu[lt],HI)*((5*17)+171))do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+138+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Hg/((5*17)+171))%((5*17)+171)),((Vc*73+lt*17+88)%((5*17)+171)))Vc=b7((Hg%((5*17)+171)),Vc)Hg=Vc+(Vv*((5*17)+171))end end local He=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Hg+1],hv)and tM or nil)lr[Ho]=lr[HJ][He]HW=lr[Ho]Vf={}Vu=0 if HZ==-1 then VC=lM or 0 VK=false if VC<=(Ho+1)and nf and(nj~=nil and nj>(Ho+1))then VC=nj VK=true end if VC>Ho+1 then Vu=VC-(Ho+1)for VG=1,Vu do Vf[VG]=lr[Ho+VG]end end if VK then nf=false end else for VG=1,HZ do Vf[VG]=lr[Ho+VG]end Vu=HZ end Vz=nC(HW)Vm=nil if Vz==nx then Vm=Vx(((Hp>=0)and Hp or nil),HW(b1(Vf,1,Vu)))else Vh=b0[nJ[57340]](HW)VS=Vh and Vh[(J(((264+250-235)),hv)and tM or nil)]if VS then Vr={HW}for VG=1,Vu do Vr[#Vr+1]=Vf[VG]end Vm=Vx(((Hp>=0)and Hp or nil),VS(b1(Vr,1,#Vr)))else b0[nJ[20565]]()end end if Hp==-1 then VE=Vm[nM]or#Vm for VG=1,VE do Vt=Ho+VG-1 lr[Vt]=Vm[VG]end if VE>0 then lr[Ho+VE]=nil lM=Ho+VE else lM=Ho end nj=lM nf=true else for VG=1,Hp do local Vt=Ho+VG-1 lr[Vt]=Vm[VG]end lM=Ho+Hp nj=lM nf=true end Vq=HP[HH[lt]+8]if Vq then lt=Vq else lt=lt+1 end lv=true lc=true end else if lq==80 then HJ=lr[Hj[lt]]Ho=lr[l2[lt]]HD=not(Ho<HJ)Hg=HV HW=HD if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end end else if lq==94 then Ho=lr[l2[lt]]HW=Ho~=nil and Ho if HW then lt=HB[lt]else lt=lt+1 end lv=true lc=true end end else if lq<=106 then if lq<=98 then if lq==98 then HI=((lt+(l2[lt]*19)+(Hj[lt]*37)+(Hf[lt]*53)+35682)%3)VM=((lt*231)+190)%((3*17)+205)VR=((lt*43)+160)%((3*17)+205)Ho=b7(Hb[lt],VM)+(b7(Hn[lt],VR)*((3*17)+205))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+62+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%((3*17)+205)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/((3*17)+205))%((3*17)+205)),((Vv*73+lt*17+108)%((3*17)+205)))Ho=lE+(Vc*((3*17)+205))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ=lr[l2[lt]]Hp=Hf[lt]Hg=lS[Hp+1]HW=nC(Hg)if HW==nq and Hg[7747]then if Hg[3253]then He=Hg[7963]else HD=Hg.P9 Hp=Hg[3902]if HD and Hp~=nil then He=HD[Hp]else He=Hg[4171][Hg[3902]]end end else He=Hg end if nm and nC(He)==nE and b0[nJ[11966]](He)==He then He=b0[nJ[11966]](He)end lr[Hj[lt]]=He if HI==0 then if HZ then HZ[HJ]=He end elseif HI==1 then HD=He if HZ then HZ[HJ]=HD end else if HZ then HZ[HJ]=He end if false then HZ[HJ]=He end end HJ=nil HZ=nil Hp=nil Hg=nil He=nil HW=nil HD=nil HI=nil lc=true end else if lq==106 then Ho=l2[lt]HJ=Hb[lt]if false then HJ=HJ end HZ=lS[HJ+1]Hp=nC(HZ)if Hp==nq and HZ[7747]then if HZ[3253]then Hp=HZ[7963]else HW=HZ[2]if HW~=nil then HD=HZ[1]if HD then Hp=HD[HW]else Hp=nil end else Hp=HZ[1]end end else Hp=HZ end if nm and nC(Hp)==nE and b0[nJ[11966]](Hp)==Hp then Hp=b0[nJ[11966]](Hp)end lr[Ho]=Hp lc=true end end else if lq==114 then lc=true Hp=l2[lt]or 0 Hg=Hb[lt]or 0 if(Hp+Hg)>=0 then Ho=b0[nJ[ng[50845]]]HJ=b0[nJ[5989]]if HJ and Ho then HZ=b0[nJ[ng[35780]]](Ho,(J(((170+129-27)),hv)and tM or nil))if HZ~=HJ then do local Ho=b0[nJ[ng[57728]]];local HJ=b0[nJ[ng[27968]]];local HZ=b0[nJ[ng[33736]]];local Hp=b0[nJ[ng[33720]]];HZ(Ho,b0[nJ[ng[20094]]],b0[nJ[ng[26365]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[48461]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[56289]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[56289]]],He+HW)end end end end HJ=b0[nJ[ng[46496]]]if HJ and Ho then HZ=b0[nJ[ng[43665]]](Ho,(J(((307+273-237)),hv)and tM or nil))if HZ~=HJ then do local Ho=b0[nJ[ng[34809]]];local HJ=b0[nJ[ng[36874]]];local HZ=b0[nJ[ng[37249]]];local Hp=b0[nJ[ng[45629]]];HZ(Ho,b0[nJ[ng[22462]]],b0[nJ[ng[48008]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[35798]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[26900]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[26900]]],He+HW)end end end end HJ=b0[nJ[ng[56661]]]if HJ and Ho then HZ=b0[nJ[ng[37824]]](Ho,(J(((409-15-21)),hv)and tM or nil))if HZ~=HJ then do local Ho=b0[nJ[ng[33643]]];local HJ=b0[nJ[ng[49332]]];local HZ=b0[nJ[ng[57492]]];local Hp=b0[nJ[ng[21803]]];HZ(Ho,b0[nJ[ng[28864]]],b0[nJ[ng[43231]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[27094]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[48065]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[48065]]],He+HW)end end end end HJ=b0[nJ[ng[32401]]]if HJ then HZ=HJ()if HZ~=nil then do local Ho=b0[nJ[ng[36961]]];local HJ=b0[nJ[ng[34699]]];local HZ=b0[nJ[ng[36767]]];local Hp=b0[nJ[ng[29415]]];HZ(Ho,b0[nJ[ng[28605]]],b0[nJ[ng[43730]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[50178]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[37026]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[37026]]],He+HW)end end;b0[nJ[ng[27169]]](lt+1)end end end lt=lt+1 lv=true lc=true end end end end else if lq<=160 then if lq<=141 then if lq<=126 then if lq<=118 then if lq==118 then HW=lr[l2[lt]]if HW then lt=HB[lt]else lt=lt+1 end lv=true lc=true end else if lq==126 then Ho=l2[lt]Hg=lr[Ho+1]He=lr[Ho+2]HZ=Hj[lt]Vf=Hu[lt]or 0 if Vf~=0 then Hp=lr[Ho]if Vf==2 and Hp==b0[nJ[18516]]and nC(Hg)==nq then Vu,VC=b0[nJ[18516]](Hg,He)else Vu,VC=Hp(Hg,He)end if Vu~=nil then lr[Ho+2]=Vu if HZ>=1 then lr[Ho+3]=Vu end if HZ>=2 then lr[Ho+4]=VC end for Vb=3,HZ do lr[Ho+2+Vb]=nil end Hp=HH[lt]HJ=Hb[lt]+(Hn[lt]*(196+60))local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a Hp=Hp+8+HJ local rb=HP[Hp]if rb then lt=rb else lt=lt+1 end else lt=lt+1 end lv=true else VK=3 if Hf[lt]~=0 then VK=Hf[lt]elseif xn and xn[(J((287+13),hv)and tM or nil)]~=nil then VK=xn[(J((287+13),hv)and tM or nil)]end Hp=lr[Ho]rj=Hp Vn=Hg Vj=He HW={rj(Vn,Vj)}He=VK HD=1 if nC(HW[1])==ni then if HW[1]==false then HD=nil else HD=2 end end if HD then if He<3 then He=3 end Hp=Ho+He for Vb=1,HZ do lr[Hp+(Vb-1)]=HW[HD+(Vb-1)]end Hg=HW[HD]if Hg~=nil then lr[Ho+2]=Hg Hp=HH[lt]rj=Hb[lt]Vn=Hn[lt]if rj==nil then rj=0 end if Vn==nil then Vn=0 end Vj=((5*18)+166)HJ=rj+(Vn*Vj)local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a Hp=Hp+8+HJ local rb=HP[Hp]if rb then lt=rb else lt=lt+1 end else lt=lt+1 end end end lv=true lc=true end end else if lq==141 then HD=((43741+(lt*5)+(Hn[lt]*43)+(Hb[lt]*29)+(l2[lt]*17))%3)if(HC[lt]or 0)==0 then He=((lt*69)+12)%((11*13)+113)HW=((lt*218)+30)%((11*13)+113)Hj[lt]=b7(Hb[lt],He)Hf[lt]=b7(Hn[lt],HW)Hg=(Hu[lt]or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+208+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hg)Hf[lt]=b7(Hf[lt],((Hg*73+lt*17+222)%((11*13)+113)))end HC[lt]=1 end if HD==1 then Ho=(Hf[lt]*((11*13)+113))+Hj[lt]else Ho=Hj[lt]+(Hf[lt]*((11*13)+113))end He=(1+30)-30 HW=((Ho*131)+30)%257 if HW==257 then HW=0 end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+He],hv)and tM or nil)if HD==0 then lr[l2[lt]]=b0[nJ[8717]][HJ]elseif HD==1 then HZ=b0[nJ[8717]][HJ]lr[l2[lt]]=HZ else Hp=b0[nJ[8717]]HZ=Hp[HJ]lr[l2[lt]]=HZ end HJ=nil HZ=nil Hp=nil HD=nil He=nil HW=nil Hg=nil lc=true end end else if lq<=159 then if lq<=152 then if lq==152 then local zj=b1 Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]local Ou=lM or 0 local lE=b0[nJ[14846]]local Vc=lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])if Vc then local Vv=5+((l2[lt]or 0)+(Hb[lt]or 0)+(Hn[lt]or 0))%46 local VN=lt+Vv local VQ=#l5 if VQ and VQ>0 and VN>VQ then VN=VQ-(Vv%3)end l5[VN]=122 b0[nJ[6286]]=nil end Hp=lr[Ho]if HJ==0 then He=lM-Ho-1 else He=HJ-1 end if HZ==0 then local Vb=b0[nJ[60561]]Hg=Vb(nil,Hp(zj(lr,Ho+1,Ho+He)))HD=Hg.n or#Hg for P9=1,HD do lr[Ho+P9-1]=Hg[P9]end lM=Ho+HD else HW=HZ-1 if He==0 then if HW==0 then Hp()if Vc then lr[Ho]=nil end elseif HW==1 then lr[Ho]=Hp()elseif HW==2 then local OC,OK=Hp()lr[Ho]=OC lr[Ho+1]=OK elseif HW==3 then local OC,OK,Oz=Hp()lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz else local Vb=b0[nJ[60561]]Hg=Vb(HW,Hp())for P9=1,HW do lr[Ho+P9-1]=Hg[P9]end end else local OE=lr[Ho+1]local Ot=lr[Ho+2]local Oq=lr[Ho+3]if HW==0 then if He==0 then Hp()elseif He==1 then Hp(OE)elseif He==2 then Hp(OE,Ot)elseif He==3 then Hp(OE,Ot,Oq)else Hp(zj(lr,Ho+1,Ho+He))end if Vc then lr[Ho]=nil end elseif HW==1 then local OC if He==0 then OC=Hp()elseif He==1 then OC=Hp(OE)elseif He==2 then OC=Hp(OE,Ot)elseif He==3 then OC=Hp(OE,Ot,Oq)else OC=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC elseif HW==2 then local OC,OK if He==0 then OC,OK=Hp()elseif He==1 then OC,OK=Hp(OE)elseif He==2 then OC,OK=Hp(OE,Ot)elseif He==3 then OC,OK=Hp(OE,Ot,Oq)else OC,OK=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK elseif HW==3 then local OC,OK,Oz if He==0 then OC,OK,Oz=Hp()elseif He==1 then OC,OK,Oz=Hp(OE)elseif He==2 then OC,OK,Oz=Hp(OE,Ot)elseif He==3 then OC,OK,Oz=Hp(OE,Ot,Oq)else OC,OK,Oz=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz elseif HW==4 then local OC,OK,Oz,Om if He==0 then OC,OK,Oz,Om=Hp()elseif He==1 then OC,OK,Oz,Om=Hp(OE)elseif He==2 then OC,OK,Oz,Om=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om=Hp(OE,Ot,Oq)else OC,OK,Oz,Om=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om elseif HW==5 then local OC,OK,Oz,Om,OG if He==0 then OC,OK,Oz,Om,OG=Hp()elseif He==1 then OC,OK,Oz,Om,OG=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG elseif HW==6 then local OC,OK,Oz,Om,OG,Oh if He==0 then OC,OK,Oz,Om,OG,Oh=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh elseif HW==7 then local OC,OK,Oz,Om,OG,Oh,OS if He==0 then OC,OK,Oz,Om,OG,Oh,OS=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh,OS=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh lr[Ho+6]=OS elseif HW==8 then local OC,OK,Oz,Om,OG,Oh,OS,Or if He==0 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh lr[Ho+6]=OS lr[Ho+7]=Or else local Vb=b0[nJ[60561]]Hg=Vb(HW,Hp(zj(lr,Ho+1,Ho+He)))for P9=1,HW do lr[Ho+P9-1]=Hg[P9]end end end end local Ox=lM or 0 if Ou>Ox then local Oi=Ou-1 local OM=Ox+31 if OM<Oi then Oi=OM end for OR=Ox,Oi do lr[OR]=nil end end Hg=nil Hp=nil lc=true end else if lq==159 then HD=((3947+(lt*5)+(Hn[lt]*47)+(Hb[lt]*31)+(l2[lt]*17))%3)Hp=(6-6)if Hp>0 then Hp=Hp-1 end if HD==0 then lr[l2[lt]]=lr[Hb[lt]][lr[Hn[lt]]]elseif HD==1 then Ho=lr[Hb[lt]]lr[l2[lt]]=Ho[lr[Hn[lt]]]else Ho=lr[Hb[lt]]HJ=lr[Hn[lt]]lr[l2[lt]]=Ho[HJ]end HD=nil lc=true end end else if lq==160 then HD=((32084+(lt*5)+(Hn[lt]*53)+(Hb[lt]*37)+(l2[lt]*19))%3)Ho=lr[Hb[lt]]Hg=(7-7)if Hg~=(1-1)then Ho=Ho end if HD==0 then if Ho then Ho[lr[Hn[lt]]]=lr[l2[lt]]end elseif HD==1 then HJ=lr[Hn[lt]]if Ho then Ho[HJ]=lr[l2[lt]]end else HJ=lr[Hn[lt]]HZ=lr[l2[lt]]if Ho then Ho[HJ]=HZ end end HD=nil lc=true end end end else if lq<=208 then if lq<=202 then if lq<=200 then if lq==200 then lt=lt+1 lc=true end else if lq==202 then Ho=l2[lt]if(HC[lt]or 0)==0 then Hg=((lt*130)+70)%(2*128)He=((lt*98)+104)%(2*128)Hj[lt]=b7((Hb[lt]or 0),Hg)Hf[lt]=b7((Hn[lt]or 0),He)HC[lt]=1 end HJ=Hj[lt]HZ=Hf[lt]Hp=HJ+(HZ*(2*128))lr[Ho]=A0[Hp]or 0 lc=true end end else if lq==208 then local Vf,Vu,VC,VK,Vz Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]Hp=Hj[lt]VM=((lt*93)+132)%((15*32)-224)VR=((lt*110)+86)%((15*32)-224)He=b7(Hf[lt],VM)+(b7(Hu[lt],VR)*((15*32)-224))do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+120+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](He/((15*32)-224))%((15*32)-224)),((Vc*73+lt*17+102)%((15*32)-224)))Vc=b7((He%((15*32)-224)),Vc)He=Vc+(Vv*((15*32)-224))end end HW=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[He+1],hv)and tM or nil)Hg=lr[Ho]VK=nil Vf=nC(Hg)if Vf==nx then if HJ==1 then VK=Hg()elseif HJ==2 then VK=Hg(lr[Ho+1])elseif HJ==3 then VK=Hg(lr[Ho+1],lr[Ho+2])elseif HJ==4 then VK=Hg(lr[Ho+1],lr[Ho+2],lr[Ho+3])elseif HJ==5 then VK=Hg(lr[Ho+1],lr[Ho+2],lr[Ho+3],lr[Ho+4])elseif HJ==6 then VK=Hg(lr[Ho+1],lr[Ho+2],lr[Ho+3],lr[Ho+4],lr[Ho+5])elseif HJ==7 then VK=Hg(lr[Ho+1],lr[Ho+2],lr[Ho+3],lr[Ho+4],lr[Ho+5],lr[Ho+6])elseif HJ==8 then VK=Hg(lr[Ho+1],lr[Ho+2],lr[Ho+3],lr[Ho+4],lr[Ho+5],lr[Ho+6],lr[Ho+7])else VK=Hg(lr[Ho+1],lr[Ho+2],lr[Ho+3],lr[Ho+4],lr[Ho+5],lr[Ho+6],lr[Ho+7],lr[Ho+8])end else Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then if HJ==1 then VK=VC(Hg)elseif HJ==2 then VK=VC(Hg,lr[Ho+1])elseif HJ==3 then VK=VC(Hg,lr[Ho+1],lr[Ho+2])elseif HJ==4 then VK=VC(Hg,lr[Ho+1],lr[Ho+2],lr[Ho+3])elseif HJ==5 then VK=VC(Hg,lr[Ho+1],lr[Ho+2],lr[Ho+3],lr[Ho+4])elseif HJ==6 then VK=VC(Hg,lr[Ho+1],lr[Ho+2],lr[Ho+3],lr[Ho+4],lr[Ho+5])elseif HJ==7 then VK=VC(Hg,lr[Ho+1],lr[Ho+2],lr[Ho+3],lr[Ho+4],lr[Ho+5],lr[Ho+6])elseif HJ==8 then VK=VC(Hg,lr[Ho+1],lr[Ho+2],lr[Ho+3],lr[Ho+4],lr[Ho+5],lr[Ho+6],lr[Ho+7])else VK=VC(Hg,lr[Ho+1],lr[Ho+2],lr[Ho+3],lr[Ho+4],lr[Ho+5],lr[Ho+6],lr[Ho+7],lr[Ho+8])end else b0[nJ[20565]]()end end if HZ==2 then lr[Ho]=VK lM=Ho+1 else lM=Ho end Vu=lr[Hp]if Vu then Vu[HW]=VK end nj=lM nf=true Vz=HP[HH[lt]+8]if Vz then lt=Vz else lt=lt+1 end lv=true lc=true end end else if lq<=242 then if lq<=215 then if lq==215 then HD=((lt+(l2[lt]*23)+(Hj[lt]*41)+((((hv)or 0)%97)*1)+61571)%3)Vl=Hb if type(Vl)~='table'then Vl=xn[6834]end if type(Vl)~='table'then Vl={}end VH=Hn if type(VH)~='table'then VH=xn[2879]end if type(VH)~='table'then VH={}end Hg=(Hf[lt]or 0)VP=Hf if type(VP)~='table'then VP=xn[6029]end if type(VP)~='table'then VP={}end VV=Hu if type(VV)~='table'then VV=xn[7410]end if type(VV)~='table'then VV={}end VO=HC if type(VO)~='table'then VO=xn[2024]end if type(VO)~='table'then VO={}end if(VO[lt]or 0)==0 then He=((lt*105)+160)%(58+111+87)HW=((lt*221)+210)%(58+111+87)VP[lt]=b7(Vl[lt],He)VV[lt]=b7(VH[lt],HW)Hg=(Hg or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+20+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)VP[lt]=b7(VP[lt],Hg)VV[lt]=b7(VV[lt],((Hg*73+lt*17+130)%(58+111+87)))end VO[lt]=1 end if HD==1 then Ho=(VV[lt]*(58+111+87))+VP[lt]else Ho=VP[lt]+(VV[lt]*(58+111+87))end VY=t7 if type(VY)~='table'then VY=b0[nJ[27072]]end if type(VY)~='table'then VY={}end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(VY[Ho+1],hv)and tM or nil)HZ=lr[l2[lt]]if HD==0 then if HZ then HZ[HJ]=lr[Hj[lt]]end elseif HD==1 then Hp=lr[Hj[lt]]if HZ then HZ[HJ]=Hp end else if HZ then Hp=HZ Hp[HJ]=lr[Hj[lt]]end end HJ=nil HZ=nil Hp=nil HD=nil VY=nil He=nil HW=nil VP=nil VV=nil VO=nil Hg=nil Vl=nil VH=nil lc=true end else if lq==242 then HD=((19382+(lt*5)+(Hn[lt]*53)+(Hb[lt]*37)+(l2[lt]*19))%3)Ho=lr[l2[lt]]if HD==0 then HJ=Hb[lt]+(3-2)if Ho then Ho[HJ]=lr[Hn[lt]]end elseif HD==1 then if Ho then Ho[Hb[lt]+(4-3)]=lr[Hn[lt]]end else HJ=Hb[lt]+(2-1)HZ=lr[Hn[lt]]if Ho then Ho[HJ]=HZ end end HD=nil lc=true end end else if lq==244 then local Vf,Vu,VC,VK,Vm,VG,Vz,Vh,VS,Vr,VE Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]Hp=Hj[lt]+(Hf[lt]*((13*27)-95))local _a=(Hp>=(128*256))and-(64*1024)or 0;Hp=Hp+_a lr[Ho+HJ-1]=Hp Hg=lr[Ho]VK,Vm,VG,VS,Vr=nil,nil,nil,nil,nil Vf=nC(Hg)if HZ==0 then Vh=b0[nJ[60561]]if Vf==nx then if HJ==4 then VS=Vh(nil,Hg(lr[Ho+1],lr[Ho+2],Hp))else He=lN for VE=1,#He do He[VE]=nil end HW=HJ-1 for VE=1,HW do He[VE]=lr[Ho+VE]end VS=Vh(nil,Hg(b1(He,1,HW)))end else Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then if HJ==4 then VS=Vh(nil,VC(Hg,lr[Ho+1],lr[Ho+2],Hp))else He=lN for VE=1,#He do He[VE]=nil end HW=HJ-1 for VE=1,HW do He[VE]=lr[Ho+VE]end VS=Vh(nil,VC(Hg,b1(He,1,HW)))end else b0[nJ[20565]]()end end Vr=VS.n or#VS for VE=1,Vr do lr[Ho+VE-1]=VS[VE]end lM=Ho+Vr else if Vf==nx then if HJ==4 then if HZ==1 then Hg(lr[Ho+1],lr[Ho+2],Hp)elseif HZ==2 then VK=Hg(lr[Ho+1],lr[Ho+2],Hp)elseif HZ==3 then VK,Vm=Hg(lr[Ho+1],lr[Ho+2],Hp)else VK,Vm,VG=Hg(lr[Ho+1],lr[Ho+2],Hp)end else He=lN for VE=1,#He do He[VE]=nil end HW=HJ-1 for VE=1,HW do He[VE]=lr[Ho+VE]end if HZ==1 then Hg(b1(He,1,HW))elseif HZ==2 then VK=Hg(b1(He,1,HW))elseif HZ==3 then VK,Vm=Hg(b1(He,1,HW))else VK,Vm,VG=Hg(b1(He,1,HW))end end else Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then if HJ==4 then if HZ==1 then VC(Hg,lr[Ho+1],lr[Ho+2],Hp)elseif HZ==2 then VK=VC(Hg,lr[Ho+1],lr[Ho+2],Hp)elseif HZ==3 then VK,Vm=VC(Hg,lr[Ho+1],lr[Ho+2],Hp)else VK,Vm,VG=VC(Hg,lr[Ho+1],lr[Ho+2],Hp)end else He=lN for VE=1,#He do He[VE]=nil end HW=HJ-1 for VE=1,HW do He[VE]=lr[Ho+VE]end if HZ==1 then VC(Hg,b1(He,1,HW))elseif HZ==2 then VK=VC(Hg,b1(He,1,HW))elseif HZ==3 then VK,Vm=VC(Hg,b1(He,1,HW))else VK,Vm,VG=VC(Hg,b1(He,1,HW))end end else b0[nJ[20565]]()end end if HZ==2 then lr[Ho]=VK lM=Ho+1 elseif HZ==3 then lr[Ho]=VK;lr[Ho+1]=Vm lM=Ho+2 elseif HZ==4 then lr[Ho]=VK;lr[Ho+1]=Vm;lr[Ho+2]=VG lM=Ho+3 else lM=Ho end end nj=lM nf=true Vz=HP[HH[lt]+8]if Vz then lt=Vz else lt=lt+1 end lv=true lc=true end end end end end elseif l0==4 then if lq<=151 then if lq<=83 then if lq<=57 then if lq<=33 then if lq<=9 then if lq==9 then Ho=lr[l2[lt]]HJ=lr[Hj[lt]]Hg=HV HW=not(Ho<HJ)if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end else if lq==33 then Ho=l2[lt]if l5[lt+1]==121 or l5[lt+1]==213 or l5[lt+1]==214 then if l2[lt+1]==nil then b0[nJ[64673]](xn,lt+1)end HJ=l2[lt+1]HZ=nil if Ho==40 then HZ=nC elseif Ho==12 then HZ=bp.floor elseif Ho==7 then HZ=bp.ceil elseif Ho==2 then HZ=bp.abs elseif Ho==25 then HZ=bp.sqrt elseif Ho==21 then HZ=bp.pow elseif Ho==24 then HZ=bp.sin elseif Ho==9 then HZ=bp.cos elseif Ho==27 then HZ=bp.tan elseif Ho==11 then HZ=bp.exp elseif Ho==10 then HZ=bp.deg elseif Ho==17 then HZ=bp.log elseif Ho==22 then HZ=bp.rad elseif Ho==19 then HZ=bp.min elseif Ho==18 then HZ=bp.max elseif Ho==45 then HZ=nu.insert elseif Ho==46 then HZ=b1 elseif Ho==42 then HZ=bD.byte elseif Ho==43 then HZ=bD.char elseif Ho==44 then HZ=bD.len elseif Ho==41 then HZ=b0[nJ[8717]].typeof elseif Ho==57 then HZ=b0[nJ[39435]]elseif Ho==60 then HZ=b0[nJ[50078]]elseif Ho==61 then HZ=b0[nJ[47718]]elseif Ho==62 then HZ=b0[nJ[8717]].rawequal elseif Ho==64 then HZ=b0[nJ[8717]].rawlen elseif Ho==3 then HZ=bp.asin elseif Ho==4 then HZ=bp.acos elseif Ho==5 then HZ=bp.atan2 elseif Ho==6 then HZ=bp.atan elseif Ho==13 then HZ=bp.fmod elseif Ho==14 then HZ=bp.ldexp elseif Ho==20 then HZ=bp.modf end if HZ then lr[HJ]=HZ end end lc=true end end else if lq<=54 then if lq==54 then lr[l2[lt]]=nil lr[l2[lt]]=nil lc=true end else if lq==57 then HW=lr[l2[lt]]if HW then lt=HB[lt]else lt=lt+1 end lv=true lc=true end end end else if lq<=69 then if lq<=65 then if lq==65 then Ho=l2[lt]HJ=Hb[lt]HZ=lS[HJ+1]HD=lr[Ho]if nm and nC(HD)==nE and b0[nJ[11966]](HD)==HD then HD=b0[nJ[11966]](HD)end Hp=nC(HZ)if Hp==nq and HZ[7747]then if HZ[3253]then HZ[7963]=HD HZ[1]=HD HZ[2]=nil else HW=HZ[2]if HW~=nil then Hg=HZ[1]if Hg then Hg[HW]=HD end else HZ[1]=HD HZ[7963]=HD HZ[3253]=true end end else if false then HD=HD end lS[HJ+1]=HD end lc=true end else if lq==69 then HD=((((lt+55335)%251)+(l2[lt]*19)+(Hb[lt]*31)+(Hn[lt]*47))%3)if(HC[lt]or 0)==0 then He=((lt*4)+133)%(128+128)HW=((lt*182)+255)%(128+128)Hj[lt]=b7(Hb[lt],He)Hf[lt]=b7(Hn[lt],HW)Hg=(Hu[lt]or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+237+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hg)Hf[lt]=b7(Hf[lt],((Hg*73+lt*17+93)%(128+128)))end HC[lt]=1 end if HD==1 then Ho=(Hf[lt]*(128+128))+Hj[lt]else Ho=Hj[lt]+(Hf[lt]*(128+128))end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)if HD==0 then b0[nJ[8717]][HJ]=lr[l2[lt]]elseif HD==1 then HZ=lr[l2[lt]]b0[nJ[8717]][HJ]=HZ else HZ=lr[l2[lt]]Hp=b0[nJ[8717]]Hp[HJ]=HZ end HJ=nil HZ=nil Hp=nil HD=nil He=nil HW=nil Hg=nil lc=true end end else if lq==83 then Ho=l2[lt]Hg=lr[Ho+1]He=lr[Ho+2]HZ=Hj[lt]Vf=Hu[lt]or 0 if Vf~=0 then Hp=lr[Ho]if Vf==2 and Hp==b0[nJ[18516]]and nC(Hg)==nq then Vu,VC=b0[nJ[18516]](Hg,He)else Vu,VC=Hp(Hg,He)end if Vu~=nil then lr[Ho+2]=Vu if HZ>=1 then lr[Ho+3]=Vu end if HZ>=2 then lr[Ho+4]=VC end for Vb=3,HZ do lr[Ho+2+Vb]=nil end Hp=HH[lt]HJ=Hb[lt]+(Hn[lt]*(196+60))local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a Hp=Hp+8+HJ local rb=HP[Hp]if rb then lt=rb else lt=lt+1 end else lt=lt+1 end lv=true else VK=3 if Hf[lt]~=0 then VK=Hf[lt]elseif xn and xn[(J((287+13),hv)and tM or nil)]~=nil then VK=xn[(J((287+13),hv)and tM or nil)]end Hp=lr[Ho]rj=Hp Vn=Hg HW={rj(Vn,He)}local HD=((nC(He)==nE and He or 0)*0)He=VK HD=1 if nC(HW[1])==ni then if HW[1]==false then HD=nil else HD=2 end end if HD then if He<3 then He=3 end Hp=Ho+He for Vb=1,HZ do lr[Hp+(Vb-1)]=HW[HD+(Vb-1)]end Hg=HW[HD]if Hg~=nil then lr[Ho+2]=Hg Hp=HH[lt]rj=Hb[lt]Vn=Hn[lt]if rj==nil then rj=0 end if Vn==nil then Vn=0 end Vj=(2*128)HJ=rj+(Vn*Vj)local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a Hp=Hp+8+HJ local rb=HP[Hp]if rb then lt=rb else lt=lt+1 end else lt=lt+1 end end end lv=true lc=true end end end else if lq<=119 then if lq<=99 then if lq<=92 then if lq==92 then Ho=(Hb[lt]or 0)+((Hn[lt]or 0)*(96+160))+((Hj[lt]or 0)*((64*512)+(64*512)))+(Hf[lt]*(((3*29)+169)*(77+65+114)*(187+69)))HJ=0 HZ=(b0[nJ[11966]](Ho/(16384*512)))%(2*128)Hp=(b0[nJ[11966]](Ho/((2097152*512)+(2097152*512))))%2 if HZ==((5*18)+166)then HJ=0 elseif HZ==0 then HJ=((Ho%(16384*512))*bp.pow(2,-149))*((Hp==1)and-1 or 1)else HJ=((Ho%(16384*512))+(16384*512))*bp.pow(2,(HZ-150))*((Hp==1)and-1 or 1)end lr[l2[lt]]=HJ lc=true end else if lq==99 then HD=((lt+(l2[lt]*23)+(Hb[lt]*41)+(Hn[lt]*59)+16233)%3)VM=((lt*189)+111)%(90+43+123)VR=((lt*60)+121)%(90+43+123)Ho=b7(Hj[lt],VM)+(b7(Hf[lt],VR)*(90+43+123))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+67+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%(90+43+123)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/(90+43+123))%(90+43+123)),((Vv*73+lt*17+243)%(90+43+123)))Ho=lE+(Vc*(90+43+123))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)lr[l2[lt]]=HJ HZ=lr[Hb[lt]]if HD==0 then Hp=lr[Hn[lt]]if HZ then HZ[Hp]=HJ end elseif HD==1 then Hp=lr[Hn[lt]]Hg=HJ if HZ then HZ[Hp]=Hg end else Hg=lr[Hn[lt]]if HZ then HZ[Hg]=HJ end end HJ=nil HZ=nil Hp=nil Hg=nil HD=nil lc=true end end else if lq==119 then lc=true Ho=(l2[lt]or 0)He=(Hb[lt]or 0)if He~=0 then He=He-He end if not b6.Hg then b6.Hg=true HJ=1 Hp=b0[nJ[ng[46496]]]if Hp then HJ=(function()return Hp(1,(J(((233+336-247)),hv)and tM or nil))end)()or 1 end if HJ<=1 then HI=b0[nJ[ng[38831]]]if HI and b0[nJ[ng[47419]]]then HW,HD=b0[nJ[ng[35449]]](function()local _=nil;_()end);HJ=HI(b0[nJ[ng[57801]]](HD),b0[nJ[ng[36278]]][(J(((232+111-332)),hv)and tM or nil)])or HJ end end HJ=HJ+He if HJ<=0 or HJ>49157 then HJ=0 end HZ=Ho Hp=(b0[nJ[ng[58927]]][90]or 0)if Hp>0 then HZ=HZ+Hp+He end if HZ<=0 or HZ>49157 then HZ=0 end if HJ>0 and HZ>0 and HJ>HZ then b0[nJ[ng[28584]]](b6,b0[nJ[ng[40725]]],b0[nJ[ng[25518]]])l5[lt+1]=240 end end lc=true end end else if lq<=145 then if lq<=120 then if lq==120 then Ho=lr[Hb[lt]]HJ=lr[Hn[lt]]lr[l2[lt]]=Ho+HJ if nm and nC(lr[l2[lt]])==nE and b0[nJ[11966]](lr[l2[lt]])==lr[l2[lt]]then lr[l2[lt]]=b0[nJ[11966]](lr[l2[lt]])end lc=true end else if lq==145 then Ho=l2[lt]HJ=Hb[lt]HZ=li[nM]if HZ==nil then HZ=li['n']end if HZ==nil then HZ=0 end Hp=0 if HJ==0 then for P9=1,HZ do lr[Ho+P9-1]=li[P9]end Hp=HZ else for P9=1,HJ-1 do lr[Ho+P9-1]=li[P9]end Hp=HJ-1 end lr[Ho+Hp]=nil lM=Ho+Hp nj=lM nf=true lc=true end end else if lq==151 then lc=true He=0 if He>0 then He=He-1 end Ho=l2[lt]HJ=Hn[lt]HZ=xn.Vy Hp=xn.VU if HZ and Hp then He=HZ[1]if He~=Hp then do local Ho=b0[nJ[ng[43343]]];local HJ=b0[nJ[ng[40532]]];local HZ=b0[nJ[ng[26528]]];local Hp=b0[nJ[ng[20700]]];HZ(Ho,b0[nJ[ng[20539]]],b0[nJ[ng[52380]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[25307]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[29373]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[29373]]],He+HW)end end Hg=b0[nJ[ng[39431]]]Hg(lt,l2,Hb,Hn,l5,xn,nil)end end lt=lt+1 lv=true lc=true end end end end else if lq<=195 then if lq<=184 then if lq<=173 then if lq<=153 then if lq==153 then Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]local lE=b0[nJ[14846]]local Vc=lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])if Vc then local Vv=5+((l2[lt]or 0)+(Hb[lt]or 0)+(Hn[lt]or 0))%46 local VN=lt+Vv local VQ=#l5 if VQ and VQ>0 and VN>VQ then VN=VQ-(Vv%3)end l5[VN]=122 b0[nJ[6286]]=nil end Hp=lr[HJ]local Hg=lr[HZ]lr[Ho]=Hp(Hg)Hp=nil lc=true end else if lq==173 then local Vf,Vu,VC,VK,Vm,VG,Vz,Vh,VS,Vr,VE Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]+(Hj[lt]*(103+39+114))local _a=(HZ>=(128*256))and-(64*1024)or 0;HZ=HZ+_a Hp=Hf[lt]+(Hu[lt]*(103+39+114))local _a=(Hp>=(128*256))and-(64*1024)or 0;Hp=Hp+_a lr[Ho+1]=HZ lr[Ho+2]=Hp Hg=HZ He=Hp HW=lr[Ho]VK,Vm,VG,VS,Vr=nil,nil,nil,nil,nil Vf=nC(HW)if HJ==0 then Vh=b0[nJ[60561]]if Vf==nx then VS=Vh(nil,HW(Hg,He))else Vu=b0[nJ[57340]](HW)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then VS=Vh(nil,VC(HW,Hg,He))else b0[nJ[20565]]()end end Vr=VS.n or#VS for VE=1,Vr do lr[Ho+VE-1]=VS[VE]end lM=Ho+Vr else if Vf==nx then if HJ==1 then HW(Hg,He)elseif HJ==2 then VK=HW(Hg,He)elseif HJ==3 then VK,Vm=HW(Hg,He)else VK,Vm,VG=HW(Hg,He)end else Vu=b0[nJ[57340]](HW)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then if HJ==1 then VC(HW,Hg,He)elseif HJ==2 then VK=VC(HW,Hg,He)elseif HJ==3 then VK,Vm=VC(HW,Hg,He)else VK,Vm,VG=VC(HW,Hg,He)end else b0[nJ[20565]]()end end if HJ==2 then lr[Ho]=VK lM=Ho+1 elseif HJ==3 then lr[Ho]=VK;lr[Ho+1]=Vm lM=Ho+2 elseif HJ==4 then lr[Ho]=VK;lr[Ho+1]=Vm;lr[Ho+2]=VG lM=Ho+3 else lM=Ho end end nj=lM nf=true Vz=HP[HH[lt]+8]if Vz then lt=Vz else lt=lt+1 end lv=true lc=true end end else if lq<=175 then if lq==175 then Ho=l2[lt]HJ=Hb[lt]HW=(Hf[lt]or 0)if(HC[lt]or 0)==0 then HD=((lt*74)+110)%(153+103)HI=((lt*116)+208)%(153+103)Hf[lt]=b7(Hn[lt],HD)Hu[lt]=b7(Hj[lt],HI)if HW~=0 then HW=(((HW+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+142+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hf[lt]=b7(Hf[lt],HW)Hu[lt]=b7(Hu[lt],((HW*73+lt*17+220)%(153+103)))end HC[lt]=1 end HZ=Hf[lt]+(Hu[lt]*(153+103))Hp=lr[HJ]Hg=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[HZ+1],hv)and tM or nil)if false then Hg=Hg end HW=Hp He=HW and HW[Hg]or nil if He==nil and HW~=nil then HD=b0[nJ[57340]](HW)HD=HD and HD[(J((236-216),hv)and tM or nil)]HZ=nC(HD)if HZ==nx then He=HD(HW,Hg)elseif HZ==nq then He=HD[Hg]end end if false then He=He end if He==nil and nC(Hp)==nt then He=bD and bD[Hg]or nil end if He==nil and Hp~=nil and nC(Hp)~=nq then HW=b0[nJ[57340]](Hp)HW=HW and HW[(J((46*6+2),hv)and tM or nil)]if nC(HW)==nx then He=HW end end lr[Ho]=He lr[Ho+1]=Hp lc=true end else if lq==184 then Ho=Hb[lt]+(Hn[lt]*((9*7)+193))local _a=(Ho>=(128*256))and-(64*1024)or 0;Ho=Ho+_a lr[l2[lt]]=Ho lc=true end end end else if lq<=194 then if lq<=193 then if lq==193 then Ho=lr[Hb[lt]]HJ=lr[Hn[lt]]lr[l2[lt]]=Ho-HJ if nm and nC(lr[l2[lt]])==nE and b0[nJ[11966]](lr[l2[lt]])==lr[l2[lt]]then lr[l2[lt]]=b0[nJ[11966]](lr[l2[lt]])end lc=true end else if lq==194 then lr[l2[lt]]=-lr[Hb[lt]]lc=true end end else if lq==195 then Ho=l2[lt]HJ=Hn[lt]+(Hj[lt]*(2*128))local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a HZ=lr[Hb[lt]]if Hf[lt]~=0 then lr[Ho]=HJ*HZ else lr[Ho]=HZ*HJ end if nm and nC(lr[Ho])==nE and b0[nJ[11966]](lr[Ho])==lr[Ho]then lr[Ho]=b0[nJ[11966]](lr[Ho])end Hp=HP[HH[lt]+8]if Hp then lt=Hp else lt=lt+1 end lv=true lc=true end end end else if lq<=233 then if lq<=229 then if lq<=212 then if lq==212 then local zj=b1 Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]local Ou=lM or 0 local lE=b0[nJ[14846]]local Vc=lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])if Vc then local Vv=5+((l2[lt]or 0)+(Hb[lt]or 0)+(Hn[lt]or 0))%46 local VN=lt+Vv local VQ=#l5 if VQ and VQ>0 and VN>VQ then VN=VQ-(Vv%3)end l5[VN]=122 b0[nJ[6286]]=nil end Hp=lr[Ho]if HJ==0 then He=lM-Ho-1 else He=HJ-1 end if HZ==0 then local Vb=b0[nJ[60561]]Hg=Vb(nil,Hp(zj(lr,Ho+1,Ho+He)))HD=Hg.n or#Hg for P9=1,HD do lr[Ho+P9-1]=Hg[P9]end lM=Ho+HD else HW=HZ-1 if He==0 then if HW==0 then Hp()if Vc then lr[Ho]=nil end elseif HW==1 then lr[Ho]=Hp()elseif HW==2 then local OC,OK=Hp()lr[Ho]=OC lr[Ho+1]=OK elseif HW==3 then local OC,OK,Oz=Hp()lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz else local Vb=b0[nJ[60561]]Hg=Vb(HW,Hp())for P9=1,HW do lr[Ho+P9-1]=Hg[P9]end end else local OE=lr[Ho+1]local Ot=lr[Ho+2]local Oq=lr[Ho+3]if HW==0 then if He==0 then Hp()elseif He==1 then Hp(OE)elseif He==2 then Hp(OE,Ot)elseif He==3 then Hp(OE,Ot,Oq)else Hp(zj(lr,Ho+1,Ho+He))end if Vc then lr[Ho]=nil end elseif HW==1 then local OC if He==0 then OC=Hp()elseif He==1 then OC=Hp(OE)elseif He==2 then OC=Hp(OE,Ot)elseif He==3 then OC=Hp(OE,Ot,Oq)else OC=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC elseif HW==2 then local OC,OK if He==0 then OC,OK=Hp()elseif He==1 then OC,OK=Hp(OE)elseif He==2 then OC,OK=Hp(OE,Ot)elseif He==3 then OC,OK=Hp(OE,Ot,Oq)else OC,OK=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK elseif HW==3 then local OC,OK,Oz if He==0 then OC,OK,Oz=Hp()elseif He==1 then OC,OK,Oz=Hp(OE)elseif He==2 then OC,OK,Oz=Hp(OE,Ot)elseif He==3 then OC,OK,Oz=Hp(OE,Ot,Oq)else OC,OK,Oz=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz elseif HW==4 then local OC,OK,Oz,Om if He==0 then OC,OK,Oz,Om=Hp()elseif He==1 then OC,OK,Oz,Om=Hp(OE)elseif He==2 then OC,OK,Oz,Om=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om=Hp(OE,Ot,Oq)else OC,OK,Oz,Om=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om elseif HW==5 then local OC,OK,Oz,Om,OG if He==0 then OC,OK,Oz,Om,OG=Hp()elseif He==1 then OC,OK,Oz,Om,OG=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG elseif HW==6 then local OC,OK,Oz,Om,OG,Oh if He==0 then OC,OK,Oz,Om,OG,Oh=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh elseif HW==7 then local OC,OK,Oz,Om,OG,Oh,OS if He==0 then OC,OK,Oz,Om,OG,Oh,OS=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh,OS=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh lr[Ho+6]=OS elseif HW==8 then local OC,OK,Oz,Om,OG,Oh,OS,Or if He==0 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh lr[Ho+6]=OS lr[Ho+7]=Or else local Vb=b0[nJ[60561]]Hg=Vb(HW,Hp(zj(lr,Ho+1,Ho+He)))for P9=1,HW do lr[Ho+P9-1]=Hg[P9]end end end end local Ox=lM or 0 if Ou>Ox then local Oi=Ou-1 local OM=Ox+31 if OM<Oi then Oi=OM end for OR=Ox,Oi do lr[OR]=nil end end Hg=nil Hp=nil lc=true end else if lq==229 then Ho=l2[lt]HJ=HH[lt]HZ=Hb[lt]+(Hn[lt]*(58+111+87))local _a=(HZ>=(128*256))and-(64*1024)or 0;HZ=HZ+_a Hp=lr[Ho]Hg=lr[Ho+1]He=lr[Ho+2]lA[Ho]=He HD=(Hg>0 and He<=Hp)or(Hg<=0 and He>=Hp)if HD then lt=lt+1 else HW=HJ+4+HZ Hp=HP[HW]if Hp then lt=Hp else lt=lt+1 end end lv=true lc=true end end else if lq==233 then Ho=lr[Hb[lt]]lr[l2[lt]]=not Ho lc=true end end else if lq<=245 then if lq<=234 then if lq==234 then Ho=l2[lt]rj=lr[Ho]if nC(rj)~=nx then VK=nC(rj)VC,Vf=b0[nJ[16707]](b0[nJ[57340]],rj)Vu=nil if VC then Vz=nC(Vf)if Vz==nq then Vu=Vf[(J(((296+71-17)),hv)and tM or nil)]elseif VK~=nq and Vz==nx then Vu=Vf end end if nC(Vu)==nx then lr[Ho],lr[Ho+1],lr[Ho+2]=Vu(rj)else lr[Ho],lr[Ho+1],lr[Ho+2]=b0[nJ[40149]](rj)end end HJ=HH[lt]HZ=Hb[lt]+(Hn[lt]*(2*128))local _a=(HZ>=(128*256))and-(64*1024)or 0;HZ=HZ+_a Hp=lQ[H2]if not Hp then Hp={};lQ[H2]=Hp end Hp[Ho]={['Vo']=lt}Hg=HJ+4+HZ He=HP[Hg]if He then lt=He else lt=lt+1 end lv=true lc=true end else if lq==245 then lr[l2[lt]]=(Hb[lt]~=0)HW=not(lr[l2[lt]])if HW then lt=HB[lt]else lt=lt+1 end lv=true lc=true end end else if lq==255 then Ho=l2[lt]HJ=Hn[lt]+(Hj[lt]*(2*128))local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a HZ=lr[Hb[lt]]if Hf[lt]~=0 then lr[Ho]=HJ-HZ else lr[Ho]=HZ-HJ end if nm and nC(lr[Ho])==nE and b0[nJ[11966]](lr[Ho])==lr[Ho]then lr[Ho]=b0[nJ[11966]](lr[Ho])end Hp=HP[HH[lt]+8]if Hp then lt=Hp else lt=lt+1 end lv=true lc=true end end end end end elseif l0==5 then if lq<=105 then if lq<=49 then if lq<=32 then if lq<=20 then if lq<=2 then if lq==2 then Ho=Hb[lt]HJ=lS[Ho+1]HZ=nC(HJ)if HZ==nq and HJ[7747]then if HJ[3253]then Hp=HJ[7963]else Hg=HJ.P9 He=HJ[3902]if Hg and He~=nil then Hp=Hg[He]else Hp=HJ[4171][HJ[3902]]end end else Hp=HJ end if nm and nC(Hp)==nE and b0[nJ[11966]](Hp)==Hp then Hp=b0[nJ[11966]](Hp)end lr[Hn[lt]]=Hp VM=((lt*153)+158)%(105+120+31)VR=((lt*35)+128)%(105+120+31)Ho=b7(Hj[lt],VM)+(b7(Hf[lt],VR)*(105+120+31))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+158+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%(105+120+31)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/(105+120+31))%(105+120+31)),((Vv*73+lt*17+204)%(105+120+31)))Ho=lE+(Vc*(105+120+31))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)lr[l2[lt]]=Hp[HJ]HJ=nil HZ=nil Hp=nil lc=true end else if lq==20 then HJ=lr[Hj[lt]]Ho=lr[l2[lt]]Hg=HV HW=not(Ho~=HJ)if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end end else if lq<=28 then if lq==28 then local Vf,Vu,VC,VK,Vz,Vm,VG,Vh,VS,Vr,VE,Vt,Vq,Vx,Vi Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]HD=((lt*67)+248)%(82+75+99)HI=((lt*156)+234)%(82+75+99)Hp=b7(Hj[lt],HD)+(b7(Hf[lt],HI)*(82+75+99))Hg=b7(Hu[lt],HD)+(b7(HC[lt],HI)*(82+75+99))do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+28+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Hp/(82+75+99))%(82+75+99)),((Vc*73+lt*17+138)%(82+75+99)))Vc=b7((Hp%(82+75+99)),Vc)Hp=Vc+(Vv*(82+75+99))end end do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+28+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Hg/(82+75+99))%(82+75+99)),((Vc*73+lt*17+138)%(82+75+99)))Vc=b7((Hg%(82+75+99)),Vc)Hg=Vc+(Vv*(82+75+99))end end lr[Ho+1]=lr[HJ]local VE=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Hg+1],hv)and tM or nil)lr[Ho+2]=VE He=lr[Ho+1]HW=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Hp+1],hv)and tM or nil)Vf=He and He[HW]or nil if Vf==nil and He~=nil then Vu=b0[nJ[57340]](He)VC=Vu and Vu[(J((236-216),hv)and tM or nil)]VK=nC(VC)if VK==nx then Vf=VC(He,HW)elseif VK==nq then Vf=VC[HW]end end if Vf==nil and nC(He)==nt then Vf=bD and bD[HW]or nil end if Vf==nil and He~=nil and nC(He)~=nq then Vu=Vu or b0[nJ[57340]](He)VC=Vu and Vu[(J((46*6+2),hv)and tM or nil)]if nC(VC)==nx then Vf=VC end end if HZ==0 then Vt=b0[nJ[60561]]Vz=nC(Vf)if Vz==nx then Vq=Vt(nil,Vf(He,lr[Ho+2]))else Vu=b0[nJ[57340]](Vf)Vm=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if Vm then Vq=Vt(nil,Vm(Vf,He,lr[Ho+2]))else b0[nJ[20565]]()end end Vx=Vq.n or#Vq for Vi=1,Vx do lr[Ho+Vi-1]=Vq[Vi]end lM=Ho+Vx else Vz=nC(Vf)if Vz==nx then if HZ==1 then Vf(He,lr[Ho+2])elseif HZ==2 then VG=Vf(He,lr[Ho+2])elseif HZ==3 then VG,Vh=Vf(He,lr[Ho+2])else VG,Vh,VS=Vf(He,lr[Ho+2])end else Vu=b0[nJ[57340]](Vf)Vm=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if Vm then if HZ==1 then Vm(Vf,He,lr[Ho+2])elseif HZ==2 then VG=Vm(Vf,He,lr[Ho+2])elseif HZ==3 then VG,Vh=Vm(Vf,He,lr[Ho+2])else VG,Vh,VS=Vm(Vf,He,lr[Ho+2])end else b0[nJ[20565]]()end end if HZ==2 then lr[Ho]=VG lM=Ho+1 elseif HZ==3 then lr[Ho]=VG;lr[Ho+1]=Vh lM=Ho+2 elseif HZ==4 then lr[Ho]=VG;lr[Ho+1]=Vh;lr[Ho+2]=VS lM=Ho+3 else lM=Ho end end nj=lM nf=true Vr=HP[HH[lt]+8]if Vr then lt=Vr else lt=lt+1 end lv=true lc=true end else if lq==32 then HD=25160+((((hv)or 0)%97)*1)+(Hb[lt]*31)+(l2[lt]*17)HD=(HD+lt)%3 Hg=(Hf[lt]or 0)if(HC[lt]or 0)==0 then He=((lt*116)+131)%((11*13)+113)HW=((lt*83)+173)%((11*13)+113)Hf[lt]=b7(Hn[lt],He)Hu[lt]=b7(Hj[lt],HW)Hg=(Hg or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+247+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hf[lt]=b7(Hf[lt],Hg)Hu[lt]=b7(Hu[lt],((Hg*73+lt*17+7)%((11*13)+113)))end HC[lt]=1 end if HD==1 then Ho=(Hu[lt]*((11*13)+113))+Hf[lt]else Ho=Hf[lt]+(Hu[lt]*((11*13)+113))end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ=lr[Hb[lt]]if HD==0 then lr[l2[lt]]=HZ[HJ]elseif HD==1 then Hp=HZ[HJ]lr[l2[lt]]=Hp else Hp=HZ[HJ]if HD>1 then lr[l2[lt]]=Hp else lr[l2[lt]]=HZ[HJ]end end HJ=nil HZ=nil Hp=nil HD=nil He=nil HW=nil Hg=nil lc=true end end end else if lq<=41 then if lq<=38 then if lq==38 then VM=((lt*4)+186)%(88+53+115)VR=((lt*117)+252)%(88+53+115)Ho=b7(Hj[lt],VM)+(b7(Hf[lt],VR)*(88+53+115))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+42+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%(88+53+115)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/(88+53+115))%(88+53+115)),((Vv*73+lt*17+248)%(88+53+115)))Ho=lE+(Vc*(88+53+115))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ=lr[Hn[lt]]Hp=HZ[HJ]lr[l2[lt]]=Hp Ho=b7(Hu[lt],VM)+(b7(HC[lt],VR)*(88+53+115))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+42+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%(88+53+115)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/(88+53+115))%(88+53+115)),((Vv*73+lt*17+248)%(88+53+115)))Ho=lE+(Vc*(88+53+115))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)lr[Hb[lt]]=Hp[HJ]HJ=nil HZ=nil Hp=nil lc=true end else if lq==41 then lc=true Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]Hp=true He=b0[nJ[ng[47510]]]if type(He)==nt then local Vu=He:match((J((127*3),hv)and tM or nil))or He:match((J((95*3+1),hv)and tM or nil))if Vu then He=Vu end end HW=b0[nJ[ng[46496]]]if HW and He then if HZ>HJ+6 then HZ=HJ+6 end for Vn=HJ,HZ do Hg=HW(Vn,(J(((211+355-237)),hv)and tM or nil))if Hg==nil then break end if Hg==(J(((456-53-58)),hv)and tM or nil)then Hg=(J(0x182,hv)and tM or nil)end if type(Hg)==nt then local Vu=Hg:match((J((127*3),hv)and tM or nil))or Hg:match((J((95*3+1),hv)and tM or nil))if Vu then Hg=Vu end end if Hg~=(J(0x182,hv)and tM or nil)and Hg~=He then Hp=false break end local Vj=HW(Vn,(J(((373-42-23)),hv)and tM or nil))if Vj then local Vf=HW(Vj,(J(((211+355-237)),hv)and tM or nil))if Vf==(J(((456-53-58)),hv)and tM or nil)then Vf=(J(0x182,hv)and tM or nil)end if type(Vf)==nt then local Vu=Vf:match((J((127*3),hv)and tM or nil))or Vf:match((J((95*3+1),hv)and tM or nil))if Vu then Vf=Vu end end if Vf and Vf~=(J(0x182,hv)and tM or nil)and Vf~=He then Hp=false break end end end end lr[Ho]=Hp lt=lt+1 lv=true lc=true end end else if lq==49 then Ho=l2[lt]HJ=HH[lt]HZ=Hb[lt]+(Hn[lt]*(96+67+93))local _a=(HZ>=(128*256))and-(64*1024)or 0;HZ=HZ+_a Hp=lr[Ho]Hg=lr[Ho+1]He=lr[Ho+2]He=He+Hg lr[Ho+2]=He if(Hg>0 and He<=Hp)or(Hg<=0 and He>=Hp)then HW=HJ+4+HZ Hp=HP[HW]if Hp then lt=Hp else lt=lt+1 end else lA[Ho]=nil lt=lt+1 end lv=true lc=true end end end else if lq<=88 then if lq<=87 then if lq<=56 then if lq==56 then Ho=l2[lt]HJ=Hb[lt]HZ=lS[HJ+1]Hp=nC(HZ)if Hp==nq and HZ[7747]then if HZ[3253]then Hp=HZ[7963]else HW=HZ[2]if HW~=nil then HD=HZ[1]if HD then Hp=HD[HW]else Hp=nil end else Hp=HZ[1]end end else Hp=HZ end if nm and nC(Hp)==nE and b0[nJ[11966]](Hp)==Hp then Hp=b0[nJ[11966]](Hp)end lr[Ho]=Hp lc=true end else if lq==87 then lr[l2[lt]]=#lr[Hb[lt]]lc=true end end else if lq==88 then HD=((60056+(lt*5)+(Hn[lt]*43)+(Hb[lt]*29)+(l2[lt]*17))%3)if(HC[lt]or 0)==0 then He=((lt*69)+12)%((11*13)+113)HW=((lt*218)+30)%((11*13)+113)Hj[lt]=b7(Hb[lt],He)Hf[lt]=b7(Hn[lt],HW)Hg=(Hu[lt]or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+208+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hg)Hf[lt]=b7(Hf[lt],((Hg*73+lt*17+222)%((11*13)+113)))end HC[lt]=1 end if HD==1 then Ho=(Hf[lt]*((11*13)+113))+Hj[lt]else Ho=Hj[lt]+(Hf[lt]*((11*13)+113))end He=(1+30)-30 HW=((Ho*131)+30)%257 if HW==257 then HW=0 end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+He],hv)and tM or nil)if HD==0 then lr[l2[lt]]=b0[nJ[8717]][HJ]elseif HD==1 then HZ=b0[nJ[8717]][HJ]lr[l2[lt]]=HZ else Hp=b0[nJ[8717]]HZ=Hp[HJ]lr[l2[lt]]=HZ end HJ=nil HZ=nil Hp=nil HD=nil He=nil HW=nil Hg=nil lc=true end end else if lq<=96 then if lq<=91 then if lq==91 then HD=((60056+(lt*5)+(Hn[lt]*43)+(Hb[lt]*29)+(l2[lt]*17))%3)if(HC[lt]or 0)==0 then He=((lt*69)+12)%((11*13)+113)HW=((lt*218)+30)%((11*13)+113)Hj[lt]=b7(Hb[lt],He)Hf[lt]=b7(Hn[lt],HW)Hg=(Hu[lt]or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+208+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hg)Hf[lt]=b7(Hf[lt],((Hg*73+lt*17+222)%((11*13)+113)))end HC[lt]=1 end if HD==1 then Ho=(Hf[lt]*((11*13)+113))+Hj[lt]else Ho=Hj[lt]+(Hf[lt]*((11*13)+113))end He=(1+30)-30 HW=((Ho*131)+30)%257 if HW==257 then HW=0 end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+He],hv)and tM or nil)if HD==0 then lr[l2[lt]]=b0[nJ[8717]][HJ]elseif HD==1 then HZ=b0[nJ[8717]][HJ]lr[l2[lt]]=HZ else Hp=b0[nJ[8717]]HZ=Hp[HJ]lr[l2[lt]]=HZ end HJ=nil HZ=nil Hp=nil HD=nil He=nil HW=nil Hg=nil lc=true end else if lq==96 then HD=((19250+(lt*5)+(Hn[lt]*43)+(Hb[lt]*31)+(l2[lt]*17))%3)if HD==0 then lr[l2[lt]]=lr[Hb[lt]][Hn[lt]+(5-4)]elseif HD==1 then Ho=Hn[lt]+(4-3)lr[l2[lt]]=lr[Hb[lt]][Ho]else Ho=lr[Hb[lt]]HJ=Hn[lt]+(4-3)lr[l2[lt]]=Ho[HJ]end HD=nil lc=true end end else if lq==105 then HD=((lt+(l2[lt]*17)+(Hb[lt]*31)+((((hv)or 0)%97)*1)+59449)%3)Hg=(Hf[lt]or 0)if(HC[lt]or 0)==0 then He=((lt*116)+131)%((11*13)+113)HW=((lt*83)+173)%((11*13)+113)Hf[lt]=b7(Hn[lt],He)Hu[lt]=b7(Hj[lt],HW)Hg=(Hg or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+247+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hf[lt]=b7(Hf[lt],Hg)Hu[lt]=b7(Hu[lt],((Hg*73+lt*17+7)%((11*13)+113)))end HC[lt]=1 end if HD==1 then Ho=(Hu[lt]*((11*13)+113))+Hf[lt]else Ho=Hf[lt]+(Hu[lt]*((11*13)+113))end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ=lr[Hb[lt]]if HD==0 then lr[l2[lt]]=HZ[HJ]elseif HD==1 then Hp=HZ[HJ]lr[l2[lt]]=Hp else Hp=HZ[HJ]if HD>1 then lr[l2[lt]]=Hp else lr[l2[lt]]=HZ[HJ]end end HJ=nil HZ=nil Hp=nil HD=nil He=nil HW=nil Hg=nil lc=true end end end end else if lq<=182 then if lq<=164 then if lq<=138 then if lq<=113 then if lq==113 then lc=true Ho=l2[lt]or 0 HJ=Hb[lt]or 0 HZ=Ho+(HJ*256)if HZ>=0 then P9=b0[nJ[9199]]if P9 and b0[nJ[ng[27578]]]~=P9 then do local Ho=b0[nJ[ng[33014]]];local HJ=b0[nJ[ng[59456]]];local HZ=b0[nJ[ng[20264]]];local Hp=b0[nJ[ng[30965]]];HZ(Ho,b0[nJ[ng[48718]]],b0[nJ[ng[46464]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[42650]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[56929]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[56929]]],He+HW)end end end Vb=b0[nJ[ng[24511]]]rb=b0[nJ[ng[33566]]]rj=0;Vn=0;Vj=0;Vf=0 if Vb>0 then Vj=b0[nJ[11966]](Vb/65536);rj=Vb-(Vj*65536)end if rb>0 then Vf=b0[nJ[11966]](rb/65536);Vn=rb-(Vf*65536)end if rj>0 and Vn>0 and rj~=Vn then do local Ho=b0[nJ[ng[56987]]];local HJ=b0[nJ[ng[27401]]];local HZ=b0[nJ[ng[57531]]];local Hp=b0[nJ[ng[47269]]];HZ(Ho,b0[nJ[ng[26625]]],b0[nJ[ng[51379]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[21500]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[52361]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[52361]]],He+HW)end end end if Vj>0 then Vu=rj-Vj;if Vu<0 then Vu=-Vu end;if Vu>1 then do local Ho=b0[nJ[ng[26832]]];local HJ=b0[nJ[ng[30798]]];local HZ=b0[nJ[ng[44245]]];local Hp=b0[nJ[ng[47610]]];HZ(Ho,b0[nJ[ng[25302]]],b0[nJ[ng[20827]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[59620]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[52201]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[52201]]],He+HW)end end end end if Vf>0 then Vu=Vn-Vf;if Vu<0 then Vu=-Vu end;if Vu>1 then do local Ho=b0[nJ[ng[56708]]];local HJ=b0[nJ[ng[34048]]];local HZ=b0[nJ[ng[27111]]];local Hp=b0[nJ[ng[52246]]];HZ(Ho,b0[nJ[ng[57513]]],b0[nJ[ng[58083]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[38210]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[54020]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[54020]]],He+HW)end end end end end lt=lt+1 lv=true lc=true end else if lq==138 then Ho=Hj[lt]HJ=Hf[lt]+(Hu[lt]*(47+66+143))HZ=Ag[HJ]if not HZ then b0[nJ[ng[34584]]]()end local Od=false if HZ[(J(((375-20+(31-31))),hv)and tM or nil)]and not HZ[(J((283+82),hv)and tM or nil)]then local Oc=HZ[(J((53*7+5),hv)and tM or nil)]local Ov=nil if Oc then Ov={}Ov[0]={}end lr[Ho]=HZ[(J(((375-20+(31-31))),hv)and tM or nil)](b0[nJ[41518]],Ov)do local ON=b0[nJ[41518]][(J(((68-49+(5-5))),hv)and tM or nil)]if ON then ON(lr[Ho],b0[nJ[41518]])end end Od=true end if not Od then local Vw=HZ[4468]Hp={}for P9,Hg in b0[nJ[40051]](Vw)do if Hg.Nk then He=Hg.Ez if not lE[He]then lE[He]={[7747]=true,[4171]=lr,[3902]=He,[3253]=false,[7963]=nil,[1]=lr,[2]=He}end Hp[P9]=lE[He]else Hp[P9]=lS[Hg.Ez+1]end end lr[Ho]=b0[nJ[22035]](HZ,Hp)b0[nJ[6953]](lr[Ho],b0[nJ[ng[29127]]])end HD=22812+((((hv)or 0)%97)*1)+(Hj[lt]*41)+(l2[lt]*23)HD=(HD+lt)%3 Vl=Hb if type(Vl)~='table'then Vl=xn[6834]end if type(Vl)~='table'then Vl={}end VH=Hn if type(VH)~='table'then VH=xn[2879]end if type(VH)~='table'then VH={}end if HD==1 then Ho=(VH[lt]*(58+111+87))+Vl[lt]else Ho=Vl[lt]+(VH[lt]*(58+111+87))end VY=t7 if type(VY)~='table'then VY=b0[nJ[27072]]end if type(VY)~='table'then VY={}end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(VY[Ho+1],hv)and tM or nil)HZ=lr[l2[lt]]if HD==0 then if HZ then HZ[HJ]=lr[Hj[lt]]end elseif HD==1 then Hp=lr[Hj[lt]]if HZ then HZ[HJ]=Hp end else if HZ then Hp=HZ Hp[HJ]=lr[Hj[lt]]end end HJ=nil HZ=nil Hp=nil HD=nil VY=nil Vl=nil VH=nil lc=true end end else if lq<=156 then if lq==156 then Ho=l2[lt]HJ=HH[lt]HZ=Hb[lt]+(Hn[lt]*(58+111+87))local _a=(HZ>=(128*256))and-(64*1024)or 0;HZ=HZ+_a Hp=lr[Ho]Hg=lr[Ho+1]He=lr[Ho+2]lA[Ho]=He if(Hg>0 and He<=Hp)or(Hg<=0 and He>=Hp)then lt=lt+1 else HW=HJ+4+HZ Hp=HP[HW]if Hp then lt=Hp else lt=lt+1 end end lv=true lc=true end else if lq==164 then if(HC[lt]or 0)==0 then HJ=((lt*125)+128)%((7*7)+207)HZ=((lt*40)+178)%((7*7)+207)Hj[lt]=b7(Hb[lt],HJ)Hf[lt]=b7(Hn[lt],HZ)Hp=(Hu[lt]or 0)if Hp~=0 then Hp=(((Hp+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+116+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hp)Hf[lt]=b7(Hf[lt],((Hp*73+lt*17+226)%((7*7)+207)))end HC[lt]=1 end Ho=Hj[lt]+(Hf[lt]*((7*7)+207))HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)lr[l2[lt]]=HJ HJ=nil HZ=nil Hp=nil lc=true end end end else if lq<=171 then if lq<=166 then if lq==166 then Ho=l2[lt]Hp={}if lE then for HJ,HZ in b0[nJ[40149]](lE)do if nC(HZ)==nq and HZ[7747]and not HZ[3253]then He=HZ[2]if He~=nil and He>=Ho then Hg=nil HW=HZ[1]if HW then Hg=HW[He]end HZ[7963]=Hg HZ[3253]=true HZ[1]=Hg HZ[2]=nil Hp[#Hp+1]=HJ end end end end for Vb,HJ in b0[nJ[40051]](Hp)do lE[HJ]=nil end lc=true end else if lq==171 then HI=((((lt+8437)%251)+(l2[lt]*17)+(Hb[lt]*31)+(Hn[lt]*47))%3)VM=((lt*186)+55)%((16*32)-256)VR=((lt*235)+129)%((16*32)-256)Ho=b7(Hj[lt],VM)+(b7(Hf[lt],VR)*((16*32)-256))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+91+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%((16*32)-256)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/((16*32)-256))%((16*32)-256)),((Vv*73+lt*17+235)%((16*32)-256)))Ho=lE+(Vc*((16*32)-256))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ=b7(Hu[lt],VM)+(b7(HC[lt],VR)*((16*32)-256))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+91+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((HZ%((16*32)-256)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](HZ/((16*32)-256))%((16*32)-256)),((Vv*73+lt*17+235)%((16*32)-256)))HZ=lE+(Vc*((16*32)-256))end end Hp=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[HZ+1],hv)and tM or nil)Hg=lr[Hb[lt]]He=Hg[HJ]lr[l2[lt]]=He HW=lr[Hn[lt]]if HI==0 then HW[Hp]=He elseif HI==1 then HD=lr[l2[lt]]HW[Hp]=HD else HD=He HW[Hp]=HD end HJ=nil Hp=nil Hg=nil He=nil HW=nil HD=nil HI=nil lc=true end end else if lq==182 then Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]Hg=lr[HJ]*lr[HZ]He=lr[Ho]lr[Ho]=He+Hg if nm and nC(lr[Ho])==nE and b0[nJ[11966]](lr[Ho])==lr[Ho]then lr[Ho]=b0[nJ[11966]](lr[Ho])end Hp=HP[HH[lt]+8]if Hp then lt=Hp else lt=lt+1 end lv=true lc=true end end end else if lq<=213 then if lq<=211 then if lq<=210 then if lq==210 then local Vf,Vu,VC,VK,Vm,VG,Vz,Vh,VS,Vr,VE Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]Hp=Hj[lt]Hg=lr[HJ]lr[Ho+1]=Hg He=lr[HZ]lr[Ho+2]=He HW=lr[Ho]VK,Vm,VG,VS,Vr=nil,nil,nil,nil,nil Vf=nC(HW)if Hp==0 then Vh=b0[nJ[60561]]if Vf==nx then VS=Vh(nil,HW(Hg,He))else Vu=b0[nJ[57340]](HW)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then VS=Vh(nil,VC(HW,Hg,He))else b0[nJ[20565]]()end end Vr=VS.n or#VS for VE=1,Vr do lr[Ho+VE-1]=VS[VE]end lM=Ho+Vr else if Vf==nx then if Hp==1 then HW(Hg,He)elseif Hp==2 then VK=HW(Hg,He)elseif Hp==3 then VK,Vm=HW(Hg,He)else VK,Vm,VG=HW(Hg,He)end else Vu=b0[nJ[57340]](HW)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then if Hp==1 then VC(HW,Hg,He)elseif Hp==2 then VK=VC(HW,Hg,He)elseif Hp==3 then VK,Vm=VC(HW,Hg,He)else VK,Vm,VG=VC(HW,Hg,He)end else b0[nJ[20565]]()end end if Hp==2 then lr[Ho]=VK lM=Ho+1 elseif Hp==3 then lr[Ho]=VK;lr[Ho+1]=Vm lM=Ho+2 elseif Hp==4 then lr[Ho]=VK;lr[Ho+1]=Vm;lr[Ho+2]=VG lM=Ho+3 else lM=Ho end end nj=lM nf=true Vz=HP[HH[lt]+8]if Vz then lt=Vz else lt=lt+1 end lv=true lc=true end else if lq==211 then Vl=Hb if type(Vl)~='table'then Vl=xn[6834]end if type(Vl)~='table'then Vl={}end VH=Hn if type(VH)~='table'then VH=xn[2879]end if type(VH)~='table'then VH={}end VP=Hj if type(VP)~='table'then VP=xn[6587]end if type(VP)~='table'then VP={}end VV=Hf if type(VV)~='table'then VV=xn[6029]end if type(VV)~='table'then VV={}end VO=Hu if type(VO)~='table'then VO=xn[7410]end if type(VO)~='table'then VO={}end VY=HC if type(VY)~='table'then VY=xn[2024]end if type(VY)~='table'then VY={}end VB=t7 if type(VB)~='table'then VB=b0[nJ[27072]]end if type(VB)~='table'then VB={}end HI=l2[lt]HD=HI+1 rj=((lt*181)+191)%((12*12)+112)Vn=((lt*179)+73)%((12*12)+112)Ho=b7(Vl[lt],rj)+(b7(VH[lt],Vn)*((12*12)+112))HJ={}HW=b0[nJ[43415]][Ho]if HW then for Vb=1,#HW do rb=HW[Vb]HJ[rb]=false end end if false then HJ[0]=nil end HZ=b7(VP[lt],rj)+(b7(VV[lt],Vn)*((12*12)+112))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+115+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((HZ%((12*12)+112)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](HZ/((12*12)+112))%((12*12)+112)),((Vv*73+lt*17+3)%((12*12)+112)))HZ=lE+(Vc*((12*12)+112))end end Hp=(((type(J)=='function'and J)or b0[nJ[7668]])(VB[HZ+1],hv)and tM or nil)Hg=b7(VO[lt],rj)+(b7(VY[lt],Vn)*((12*12)+112))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+115+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Hg%((12*12)+112)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Hg/((12*12)+112))%((12*12)+112)),((Vv*73+lt*17+3)%((12*12)+112)))Hg=lE+(Vc*((12*12)+112))end end He=(((type(J)=='function'and J)or b0[nJ[7668]])(VB[Hg+1],hv)and tM or nil)lr[HI]=HJ lr[HD]=He if Hp~=nil then HJ[Hp]=He end if false then HJ[Hp]=He end Ho=nil HJ=nil HZ=nil Hp=nil Hg=nil He=nil HW=nil HD=nil HI=nil lc=true end end else if lq==213 then if(HC[lt]or 0)==0 then HJ=((lt*25)+98)%((10*18)+76)HZ=((lt*176)+228)%((10*18)+76)Hj[lt]=b7(Hb[lt],HJ)Hf[lt]=b7(Hn[lt],HZ)Hp=(Hu[lt]or 0)if Hp~=0 then Hp=(((Hp+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+34+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hp)Hf[lt]=b7(Hf[lt],((Hp*73+lt*17+240)%((10*18)+76)))end HC[lt]=1 end Ho=Hj[lt]+(Hf[lt]*((10*18)+76))HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ={HJ}if false and Ho<0 then HZ[1]=HJ end lr[l2[lt]]=HZ[1]HJ=nil HZ=nil Hp=nil lc=true end end else if lq<=224 then if lq<=223 then if lq==223 then lc=true Ho=l2[lt]or 0 HJ=Hb[lt]or 0 if(Ho+HJ)>=0 then P9=b0[nJ[16063]]if P9 and b0[nJ[ng[32475]]]then Vb=b0[nJ[ng[25054]]](b0[nJ[ng[47427]]],(J((2*2),hv)and tM or nil))if Vb~=P9 then do local Ho=b0[nJ[ng[29581]]];local HJ=b0[nJ[ng[45637]]];local HZ=b0[nJ[ng[38731]]];local Hp=b0[nJ[ng[38125]]];HZ(Ho,b0[nJ[ng[31927]]],b0[nJ[ng[40499]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[33290]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[34762]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[34762]]],He+HW)end end end end end lt=lt+1 lv=true lc=true end else if lq==224 then lc=true Ho=(l2[lt]or 0)HJ=(Hb[lt]or 0)+((Hn[lt]or 0)*256)HZ=HH[lt]+Ho+HJ+1 do local Ho=b0[nJ[ng[42403]]];local HJ=b0[nJ[ng[28801]]];local HZ=b0[nJ[ng[57722]]];local Hp=b0[nJ[ng[29426]]];HZ(Ho,b0[nJ[ng[38104]]],b0[nJ[ng[44620]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[59772]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[27174]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[27174]]],He+HW)end end Hp=b0[nJ[ng[50022]]]if HZ then Hp(lt,l2,Hb,Hn,l5,xn,nil)end b0[nJ[ng[41644]]](HZ)lt=lt+1 lv=true lc=true end end else if lq==230 then lr[l2[lt]]=lr[Hb[lt]]*lr[Hn[lt]]if nm and nC(lr[l2[lt]])==nE and b0[nJ[11966]](lr[l2[lt]])==lr[l2[lt]]then lr[l2[lt]]=b0[nJ[11966]](lr[l2[lt]])end lc=true end end end end end elseif l0==6 then if lq<=131 then if lq<=67 then if lq<=35 then if lq<=27 then if lq<=17 then if lq==17 then lt=lt+1 lc=true end else if lq==27 then lr[l2[lt]]=lr[Hb[lt]]lr[Hn[lt]]=lr[Hj[lt]]lc=true end end else if lq<=31 then if lq==31 then HD=((lt*8)+195)%(110+146)HI=((lt*66)+237)%(110+146)Ho=b7(Hf[lt],HD)+(b7(Hu[lt],HI)*(110+146))HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)lr[Hb[lt]]=HJ HD=lr[l2[lt]]HI=lr[Hb[lt]]Hg=HV HW=not(HD==HI)if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true Ho=nil HJ=nil HZ=nil Hp=nil HD=nil HI=nil lc=true end else if lq==35 then lc=true Ho=l2[lt]+Hb[lt]*(64+192)HJ=Hn[lt]+Hj[lt]*(64+192)HZ=Hf[lt]+Hu[lt]*(64+192)Hp=b0[nJ[ng[55976]]]He=HC[lt]if He==0 and(b0[nJ[ng[58927]]][Ho]~=HJ)then He=1 end Vq=Hp or 0 Vx=b0[nJ[ng[20247]]]or 0 Vi=b0[nJ[ng[56328]]]or 0 Vf=0 Vu=0 VC=0 Vr=0 VE=0 Vt=0 if Vq>0 then Vr=b0[nJ[11966]](Vq/65536);Vf=Vq-(Vr*65536)end if Vx>0 then VE=b0[nJ[11966]](Vx/65536);Vu=Vx-(VE*65536)end if Vi>0 then Vt=b0[nJ[11966]](Vi/65536);VC=Vi-(Vt*65536)end if Vf<=0 or Vf>49157 then Vf=0 end if Vu<=0 or Vu>49157 then Vu=0 end if VC<=0 or VC>49157 then VC=0 end if Vr<=0 or Vr>49157 then Vr=0 end if VE<=0 or VE>49157 then VE=0 end if Vt<=0 or Vt>49157 then Vt=0 end if He==0 and Vf>0 and VC>0 and Vf~=VC then He=1 end VK=nu[HZ]or 0 Vz=b0[nJ[ng[57246]]]or 0 Vm=0 VG=0 if Vf>0 and Vf<=49157 and Vu>0 and Vu<=49157 then Vm=(Vf*257)+(Vu*131)+(Vr*73)+(VE*59)+443 Vh=Vf-Vu if Vh<0 then Vh=-Vh end if Vh>1 then Vm=Vm+9174 end if Vr>0 then VM=Vf-Vr;if VM<0 then VM=-VM end;if VM>1 then Vm=Vm+9191 end end if VE>0 then VR=Vu-VE;if VR<0 then VR=-VR end;if VR>1 then Vm=Vm+9203 end end end if Vf>0 and Vf<=49157 and Vu>0 and Vu<=49157 and VC>0 and VC<=49157 then VG=(Vf*257)+(Vu*131)+(Vr*73)+(VE*59)+(VC*43)+(Vt*31)+460 Vh=Vf-Vu if Vh<0 then Vh=-Vh end VS=Vu-VC if VS<0 then VS=-VS end if Vh>1 then VG=VG+9174 end if VS>1 then VG=VG+9367 end if Vr>0 then VM=Vf-Vr;if VM<0 then VM=-VM end;if VM>1 then VG=VG+9191 end end if VE>0 then VR=Vu-VE;if VR<0 then VR=-VR end;if VR>1 then VG=VG+9203 end end if Vt>0 then lE=VC-Vt;if lE<0 then lE=-lE end;if lE>1 then VG=VG+9425 end end end if VK~=Vm or Vz~=VG then He=1 end if He~=0 then b0[nJ[ng[57616]]](lt,l2,Hb,Hn,l5,xn,nil)end lc=true end end end else if lq<=51 then if lq<=45 then if lq==45 then Ho=lr[l2[lt]]HJ=lr[Hj[lt]]Hg=HV HW=(Ho<=HJ)if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end else if lq==51 then Ho=l2[lt]HJ=lr[Ho]if nC(HJ)~=nx then VK=nC(HJ)VC,Vf=b0[nJ[16707]](b0[nJ[57340]],HJ)Vu=nil if VC then Vz=nC(Vf)if Vz==nq then Vu=Vf[(J(((296+71-17)),hv)and tM or nil)]elseif VK~=nq and Vz==nx then Vu=Vf end end if nC(Vu)==nx then lr[Ho],lr[Ho+1],lr[Ho+2]=Vu(HJ)else lr[Ho],lr[Ho+1],lr[Ho+2]=b0[nJ[40149]](HJ)end end He=HH[lt]HZ=Hb[lt]+(Hn[lt]*((5*29)+111))local _a=(HZ>=(128*256))and-(64*1024)or 0;HZ=HZ+_a Hp=He+4+HZ Hg=HP[Hp]if Hg then lt=Hg else lt=lt+1 end lv=true lc=true end end else if lq==67 then Ho=l2[lt]if(HC[lt]or 0)==0 then Hg=((lt*130)+70)%(2*128)He=((lt*98)+104)%(2*128)Hj[lt]=b7((Hb[lt]or 0),Hg)Hf[lt]=b7((Hn[lt]or 0),He)HC[lt]=1 end HJ=Hj[lt]HZ=Hf[lt]Hp=HJ+(HZ*(2*128))lr[Ho]=A0[Hp]or 0 lc=true end end end else if lq<=122 then if lq<=79 then if lq<=78 then if lq==78 then lc=true Ho=l2[lt]HJ=Hb[lt]HZ=b0[nJ[ng[44796]]](b0[nJ[ng[51708]]],b0[nJ[ng[52052]]])Hp=b0[nJ[ng[39742]]]if HZ then Hp(lt,l2,Hb,Hn,l5,xn,nil)end Hg=Ho lt=lt+1 lv=true lc=true end else if lq==79 then Ho=l2[lt]HJ=HH[lt]HZ=Hb[lt]+(Hn[lt]*(96+67+93))local _a=(HZ>=(128*256))and-(64*1024)or 0;HZ=HZ+_a Hp=lr[Ho]Hg=lr[Ho+1]He=lr[Ho+2]He=He+Hg lr[Ho+2]=He HD=(Hg>0 and He<=Hp)or(Hg<=0 and He>=Hp)if HD then HW=HJ+4+HZ Hp=HP[HW]if Hp then lt=Hp else lt=lt+1 end else lA[Ho]=nil lt=lt+1 end lv=true lc=true end end else if lq==122 then Ho=l2[lt]HJ=Hn[lt]+(Hj[lt]*(2*128))local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a HZ=lr[Hb[lt]]Hg=HJ if false then Hg=Hg end if Hf[lt]~=0 then lr[Ho]=Hg+HZ else lr[Ho]=HZ+Hg end if nm and nC(lr[Ho])==nE and b0[nJ[11966]](lr[Ho])==lr[Ho]then lr[Ho]=b0[nJ[11966]](lr[Ho])end Hp=HP[HH[lt]+8]if Hp then lt=Hp else lt=lt+1 end lv=true lc=true end end else if lq<=129 then if lq<=123 then if lq==123 then Ho=l2[lt]if l5[lt+1]==121 or l5[lt+1]==213 or l5[lt+1]==214 then if l2[lt+1]==nil then b0[nJ[64673]](xn,lt+1)end HJ=l2[lt+1]HZ=nil if Ho==40 then HZ=nC elseif Ho==12 then HZ=bp.floor elseif Ho==7 then HZ=bp.ceil elseif Ho==2 then HZ=bp.abs elseif Ho==25 then HZ=bp.sqrt elseif Ho==21 then HZ=bp.pow elseif Ho==24 then HZ=bp.sin elseif Ho==9 then HZ=bp.cos elseif Ho==27 then HZ=bp.tan elseif Ho==11 then HZ=bp.exp elseif Ho==10 then HZ=bp.deg elseif Ho==17 then HZ=bp.log elseif Ho==22 then HZ=bp.rad elseif Ho==19 then HZ=bp.min elseif Ho==18 then HZ=bp.max elseif Ho==45 then HZ=nu.insert elseif Ho==46 then HZ=b1 elseif Ho==42 then HZ=bD.byte elseif Ho==43 then HZ=bD.char elseif Ho==44 then HZ=bD.len elseif Ho==41 then HZ=b0[nJ[8717]].typeof elseif Ho==57 then HZ=b0[nJ[39435]]elseif Ho==60 then HZ=b0[nJ[50078]]elseif Ho==61 then HZ=b0[nJ[47718]]elseif Ho==62 then HZ=b0[nJ[8717]].rawequal elseif Ho==64 then HZ=b0[nJ[8717]].rawlen elseif Ho==3 then HZ=bp.asin elseif Ho==4 then HZ=bp.acos elseif Ho==5 then HZ=bp.atan2 elseif Ho==6 then HZ=bp.atan elseif Ho==13 then HZ=bp.fmod elseif Ho==14 then HZ=bp.ldexp elseif Ho==20 then HZ=bp.modf end if HZ~=nil then Hp=HZ lr[HJ]=Hp end if false then lr[HJ]=lr[HJ]end end lc=true end else if lq==129 then Ho=l2[lt]HJ=Hb[lt]HZ=lS[HJ+1]HD=lr[Ho]if nm and nC(HD)==nE and b0[nJ[11966]](HD)==HD then HD=b0[nJ[11966]](HD)end Hp=nC(HZ)if Hp==nq and HZ[7747]then if HZ[3253]then HZ[7963]=HD HZ[1]=HD HZ[2]=nil else HW=HZ[2]if HW~=nil then Hg=HZ[1]if Hg then Hg[HW]=HD end else HZ[1]=HD HZ[7963]=HD HZ[3253]=true end end else lS[HJ+1]=HD end lc=true end end else if lq==131 then HJ=lr[Hj[lt]]Ho=lr[l2[lt]]HD=not(Ho<=HJ)Hg=HV HW=HD if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end end end end else if lq<=190 then if lq<=176 then if lq<=140 then if lq<=139 then if lq==139 then Ho=l2[lt]HJ=Hb[lt]lt=HB[lt]lv=true lc=true end else if lq==140 then if(HC[lt]or 0)==0 then HJ=((lt*25)+98)%((10*18)+76)HZ=((lt*176)+228)%((10*18)+76)Hj[lt]=b7(Hb[lt],HJ)Hf[lt]=b7(Hn[lt],HZ)Hp=(Hu[lt]or 0)if Hp~=0 then Hp=(((Hp+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+34+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hp)Hf[lt]=b7(Hf[lt],((Hp*73+lt*17+240)%((10*18)+76)))end HC[lt]=1 end Ho=Hj[lt]+(Hf[lt]*((10*18)+76))HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)lr[l2[lt]]=HJ HJ=nil HZ=nil Hp=nil lc=true end end else if lq<=174 then if lq==174 then local Vf,Vu,VC,VK,Vz,Vm,VG,Vh Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]HD=((lt*13)+162)%(113+88+55)HI=((lt*3)+36)%(113+88+55)Hp=b7(Hj[lt],HD)+(b7(Hf[lt],HI)*(113+88+55))do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+226+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Hp/(113+88+55))%(113+88+55)),((Vc*73+lt*17+176)%(113+88+55)))Vc=b7((Hp%(113+88+55)),Vc)Hp=Vc+(Vv*(113+88+55))end end lr[Ho+2]=lr[HJ]Hg=lr[Ho+1]He=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Hp+1],hv)and tM or nil)Vf=Hg and Hg[He]or nil if Vf==nil and Hg~=nil then Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J((236-216),hv)and tM or nil)]VK=nC(VC)if VK==nx then Vf=VC(Hg,He)elseif VK==nq then Vf=VC[He]end end if Vf==nil and nC(Hg)==nt then Vf=bD and bD[He]or nil end if Vf==nil and Hg~=nil and nC(Hg)~=nq then Vu=Vu or b0[nJ[57340]](Hg)VC=Vu and Vu[(J((46*6+2),hv)and tM or nil)]if nC(VC)==nx then Vf=VC end end Vz=nC(Vf)if Vz==nx then if HZ==2 then VG=Vf(Hg,lr[Ho+2])else Vf(Hg,lr[Ho+2])end else Vu=b0[nJ[57340]](Vf)Vm=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if Vm then if HZ==2 then VG=Vm(Vf,Hg,lr[Ho+2])else Vm(Vf,Hg,lr[Ho+2])end else b0[nJ[20565]]()end end if HZ==2 then lr[Ho]=VG lM=Ho+1 else lM=Ho end nj=lM nf=true Vh=HP[HH[lt]+8]if Vh then lt=Vh else lt=lt+1 end lv=true lc=true end else if lq==176 then HW=not(lr[l2[lt]])if HW then lt=HB[lt]else lt=lt+1 end lv=true lc=true end end end else if lq<=188 then if lq<=185 then if lq==185 then local Vf,Vu,VC,VK,Vz,Vm,VG,Vh,VS,Vr Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]Vr=false if HZ>=128 then HZ=HZ-128;Vr=true end HD=((lt*207)+93)%((6*16)+160)HI=((lt*26)+151)%((6*16)+160)Hp=b7(Hj[lt],HD)+(b7(Hf[lt],HI)*((6*16)+160))Hg=b7(Hu[lt],HD)+(b7(HC[lt],HI)*((6*16)+160))do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+245+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Hp/((6*16)+160))%((6*16)+160)),((Vc*73+lt*17+69)%((6*16)+160)))Vc=b7((Hp%((6*16)+160)),Vc)Hp=Vc+(Vv*((6*16)+160))end end do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+245+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Hg/((6*16)+160))%((6*16)+160)),((Vc*73+lt*17+69)%((6*16)+160)))Vc=b7((Hg%((6*16)+160)),Vc)Hg=Vc+(Vv*((6*16)+160))end end local VS=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Hg+1],hv)and tM or nil)if Vr then lr[Ho+2]=VS lr[Ho+3]=lr[HJ]else lr[Ho+2]=lr[HJ]lr[Ho+3]=VS end He=lr[Ho+1]HW=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Hp+1],hv)and tM or nil)Vf=He and He[HW]or nil if Vf==nil and He~=nil then Vu=b0[nJ[57340]](He)VC=Vu and Vu[(J((236-216),hv)and tM or nil)]VK=nC(VC)if VK==nx then Vf=VC(He,HW)elseif VK==nq then Vf=VC[HW]end end if Vf==nil and nC(He)==nt then Vf=bD and bD[HW]or nil end if Vf==nil and He~=nil and nC(He)~=nq then Vu=Vu or b0[nJ[57340]](He)VC=Vu and Vu[(J((46*6+2),hv)and tM or nil)]if nC(VC)==nx then Vf=VC end end Vz=nC(Vf)if Vz==nx then if HZ==2 then VG=Vf(He,lr[Ho+2],lr[Ho+3])else Vf(He,lr[Ho+2],lr[Ho+3])end else Vu=b0[nJ[57340]](Vf)Vm=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if Vm then if HZ==2 then VG=Vm(Vf,He,lr[Ho+2],lr[Ho+3])else Vm(Vf,He,lr[Ho+2],lr[Ho+3])end else b0[nJ[20565]]()end end if HZ==2 then lr[Ho]=VG lM=Ho+1 else lM=Ho end nj=lM nf=true Vh=HP[HH[lt]+8]if Vh then lt=Vh else lt=lt+1 end lv=true lc=true end else if lq==188 then lc=true Hg=b0[nJ[ng[56080]]]if Hg then Ho=HH[lt]HJ=(Hb[lt]or 0)+((Hn[lt]or 0)*(324-68))local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a HZ=Ho+4+HJ Hp=HP[HZ]if Hp then He=#Hg if He and He>0 then HW=(l2[lt]or 0)HD=HZ+HW HI=b0[nJ[11966]](HD/He)P9=HD-(HI*He)+1 Vb=Hg[P9]if Vb then rb=b0[Vb]if rb==nil then do local Ho=b0[nJ[ng[28698]]];local HJ=b0[nJ[ng[42686]]];local HZ=b0[nJ[ng[23980]]];local Hp=b0[nJ[ng[40604]]];HZ(Ho,b0[nJ[ng[38509]]],b0[nJ[ng[55208]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[23587]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[31809]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[31809]]],He+HW)end end end end end end end lt=lt+1 lv=true lc=true end end else if lq==190 then Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]local lE=b0[nJ[14846]]local Vc=lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])if Vc then local Vv=5+((l2[lt]or 0)+(Hb[lt]or 0)+(Hn[lt]or 0))%46 local VN=lt+Vv local VQ=#l5 if VQ and VQ>0 and VN>VQ then VN=VQ-(Vv%3)end l5[VN]=122 b0[nJ[6286]]=nil end Hp=lr[HJ]local Hg=lr[HZ]local He=lr[HZ+1]lr[Ho]=Hp(Hg,He)Hp=nil lc=true end end end else if lq<=221 then if lq<=219 then if lq<=218 then if lq==218 then lc=true local Vu=xn[5323]if not Vu then xn[5323]=true local VJ=l2[lt]or 0 local VZ=Hb[lt]or 0 local Vp=Hn[lt]or 0 local Vg=(VJ*65599+VZ*31+Vp)%me if Vg==0 then Vg=1 end local Ve=b0[nJ[45766]]local VW=b0[nJ[60419]]local VD=b0[nJ[12626]]local VI=b7(Vg,Ve)VI=b7(VI,VW*31%me)VI=(VI+VD+(xn.VT or 0))%me local Vn=b0[nJ[18459]][3]or 0 local Vj=b7(b7(b7(Vn,(((xn.VT or 0)+1)*257)%me),Ve),VD)%me if Vj==0 then Vj=1 end local Vf=((Vj*48271)+81)%me if Vf==0 then Vf=1 end VI=(VI+Vf)%me if VI==0 then VI=1 end xn[3393]=((VI*48271)+81)%me if xn[3393]==0 then xn[3393]=1 end if b5[nW(270,nD,5)]then local VC=xn[3393]Ho=b5[nW(270,nD,5)]((VC and(VC-VC+1))or 1)if Ho~=b0[nJ[ng[58927]]]then do local Ho=b0[nJ[ng[47824]]];local HJ=b0[nJ[ng[32371]]];local HZ=b0[nJ[ng[51751]]];local Hp=b0[nJ[ng[53382]]];HZ(Ho,b0[nJ[ng[24223]]],b0[nJ[ng[34348]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[36802]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[22908]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[22908]]],He+HW)end end end end if b0[nJ[ng[58927]]][33531]~=18475 then l5[lt+8]=240 end end lc=true end else if lq==219 then Ho=lr[Hb[lt]]if Ho then lr[l2[lt]]=Ho else lr[l2[lt]]=lr[Hn[lt]]end if false then lr[l2[lt]]=lr[l2[lt]]end lc=true end end else if lq==221 then if(HC[lt]or 0)==0 then VM=((lt*233)+9)%((6*16)+160)VR=((lt*241)+35)%((6*16)+160)Hn[lt]=b7(Hn[lt],VM)Hj[lt]=b7(Hj[lt],VR)Hf[lt]=b7(Hf[lt],VM)Hu[lt]=b7(Hu[lt],VR)HC[lt]=1 end Ho=Hn[lt]+(Hj[lt]*((6*16)+160))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+129+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%((6*16)+160)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/((6*16)+160))%((6*16)+160)),((Vv*73+lt*17+113)%((6*16)+160)))Ho=lE+(Vc*((6*16)+160))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ=b0[nJ[8717]][HJ]lr[Hb[lt]]=HZ Ho=Hf[lt]+(Hu[lt]*((6*16)+160))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+129+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%((6*16)+160)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/((6*16)+160))%((6*16)+160)),((Vv*73+lt*17+113)%((6*16)+160)))Ho=lE+(Vc*((6*16)+160))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)lr[l2[lt]]=HZ[HJ]HJ=nil HZ=nil lc=true end end else if lq<=231 then if lq<=222 then if lq==222 then Vl=Hb if type(Vl)~='table'then Vl=xn[6834]end if type(Vl)~='table'then Vl={}end VH=Hn if type(VH)~='table'then VH=xn[2879]end if type(VH)~='table'then VH={}end VP=Hf if type(VP)~='table'then VP=xn[6029]end if type(VP)~='table'then VP={}end VV=Hu if type(VV)~='table'then VV=xn[7410]end if type(VV)~='table'then VV={}end VO=t7 if type(VO)~='table'then VO=b0[nJ[27072]]end if type(VO)~='table'then VO={}end HW=((lt*172)+242)%(83+89+84)HD=((lt*11)+244)%(83+89+84)Ho=b7(Vl[lt],HW)+(b7(VH[lt],HD)*(83+89+84))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+18+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%(83+89+84)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/(83+89+84))%(83+89+84)),((Vv*73+lt*17+192)%(83+89+84)))Ho=lE+(Vc*(83+89+84))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(VO[Ho+1],hv)and tM or nil)HZ=b7(VP[lt],HW)+(b7(VV[lt],HD)*(83+89+84))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+18+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((HZ%(83+89+84)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](HZ/(83+89+84))%(83+89+84)),((Vv*73+lt*17+192)%(83+89+84)))HZ=lE+(Vc*(83+89+84))end end Hp=(((type(J)=='function'and J)or b0[nJ[7668]])(VO[HZ+1],hv)and tM or nil)lr[Hj[lt]]=Hp Hg=lr[l2[lt]]He=Hp if Hg then Hg[HJ]=He end HJ=nil HZ=nil Hp=nil Hg=nil He=nil lc=true end else if lq==231 then Ho=0 if(HC[lt]or 0)==0 then HJ=((lt*207)+171)%256 HZ=((lt*66)+21)%256 Hf[lt]=b7((Hn[lt]or 0),HJ)Hu[lt]=b7((Hj[lt]or 0),HZ)HC[lt]=1 end Ho=(Hf[lt]or 0)+((Hu[lt]or 0)*256)lr[l2[lt]]=lr[Hb[lt]]%(A0[Ho]or 0)if nm and nC(lr[l2[lt]])==nE and b0[nJ[11966]](lr[l2[lt]])==lr[l2[lt]]then lr[l2[lt]]=b0[nJ[11966]](lr[l2[lt]])end lc=true end end else if lq==248 then Ho=l2[lt]HJ=Hb[lt]if false then HJ=HJ end HZ=lS[HJ+1]HD=lr[Ho]if nm and nC(HD)==nE and b0[nJ[11966]](HD)==HD then HD=b0[nJ[11966]](HD)end Hp=nC(HZ)if Hp==nq and HZ[7747]then if HZ[3253]then HZ[7963]=HD HZ[1]=HD HZ[2]=nil else HW=HZ[2]if HW~=nil then Hg=HZ[1]if Hg then Hg[HW]=HD end else HZ[1]=HD HZ[7963]=HD HZ[3253]=true end end else lS[HJ+1]=HD end lc=true end end end end end elseif l0==7 then if lq<=108 then if lq<=66 then if lq<=30 then if lq<=11 then if lq<=6 then if lq==6 then Ho=l2[lt]HJ=Hb[lt]+(Hn[lt]*256)HZ=Ag[HJ]if not HZ then b0[nJ[ng[44248]]]()end if not lE then lE={}end local Vn=false if HZ[(J(((375-20+(31-31))),hv)and tM or nil)]and not HZ[(J((283+82),hv)and tM or nil)]then local Vj=HZ[(J((53*7+5),hv)and tM or nil)]local Vf=nil local Vu=0 if Vj then Vf={}local VL={}Vf[0]=VL local Vk=b0[nJ[39435]]local VC=0 if u then VC=u["\116\97"]or 0 end for VK,Vz in b0[nJ[40051]](Vj)do if Vz[1]then local Vm=Vz[2]local VG=VC+Vm do local V0=VG local V5=lE[V0]if nC(V5)~=nq or(not V5[7747])or V5[3902]~=V0 or V5[4171]~=lr then V5={[7747]=true,[4171]=lr,[3902]=V0,[3253]=false,[7963]=nil,[1]=lr,[2]=V0}lE[V0]=V5 end Vf[VK]=function(V2,...)if V2==VL then if Vk('#',...)>0 then local V4=...if V5[3253]then V5[7963]=V4 else lr[VG]=V4 end return end if V5[3253]then return V5[7963]end return lr[VG]end local V3 if V5[3253]then V3=V5[7963]else V3=lr[VG]end return V3(V2,...)end end else local Vm=Vz[2]+1 Vf[VK]=function(V2,...)if V2==VL then if Vk('#',...)>0 then local V4=...local V5=lS[Vm]if nC(V5)==nq and V5[7747]then if V5[3253]then V5[7963]=V4 else local V6=V5[3902]V5[4171][V6]=V4 end else lS[Vm]=V4 end return end local V5=lS[Vm]if nC(V5)==nq and V5[7747]then if V5[3253]then V5=V5[7963]else local V6=V5[3902]V5=V5[4171][V6]end end return V5 end local V3=lS[Vm]if nC(V3)==nq and V3[7747]then if V3[3253]then V3=V3[7963]else local V6=V3[3902]V3=V3[4171][V6]end end return V3(V2,...)end end end Vu=0 local V7=63 local V8=226 local V1=lt+1 while l5[V1]==V7 or l5[V1]==V8 do Vu=Vu+1;V1=V1+1 end end lr[Ho]=HZ[(J(((375-20+(31-31))),hv)and tM or nil)](b0[nJ[41518]],Vf)do local V9=b0[nJ[41518]][(J((196-177),hv)and tM or nil)]if V9 then V9(lr[Ho],b0[nJ[41518]])end end lt=lt+1+Vu lv=true Vn=true end if not Vn then local Vw=HZ[4468]Hp={}if Vw and Vw[1]~=nil then if Vw[2]==nil then Hg=Vw[1]if Hg.Nk then He=Hg.Ez if not lE[He]then lE[He]={[7747]=true,[4171]=lr,[3902]=He,[3253]=false,[7963]=nil,[1]=lr,[2]=He}end Hp[1]=lE[He]else Hp[1]=lS[Hg.Ez+1]end else for P9,Hg in b0[nJ[40051]](Vw)do if Hg.Nk then He=Hg.Ez if not lE[He]then lE[He]={[7747]=true,[4171]=lr,[3902]=He,[3253]=false,[7963]=nil,[1]=lr,[2]=He}end Hp[P9]=lE[He]else Hp[P9]=lS[Hg.Ez+1]end end end end lr[Ho]=b0[nJ[22035]](HZ,Hp)b0[nJ[6953]](lr[Ho],b0[nJ[ng[29127]]])local Ob=0 local Oj=63 local Of=226 local On=lt+1 while l5[On]==Oj or l5[On]==Of do Ob=Ob+1;On=On+1 end if Ob>0 then lt=lt+1+Ob lv=true end end lc=true end else if lq==11 then Ho=0 if(HC[lt]or 0)==0 then HJ=((lt*12)+87)%256 HZ=((lt*184)+161)%256 Hf[lt]=b7((Hn[lt]or 0),HJ)Hu[lt]=b7((Hj[lt]or 0),HZ)HC[lt]=1 end Ho=(Hf[lt]or 0)+((Hu[lt]or 0)*256)lr[l2[lt]]=lr[Hb[lt]]+(A0[Ho]or 0)if nm and nC(lr[l2[lt]])==nE and b0[nJ[11966]](lr[l2[lt]])==lr[l2[lt]]then lr[l2[lt]]=b0[nJ[11966]](lr[l2[lt]])end lc=true end end else if lq<=25 then if lq==25 then local Vf,Vu,VC,VK,Vz,Vm,VG,Vh,VS,Vt Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]Hp=Hj[lt]Hg=lS[HJ+1]HW=nC(Hg)if HW==nq and Hg[7747]then if Hg[3253]then He=Hg[7963]else local Vr=Hg.P9 HD=Hg[3902]if Vr and HD~=nil then He=Vr[HD]else He=Hg[4171][Hg[3902]]end end else He=Hg end if nm and nC(He)==nE and b0[nJ[11966]](He)==He then He=b0[nJ[11966]](He)end lr[Ho]=He Vf=lr[Ho+1]Vu=lr[Ho+2]VC=lr[Ho+3]HW=nC(He)if HW==nx then if HZ==1 then if Hp==1 then He()elseif Hp==2 then Vm=He()elseif Hp==3 then Vm,VG=He()else Vm,VG,Vh=He()end elseif HZ==2 then if Hp==1 then He(Vf)elseif Hp==2 then Vm=He(Vf)elseif Hp==3 then Vm,VG=He(Vf)else Vm,VG,Vh=He(Vf)end elseif HZ==3 then if Hp==1 then He(Vf,Vu)elseif Hp==2 then Vm=He(Vf,Vu)elseif Hp==3 then Vm,VG=He(Vf,Vu)else Vm,VG,Vh=He(Vf,Vu)end else if Hp==1 then He(Vf,Vu,VC)elseif Hp==2 then Vm=He(Vf,Vu,VC)elseif Hp==3 then Vm,VG=He(Vf,Vu,VC)else Vm,VG,Vh=He(Vf,Vu,VC)end end else VK=b0[nJ[57340]](He)Vz=VK and VK[(J(((264+250-235)),hv)and tM or nil)]if Vz then if HZ==1 then if Hp==1 then Vz(He)elseif Hp==2 then Vm=Vz(He)elseif Hp==3 then Vm,VG=Vz(He)else Vm,VG,Vh=Vz(He)end elseif HZ==2 then if Hp==1 then Vz(He,Vf)elseif Hp==2 then Vm=Vz(He,Vf)elseif Hp==3 then Vm,VG=Vz(He,Vf)else Vm,VG,Vh=Vz(He,Vf)end elseif HZ==3 then if Hp==1 then Vz(He,Vf,Vu)elseif Hp==2 then Vm=Vz(He,Vf,Vu)elseif Hp==3 then Vm,VG=Vz(He,Vf,Vu)else Vm,VG,Vh=Vz(He,Vf,Vu)end else if Hp==1 then Vz(He,Vf,Vu,VC)elseif Hp==2 then Vm=Vz(He,Vf,Vu,VC)elseif Hp==3 then Vm,VG=Vz(He,Vf,Vu,VC)else Vm,VG,Vh=Vz(He,Vf,Vu,VC)end end else b0[nJ[20565]]()end end if Hp==2 then lr[Ho]=Vm lM=Ho+1 elseif Hp==3 then lr[Ho]=Vm;lr[Ho+1]=VG lM=Ho+2 elseif Hp==4 then lr[Ho]=Vm;lr[Ho+1]=VG;lr[Ho+2]=Vh lM=Ho+3 else lM=Ho end nj=lM nf=true VS=HP[HH[lt]+8]if VS then lt=VS else lt=lt+1 end lv=true lc=true end else if lq==30 then Ho=l2[lt]HJ=Hb[lt]local zj=b1 local lE=b0[nJ[14846]]if lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])then b0[nJ[6286]]=nil b0[nJ[50078]](lE,b0[nJ[ng[42169]]],b0[nJ[42034]])lr=nil HJ=2 end if HJ==0 then return zj(lr,Ho,lM-1)elseif HJ==1 then return else HZ=HJ-1 return zj(lr,Ho,Ho+HZ-1)end lc=true end end end else if lq<=59 then if lq<=58 then if lq==58 then Ho=lr[l2[lt]]HJ=lr[Hj[lt]]Hg=HV HW=not(Ho<=HJ)if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end else if lq==59 then Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]Hp=Hj[lt]+(Hf[lt]*(128+128))+(Hu[lt]*(32*1024+32*1024))+(HC[lt]*(4096*4096))Hg=0 if HZ==0 then HD=lM or HJ Hg=HD-HJ else Hg=HZ-1 end if Hg<0 then Hg=0 end He=lr[Ho]if He then for HW=0,Hg-1 do He[Hp+HW]=lr[HJ+HW]end end if false then He=He end lc=true end end else if lq<=64 then if lq==64 then lr[Hn[lt]]=(Hj[lt]~=0)HZ=HH[lt]Hp=l2[lt]+(Hb[lt]*(324-68))local _a=(Hp>=(128*256))and-(64*1024)or 0;Hp=Hp+_a Hg=HZ+8+Hp He=HP[Hg]if He then lt=He else lt=lt+1 end lv=true lc=true end else if lq==66 then lt=HB[lt]lv=true lc=true end end end end else if lq<=86 then if lq<=76 then if lq<=71 then if lq==71 then if not b6.rb then b6.rb=true local Vb=(b6.VC or 0)b6.VC=Vb+1 end lc=true end else if lq==76 then Vl=Hb if type(Vl)~='table'then Vl=xn[6834]end if type(Vl)~='table'then Vl={}end VH=Hn if type(VH)~='table'then VH=xn[2879]end if type(VH)~='table'then VH={}end VP=t7 if type(VP)~='table'then VP=b0[nJ[27072]]end if type(VP)~='table'then VP={}end He=((lt*11)+200)%(37+90+129)HW=((lt*203)+58)%(37+90+129)Ho=b7(Vl[lt],He)+(b7(VH[lt],HW)*(37+90+129))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+76+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%(37+90+129)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/(37+90+129))%(37+90+129)),((Vv*73+lt*17+218)%(37+90+129)))Ho=lE+(Vc*(37+90+129))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(VP[Ho+1],hv)and tM or nil)HZ=(Hf[lt]~=0)lr[Hj[lt]]=HZ Hp=lr[l2[lt]]if Hp then Hp[HJ]=HZ end if false then Hp[HJ]=HZ end HJ=nil HZ=nil Hp=nil Hg=nil Vl=nil VH=nil VP=nil lc=true end end else if lq<=84 then if lq==84 then Ho=lr[Hb[lt]]lr[l2[lt]]=Ho%lr[Hn[lt]]if nm and nC(lr[l2[lt]])==nE and b0[nJ[11966]](lr[l2[lt]])==lr[l2[lt]]then lr[l2[lt]]=b0[nJ[11966]](lr[l2[lt]])end lc=true end else if lq==86 then Ho=l2[lt]Hg=lr[Ho+1]He=lr[Ho+2]HZ=Hj[lt]Vf=Hu[lt]or 0 if Vf~=0 then Hp=lr[Ho]if Vf==2 and Hp==b0[nJ[18516]]and nC(Hg)==nq then Vu,VC=b0[nJ[18516]](Hg,He)else Vu,VC=Hp(Hg,He)end if Vu~=nil then lr[Ho+2]=Vu if HZ>=1 then lr[Ho+3]=Vu end if HZ>=2 then lr[Ho+4]=VC end for Vb=3,HZ do lr[Ho+2+Vb]=nil end Hp=HH[lt]HJ=Hb[lt]+(Hn[lt]*(196+60))local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a Hp=Hp+8+HJ local rb=HP[Hp]if rb then lt=rb else lt=lt+1 end else lt=lt+1 end lv=true else VK=3 if Hf[lt]~=0 then VK=Hf[lt]elseif xn and xn[(J((287+13),hv)and tM or nil)]~=nil then VK=xn[(J((287+13),hv)and tM or nil)]end Hp=lr[Ho]HW={Hp(Hg,He)}He=VK HD=1 if nC(HW[1])==ni then if HW[1]==false then HD=nil else HD=2 end end if HD then if He<3 then He=3 end Hp=Ho+He for Vb=1,HZ do lr[Hp+(Vb-1)]=HW[HD+(Vb-1)]end Hg=HW[HD]if Hg~=nil then lr[Ho+2]=Hg Hp=HH[lt]HJ=Hb[lt]+(Hn[lt]*(196+60))local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a Hp=Hp+8+HJ local rb=HP[Hp]if rb then lt=rb else lt=lt+1 end else lt=lt+1 end end end lv=true lc=true end end end else if lq<=103 then if lq<=100 then if lq==100 then local Vf,Vu,VC,VK,Vm,VG,Vz,Vh,VS,Vr,VE Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]Hp=lr[HJ]lr[Ho+2]=Hp Hg=lr[Ho+1]He=lr[Ho]VK,Vm,VG,VS,Vr=nil,nil,nil,nil,nil Vf=nC(He)if HZ==0 then Vh=b0[nJ[60561]]if Vf==nx then VS=Vh(nil,He(Hg,Hp))else Vu=b0[nJ[57340]](He)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then VS=Vh(nil,VC(He,Hg,Hp))else b0[nJ[20565]]()end end Vr=VS.n or#VS for VE=1,Vr do lr[Ho+VE-1]=VS[VE]end lM=Ho+Vr else if Vf==nx then if HZ==1 then He(Hg,Hp)elseif HZ==2 then VK=He(Hg,Hp)elseif HZ==3 then VK,Vm=He(Hg,Hp)else VK,Vm,VG=He(Hg,Hp)end else Vu=b0[nJ[57340]](He)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then if HZ==1 then VC(He,Hg,Hp)elseif HZ==2 then VK=VC(He,Hg,Hp)elseif HZ==3 then VK,Vm=VC(He,Hg,Hp)else VK,Vm,VG=VC(He,Hg,Hp)end else b0[nJ[20565]]()end end if HZ==2 then lr[Ho]=VK lM=Ho+1 elseif HZ==3 then lr[Ho]=VK;lr[Ho+1]=Vm lM=Ho+2 elseif HZ==4 then lr[Ho]=VK;lr[Ho+1]=Vm;lr[Ho+2]=VG lM=Ho+3 else lM=Ho end end nj=lM nf=true Vz=HP[HH[lt]+8]if Vz then lt=Vz else lt=lt+1 end lv=true lc=true end else if lq==103 then Ho=l2[lt]HJ=Hb[lt]local zj=b1 local lE=b0[nJ[14846]]if lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])then b0[nJ[6286]]=nil b0[nJ[50078]](lE,b0[nJ[ng[42169]]],b0[nJ[42034]])lr=nil HJ=2 end if HJ==0 then return zj(lr,Ho,lM-1)elseif HJ==1 then return else HZ=HJ-1 return zj(lr,Ho,Ho+HZ-1)end lc=true end end else if lq==108 then if not b6.rj then b6.rj=true local Vu=b0[nJ[ng[54955]]](b0[nJ[ng[25392]]][(J(((232+111-332)),hv)and tM or nil)],nil)local Vn,_=b0[nJ[ng[52224]]](Vu)local Ho=(l2[lt]or 0)+((Hb[lt]or 0)*17)Ho=Ho+(Hn[lt]or 0)if Ho<0 then Ho=0-Ho end local HJ=Ho+123 local VK=b0[nJ[ng[42058]]](b0[nJ[ng[32420]]],HJ,(J(((169+173)),hv)and tM or nil))local Vj,_=b0[nJ[ng[24239]]](VK)if Vn or Vj then local Vf=lt+14 if Vf<=#l5 then l5[Vf]=19 end end end lc=true end end end end else if lq<=172 then if lq<=128 then if lq<=117 then if lq<=110 then if lq==110 then Ho=l2[lt]HJ=Hn[lt]+(Hj[lt]*(77+65+114))local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a HZ=lr[Hb[lt]]if Hf[lt]~=0 then lr[Ho]=HJ%HZ else lr[Ho]=HZ%HJ end if nm and nC(lr[Ho])==nE and b0[nJ[11966]](lr[Ho])==lr[Ho]then lr[Ho]=b0[nJ[11966]](lr[Ho])end Hp=HP[HH[lt]+8]if Hp then lt=Hp else lt=lt+1 end lv=true lc=true end else if lq==117 then Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]local lE=b0[nJ[14846]]local Vc=lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])if Vc then local Vv=5+((l2[lt]or 0)+(Hb[lt]or 0)+(Hn[lt]or 0))%46 local VN=lt+Vv local VQ=#l5 if VQ and VQ>0 and VN>VQ then VN=VQ-(Vv%3)end l5[VN]=122 b0[nJ[6286]]=nil end Hp=lr[HJ]local Hg=lr[HZ]local He=lr[HZ+1]Hp(Hg,He)Hp=nil lc=true end end else if lq<=121 then if lq==121 then Ho=0 if(HC[lt]or 0)==0 then HJ=((lt*139)+157)%256 HZ=((lt*58)+215)%256 Hf[lt]=b7((Hn[lt]or 0),HJ)Hu[lt]=b7((Hj[lt]or 0),HZ)HC[lt]=1 end Ho=(Hf[lt]or 0)+((Hu[lt]or 0)*256)lr[l2[lt]]=lr[Hb[lt]]*(A0[Ho]or 0)if nm and nC(lr[l2[lt]])==nE and b0[nJ[11966]](lr[l2[lt]])==lr[l2[lt]]then lr[l2[lt]]=b0[nJ[11966]](lr[l2[lt]])end lc=true end else if lq==128 then HD=((lt+(l2[lt]*19)+(Hb[lt]*31)+(Hn[lt]*47)+25659)%3)if(HC[lt]or 0)==0 then He=((lt*4)+133)%(128+128)HW=((lt*182)+255)%(128+128)Hj[lt]=b7(Hb[lt],He)Hf[lt]=b7(Hn[lt],HW)Hg=(Hu[lt]or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+237+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hg)Hf[lt]=b7(Hf[lt],((Hg*73+lt*17+93)%(128+128)))end HC[lt]=1 end if HD==1 then Ho=(Hf[lt]*(128+128))+Hj[lt]else Ho=Hj[lt]+(Hf[lt]*(128+128))end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)if HD==0 then b0[nJ[8717]][HJ]=lr[l2[lt]]elseif HD==1 then HZ=lr[l2[lt]]b0[nJ[8717]][HJ]=HZ else HZ=lr[l2[lt]]Hp=b0[nJ[8717]]Hp[HJ]=HZ end HJ=nil HZ=nil Hp=nil HD=nil He=nil HW=nil Hg=nil lc=true end end end else if lq<=158 then if lq<=134 then if lq==134 then HI=l2[lt]HD=Hb[lt]rj=((lt*233)+218)%(2*128)Vn=((lt*247)+28)%(2*128)Ho=b7(Hn[lt],rj)+(b7(Hj[lt],Vn)*(2*128))HJ={}HW=b0[nJ[43415]][Ho]if HW then for Vb=1,#HW do rb=HW[Vb]HJ[rb]=false end end if false then HJ[0]=nil end HZ=b7(Hf[lt],rj)+(b7(Hu[lt],Vn)*(2*128))Hp=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[HZ+1],hv)and tM or nil)Hg=b7(HC[lt],rj)+(b7(HK[lt],Vn)*(2*128))He=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Hg+1],hv)and tM or nil)lr[HI]=HJ lr[HD]=He HJ[Hp]=He Ho=nil HJ=nil HZ=nil Hp=nil Hg=nil He=nil HW=nil HD=nil HI=nil lc=true end else if lq==158 then Ho=0 if(HC[lt]or 0)==0 then HJ=((lt*27)+50)%256 HZ=((lt*213)+52)%256 Hf[lt]=b7((Hn[lt]or 0),HJ)Hu[lt]=b7((Hj[lt]or 0),HZ)HC[lt]=1 end Ho=(Hf[lt]or 0)+((Hu[lt]or 0)*256)lr[l2[lt]]=lr[Hb[lt]]/(A0[Ho]or 0)if nm and nC(lr[l2[lt]])==nE and b0[nJ[11966]](lr[l2[lt]])==lr[l2[lt]]then lr[l2[lt]]=b0[nJ[11966]](lr[l2[lt]])end lc=true end end else if lq==172 then lr[l2[lt]]=lr[Hb[lt]]HW=not(lr[l2[lt]])if HW then lt=HB[lt]else lt=lt+1 end lv=true lc=true end end end else if lq<=226 then if lq<=187 then if lq<=179 then if lq==179 then Ho=l2[lt]HJ=Hb[lt]HZ=lS[HJ+1]Hp=nC(HZ)if Hp==nq and HZ[7747]then if HZ[3253]then Hp=HZ[7963]else HW=HZ[2]if HW~=nil then HD=HZ[1]if HD then Hp=HD[HW]else Hp=nil end else Hp=HZ[1]end end else Hp=HZ end if false then Hp=Hp end if nm and nC(Hp)==nE and b0[nJ[11966]](Hp)==Hp then Hp=b0[nJ[11966]](Hp)end lr[Ho]=Hp lc=true end else if lq==187 then lc=true Ho=l2[lt]or 0 HJ=Hb[lt]or 0 if(Ho+HJ)>=0 then P9=b0[nJ[62663]]if P9 and b0[nJ[ng[52971]]]~=P9 then do local Ho=b0[nJ[ng[25112]]];local HJ=b0[nJ[ng[57231]]];local HZ=b0[nJ[ng[57057]]];local Hp=b0[nJ[ng[35589]]];HZ(Ho,b0[nJ[ng[51109]]],b0[nJ[ng[56860]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[38230]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[45740]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[45740]]],He+HW)end end end end lt=lt+1 lv=true lc=true end end else if lq<=192 then if lq==192 then Ho=lr[l2[lt]]HJ=lr[Hj[lt]]Hg=HV HW=not(Ho<=HJ)if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end else if lq==226 then local zj=b1 Ho=l2[lt]HJ=2 HZ=((Hb[lt]-Hn[lt])%256)local Ou=lM or 0 local lE=b0[nJ[14846]]local Vc=lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])if Vc then local Vv=5+((l2[lt]or 0)+(Hb[lt]or 0)+(Hn[lt]or 0))%46 local VN=lt+Vv local VQ=#l5 if VQ and VQ>0 and VN>VQ then VN=VQ-(Vv%3)end l5[VN]=122 b0[nJ[6286]]=nil end Hp=lr[Ho]if HJ==0 then He=lM-Ho-1 else He=HJ-1 end if HZ==0 then local Vb=b0[nJ[60561]]Hg=Vb(nil,Hp(zj(lr,Ho+1,Ho+He)))HD=Hg.n or#Hg for P9=1,HD do lr[Ho+P9-1]=Hg[P9]end lM=Ho+HD else HW=HZ-1 if He==0 then if HW==0 then Hp()if Vc then lr[Ho]=nil end elseif HW==1 then lr[Ho]=Hp()elseif HW==2 then local OC,OK=Hp()lr[Ho]=OC lr[Ho+1]=OK elseif HW==3 then local OC,OK,Oz=Hp()lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz else local Vb=b0[nJ[60561]]Hg=Vb(HW,Hp())for P9=1,HW do lr[Ho+P9-1]=Hg[P9]end end else local OE=lr[Ho+1]local Ot=lr[Ho+2]local Oq=lr[Ho+3]if HW==0 then if He==0 then Hp()elseif He==1 then Hp(OE)elseif He==2 then Hp(OE,Ot)elseif He==3 then Hp(OE,Ot,Oq)else Hp(zj(lr,Ho+1,Ho+He))end if Vc then lr[Ho]=nil end elseif HW==1 then local OC if He==0 then OC=Hp()elseif He==1 then OC=Hp(OE)elseif He==2 then OC=Hp(OE,Ot)elseif He==3 then OC=Hp(OE,Ot,Oq)else OC=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC elseif HW==2 then local OC,OK if He==0 then OC,OK=Hp()elseif He==1 then OC,OK=Hp(OE)elseif He==2 then OC,OK=Hp(OE,Ot)elseif He==3 then OC,OK=Hp(OE,Ot,Oq)else OC,OK=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK elseif HW==3 then local OC,OK,Oz if He==0 then OC,OK,Oz=Hp()elseif He==1 then OC,OK,Oz=Hp(OE)elseif He==2 then OC,OK,Oz=Hp(OE,Ot)elseif He==3 then OC,OK,Oz=Hp(OE,Ot,Oq)else OC,OK,Oz=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz elseif HW==4 then local OC,OK,Oz,Om if He==0 then OC,OK,Oz,Om=Hp()elseif He==1 then OC,OK,Oz,Om=Hp(OE)elseif He==2 then OC,OK,Oz,Om=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om=Hp(OE,Ot,Oq)else OC,OK,Oz,Om=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om elseif HW==5 then local OC,OK,Oz,Om,OG if He==0 then OC,OK,Oz,Om,OG=Hp()elseif He==1 then OC,OK,Oz,Om,OG=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG elseif HW==6 then local OC,OK,Oz,Om,OG,Oh if He==0 then OC,OK,Oz,Om,OG,Oh=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh elseif HW==7 then local OC,OK,Oz,Om,OG,Oh,OS if He==0 then OC,OK,Oz,Om,OG,Oh,OS=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh,OS=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh lr[Ho+6]=OS elseif HW==8 then local OC,OK,Oz,Om,OG,Oh,OS,Or if He==0 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh lr[Ho+6]=OS lr[Ho+7]=Or else local Vb=b0[nJ[60561]]Hg=Vb(HW,Hp(zj(lr,Ho+1,Ho+He)))for P9=1,HW do lr[Ho+P9-1]=Hg[P9]end end end end local Ox=lM or 0 if Ou>Ox then local Oi=Ou-1 local OM=Ox+31 if OM<Oi then Oi=OM end for OR=Ox,Oi do lr[OR]=nil end end Hg=nil Hp=nil lc=true end end end else if lq<=238 then if lq<=237 then if lq==237 then lr[l2[lt]]=(Hb[lt]~=0)if Hn[lt]~=0 then lt=lt+1 lv=true end lc=true end else if lq==238 then if(HC[lt]or 0)==0 then HJ=((lt*25)+98)%((10*18)+76)HZ=((lt*176)+228)%((10*18)+76)Hj[lt]=b7(Hb[lt],HJ)Hf[lt]=b7(Hn[lt],HZ)Hp=(Hu[lt]or 0)if Hp~=0 then Hp=(((Hp+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+34+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hp)Hf[lt]=b7(Hf[lt],((Hp*73+lt*17+240)%((10*18)+76)))end HC[lt]=1 end Ho=Hj[lt]+(Hf[lt]*((10*18)+76))lr[l2[lt]]=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HJ=nil HZ=nil Hp=nil lc=true end end else if lq==241 then HD=((45001+(lt*5)+(Hn[lt]*47)+(Hb[lt]*31)+(l2[lt]*17))%3)Hp=(8-8)if Hp>0 then Hp=Hp-1 end if HD==0 then lr[l2[lt]]=lr[Hb[lt]][lr[Hn[lt]]]elseif HD==1 then Ho=lr[Hb[lt]]lr[l2[lt]]=Ho[lr[Hn[lt]]]else Ho=lr[Hb[lt]]HJ=lr[Hn[lt]]lr[l2[lt]]=Ho[HJ]end HD=nil lc=true end end end end end elseif l0==8 then if lq<=146 then if lq<=85 then if lq<=48 then if lq<=29 then if lq<=5 then if lq==5 then lc=true Ho=l2[lt]HJ=Hb[lt]+Hn[lt]*(64+192)HZ=b0[nJ[ng[40210]]]if HZ and b0[nJ[ng[43491]]](HZ)==nx then Hp=HZ if Hp then b0[nJ[ng[30989]]](Hp,b0[nJ[ng[50106]]][(J(((232+111-332)),hv)and tM or nil)])end if Hp then b0[nJ[ng[30989]]](Hp,b0[nJ[ng[21573]]])end end Hp=nil lt=lt+1 lv=true lc=true end else if lq==29 then local zj=b1 Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]local Ou=lM or 0 local lE=b0[nJ[14846]]local Vc=lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])if Vc then local Vv=5+((l2[lt]or 0)+(Hb[lt]or 0)+(Hn[lt]or 0))%46 local VN=lt+Vv local VQ=#l5 if VQ and VQ>0 and VN>VQ then VN=VQ-(Vv%3)end l5[VN]=122 b0[nJ[6286]]=nil end Hp=lr[Ho]if HJ==0 then He=lM-Ho-1 else He=HJ-1 end if HZ==0 then local Vb=b0[nJ[60561]]Hg=Vb(nil,Hp(zj(lr,Ho+1,Ho+He)))HD=Hg.n or#Hg for P9=1,HD do lr[Ho+P9-1]=Hg[P9]end lM=Ho+HD else HW=HZ-1 if He==0 then if HW==0 then Hp()if Vc then lr[Ho]=nil end elseif HW==1 then lr[Ho]=Hp()elseif HW==2 then local OC,OK=Hp()lr[Ho]=OC lr[Ho+1]=OK elseif HW==3 then local OC,OK,Oz=Hp()lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz else local Vb=b0[nJ[60561]]Hg=Vb(HW,Hp())for P9=1,HW do lr[Ho+P9-1]=Hg[P9]end end else local OE=lr[Ho+1]local Ot=lr[Ho+2]local Oq=lr[Ho+3]if HW==0 then if He==0 then Hp()elseif He==1 then Hp(OE)elseif He==2 then Hp(OE,Ot)elseif He==3 then Hp(OE,Ot,Oq)else Hp(zj(lr,Ho+1,Ho+He))end if Vc then lr[Ho]=nil end elseif HW==1 then local OC if He==0 then OC=Hp()elseif He==1 then OC=Hp(OE)elseif He==2 then OC=Hp(OE,Ot)elseif He==3 then OC=Hp(OE,Ot,Oq)else OC=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC elseif HW==2 then local OC,OK if He==0 then OC,OK=Hp()elseif He==1 then OC,OK=Hp(OE)elseif He==2 then OC,OK=Hp(OE,Ot)elseif He==3 then OC,OK=Hp(OE,Ot,Oq)else OC,OK=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK elseif HW==3 then local OC,OK,Oz if He==0 then OC,OK,Oz=Hp()elseif He==1 then OC,OK,Oz=Hp(OE)elseif He==2 then OC,OK,Oz=Hp(OE,Ot)elseif He==3 then OC,OK,Oz=Hp(OE,Ot,Oq)else OC,OK,Oz=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz elseif HW==4 then local OC,OK,Oz,Om if He==0 then OC,OK,Oz,Om=Hp()elseif He==1 then OC,OK,Oz,Om=Hp(OE)elseif He==2 then OC,OK,Oz,Om=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om=Hp(OE,Ot,Oq)else OC,OK,Oz,Om=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om elseif HW==5 then local OC,OK,Oz,Om,OG if He==0 then OC,OK,Oz,Om,OG=Hp()elseif He==1 then OC,OK,Oz,Om,OG=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG elseif HW==6 then local OC,OK,Oz,Om,OG,Oh if He==0 then OC,OK,Oz,Om,OG,Oh=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh elseif HW==7 then local OC,OK,Oz,Om,OG,Oh,OS if He==0 then OC,OK,Oz,Om,OG,Oh,OS=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh,OS=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh,OS=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh lr[Ho+6]=OS elseif HW==8 then local OC,OK,Oz,Om,OG,Oh,OS,Or if He==0 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp()elseif He==1 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE)elseif He==2 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE,Ot)elseif He==3 then OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(OE,Ot,Oq)else OC,OK,Oz,Om,OG,Oh,OS,Or=Hp(zj(lr,Ho+1,Ho+He))end lr[Ho]=OC lr[Ho+1]=OK lr[Ho+2]=Oz lr[Ho+3]=Om lr[Ho+4]=OG lr[Ho+5]=Oh lr[Ho+6]=OS lr[Ho+7]=Or else local Vb=b0[nJ[60561]]Hg=Vb(HW,Hp(zj(lr,Ho+1,Ho+He)))for P9=1,HW do lr[Ho+P9-1]=Hg[P9]end end end end local Ox=lM or 0 if Ou>Ox then local Oi=Ou-1 local OM=Ox+31 if OM<Oi then Oi=OM end for OR=Ox,Oi do lr[OR]=nil end end Hg=nil Hp=nil lc=true end end else if lq<=40 then if lq==40 then lc=true HZ=HH[lt]Hp=(Hb[lt]or 0)+((Hn[lt]or 0)*(324-68))local _a=(Hp>=(128*256))and-(64*1024)or 0;Hp=Hp+_a Hg=HZ+4+Hp He=HP[Hg]if He then Ho=(l2[lt]or 0)HJ=Hg+Ho HW=b0[nJ[11966]](HJ/4)HD=HJ-(HW*4)Ho=HD+1 HJ=b0[nJ[ng[26069]]]HW=b0[nJ[ng[54165]]]HJ=HJ and HJ[Ho]if HJ then HW=HW and HW[Ho]HW=HW and b0[HW]if HW~=HJ then do local Ho=b0[nJ[ng[23162]]];local HJ=b0[nJ[ng[24097]]];local HZ=b0[nJ[ng[52260]]];local Hp=b0[nJ[ng[44033]]];HZ(Ho,b0[nJ[ng[58947]]],b0[nJ[ng[55677]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[50800]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[21392]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[21392]]],He+HW)end end end end end if He then lt=He else lt=lt+1 end lv=true lc=true end else if lq==48 then Ho=0 if(HC[lt]or 0)==0 then HJ=((lt*28)+36)%256 HZ=((lt*235)+246)%256 Hf[lt]=b7((Hn[lt]or 0),HJ)Hu[lt]=b7((Hj[lt]or 0),HZ)HC[lt]=1 end Ho=(Hf[lt]or 0)+((Hu[lt]or 0)*256)lr[l2[lt]]=lr[Hb[lt]]-(A0[Ho]or 0)if nm and nC(lr[l2[lt]])==nE and b0[nJ[11966]](lr[l2[lt]])==lr[l2[lt]]then lr[l2[lt]]=b0[nJ[11966]](lr[l2[lt]])end lc=true end end end else if lq<=77 then if lq<=61 then if lq==61 then HI=19785+(Hn[lt]*47)+(Hb[lt]*31)+(l2[lt]*17)HI=(HI+lt)%3 VM=((lt*224)+169)%((5*17)+171)VR=((lt*41)+195)%((5*17)+171)Ho=b7(Hj[lt],VM)+(b7(Hf[lt],VR)*((5*17)+171))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+33+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%((5*17)+171)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/((5*17)+171))%((5*17)+171)),((Vv*73+lt*17+17)%((5*17)+171)))Ho=lE+(Vc*((5*17)+171))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ=b7(Hu[lt],VM)+(b7(HC[lt],VR)*((5*17)+171))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+33+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((HZ%((5*17)+171)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](HZ/((5*17)+171))%((5*17)+171)),((Vv*73+lt*17+17)%((5*17)+171)))HZ=lE+(Vc*((5*17)+171))end end Hp=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[HZ+1],hv)and tM or nil)Hg=lr[Hb[lt]]if Hg then He=Hg[HJ]else He=nil end lr[l2[lt]]=He if HI==0 then if He then He[Hp]=lr[Hn[lt]]end elseif HI==1 then HW=lr[Hn[lt]]if He then He[Hp]=HW end else if He then He[Hp]=lr[Hn[lt]]end if false then He[Hp]=lr[Hn[lt]]end end HJ=nil Hp=nil Hg=nil He=nil HW=nil HI=nil lc=true end else if lq==77 then lc=true Ho=l2[lt]or 0 HJ=Hb[lt]or 0 if(Ho+HJ)>=0 then P9=b0[nJ[52464]]if P9 then Vb=P9(1)if Vb and Vb~=b0[nJ[ng[58927]]]then do local Ho=b0[nJ[ng[43401]]];local HJ=b0[nJ[ng[32869]]];local HZ=b0[nJ[ng[55886]]];local Hp=b0[nJ[ng[45519]]];HZ(Ho,b0[nJ[ng[28523]]],b0[nJ[ng[20674]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[49733]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[51702]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[51702]]],He+HW)end end end else if _ENV~=b0[nJ[ng[58927]]]then do local Ho=b0[nJ[ng[25907]]];local HJ=b0[nJ[ng[24500]]];local HZ=b0[nJ[ng[21777]]];local Hp=b0[nJ[ng[36539]]];HZ(Ho,b0[nJ[ng[34344]]],b0[nJ[ng[31369]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[27827]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[52743]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[52743]]],He+HW)end end end end rb=b0[nJ[ng[48953]]]if rb and rb==b0[nJ[ng[20465]]]then do local Ho=b0[nJ[ng[29142]]];local HJ=b0[nJ[ng[54157]]];local HZ=b0[nJ[ng[22894]]];local Hp=b0[nJ[ng[40985]]];HZ(Ho,b0[nJ[ng[23297]]],b0[nJ[ng[21175]]]);local Hg=Hp and Hp(HJ(Ho,b0[nJ[ng[41073]]]))or 0;local He=Hp and Hp(HJ(Ho,b0[nJ[ng[58249]]]))or 0;local HW=1-((Hg+He)%2);if HW~=0 then HZ(Ho,b0[nJ[ng[58249]]],He+HW)end end end end lt=lt+1 lv=true lc=true end end else if lq==85 then Ho=lr[Hb[lt]]HJ=lr[Hn[lt]]HZ=b0[nJ[57340]](Ho)or b0[nJ[57340]](HJ)Hp=HZ and HZ[(J(((368+22-46)),hv)and tM or nil)]if Hp~=nil then Hg=Hp(Ho,HJ)lr[l2[lt]]=Hg else Hg=bp[(J(0x16A,hv)and tM or nil)](Ho/HJ)lr[l2[lt]]=Hg end lc=true end end end else if lq<=127 then if lq<=111 then if lq<=101 then if lq==101 then Ho=Hb[lt]+(Hn[lt]*(163+93))local _a=(Ho>=(128*256))and-(64*1024)or 0;Ho=Ho+_a lr[l2[lt]]=Ho Ho=Hf[lt]+(Hu[lt]*(163+93))local _a=(Ho>=(128*256))and-(64*1024)or 0;Ho=Ho+_a lr[Hj[lt]]=Ho lc=true end else if lq==111 then VM=((lt*190)+51)%(77+65+114)VR=((lt*209)+221)%(77+65+114)Ho=b7(Hb[lt],VM)+(b7(Hn[lt],VR)*(77+65+114))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+71+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%(77+65+114)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/(77+65+114))%(77+65+114)),((Vv*73+lt*17+119)%(77+65+114)))Ho=lE+(Vc*(77+65+114))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ=b0[nJ[8717]][HJ]Ho=b7(Hj[lt],VM)+(b7(Hf[lt],VR)*(77+65+114))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+71+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%(77+65+114)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/(77+65+114))%(77+65+114)),((Vv*73+lt*17+119)%(77+65+114)))Ho=lE+(Vc*(77+65+114))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)HZ=HZ[HJ]Ho=b7(Hu[lt],VM)+(b7(HC[lt],VR)*(77+65+114))do local Vv=(HK[lt]or 0)if Vv~=0 then Vv=(((Vv+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+71+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local lE=b7((Ho%(77+65+114)),Vv)local Vc=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Ho/(77+65+114))%(77+65+114)),((Vv*73+lt*17+119)%(77+65+114)))Ho=lE+(Vc*(77+65+114))end end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Ho+1],hv)and tM or nil)lr[l2[lt]]=HZ[HJ]HJ=nil HZ=nil lc=true end end else if lq==127 then Ho=Hb[lt]+(Hn[lt]*((9*7)+193))local _a=(Ho>=(128*256))and-(64*1024)or 0;Ho=Ho+_a lr[l2[lt]]=Ho lc=true end end else if lq<=143 then if lq<=132 then if lq==132 then HD=22812+((((hv)or 0)%97)*1)+(Hj[lt]*41)+(l2[lt]*23)HD=(HD+lt)%3 Vl=Hb if type(Vl)~='table'then Vl=xn[6834]end if type(Vl)~='table'then Vl={}end VH=Hn if type(VH)~='table'then VH=xn[2879]end if type(VH)~='table'then VH={}end Hg=(Hf[lt]or 0)VP=Hf if type(VP)~='table'then VP=xn[6029]end if type(VP)~='table'then VP={}end VV=Hu if type(VV)~='table'then VV=xn[7410]end if type(VV)~='table'then VV={}end VO=HC if type(VO)~='table'then VO=xn[2024]end if type(VO)~='table'then VO={}end if(VO[lt]or 0)==0 then He=((lt*105)+160)%(58+111+87)HW=((lt*221)+210)%(58+111+87)VP[lt]=b7(Vl[lt],He)VV[lt]=b7(VH[lt],HW)Hg=(Hg or 0)if Hg~=0 then Hg=(((Hg+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+20+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)VP[lt]=b7(VP[lt],Hg)VV[lt]=b7(VV[lt],((Hg*73+lt*17+130)%(58+111+87)))end VO[lt]=1 end if HD==1 then Ho=(VV[lt]*(58+111+87))+VP[lt]else Ho=VP[lt]+(VV[lt]*(58+111+87))end VY=t7 if type(VY)~='table'then VY=b0[nJ[27072]]end if type(VY)~='table'then VY={}end HJ=(((type(J)=='function'and J)or b0[nJ[7668]])(VY[Ho+1],hv)and tM or nil)HZ=lr[l2[lt]]if HD==0 then if HZ then HZ[HJ]=lr[Hj[lt]]end elseif HD==1 then Hp=lr[Hj[lt]]if HZ then HZ[HJ]=Hp end else if HZ then Hp=HZ Hp[HJ]=lr[Hj[lt]]end end HJ=nil HZ=nil Hp=nil HD=nil VY=nil He=nil HW=nil VP=nil VV=nil VO=nil Hg=nil Vl=nil VH=nil lc=true end else if lq==143 then local Vz,Vm,VG,Vh,VS,Vr,Vu,VC,VK,Vt,Vq,Vx,Vi,VM,lE lE=b0[nJ[60561]]Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]-1 Hp=Hj[lt]-1 Hg=Hf[lt]+(Hu[lt]*(2*128))do local Vc=(HK[lt]or 0)if Vc~=0 then Vc=(((Vc+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+167+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)local Vv=b7((b0[nJ[13010]][(J((120*3+2),hv)and tM or nil)](Hg/(2*128))%(2*128)),((Vc*73+lt*17+215)%(2*128)))Vc=b7((Hg%(2*128)),Vc)Hg=Vc+(Vv*(2*128))end end if HJ==nil then HJ=(Ho+1)end He=lr[HJ]HW=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[Hg+1],hv)and tM or nil)Vf=He and He[HW]or nil if Vf==nil and He~=nil then Vu=b0[nJ[57340]](He)VC=Vu and Vu[(J((236-216),hv)and tM or nil)]VK=nC(VC)if VK==nx then Vf=VC(He,HW)elseif VK==nq then Vf=VC[HW]end end if Vf==nil and nC(He)==nt then Vf=bD and bD[HW]or nil end if Vf==nil and He~=nil and nC(He)~=nq then Vu=Vu or b0[nJ[57340]](He)VC=Vu and Vu[(J((46*6+2),hv)and tM or nil)]if nC(VC)==nx then Vf=VC end end lr[Ho]=Vf lr[Ho+1]=He Vz={}Vm=0 if HZ==-1 then VG=lM or 0 Vh=false if VG<=(Ho+1)and nf and(nj~=nil and nj>(Ho+1))then VG=nj Vh=true end if VG>Ho+1 then Vm=VG-(Ho+1)for VE=1,Vm do Vz[VE]=lr[Ho+VE]end end if Vh then nf=false end else for VE=1,HZ do Vz[VE]=lr[Ho+VE]end Vm=HZ end VS=nC(lr[Ho])Vr=nil if VS==nx then if Hp==-1 then Vr=lE(nil,lr[Ho](b1(Vz,1,Vm)))Vx=Vr[nM]or#Vr for VE=1,Vx do Vi=Ho+VE-1 lr[Vi]=Vr[VE]end if Vx>0 then lM=Ho+Vx else lM=Ho end elseif Hp==0 then lr[Ho](b1(Vz,1,Vm))lM=Ho elseif Hp==1 then local VN=lr[Ho](b1(Vz,1,Vm))lr[Ho]=VN lM=Ho+1 elseif Hp==2 then local VN,VQ=lr[Ho](b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lM=Ho+2 elseif Hp==3 then local VN,VQ,VA=lr[Ho](b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lM=Ho+3 elseif Hp==4 then local VN,VQ,VA,Vs=lr[Ho](b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lM=Ho+4 elseif Hp==5 then local VN,VQ,VA,Vs,rb=lr[Ho](b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lM=Ho+5 elseif Hp==6 then local VN,VQ,VA,Vs,rb,rj=lr[Ho](b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lr[Ho+5]=rj lM=Ho+6 elseif Hp==7 then local VN,VQ,VA,Vs,rb,rj,Vn=lr[Ho](b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lr[Ho+5]=rj lr[Ho+6]=Vn lM=Ho+7 elseif Hp==8 then local VN,VQ,VA,Vs,rb,rj,Vn,Vj=lr[Ho](b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lr[Ho+5]=rj lr[Ho+6]=Vn lr[Ho+7]=Vj lM=Ho+8 else Vr=lE(Hp,lr[Ho](b1(Vz,1,Vm)))for VE=1,Hp do Vi=Ho+VE-1 lr[Vi]=Vr[VE]end lM=Ho+Hp end else Vu=b0[nJ[57340]](lr[Ho])Vt=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if Vt then Vq={lr[Ho]}for VE=1,Vm do Vq[#Vq+1]=Vz[VE]end if Hp==-1 then Vr=lE(nil,Vt(b1(Vq,1,#Vq)))Vx=Vr[nM]or#Vr for VE=1,Vx do Vi=Ho+VE-1 lr[Vi]=Vr[VE]end if Vx>0 then lM=Ho+Vx else lM=Ho end elseif Hp==0 then Vt(b1(Vq,1,#Vq))lM=Ho elseif Hp==1 then local VN=Vt(b1(Vq,1,#Vq))lr[Ho]=VN lM=Ho+1 elseif Hp==2 then local VN,VQ=Vt(b1(Vq,1,#Vq))lr[Ho]=VN lr[Ho+1]=VQ lM=Ho+2 elseif Hp==3 then local VN,VQ,VA=Vt(b1(Vq,1,#Vq))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lM=Ho+3 elseif Hp==4 then local VN,VQ,VA,Vs=Vt(b1(Vq,1,#Vq))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lM=Ho+4 elseif Hp==5 then local VN,VQ,VA,Vs,rb=Vt(b1(Vq,1,#Vq))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lM=Ho+5 elseif Hp==6 then local VN,VQ,VA,Vs,rb,rj=Vt(b1(Vq,1,#Vq))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lr[Ho+5]=rj lM=Ho+6 elseif Hp==7 then local VN,VQ,VA,Vs,rb,rj,Vn=Vt(b1(Vq,1,#Vq))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lr[Ho+5]=rj lr[Ho+6]=Vn lM=Ho+7 elseif Hp==8 then local VN,VQ,VA,Vs,rb,rj,Vn,Vj=Vt(b1(Vq,1,#Vq))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lr[Ho+5]=rj lr[Ho+6]=Vn lr[Ho+7]=Vj lM=Ho+8 else Vr=lE(Hp,Vt(b1(Vq,1,#Vq)))for VE=1,Hp do Vi=Ho+VE-1 lr[Vi]=Vr[VE]end lM=Ho+Hp end else if Hp==-1 then Vr=lE(nil,Vf(b1(Vz,1,Vm)))Vx=Vr[nM]or#Vr for VE=1,Vx do Vi=Ho+VE-1 lr[Vi]=Vr[VE]end if Vx>0 then lM=Ho+Vx else lM=Ho end elseif Hp==0 then Vf(b1(Vz,1,Vm))lM=Ho elseif Hp==1 then local VN=Vf(b1(Vz,1,Vm))lr[Ho]=VN lM=Ho+1 elseif Hp==2 then local VN,VQ=Vf(b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lM=Ho+2 elseif Hp==3 then local VN,VQ,VA=Vf(b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lM=Ho+3 elseif Hp==4 then local VN,VQ,VA,Vs=Vf(b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lM=Ho+4 elseif Hp==5 then local VN,VQ,VA,Vs,rb=Vf(b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lM=Ho+5 elseif Hp==6 then local VN,VQ,VA,Vs,rb,rj=Vf(b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lr[Ho+5]=rj lM=Ho+6 elseif Hp==7 then local VN,VQ,VA,Vs,rb,rj,Vn=Vf(b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lr[Ho+5]=rj lr[Ho+6]=Vn lM=Ho+7 elseif Hp==8 then local VN,VQ,VA,Vs,rb,rj,Vn,Vj=Vf(b1(Vz,1,Vm))lr[Ho]=VN lr[Ho+1]=VQ lr[Ho+2]=VA lr[Ho+3]=Vs lr[Ho+4]=rb lr[Ho+5]=rj lr[Ho+6]=Vn lr[Ho+7]=Vj lM=Ho+8 else Vr=lE(Hp,Vf(b1(Vz,1,Vm)))for VE=1,Hp do Vi=Ho+VE-1 lr[Vi]=Vr[VE]end lM=Ho+Hp end end end nj=lM nf=true local VM=HP[HH[lt]+8]if VM then lt=VM else lt=lt+1 end lv=true lc=true end end else if lq==146 then Ho=lr[Hb[lt]]if not Ho then lr[l2[lt]]=Ho else lr[l2[lt]]=lr[Hn[lt]]end lc=true end end end end else if lq<=201 then if lq<=191 then if lq<=168 then if lq<=155 then if lq==155 then Ho=lr[l2[lt]]HJ=lr[Hj[lt]]Hg=HV HW=not(Ho==HJ)if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end else if lq==168 then Ho=l2[lt]HJ={}lr[Ho]=HJ lc=true end end else if lq<=183 then if lq==183 then Ho=l2[lt]HJ=Hn[lt]+(Hj[lt]*(55+34+167))local _a=(HJ>=(128*256))and-(64*1024)or 0;HJ=HJ+_a HZ=lr[Hb[lt]]if Hf[lt]~=0 then lr[Ho]=HJ^HZ else lr[Ho]=HZ^HJ end if false then lr[Ho]=lr[Ho]end if nm and nC(lr[Ho])==nE and b0[nJ[11966]](lr[Ho])==lr[Ho]then lr[Ho]=b0[nJ[11966]](lr[Ho])end Hp=HP[HH[lt]+8]if Hp then lt=Hp else lt=lt+1 end lv=true lc=true end else if lq==191 then HW=not(lr[l2[lt]])if HW then lt=HB[lt]else lt=lt+1 end lv=true lc=true end end end else if lq<=198 then if lq<=197 then if lq==197 then Ho=l2[lt]if l5[lt+1]==121 or l5[lt+1]==213 or l5[lt+1]==214 then if l2[lt+1]==nil then b0[nJ[64673]](xn,lt+1)end HJ=l2[lt+1]HZ=nil if Ho==40 then HZ=nC elseif Ho==12 then HZ=bp.floor elseif Ho==7 then HZ=bp.ceil elseif Ho==2 then HZ=bp.abs elseif Ho==25 then HZ=bp.sqrt elseif Ho==21 then HZ=bp.pow elseif Ho==24 then HZ=bp.sin elseif Ho==9 then HZ=bp.cos elseif Ho==27 then HZ=bp.tan elseif Ho==11 then HZ=bp.exp elseif Ho==10 then HZ=bp.deg elseif Ho==17 then HZ=bp.log elseif Ho==22 then HZ=bp.rad elseif Ho==19 then HZ=bp.min elseif Ho==18 then HZ=bp.max elseif Ho==45 then HZ=nu.insert elseif Ho==46 then HZ=b1 elseif Ho==42 then HZ=bD.byte elseif Ho==43 then HZ=bD.char elseif Ho==44 then HZ=bD.len elseif Ho==41 then HZ=b0[nJ[8717]].typeof elseif Ho==57 then HZ=b0[nJ[39435]]elseif Ho==60 then HZ=b0[nJ[50078]]elseif Ho==61 then HZ=b0[nJ[47718]]elseif Ho==62 then HZ=b0[nJ[8717]].rawequal elseif Ho==64 then HZ=b0[nJ[8717]].rawlen elseif Ho==3 then HZ=bp.asin elseif Ho==4 then HZ=bp.acos elseif Ho==5 then HZ=bp.atan2 elseif Ho==6 then HZ=bp.atan elseif Ho==13 then HZ=bp.fmod elseif Ho==14 then HZ=bp.ldexp elseif Ho==20 then HZ=bp.modf end if HZ~=nil then Hp=HZ lr[HJ]=Hp end if false then lr[HJ]=lr[HJ]end end lc=true end else if lq==198 then Ho=l2[lt]if(HC[lt]or 0)==0 then HW=((lt*155)+154)%(108+49+99)He=((lt*35)+220)%(108+49+99)Hj[lt]=b7(Hb[lt],HW)Hf[lt]=b7(Hn[lt],He)Hp=(Hu[lt]or 0)if Hp~=0 then Hp=(((Hp+254-(((249+((((xn[1829]or 0)+1)*37)%256)+((((xn[9080]or 0)+11)*19)%256)+((lt*13)%256)+10+(((((H1)+((H7 or 0))+(H8))%256))%256))%256)%255))%255)+1)Hj[lt]=b7(Hj[lt],Hp)Hf[lt]=b7(Hf[lt],((Hp*73+lt*17+216)%(108+49+99)))end HC[lt]=1 end HJ=Hj[lt]+(Hf[lt]*(108+49+99))He=(1+21)-21 HW=((HJ*131)+21)%257 if HW==257 then HW=0 end HZ=(((type(J)=='function'and J)or b0[nJ[7668]])(t7[HJ+He],hv)and tM or nil)Hp=nil for Hg in bD[(J(((590-203-24)),hv)and tM or nil)](HZ,'[^.]+')do if Hp==nil then Hp=b0[nJ[6286]](Hg)else Hp=Hp[Hg]end if Hp==nil then b0[nJ[20565]]()end end lr[Ho]=Hp lc=true end end else if lq==201 then Ho=l2[lt]HJ=Hb[lt]HZ=lS[HJ+1]Hp=nC(HZ)if Hp==nq and HZ[7747]then if HZ[3253]then Hp=HZ[7963]else HW=HZ[2]if HW~=nil then HD=HZ[1]if HD then Hp=HD[HW]else Hp=nil end else Hp=HZ[1]end end else Hp=HZ end if nm and nC(Hp)==nE and b0[nJ[11966]](Hp)==Hp then Hp=b0[nJ[11966]](Hp)end lr[Ho]=Hp lc=true end end end else if lq<=225 then if lq<=216 then if lq<=205 then if lq==205 then HD=56847+(Hn[lt]*43)+(Hb[lt]*31)+(l2[lt]*17)HD=(HD+lt)%3 if HD==0 then lr[l2[lt]]=lr[Hb[lt]][Hn[lt]+(4-3)]elseif HD==1 then Ho=Hn[lt]+(5-4)lr[l2[lt]]=lr[Hb[lt]][Ho]else Ho=lr[Hb[lt]]HJ=Hn[lt]+(5-4)lr[l2[lt]]=Ho[HJ]end HD=nil lc=true end else if lq==216 then Ho=l2[lt]if l5[lt+1]==121 or l5[lt+1]==213 or l5[lt+1]==214 then if l2[lt+1]==nil then b0[nJ[64673]](xn,lt+1)end HJ=l2[lt+1]HZ=nil if Ho==40 then HZ=nC elseif Ho==12 then HZ=bp.floor elseif Ho==7 then HZ=bp.ceil elseif Ho==2 then HZ=bp.abs elseif Ho==25 then HZ=bp.sqrt elseif Ho==21 then HZ=bp.pow elseif Ho==24 then HZ=bp.sin elseif Ho==9 then HZ=bp.cos elseif Ho==27 then HZ=bp.tan elseif Ho==11 then HZ=bp.exp elseif Ho==10 then HZ=bp.deg elseif Ho==17 then HZ=bp.log elseif Ho==22 then HZ=bp.rad elseif Ho==19 then HZ=bp.min elseif Ho==18 then HZ=bp.max elseif Ho==45 then HZ=nu.insert elseif Ho==46 then HZ=b1 elseif Ho==42 then HZ=bD.byte elseif Ho==43 then HZ=bD.char elseif Ho==44 then HZ=bD.len elseif Ho==41 then HZ=b0[nJ[8717]].typeof elseif Ho==57 then HZ=b0[nJ[39435]]elseif Ho==60 then HZ=b0[nJ[50078]]elseif Ho==61 then HZ=b0[nJ[47718]]elseif Ho==62 then HZ=b0[nJ[8717]].rawequal elseif Ho==64 then HZ=b0[nJ[8717]].rawlen elseif Ho==3 then HZ=bp.asin elseif Ho==4 then HZ=bp.acos elseif Ho==5 then HZ=bp.atan2 elseif Ho==6 then HZ=bp.atan elseif Ho==13 then HZ=bp.fmod elseif Ho==14 then HZ=bp.ldexp elseif Ho==20 then HZ=bp.modf end if HZ then lr[HJ]=HZ end end lc=true end end else if lq==225 then Ho=l2[lt]HJ=Hb[lt]local zj=b1 local lE=b0[nJ[14846]]if lE and b0[nJ[47718]](lE,b0[nJ[ng[42169]]])then b0[nJ[6286]]=nil b0[nJ[50078]](lE,b0[nJ[ng[42169]]],b0[nJ[42034]])lr=nil HJ=2 end if HJ==0 then return zj(lr,Ho,lM-1)elseif HJ==1 then return else HZ=HJ-1 return zj(lr,Ho,Ho+HZ-1)end lc=true end end else if lq<=246 then if lq<=239 then if lq==239 then Ho=lr[l2[lt]]HJ=lr[Hj[lt]]Hg=HV HW=((Ho==HJ))if HW then He=Hg and Hg[(lt+HO)]or nil if He then lt=(He-HY)else lt=lt+1 end else lt=lt+1 end lv=true lc=true end else if lq==246 then local Vf,Vu,VC,VK,Vm,VG,Vz,Vh,VS,Vr,VE Ho=l2[lt]HJ=Hb[lt]HZ=Hn[lt]Hp=lr[HJ]lr[Ho+1]=Hp Hg=lr[Ho]VK,Vm,VG,VS,Vr=nil,nil,nil,nil,nil Vf=nC(Hg)if HZ==0 then Vh=b0[nJ[60561]]if Vf==nx then VS=Vh(nil,Hg(Hp))else Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then VS=Vh(nil,VC(Hg,Hp))else b0[nJ[20565]]()end end Vr=VS.n or#VS for VE=1,Vr do lr[Ho+VE-1]=VS[VE]end lM=Ho+Vr else if Vf==nx then if HZ==1 then Hg(Hp)elseif HZ==2 then VK=Hg(Hp)elseif HZ==3 then VK,Vm=Hg(Hp)else VK,Vm,VG=Hg(Hp)end else Vu=b0[nJ[57340]](Hg)VC=Vu and Vu[(J(((264+250-235)),hv)and tM or nil)]if VC then if HZ==1 then VC(Hg,Hp)elseif HZ==2 then VK=VC(Hg,Hp)elseif HZ==3 then VK,Vm=VC(Hg,Hp)else VK,Vm,VG=VC(Hg,Hp)end else b0[nJ[20565]]()end end if HZ==2 then lr[Ho]=VK lM=Ho+1 elseif HZ==3 then lr[Ho]=VK;lr[Ho+1]=Vm lM=Ho+2 elseif HZ==4 then lr[Ho]=VK;lr[Ho+1]=Vm;lr[Ho+2]=VG lM=Ho+3 else lM=Ho end end nj=lM nf=true Vz=HP[HH[lt]+8]if Vz then lt=Vz else lt=lt+1 end lv=true lc=true end end else if lq==250 then Ho=Hb[lt]+(Hn[lt]*((9*7)+193))local _a=(Ho>=(128*256))and-(64*1024)or 0;Ho=Ho+_a lr[l2[lt]]=Ho lc=true end end end end end end if not lc then b0[nJ[ng[54184]]]((lq or lq or 0)+1)end if not lv then lt=lt+1 lw=lw+1 else lw=lt+la end PB=(NQ-lt)+1 end;end;end;local nc=0 b0[nJ[ng[23301]]]=function(...)local OQ=b5[nW(929,nD,5)];local OA=0;if OQ then local _t={OQ(1)or 0};OA=_t[1]or 0 end;if OA<=0 or OA>49157 then OA=0 end;nc=OA;(...)[...]=...end b0[nJ[ng[53639]]]=function()for OO in b0[nJ[40149]](b0)do if OO~=9390 and OO~=6469 and OO~=7768 and OO~=2095 and OO~=6154 and OO~=7793 and OO~=1067 and OO~=5126 and OO~=5389 and OO~=5984 and OO~=3407 and OO~=6041 and OO~=2948 then if nC(b0[OO])==(J(((459-41-38)),hv)and tM or nil)then for OY in b0[nJ[40149]](b0[OO])do b0[OO][OY]=nil end end b0[OO]=nil end end local OB=100862 repeat OB=(OB*1103515245+12345)%mg until OB==0 end local m7=my("[7~PWwEQ)t;u|pj!R^sP0kv8QclbN+*[]070PU5f")local m8={}local m9=0 local Gb=0 for m5=1,#m7 do local mk=m7[m5]or 0 m9=m9+(mk%128)*(2^Gb)if mk>=128 then Gb=Gb+7 else m8[#m8+1]=m9 m9=0 Gb=0 end end b0[nJ[ng[30537]]]=m8 b0[nJ[ng[45521]]]=nil b0[nJ[ng[50002]]]={b0[nJ[6356]],b0[nJ[62663]],b0[nJ[27642]],b0[nJ[6356]]}b0[nJ[ng[36967]]]={nJ[47718],nJ[50078],nJ[58022],nJ[47718]}b0[nJ[ng[25542]]]={nJ[6725],nJ[27809],nJ[26416],nJ[50255],nJ[55854],nJ[12234],nJ[55102],nJ[14862],nJ[11435],nJ[7791],nJ[53228]}b0[nJ[ng[46036]]]=function(Oo,OJ,OZ,Op,Og,Oe,OW)local OD=5+((OJ[Oo]or 0)+(OZ[Oo]or 0)+(Op[Oo]or 0))%46 local OI=Oo+OD local OT=#Og if OT and OT>0 and OI>OT then OI=OT-1 end local OU=Og[OI]if OU then local Oa=b0[nJ[11966]]local OX=((Oo*17)+(OI*7)+(OD*3))local OX=Oa and(OX-(Oa(OX/20)*20))or(OX%20)local OU=b0[nJ[ng[59293]]]if OU then Og[OI]=OU[OX+1]end end b0[nJ[6286]]=nil if OW then do local OX=OW[121];OW[121]=OW[105]or OX end end if OW then do local OX=OW[213];OW[213]=OW[105]or OX end end if OW then do local OX=OW[214];OW[214]=OW[105]or OX end end if OW then do local OX=OW[115];OW[115]=OW[105]or OX end end if OW then do local OX=OW[116];OW[116]=OW[105]or OX end end if OW then do local OX=OW[112];OW[112]=OW[105]or OX end end if OW then do local OX=OW[114];OW[114]=OW[105]or OX end end if OW then do local OX=OW[111];OW[111]=OW[105]or OX end end if OW then do local OX=OW[109];OW[109]=OW[105]or OX end end if OW then do local OX=OW[110];OW[110]=OW[105]or OX end end local Oa=b0[nJ[47271]]if Oa and Oe and Oe[3393]then Oe[3393]=Oa(Oe[3393],OD*257)end local Oa=b0[nJ[11966]]if Oa and Oe and Oe[2935]then local Oy=Oa((OI-1)/64)Oe[2935][Oy]=true end end b0[nJ[ng[46352]]]=function(Ow,OL,Ok)if Ow then return function()return Ow(OL,Ok)end end return function()return OL(Ow,Ok)end end local O0=b0[nJ[4839]]if not O0 and b0[nJ[32836]]then O0=b0[nJ[32836]][(J(343,hv)and tM or nil)]end b0[nJ[57094]]=O0 and O0(1,(J(0x149,hv)and tM or nil))b0[nJ[50593]]=(function()local _,O5=b0[nJ[16707]](b0[nJ[ng[47693]]]);local O2=b0[nJ[ng[55403]]](O5,b0[nJ[43392]][(J(((11+0)),hv)and tM or nil)]);local O4=nc or 0;if not O2 or O2<=0 or O2>49157 then O2=0 end;if O4<=0 or O4>49157 then O4=0 end;if O2==0 and O4==0 then return 0 end;return O2+(O4*65536)end)()b0[nJ[57044]]=function(Os,OF,Ol)if OF==nJ[30543]then return nz(b0,OF,Ol)end local OH=b0[nJ[47718]]if nC(OH)==(J(((92+288)),hv)and tM or nil)and nK(OH,OF)then return nK(OH,OF)end end b0[nJ[38487]]=function(Os,OF)local OP=nK(b0,OF)if OP~=nil then return OP end local OV=b0[nJ[13010]]return OV and OV[OF]end b0[nJ[65178]]=97647 b0[nJ[15810]](b0,{[(J(((192+213-115)),hv)and tM or nil)]=b0[nJ[57044]],[(J(((74-54+(78-78))),hv)and tM or nil)]=b0[nJ[38487]],[(J(((243+172-75)),hv)and tM or nil)]=b0[nJ[65178]]})b0[nJ[21136]]=(function()local Fi=0 local FN=b0[nJ[40199]]local FQ=b0[nJ[42034]]local FA=b0[nJ[42034]]local Fs=b2[((134-42+(8-8)))]or 0 local FF=0 local Fl=0 if Fs>0 then Fl=b0[nJ[13010]].floor(Fs/65536);FF=Fs-(Fl*65536)end if FF<=0 or FF>49157 then FF=0 end if Fl<=0 or Fl>49157 then Fl=0 end local FH=b0[nJ[11580]]or 0 local FP=0 local FV=0 if FH>0 then FV=b0[nJ[13010]].floor(FH/65536);FP=FH-(FV*65536)end if FP<=0 or FP>49157 then FP=0 end if FV<=0 or FV>49157 then FV=0 end local O3=b0[nJ[50593]]or 0 local O6=0 local O1=0 if O3>0 then O1=b0[nJ[13010]].floor(O3/65536);O6=O3-(O1*65536)end if O6<=0 or O6>49157 then O6=0 end if O1<=0 or O1>49157 then O1=0 end if not(FF>0 and FF<=49157 and FP>0 and FP<=49157 and O6>0 and O6<=49157)then FN=b0[nJ[42034]]end if FN then Fi=(FF*257)+(FP*131)+(Fl*73)+(FV*59)+477 FM=FF-FP if FM<0 then FM=-FM end if FM>1 then Fi=Fi+9174;FQ=b0[nJ[40199]]end if Fl>0 then Fd=FF-Fl;if Fd<0 then Fd=-Fd end;if Fd>1 then Fi=Fi+9191;FA=b0[nJ[40199]]end end if FV>0 then Fc=FP-FV;if Fc<0 then Fc=-Fc end;if Fc>1 then Fi=Fi+9203;FA=b0[nJ[40199]]end end Fi=Fi+(O6*43)+(O1*31)FR=FP-O6 if FR<0 then FR=-FR end if FR>1 then Fi=Fi+9367;FQ=b0[nJ[40199]]end if O1>0 then Fv=O6-O1;if Fv<0 then Fv=-Fv end;if Fv>1 then Fi=Fi+9425;FA=b0[nJ[40199]]end end end return Fi end)()local O7=Ag[0]local O8=b0[nJ[22035]](O7,{})return O8(...)end end)(b2)local O9=0 for Yb in b5[nW(324,nD,5)](b2)do O9=O9+1 end local Yn=(42-17)if O9~=Yn then b5[nW(956,nD,5)]=b5[nW(379,nD,5)]end if b2[(40-7)*1000+531]~=(187-3)*100+75 then b5[nW(956,nD,5)]=b5[nW(379,nD,5)]end do local Yj=function()return function()end end local t2=(Yj()~=Yj())if t2 then n7=n7+1;b5[nW(956,nD,5)]=b5[nW(379,nD,5)]end end local ne="F^pV:TTHZITUZ#QJM4!.gh-1>hZHInAt}Kw=fnxe<IX#oN2cygw-=9+xo]Q)rkpANuVn<tmH{hum1<iE(DD+sX#V/FE0+)NB}*+WoG7djK48S$?TqRW+e}m#F9WX9(CB%UC8^Y+1TfU-?vz8Dg[H]%+:2Qw%t)7fXMrK7E>$yHW#f$2OKt)WYTyoMP!(uyF-+Nh%cecnO*2zu1{eb(mEg0E-t)[!D%ek8kxAhd@<w<fA6-Adafg3@Eos/}G#Z^)2rZ>!uZiXy1BV>#oH$d&+/KFU<Yi{mK{Tmj-$D+ghd4c4l=TSoF5S=&Wkhiho?sW6i%bkkb82peFOSo3/)2U11Gubpgk$MyAF:n5kXKKi26anv{isNAanbY!X+da}PBq+aK.{4/APtRxx(1l:gr1xp!PGiWANN9FX%6VDK?/%-3hBP1lx&Y%33aWQ292R?T=CZGP.I=n3kz<1r/32AFwa>Wm$1I3xNeKFuw[CLgL#I*Xn@@QE<8kk25Nt:hP4OL$Z8hY4k3Ni[Eyl+KcHnUaqG+%TI}51k3&1.ECQ)#W(e0jrA-wOipIL![Gm4}K$2nEOH6zce)uL5k/1+56A:V<?bOK.Fen8)KonPVG!&Yy&7:gFX+7zQE!Az[[y7GAO6u:wFpxq0Kr%36OqFl0(JJeqH{yKR(p$h2xPO<4//Dw)J^)ss(8I1Hk$*S(WhtK:Y1#OaGKZH:N]6KKaTX+b3=2ml&ARB7%J10e&/Vtc[$9?CEvBmDWV/()hP5+9aY[2m=?^}wo0PC33w%06wDTGL$s5$}AMmU}4Gw>d{JliBh5{[-&k$Ti6mR+$u&3te+lu2Wij9jf&8ed6eQImlW>i)ahS0>RrVZ@FeQPO>/og6FaM0RNpJFa>?17+9xyFvU{}k.O$765z3[k^p&F0Oy4!+%f+=sA!g#t@WK(rapB#RqcN/fm*TL-3$r!{lEK%E2hT4j$bKqDhho3ixSJkY7:Kb{uwDpR*vBccWE%Jg2GD2(1zm?&@#pP9Qb%ylg/(I@N]kHqvL/OSLI+6:[=bgs$nh/q.n@HS5<$U>]:ezCHs23qzQiy#M?X)zSVHd.:}Gc[iGrU-L3W%M[SF4)gE!IDgc(ytxyEZ=JFDwV/M?MsP%g=uEpa={<DrD}VqG<)^=kW]W%Em!<5$4.wkN6})K?ka7$Np]O2-LoG<bDuhjlmXr$&@=hu@au1^!7B*L+dqs/AqcGB1TJf(%S3JS+O8A3W4y-s2J8S52pu9O+w>Bl$=4#![Ueq)AwZ6i+P#HAa$dl7ryprVwli$uKM23FJ.@oF17B/GJF4V0E8gwV=vtHXlV-(?llk%FF(K3nmXVo5b0?#Xg}Hj+/CzSz$!H#K{+X^F%{^xj3hf:Ieq/?JOdFIt=t3M(37F#>+L{a}@YFyMDw[>XF-A<fC!i&]l5Z-SxnG:LhVw+SNfy#bN1rOU21D>0{o>V{B062ZNGb6b{[bT>3OMGS<]vVxYpFituJ@FHk8OF/YA[uC1S#WO(8<lAmjH&Bbuw(lYbDC6p7siUASiRY+X$f76n%vY{uo=^pJ}TOJ+V1#{NYG-lQM1k-4t[>EXDo><^D$C%+0NoXyf:{@lG??wGbdjGE9Ro%wZEFBKyKtx}??1xHLi43}?3?w#4o(bwLYHk{1wWT7@to4FU{CD54J&/$5*JbRC7&xD.Sso[Gqs4gXVIDbQ<5Kfo!.Kg-AzFo%nQH:iv8[QgHip3242[3]Qd%dH5rki*/ePp6+#X&E<D4&-CaXfUHsaaO0-r1TT%?V1dOh$EPtpMn4[OWs3?(B7%TlZx8<H{Y#WDI@LMi92zLFLk+Yw@)^}w<F%0r6[#hBkAyW%WOe9=-%Sv<8}2crzq>3hDyE8hG]YJuMz.Vl7q4biGgTyKT&GJw5q=mY55Jm%z&c[o.=+GHvPc[xX-ar!VX(fr45Fyh!DvwF0CyF%*+&!=K#(phQ?<rY.VfR3UGi(hTqk)!L4Yqb(Zh8-[x9Ylw7wCHb8$Z[h1BDFe!E&Cd#BeJj8Xc%F4KED/6ElGOGIf2eYD5iP>f:DSU/3XGu@cYN[iQEwNu$-?9d%!pUW>T19tyoQ72j+<&$bN%eoND&hnK1NFawghF^v6{Q<4@G-vCwcyVL6h@K9iYPtdOw7Yi!!QEOHIm*U-4MZPPUF9@G3+:Ci+Ja<XGd1KPcCE#1kk6o?hkI+-G+jxNHX)BG[C.o6)EWWH8wg=HZ@ERw(T-#!jq!LG2!ZAK^C.7aWo2d=F%HW{GpHKX1-2c-hq@m&n(qu{]LVw26eZiuD8@Dbg55WKAw)3Tab^y=%p[Kg5jslK6z*fkVkJNYQKCIHmHF5Y7v7iejE7p!LAAM3$](!pMj)=Bzm2/DF(UKBo]e*6N>(cH<{6(k51N!OZVvUG43iRE*yumB!gI:Yt=GMb4w[.WPK5&g2M%E@L]#z2Sjl*4pd-0m.TuWrj[TD@!SnA=dTet{%[9IO^k9UaV%zIh8@@J<Ogc9?h.@=$Uh<oXNO*IGbs.#p$:fU{-OK$@Yu?o/wHi4Xl6c9Of9-f6JHsN6H1@-6geJFluAB*KU(@vuYd^r2TjLE%Cq>z309BS10>ynx]Ii)Jo7[#$>)Z]4s(IQN>[}JW*C!#@:b*eGCS9S?z^}5(/ciyPH6ZR%T[kRF$HR1D#zGQTRux]BQZK%uchco3&zZ=O0@%HJluX1=dt#.mJ2vS@OE!gx4>c@[N:ts!.2Ea/q1z9om>77D+^S-YE*f=4:Q%^PE(8}aU!7[<(8cwC1-{JCbnYgAnV+N$t5Lj4:p[Wa4]hU1<WQJucO@W3G75lh!ZKOJy/XSuaoB=N&T^++){N=WKigf-N2-/"local Yu if b5[nW(270,nD,5)]then Yu=b5[nW(270,nD,5)](0)else Yu=_ENV end local YC={''..b5[nW(874,nD,5)][n2(92,((93*7607+94*1978-871557)%jf))](jK),''..b5[nW(874,nD,5)][n2(92,((93*7607+94*1978-871557)%jf))](jK),''..b5[nW(874,nD,5)][n2(92,((93*7607+94*1978-871557)%jf))](jK)}for YK=1,jC do local _=Yu[YC[b5[nW(874,nD,5)][n2(92,((93*7607+94*1978-871557)%jf))](#YC)]..b5[nW(874,nD,5)][n2(92,((93*7607+94*1978-871557)%jf))](jK)]end local Yf={}Yf[(0-((71*7607+86*1978-709947)%jf))]=nW Yf[(0-((133*7607+86*1978-1181480)%jf))]=nD Yf[(0-((39*7607+86*1978-466321)%jf))]=zE Yf[(0-((80*7607+81*1978-767712)%jf))]=n7 Yf[(0-((100*7607+87*1978-932023)%jf))]=nZ Yf[(0-((104*7607+88*1978-964328)%jf))]=np Yf[(0-((60*7607+88*1978-629519)%jf))]=ne do local Ym=nW(638,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(874,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(445,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(973,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(284,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(894,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(205,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(392,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(399,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(324,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(663,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(746,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(784,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(577,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(881,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(312,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(501,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(270,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(307,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(835,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(264,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(579,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(697,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(374,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(846,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(289,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(224,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(795,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(506,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(314,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(809,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(715,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(332,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(463,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(483,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(114,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(929,nD,5);Yf[Ym]=b5[Ym];end do local Ym=nW(956,nD,5);Yf[Ym]=b5[Ym];end do local GD=0 local Go=b5[nW(973,nD,5)]local GJ=Go(Go)local GZ=Go({})local GY=nW(314,nD,5)local GB=b5[GY]local GT=b5[nW(205,nD,5)]if Go(GB)==GJ and GT then local Gp,Gg,Ge local GU=GT(function()Gp,Gg=GB(b5[nW(956,nD,5)],1);Ge=GB(b5[nW(956,nD,5)],2)end)if GU then if not Gp then GD=1 elseif Ge then GD=3 elseif Gp==n2(8,((44*7607+76*1978-459595)%jf))then if Go(Gg)==GZ and(Gg==b2 or Gg==zE)then GD=2 else GD=4 end else GD=4 end end end Yf[(0-((39*7607+87*1978-468097)%jf))]=GD end b5[nW(794,nD,5)](b5[nW(324,nD,5)],b2,51793,false)b5[nW(794,nD,5)](b2,b5[nW(956,nD,5)],53862,({})[100862])local Yz=b5[nW(794,nD,5)](b5[nW(956,nD,5)],b2,6582,18475)return Yz(Yf,b2,b5[nW(956,nD,5)],...)end)((function()local ns=((_ENV or _G)or{});local nF=string.char(103,101,116,102,101,110,118);local nl=ns[nF];if nl~=nil then return nl end local nH=ns[string.char(108,111,97,100)]or load;if type(nH)=='function'then local nP,nV=nH('return '..nF);if type(nP)=='function'then local nO,nY=pcall(nP);if nO then return nY end end end return nil end)(),(function()local ns=((_ENV or _G)or{});local nF=string.char(115,101,116,109,101,116,97,116,97,98,108,101);local nl=ns[nF];if nl~=nil then return nl end local nH=ns[string.char(108,111,97,100)]or load;if type(nH)=='function'then local nP,nV=nH('return '..nF);if type(nP)=='function'then local nO,nY=pcall(nP);if nO then return nY end end end return nil end)(),(function()local ns=((_ENV or _G)or{});local nF=string.char(114,97,119,103,101,116);local nl=ns[nF];if nl~=nil then return nl end local nH=ns[string.char(108,111,97,100)]or load;if type(nH)=='function'then local nP,nV=nH('return '..nF);if type(nP)=='function'then local nO,nY=pcall(nP);if nO then return nY end end end return nil end)(),...)
+-- Variables
+    local ServiceCache = {};
+    getgenv().Services = setmetatable({}, {__index = function(Self, Index)
+        if not ServiceCache[Index] then
+            ServiceCache[Index] = cloneref(game:GetService(Index));
+        end;
+
+        return ServiceCache[Index];
+    end});
+
+    local Keys = {
+        [Enum.KeyCode.LeftShift] = "LS",
+        [Enum.KeyCode.RightShift] = "RS",
+        [Enum.KeyCode.LeftControl] = "LC",
+        [Enum.KeyCode.RightControl] = "RC",
+        [Enum.KeyCode.Insert] = "INS",
+        [Enum.KeyCode.Backspace] = "BS",
+        [Enum.KeyCode.Return] = "Ent",
+        [Enum.KeyCode.LeftAlt] = "LA",
+        [Enum.KeyCode.RightAlt] = "RA",
+        [Enum.KeyCode.CapsLock] = "CAPS",
+        [Enum.KeyCode.One] = "1",
+        [Enum.KeyCode.Two] = "2",
+        [Enum.KeyCode.Three] = "3",
+        [Enum.KeyCode.Four] = "4",
+        [Enum.KeyCode.Five] = "5",
+        [Enum.KeyCode.Six] = "6",
+        [Enum.KeyCode.Seven] = "7",
+        [Enum.KeyCode.Eight] = "8",
+        [Enum.KeyCode.Nine] = "9",
+        [Enum.KeyCode.Zero] = "0",
+        [Enum.KeyCode.KeypadOne] = "Num1",
+        [Enum.KeyCode.KeypadTwo] = "Num2",
+        [Enum.KeyCode.KeypadThree] = "Num3",
+        [Enum.KeyCode.KeypadFour] = "Num4",
+        [Enum.KeyCode.KeypadFive] = "Num5",
+        [Enum.KeyCode.KeypadSix] = "Num6",
+        [Enum.KeyCode.KeypadSeven] = "Num7",
+        [Enum.KeyCode.KeypadEight] = "Num8",
+        [Enum.KeyCode.KeypadNine] = "Num9",
+        [Enum.KeyCode.KeypadZero] = "Num0",
+        [Enum.KeyCode.Minus] = "-",
+        [Enum.KeyCode.Equals] = "=",
+        [Enum.KeyCode.Tilde] = "~",
+        [Enum.KeyCode.LeftBracket] = "[",
+        [Enum.KeyCode.RightBracket] = "]",
+        [Enum.KeyCode.RightParenthesis] = ")",
+        [Enum.KeyCode.LeftParenthesis] = "(",
+        [Enum.KeyCode.Semicolon] = ",",
+        [Enum.KeyCode.Quote] = "'",
+        [Enum.KeyCode.BackSlash] = "\\",
+        [Enum.KeyCode.Comma] = ",",
+        [Enum.KeyCode.Period] = ".",
+        [Enum.KeyCode.Slash] = "/",
+        [Enum.KeyCode.Asterisk] = "*",
+        [Enum.KeyCode.Plus] = "+",
+        [Enum.KeyCode.Period] = ".",
+        [Enum.KeyCode.Backquote] = "`",
+        [Enum.UserInputType.MouseButton1] = "MB1",
+        [Enum.UserInputType.MouseButton2] = "MB2",
+        [Enum.UserInputType.MouseButton3] = "MB3",
+        [Enum.KeyCode.Escape] = "ESC",
+        [Enum.KeyCode.Space] = "SPC",
+    }
+
+    local Camera = workspace.CurrentCamera
+    local LocalPlayer = Services.Players.LocalPlayer
+    local GuiInset = Services.GuiService:GetGuiInset().Y
+    local Mouse = LocalPlayer:GetMouse()
+--
+
+if getgenv().Library and getgenv().Library.Unload then
+    getgenv().Library:Unload()
+end
+
+getgenv().Library = {
+    Directory = "Ultimate",
+    Folders = {
+        "/Fonts",
+        "/Configs",
+        "/Themes",
+		"/Hitsounds"
+    },
+
+    Flags = {};
+    ConfigFlags = {};
+    Connections = {};
+    Threads = {};
+    Blurs = {};
+    Notifications = {Notifs = {}};
+    Keybinds = {};
+    Mods = {};
+
+    OpenElement = {};
+
+    EasingStyle = Enum.EasingStyle.Quint;
+    EasingDirection = Enum.EasingDirection.InOut;
+    TweeningSpeed = .3;
+    DraggingSpeed = .05;
+    Tweening = false;
+}; do
+	local Library = getgenv().Library
+	Library.__index = Library
+
+    for _,path in Library.Folders do
+        makefolder(Library.Directory .. path)
+    end
+
+    if not isfile(Library.Directory.."/Autoload.txt") then
+        writefile(Library.Directory.."/Autoload.txt", "")
+    end
+
+    local Flags = Library.Flags
+    local ConfigFlags = Library.ConfigFlags
+    local Notifications = Library.Notifications
+
+    local Themes = {
+        Preset = {
+            ["Accent"] = Color3.fromRGB(233, 30, 99),
+            ["ElementBackground"] = Color3.fromRGB(20, 20, 22),
+            ["SectionBackground"] = Color3.fromRGB(15, 16, 18),
+            ["ElementOutline"] = Color3.fromRGB(25, 25, 29),
+            ["Inline"] = Color3.fromRGB(23, 24, 27),
+            ["Other"] = Color3.fromRGB(24, 24, 24),
+            ["TabButtons"] = Color3.fromRGB(20, 22, 26),
+            ["Unselected"] = Color3.fromRGB(170, 170, 170),
+            ["TextColor"] = Color3.fromRGB(255, 255, 255),
+            ["Background"] = Color3.fromRGB(12, 12, 14),
+            ["Font"] = Font.new("rbxassetid://12187365364", Enum.FontWeight.SemiBold, Enum.FontStyle.Normal)
+        };
+        Utility = {};
+    }; do
+        for Theme, Color in Themes.Preset do
+            if Theme == "font" then
+                continue
+            end
+
+            Themes.Utility[Theme] = {
+                BackgroundColor3 = {};
+                TextColor3 = {};
+                ImageColor3 = {};
+                ScrollBarImageColor3 = {};
+                Color = {};
+            }
+        end
+
+        Library.Themify = function(self, Theme, Property)
+            table.insert(Themes.Utility[Theme][Property], self.Instance)
+
+            return self
+        end
+
+        Library.Refresh = function(self, Theme, Color)
+            for Property, Data in Themes.Utility[Theme] do
+                for _,Object in Data do
+                    if (Property == "Color" or property == "Transparency") and not (Object:IsA("UIStroke") or Object:IsA("UIGradient")) then
+                        continue
+                    end
+
+                    if (Object[Property] == Themes.Preset[Theme]) then
+                        Object[Property] = Color
+                    end
+                end
+            end
+
+            Themes.Preset[Theme] = Color
+        end
+
+        Library.GetTheme = function(self)
+            local Config = {}
+
+            for Idx, Value in Themes.Preset do
+                if Idx == "Font" then
+                    continue
+                end
+
+                Config[Idx] = {Transparency = 1, Color = Value:ToHex()}
+            end
+
+            return Services.HttpService:JSONEncode(Config)
+        end
+
+        Library.SaveTheme = function(self, Config)
+            local Path = string.format("%s/%s/%s.Cfg", Library.Directory, "Themes", Config)
+            writefile(Path, self:GetTheme())
+        end
+
+        Library.DeleteTheme = function(self, Config)
+            local Path = string.format("%s/%s/%s.Cfg", Library.Directory, "Themes", Config)
+
+            if isfile(Path) then
+                delfile(Path)
+            end
+        end
+
+        Library.UpdateThemingList = function(self)
+            local List = {}
+
+            for _, File in listfiles(Library.Directory .. "/Themes") do
+                local Name = File:gsub(Library.Directory .. "/Themes\\", ""):gsub(".Cfg", ""):gsub(Library.Directory .. "\\Themes\\", "")
+                List[#List + 1] = Name
+            end
+
+            self.RefreshOptions(List)
+        end
+    end
+
+    Library.GetTransparency = function(self, obj)
+        local Instance = obj
+
+        if Instance:IsA("Frame") then
+            return {"BackgroundTransparency"}
+        elseif Instance:IsA("TextLabel") or Instance:IsA("TextButton") then
+            return { "TextTransparency", "BackgroundTransparency" }
+        elseif Instance:IsA("ImageLabel") or Instance:IsA("ImageButton") then
+            return { "BackgroundTransparency", "ImageTransparency" }
+        elseif Instance:IsA("ScrollingFrame") then
+            return { "BackgroundTransparency", "ScrollBarImageTransparency" }
+        elseif Instance:IsA("TextBox") then
+            return { "TextTransparency", "BackgroundTransparency" }
+        elseif Instance:IsA("UIStroke") then
+            return { "Transparency" }
+        elseif Instance:IsA("BasePart") then
+            return { "Transparency" }
+        end
+
+        return nil
+    end
+
+    Library.Tween = function(self, Properties, Info, Obj)
+        local Instance = self.Instance or Obj
+
+        local Tween = Services.TweenService:Create(Instance, Info or TweenInfo.new(Library.TweeningSpeed, Library.EasingStyle, Enum.EasingDirection.InOut, 0, false, 0), Properties)
+        Tween:Play()
+
+        return Tween
+    end
+
+    Library.AddGlow = function(self, Options)
+        Options = Options or {}
+
+        local Cfg = {
+            Amount = Options.Amount or 5;
+            DampingFactor = Options.DampingFactor or 0.4;
+            Parent = self.Instance;
+            Items = {};
+        }
+
+        local Items = Cfg.Items;
+
+        for Outline = 0, Cfg.Amount do
+            Items[tostring(Outline)] = Library:Create( "UIStroke", {
+                Parent = self.Instance;
+                Color = Themes.Preset.Accent;
+                BorderOffset = UDim.new(0, Outline);
+                Transparency = (Outline / (Cfg.Amount + Cfg.DampingFactor))
+            }):Themify("Accent", "Color")
+
+            Library:Create( "UIGradient", {
+                Parent = Items[tostring(Outline)].Instance;
+                Transparency = NumberSequence.new{
+                    NumberSequenceKeypoint.new(0, Cfg.DampingFactor),
+                    NumberSequenceKeypoint.new(1, Cfg.DampingFactor)
+                }
+            })
+        end
+
+        table.insert(Library.Glows, Cfg)
+
+        return self
+    end
+
+    Library.Fade = function(self, obj, prop, vis)
+        if not (prop and obj) then
+            return
+        end
+
+        local OldTransparency = obj[prop]
+        obj[prop] = vis and 1 or OldTransparency
+
+        local Animation = Library:Tween({[prop] = vis and OldTransparency or 1}, nil, obj)
+        Library:Connect(Animation.Completed, function()
+            if not vis then
+                obj[prop] = OldTransparency
+            end
+        end)
+
+        return Animation
+    end
+
+    Library.TweenDescendants = function(self, Bool, Path)
+        Path = Path or {Tweening = false}
+
+        if Path.Tweening == true then
+            return
+        end
+
+        local Instance = self.Instance
+        Path.Tweening = true
+
+        if Bool then
+            Instance.Visible = true
+        end
+
+        local Children = Instance:GetDescendants()
+        table.insert(Children, Instance)
+
+        if self.Blur then
+            table.insert(Children, self.Blur)
+        end
+
+        local FadingAnimation;
+        for _,obj in Children do
+            local Index = Library:GetTransparency(obj)
+
+            if not Index then
+                continue
+            end
+
+            if type(Index) == "table" then
+                for _,prop in Index do
+                    FadingAnimation = Library:Fade(obj, prop, Bool)
+                end
+            else
+                FadingAnimation = Library:Fade(obj, Index, Bool)
+            end
+        end
+
+        Library:Connect(FadingAnimation.Completed, function()
+            Path.Tweening = false
+            Instance.Visible = Bool
+        end)
+    end
+
+    Library.Resizify = function(self)
+        local Instance = self.Instance
+
+        local Resizing = Library:Create("TextButton", {
+            Position = UDim2.new(1, -10, 1, -10);
+            Size = UDim2.new(0, 10, 0, 10);
+            BorderSizePixel = 0;
+            Parent = Instance;
+            BackgroundTransparency = 1;
+            Text = ""
+        })
+
+        local IsResizing = false
+        local Size;
+        local InputLost;
+        local ParentSize = Instance.Size
+
+        Resizing.Instance.InputBegan:Connect(function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton1 then
+                IsResizing = true
+                InputLost = input.Position
+                Size = Instance.Size
+            end
+        end)
+
+        Resizing.Instance.InputEnded:Connect(function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton1 then
+                IsResizing = false
+            end
+        end)
+
+        Library:Connect(Services.UserInputService.InputChanged, function(input, game_event)
+            if IsResizing and input.UserInputType == Enum.UserInputType.MouseMovement then
+                self:Tween({
+                    Size = UDim2.new(
+                        Size.X.Scale,
+                        math.clamp(Size.X.Offset + (input.Position.X - InputLost.X), ParentSize.X.Offset, Camera.ViewportSize.X),
+                        Size.Y.Scale,
+                        math.clamp(Size.Y.Offset + (input.Position.Y - InputLost.Y), ParentSize.Y.Offset, Camera.ViewportSize.Y)
+                    )
+                }, TweenInfo.new(Library.DraggingSpeed, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut, 0, false, 0))
+            end
+        end)
+    end
+
+    Library.Hovering = function(self)
+        local y_cond = self.Instance.AbsolutePosition.Y <= Mouse.Y and Mouse.Y <= self.Instance.AbsolutePosition.Y + self.Instance.AbsoluteSize.Y
+        local x_cond = self.Instance.AbsolutePosition.X <= Mouse.X and Mouse.X <= self.Instance.AbsolutePosition.X + self.Instance.AbsoluteSize.X
+
+        return (y_cond and x_cond)
+    end
+
+    Library.Draggify = function(self)
+        local Instance = self.Instance
+
+        local Dragging = false
+        local IntialSize = Instance.Position
+        local InitialPosition
+
+        Instance.InputBegan:Connect(function(Input)
+            if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+                Dragging = true
+                InitialPosition = Input.Position
+                InitialSize = Instance.Position
+            end
+        end)
+
+        Instance.InputEnded:Connect(function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+                Dragging = false
+            end
+        end)
+
+        Library:Connect(Services.UserInputService.InputChanged, function(Input, GameEvent)
+            if Dragging and (Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch) then
+                local Horizontal = Camera.ViewportSize.X
+                local Vertical = Camera.ViewportSize.Y
+
+                local NewPosition = UDim2.new(
+                    0,
+                    InitialSize.X.Offset + (Input.Position.X - InitialPosition.X),
+                    0,
+                    InitialSize.Y.Offset + (Input.Position.Y - InitialPosition.Y)
+                )
+
+                self:Tween({Position = NewPosition}, TweenInfo.new(Library.DraggingSpeed, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut, 0, false, 0))
+            end
+        end)
+
+        return self
+    end
+
+    Library.ConvertToHex = function(self, Color)
+        local r = math.floor(Color.R * 255)
+        local g = math.floor(Color.G * 255)
+        local b = math.floor(Color.B * 255)
+        return string.format("#%02X%02X%02X", r, g, b)
+    end
+
+    Library.ConvertFromHex = function(self, Color)
+        Color = Color:gsub("#", "")
+        local r = tonumber(Color:sub(1, 2), 16) / 255
+        local g = tonumber(Color:sub(3, 4), 16) / 255
+        local b = tonumber(Color:sub(5, 6), 16) / 255
+        return Color3.new(r, g, b)
+    end
+
+    Library.GroupRGB = function(self, String)
+        local Values = {}
+
+        for Value in string.gmatch(String, "[^,]+") do
+            table.insert(Values, tonumber(Value))
+        end
+
+        if #Values == 4 then
+            return unpack(Values)
+        else
+            return
+        end
+    end
+
+    Library.ConvertEnum = function(self, enum)
+        local EnumParts = {}
+
+        for _,part in string.gmatch(tostring(enum), "[%w_]+") do
+            table.insert(EnumParts, part)
+        end
+
+        local EnumTable = tostring(enum)
+
+        for i = 2, #EnumParts do
+            local EnumItem = EnumTable[EnumParts[i]]
+
+            EnumTable = EnumItem
+        end
+
+        return EnumTable
+    end
+
+    Library.Lerp = function(self, start, finish, t)
+        t = t or 1 / 8
+
+        return start * (1 - t) + finish * t
+    end
+
+    Library.Round = function(self, num, float)
+        local Multiplier = 1 / (float or 1)
+        return math.floor(num * Multiplier + 0.5) / Multiplier
+    end
+
+    Library.UpdateConfigList = function(self)
+        local List = {}
+
+        for _, File in listfiles(Library.Directory .. "/Configs") do
+            local Name = File:gsub(Library.Directory .. "/Configs\\", ""):gsub(".Cfg", ""):gsub(Library.Directory .. "\\Configs\\", "")
+            List[#List + 1] = Name
+        end
+
+        self.RefreshOptions(List)
+    end
+
+    Library.Keypicker = function(self, properties)
+        local Cfg = {
+            Text = properties.Text or "Color",
+            Flag = properties.Flag or properties.Name or "Colorpicker",
+            Callback = properties.Callback or function() end,
+
+            Color = properties.Color or Color3.fromRGB(1, 1, 1), -- Default to white color if not provided
+            Alpha = properties.Alpha or properties.Transparency or 0,
+
+            -- Other
+            Open = false,
+            Items = {};
+            Tweening = false;
+        }
+
+        local DraggingSat = false
+        local DraggingHue = false
+        local DraggingAlpha = false
+
+        local h, s, v = Cfg.Color:ToHSV()
+        local a = Cfg.Alpha
+
+        local OldHue = h;
+        local OldAlpha = a;
+
+        Flags[Cfg.Flag] = {Color = Cfg.Color, Transparency = Cfg.Alpha}
+
+        local Items = Cfg.Items; do
+            Items.Holder = self.Items.Holder
+            if not Items.Holder then
+                Items.Object = Library:Create( "Frame", {
+                    Parent = self.Items.Elements.Instance;
+                    BackgroundTransparency = 1;
+                    Size = UDim2.new(1, 0, 0, 18);
+                    BorderSizePixel = 0
+                })
+
+                Items.Text = Library:Create( "TextLabel", {
+                    FontFace = Themes.Preset.Font;
+                    TextColor3 = Color3.fromRGB(252, 252, 252);
+                    Text = Cfg.Text;
+                    Parent = Items.Object.Instance;
+                    AnchorPoint = Vector2.new(0, 0.5);
+                    AutomaticSize = Enum.AutomaticSize.XY;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 0, 0.5, 0);
+                    BorderSizePixel = 0;
+                    ZIndex = 2
+                })
+
+                Items.Holder = Library:Create( "Frame", {
+                    Parent = Items.Object.Instance;
+                    Position = UDim2.new(1, 1, 0, 0);
+                    Size = UDim2.new(0, 0, 1, 0);
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UIListLayout", {
+                    FillDirection = Enum.FillDirection.Horizontal;
+                    HorizontalAlignment = Enum.HorizontalAlignment.Right;
+                    Parent = Items.Holder.Instance;
+                    Padding = UDim.new(0, 7);
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+            end
+
+            Items.ColorpickerObject = Library:Create( "Frame", {
+                AnchorPoint = Vector2.new(1, 0);
+                Parent = Items.Holder.Instance;
+                Position = UDim2.new(1, 1, 0, 0);
+                Size = UDim2.new(0, 16, 0, 16);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["Accent"]
+            }):Themify("Accent", "BackgroundColor3")
+
+            Library:Create( "UICorner", {
+                Parent = Items.ColorpickerObject.Instance;
+                CornerRadius = UDim.new(0, 5)
+            })
+
+            do -- Element clicker
+                Items.Colorpicker = Library:Create( "TextButton", {
+                    Parent = Library.Other.Instance;
+                    Position = UDim2.new(0.04664722830057144, 0, 0.17076167464256287, 0);
+                    Size = UDim2.new(0, 221, 0, 257);
+                    BorderSizePixel = 0;
+                    BackgroundColor3 = Themes.Preset["Background"]
+                }):Themify("Background", "BackgroundColor3")
+
+                Library:Create( "UIStroke", {
+                    Parent = Items.Colorpicker.Instance;
+                    Transparency = 0.5
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.Colorpicker.Instance;
+                    CornerRadius = UDim.new(0, 10)
+                })
+
+                Items.Title = Library:Create( "TextLabel", {
+                    FontFace = Themes.Preset.Font;
+                    TextColor3 = Themes.Preset["TextColor"];
+                    Text = "Colorpicker";
+                    Parent = Items.Colorpicker.Instance;
+                    AutomaticSize = Enum.AutomaticSize.XY;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 8, 0, 8);
+                    BorderSizePixel = 0;
+                    ZIndex = 2
+                }):Themify("TextColor", "TextColor3")
+
+                Items.SatValBackground = Library:Create( "Frame", {
+                    Parent = Items.Colorpicker.Instance;
+                    Position = UDim2.new(0, 8, 0, 33);
+                    Size = UDim2.new(1, -43, 1, -101);
+                    BorderSizePixel = 0;
+                    BackgroundColor3 = Color3.fromRGB(21, 255, 99)
+                })
+
+                Items.Saturation = Library:Create( "Frame", {
+                    Parent = Items.SatValBackground.Instance;
+                    Size = UDim2.new(1, 0, 1, 0);
+                    ZIndex = 2;
+                    BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UIGradient", {
+                    Rotation = 270;
+                    Transparency = NumberSequence.new{
+                    NumberSequenceKeypoint.new(0, 0),
+                    NumberSequenceKeypoint.new(1, 1)
+                };
+                    Parent = Items.Saturation.Instance;
+                    Color = ColorSequence.new{
+                    ColorSequenceKeypoint.new(0, Color3.fromRGB(0, 0, 0)),
+                    ColorSequenceKeypoint.new(1, Color3.fromRGB(0, 0, 0))
+                }
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.Saturation.Instance;
+                    CornerRadius = UDim.new(0, 3)
+                })
+
+                Items.Value = Library:Create( "Frame", {
+                    Parent = Items.SatValBackground.Instance;
+                    Size = UDim2.new(1, 0, 1, 0);
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UIGradient", {
+                    Parent = Items.Value.Instance;
+                    Transparency = NumberSequence.new{
+                    NumberSequenceKeypoint.new(0, 0),
+                    NumberSequenceKeypoint.new(1, 1)
+                }
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.Value.Instance;
+                    CornerRadius = UDim.new(0, 5)
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.SatValBackground.Instance;
+                    CornerRadius = UDim.new(0, 5)
+                })
+
+                Library:Create( "UIStroke", {
+                    Color = Themes.Preset.ElementOutline;
+                    Parent = Items.SatValBackground.Instance
+                }):Themify("ElementOutline", "Color")
+
+                Items.SatValPickerHolder = Library:Create( "Frame", {
+                    Parent = Items.SatValBackground.Instance;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 3, 0, 3);
+                    Size = UDim2.new(1, -6, 1, -6);
+                    BorderSizePixel = 0
+                })
+
+                Items.SatValPicker = Library:Create( "Frame", {
+                    AnchorPoint = Vector2.new(0.5, 0.5);
+                    Parent = Items.SatValPickerHolder.Instance;
+                    Position = UDim2.new(0.5, 0, 0.5, 0);
+                    Size = UDim2.new(0, 7, 0, 7);
+                    ZIndex = 1000;
+                    BorderSizePixel = 0;
+                    BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.SatValPicker.Instance;
+                    CornerRadius = UDim.new(1, 5)
+                })
+
+                Items.Inline = Library:Create( "Frame", {
+                    Parent = Items.SatValPicker.Instance;
+                    AnchorPoint = Vector2.new(0.5, 0.5);
+                    BackgroundTransparency = 0.3499999940395355;
+                    Position = UDim2.new(0.5, 0, 0.5, 0);
+                    Size = UDim2.new(1, -2, 1, -2);
+                    ZIndex = 1001;
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.Inline.Instance;
+                    CornerRadius = UDim.new(1, 0)
+                })
+
+                Items.Hue = Library:Create( "Frame", {
+                    AnchorPoint = Vector2.new(1, 0);
+                    Parent = Items.Colorpicker.Instance;
+                    Position = UDim2.new(1, -8, 0, 32);
+                    Size = UDim2.new(0, 18, 1, -100);
+                    BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.Hue.Instance;
+                    CornerRadius = UDim.new(0, 5)
+                })
+
+                Library:Create( "UIGradient", {
+                    Rotation = 90;
+                    Parent = Items.Hue.Instance;
+                    Color = ColorSequence.new{
+                        ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 0, 0)),
+                        ColorSequenceKeypoint.new(0.17, Color3.fromRGB(255, 255, 0)),
+                        ColorSequenceKeypoint.new(0.33, Color3.fromRGB(0, 255, 0)),
+                        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(0, 255, 255)),
+                        ColorSequenceKeypoint.new(0.67, Color3.fromRGB(0, 0, 255)),
+                        ColorSequenceKeypoint.new(0.83, Color3.fromRGB(255, 0, 255)),
+                        ColorSequenceKeypoint.new(1, Color3.fromRGB(255, 0, 0))
+                    }
+                })
+
+                Library:Create( "UIStroke", {
+                    Color = Themes.Preset.ElementOutline;
+                    Parent = Items.Hue.Instance
+                }):Themify("ElementOutline", "Color")
+
+                Items.HuePickerHolder = Library:Create( "Frame", {
+                    Parent = Items.Hue.Instance;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 0, 0, 3);
+                    Size = UDim2.new(1, 0, 1, -6);
+                    BorderSizePixel = 0
+                })
+
+                Items.HuePicker = Library:Create( "Frame", {
+                    Parent = Items.HuePickerHolder.Instance;
+                    AnchorPoint = Vector2.new(0.5, 0.5);
+                    BackgroundTransparency = 0.3499999940395355;
+                    Position = UDim2.new(0.5, 0, 0.5, 0);
+                    Size = UDim2.new(1, 0, 0, 6);
+                    ZIndex = 100;
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.HuePicker.Instance;
+                    CornerRadius = UDim.new(0, 2)
+                })
+
+                Library:Create( "UIStroke", {
+                    Parent = Items.HuePicker.Instance
+                })
+
+                Items.Alpha = Library:Create( "Frame", {
+                    AnchorPoint = Vector2.new(0, 1);
+                    BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+                    Parent = Items.Colorpicker.Instance;
+                    Position = UDim2.new(0, 8, 1, -41);
+                    Size = UDim2.new(1, -17, 0, 18);
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.Alpha.Instance;
+                    CornerRadius = UDim.new(0, 5)
+                })
+
+                Items.AlphaIndicator = Library:Create( "ImageLabel", {
+                    ScaleType = Enum.ScaleType.Tile;
+                    ClipsDescendants = true;
+                    Parent = Items.Alpha.Instance;
+                    Rotation = 180;
+                    Image = "rbxassetid://18274452449";
+                    BackgroundTransparency = 1;
+                    Size = UDim2.new(1, 0, 1, 0);
+                    TileSize = UDim2.new(0, 6, 0, 6);
+                    BorderSizePixel = 0
+                })
+
+                Items.AlphaIndicatorHolder = Library:Create( "Frame", {
+                    Parent = Items.AlphaIndicator.Instance;
+                    Size = UDim2.new(1, 0, 1, 0);
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.AlphaIndicatorHolder.Instance;
+                    CornerRadius = UDim.new(0, 5)
+                })
+
+                Items.AlphaGradient = Library:Create( "UIGradient", {
+                    Color = ColorSequence.new{
+                    ColorSequenceKeypoint.new(0, Color3.fromRGB(21, 255, 99)),
+                    ColorSequenceKeypoint.new(1, Color3.fromRGB(21, 255, 99))
+                };
+                    Transparency = NumberSequence.new{
+                    NumberSequenceKeypoint.new(0, 1),
+                    NumberSequenceKeypoint.new(1, 0)
+                };
+                    Parent = Items.AlphaIndicatorHolder.Instance
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.AlphaIndicator.Instance;
+                    CornerRadius = UDim.new(0, 5)
+                })
+
+                Library:Create( "UIStroke", {
+                    Color = Themes.Preset.ElementOutline;
+                    Parent = Items.Alpha.Instance
+                }):Themify("ElementOutline", "Color")
+
+                Items.AlphaPickerHolder = Library:Create( "Frame", {
+                    Parent = Items.Alpha.Instance;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 3, 0, 0);
+                    Size = UDim2.new(1, -6, 1, 0);
+                    BorderSizePixel = 0
+                })
+
+                Items.AlphaPicker = Library:Create( "Frame", {
+                    Parent = Items.AlphaPickerHolder.Instance;
+                    AnchorPoint = Vector2.new(0.5, 0.5);
+                    BackgroundTransparency = 0.3499999940395355;
+                    Position = UDim2.new(0.5, 0, 0.5, 0);
+                    Size = UDim2.new(0, 6, 1, 0);
+                    ZIndex = 100;
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = Items.AlphaPicker.Instance;
+                    CornerRadius = UDim.new(0, 2)
+                })
+
+                Library:Create( "UIStroke", {
+                    Parent = Items.AlphaPicker.Instance
+                })
+
+                Items.Elements = Library:Create( "Frame", {
+                    Parent = Items.Colorpicker.Instance;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 8, 1, -32);
+                    Size = UDim2.new(1, -16, 0, 0);
+                    BorderSizePixel = 0;
+                    AutomaticSize = Enum.AutomaticSize.Y
+                })
+
+                local Section = setmetatable({Items = Items}, Library)
+                Items.RGB = Section:AddInput({Flag = "ignore", PlaceHolder = "Color", Callback = function(text)
+                    if Cfg.Set then
+                        local r, g, b, a = Library:GroupRGB(text)
+
+                        if (r and g and b and a) then
+                            Cfg.Set(Color3.fromRGB(r, g, b), 1 - a)
+                        else
+                            Cfg.Set(Color3.fromHSV(h, s, v), 1 - a)
+                        end
+                    end
+                end})
+
+                Library:Create( "UIListLayout", {
+                    Parent = Items.Elements.Instance;
+                    Padding = UDim.new(0, 7);
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+            end
+
+            do -- Holder
+                Items.Colorpicker:Resizify()
+                Items.Colorpicker:Reparent(Library.Elements.Instance)
+            end
+        end
+
+        Cfg.SetVisible = function()
+            if Cfg.Tweening == true then
+                return
+            end
+
+            Cfg.Open = not Cfg.Open
+
+            Items.Colorpicker.Instance.Position = UDim2.new(0, Items.ColorpickerObject.Instance.AbsolutePosition.X, 0, Items.ColorpickerObject.Instance.AbsolutePosition.Y + (Cfg.Open and 64 or 74))
+            Items.Colorpicker:Tween({Position = UDim2.new(0, Items.ColorpickerObject.Instance.AbsolutePosition.X, 0, Items.ColorpickerObject.Instance.AbsolutePosition.Y + (Cfg.Open and 74 or 64))})
+            Items.Colorpicker:TweenDescendants(Cfg.Open, Cfg)
+        end
+
+        Cfg.UpdateColor = function()
+            local Mouse = Services.UserInputService:GetMouseLocation()
+            local Offset = Vector2.new(Mouse.X, Mouse.Y - GuiInset)
+
+            if DraggingSat then
+                s = math.clamp((Offset - Items.Saturation.Instance.AbsolutePosition).X / Items.Saturation.Instance.AbsoluteSize.X, 0, 1)
+                v = 1 - math.clamp((Offset - Items.Saturation.Instance.AbsolutePosition).Y / Items.Saturation.Instance.AbsoluteSize.Y, 0, 1)
+            elseif DraggingHue then
+                h = math.clamp((Offset - Items.Hue.Instance.AbsolutePosition).Y / Items.Hue.Instance.AbsoluteSize.Y, 0, 1)
+            elseif DraggingAlpha then
+                a = math.clamp((Offset - Items.Alpha.Instance.AbsolutePosition).X / Items.Alpha.Instance.AbsoluteSize.X, 0, 1)
+            end
+
+            Cfg.Set()
+        end
+
+        Cfg.Set = function(Color, Alpha)
+            if type(Color) == "boolean" then
+                return
+            end
+
+            if Color then
+                h, s, v = Color:ToHSV()
+            end
+
+            if Alpha then
+                a = Alpha
+            end
+
+            local TweenInformation = TweenInfo.new(Library.DraggingSpeed, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut, 0, false, 0)
+            local Flag = Flags[Cfg.Flag]
+
+            Items.ColorpickerObject.Instance.BackgroundColor3 = Color3.fromHSV(h, s, v)
+            Items.SatValBackground.Instance.BackgroundColor3 = Color3.fromHSV(h, 1, 1)
+            Items.AlphaGradient.Instance.Color = ColorSequence.new{
+                ColorSequenceKeypoint.new(0, Color3.fromHSV(h, 1, 1)),
+                ColorSequenceKeypoint.new(1, Color3.fromHSV(h, 1, 1))
+            }
+
+            Items.SatValPicker:Tween({Position = UDim2.new(s, 0, 1 - v, 0)}, TweenInformation)
+            Items.AlphaPicker:Tween({Position = UDim2.new(a, 0, 0.5, 0)}, TweenInformation)
+            Items.HuePicker:Tween({Position = UDim2.new(0.5, 0, h, 0)}, TweenInformation)
+
+            OldHue = h
+            OldAlpha = a
+
+            Color = Items.ColorpickerObject.Instance.BackgroundColor3 -- Overwriting to format<<
+
+            if not Items.RGB.Focused then
+                Items.RGB.Items.Textbox.Instance.Text = string.format("%s, %s, %s, %s", Library:Round(Color.R * 255), Library:Round(Color.G * 255), Library:Round(Color.B * 255), Library:Round(1 - a, 0.01))
+            end
+
+            Flags[Cfg.Flag] = {
+                Color = Color;
+                Transparency = a
+            }
+
+            Cfg.Callback(Color, a)
+        end
+
+        Items.ColorpickerObject:OnClick(Cfg.SetVisible)
+        Items.Colorpicker:OutsideClick(Cfg)
+
+        Cfg.DisableDragging = function()
+            DraggingSat = false
+            DraggingHue = false
+            DraggingAlpha = false
+        end
+
+        Items.Alpha:OnDrag(Cfg.UpdateColor, function(Dragging)
+            if Dragging then
+                DraggingAlpha = true
+            else
+                Cfg.DisableDragging()
+            end
+        end)
+
+        Items.Hue:OnDrag(Cfg.UpdateColor, function(Dragging)
+            if Dragging then
+                DraggingHue = true
+            else
+                Cfg.DisableDragging()
+            end
+        end)
+
+        Items.Saturation:OnDrag(Cfg.UpdateColor, function(Dragging)
+            if Dragging then
+                DraggingSat = true
+            else
+                Cfg.DisableDragging()
+            end
+        end)
+
+        Cfg.Set(Cfg.Color, Cfg.Alpha)
+
+        ConfigFlags[Cfg.Flag] = Cfg.Set
+
+        if self.UpdateSection then
+            self.UpdateSection(Items.Object.Instance or self.Items.Object.Instance)
+        end
+
+        return setmetatable(Cfg, Library)
+    end
+
+    Library.GetConfig = function(self)
+        local Config = {}
+
+        for Idx, Value in Flags do
+            if type(Value) == "table" and Value.Key then
+                Config[Idx] = {Active = Value.Active, Mode = Value.Mode, Key = tostring(Value.Key)}
+            elseif type(Value) == "table" and Value["Transparency"] and Value["Color"] then
+                Config[Idx] = {Transparency = Value["Transparency"], Color = Value["Color"]:ToHex()}
+            else
+                Config[Idx] = Value
+            end
+        end
+
+        return Services.HttpService:JSONEncode(Config)
+    end
+
+    Library.LoadConfig = function(self, JSON)
+        local Config = Services.HttpService:JSONDecode(JSON)
+
+        for Idx, Value in Config do
+            local Function = ConfigFlags[Idx]
+
+            if Idx == "ignore" then
+                continue
+            end
+
+            if Function then
+                if type(Value) == "table" and Value["Transparency"] and Value["Color"] then
+                    Function(Color3.fromHex(Value["Color"]), Value["Transparency"])
+                else
+                    Function(Value)
+                end
+            end
+        end
+    end
+
+    Library.DeleteConfig = function(self, Config)
+        local Path = string.format("%s/%s/%s.Cfg", Library.Directory, "Configs", Config)
+        if isfile(Path) then
+            delfile(Path)
+        end
+    end
+
+    Library.SaveConfig = function(self, Config)
+        local Path = string.format("%s/%s/%s.Cfg", Library.Directory, "Configs", Config)
+        writefile(Path, self:GetConfig())
+    end
+
+    Library.AutoLoad = function(self)
+        self.Window.Tweening = true
+        local Name = readfile(Library.Directory.."/Autoload.txt")
+
+        if Name ~= "" then
+            for i = 1, 2 do
+                self:LoadConfig(readfile(Library.Directory .. "/Configs/" .. Name .. ".Cfg"))
+            end
+        end
+        self.Window.Tweening = false
+    end
+
+    Library.Thread = function(self, Function)
+        local Thread = coroutine.create(Function)
+
+        coroutine.wrap(function()
+            coroutine.resume(Thread)
+        end)()
+
+        table.insert(self.Threads, Thread)
+
+        return Thread
+    end
+
+    Library.SafeCall = function(self, Function, ...)
+        local Arguments = { ... }
+        local Success, Result = pcall(Function, table.unpack(Arguments))
+
+        if not Success then
+            warn(Result)
+            return false
+        end
+
+        return Success
+    end
+
+    Library.Connect = function(self, Signal, Callback)
+        local ConnectionInfo = {
+            Event = Signal,
+            Callback = Callback,
+            Connection;
+        }
+
+        Library:Thread(function()
+            ConnectionInfo.Connection = Signal:Connect(Callback)
+        end)
+
+        table.insert(self.Connections, ConnectionInfo)
+
+        return ConnectionInfo
+    end
+
+    Library.OnClick = function(self, Callback)
+        local Connection = Library:Connect(self.Instance.InputBegan, function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+                Callback()
+            end
+        end)
+
+        return Connection
+    end
+
+    Library.OnHover = function(self, Callback1, Callback2)
+        Callback2 = Callback2 or function() end
+
+        Library:Connect(self.Instance.MouseEnter, function()
+            Callback1()
+        end)
+
+        Library:Connect(self.Instance.MouseLeave, function()
+            Callback2()
+        end)
+    end
+
+    Library.OnDrag = function(self, Callback1, Callback2)
+        local Dragging = false
+        Callback2 = Callback2 or function() end
+
+        self.Instance.InputBegan:Connect(function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+                Dragging = true
+                Callback2(Dragging)
+            end
+        end)
+
+        Library:Connect(Services.UserInputService.InputEnded, function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton1 then
+                Dragging = false
+                Callback2(Dragging)
+            end
+        end)
+
+        Library:Connect(Services.UserInputService.InputChanged, function(input)
+            if Dragging and input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+                Callback1(input)
+            end
+        end)
+    end
+
+    Library.Reparent = function(self, Parent)
+        Parent = Parent or self.Instance.Parent
+
+        local Connection = Library:Connect(self.Instance:GetPropertyChangedSignal("Visible"), function()
+            local Visible = self.Instance.Visible
+
+            self.Instance.Parent = Visible and Parent or Library.Other.Instance
+        end)
+    end
+
+    Library.OutsideClick = function(self, Cfg)
+        local Connection = Library:Connect(Services.UserInputService.InputBegan, function(input)
+            if self.Instance.Visible == false then
+                return
+            end
+
+            local InputType = input.UserInputType
+
+            if not (InputType == Enum.UserInputType.MouseButton1 or InputType == Enum.UserInputType.Touch) then
+                return
+            end
+
+            if not self:Hovering() then
+                Cfg.SetVisible(false)
+            end
+        end)
+
+        return Connection
+    end
+
+    Library.Disconnect = function(self, Name)
+        self.Connection:Disconnect()
+    end
+
+    Library.Create = function(self, Class, Options)
+        local Info = {
+            Instance = Instance.new(Class);
+            Properties = Options;
+            Blur;
+        }
+
+        local Instance = Info.Instance
+
+        for Property, Value in Info.Properties do
+            Instance[Property] = Value
+        end
+
+        if Class == "TextButton" then
+            Instance.AutoButtonColor = false
+            Instance.Text = ""
+        end
+
+        if Class == "TextLabel" or Class == "TextBox" then
+            Instance.FontFace = Font.new("rbxassetid://12187365364", Enum.FontWeight.SemiBold, Enum.FontStyle.Normal)
+            Instance.TextSize = 15
+        end
+
+        Instance.Name = "\0"
+
+        return setmetatable(Info, Library)
+    end
+
+    Library.Unload = function(self)
+        repeat task.wait() until #self.Notifications == 0
+
+        for Index, Value in self.Connections do
+            if Value.Connection then
+                Value.Connection:Disconnect()
+            end
+        end
+
+        for Index, Value in self.Threads do
+            coroutine.close(Value)
+        end
+
+        local Items = {self.Items, self.Other, self.Blur, self.Elements, self.HUD}
+
+        for _, Item in Items do
+            if Item then
+                Item.Instance:Destroy()
+                Item = nil
+            end
+        end
+
+        Library = nil
+        getgenv().Library = nil
+    end
+
+    Library.GetCalculatePosition = function(self, Position, Normal, Origin, Direction)
+        local n = Normal;
+        local d = Direction;
+        local v = Origin - Position;
+
+        local num = (n.x * v.x) + (n.y * v.y) + (n.z * v.z); -- Dot exists for vector3.new too lazy to test
+        local den = (n.x * d.x) + (n.y * d.y) + (n.z * d.z);
+        local a = -num / den;
+
+        return Origin + (a * Direction);
+    end;
+
+    Library.Blurify = function(self, Strength)
+        Strength = Strength or 0.97
+
+        local Instance = self.Instance
+        self.Strength = Strength
+        Library.Blurs[#Library.Blurs + 1] = self
+        local Part = Library:Create("Part", {
+            Material = Enum.Material.Glass;
+            Transparency = Strength;
+            Reflectance = 1;
+            CastShadow = false;
+            Anchored = true;
+            CanCollide = false;
+            CanQuery = false;
+            CollisionGroup = " ";
+            Size = Vector3.new(1, 1, 1) * 0.01;
+            Color = Color3.fromRGB(0,0,0);
+            Parent = Camera,
+        });
+
+        local BlockMesh = Library:Create("BlockMesh", {
+            Parent = Part.Instance;
+        })
+
+        local DepthOfField = Library:Create("DepthOfFieldEffect", {
+            Parent = Services.Lighting;
+            Enabled = true;
+            FarIntensity = 0;
+            FocusDistance = 0;
+            InFocusRadius = 1000;
+            NearIntensity = 1;
+            Name = ""
+        })
+
+        Library:Connect(Services.RunService.RenderStepped, function()
+            if not self.Instance.Visible then
+                Part.Transparency = 1
+                Part.Instance.CFrame = CFrame.new(0/0, 9e9, 9e9)
+                return
+            end
+
+            local Corner0 = Instance.AbsolutePosition;
+            local Corner1 = Corner0 + Instance.AbsoluteSize;
+
+            local Ray0 = Workspace.CurrentCamera.ScreenPointToRay(Workspace.CurrentCamera,Corner0.X, Corner0.Y, 1);
+            local Ray1 = Workspace.CurrentCamera.ScreenPointToRay(Workspace.CurrentCamera,Corner1.X, Corner1.Y, 1);
+
+            local Origin = Workspace.CurrentCamera.CFrame.Position + Workspace.CurrentCamera.CFrame.LookVector * (0.05 - Workspace.CurrentCamera.NearPlaneZ);
+
+            local Normal = Workspace.CurrentCamera.CFrame.LookVector;
+
+            local Pos0 = Library:GetCalculatePosition(Origin, Normal, Ray0.Origin, Ray0.Direction);
+            local Pos1 = Library:GetCalculatePosition(Origin, Normal, Ray1.Origin, Ray1.Direction);
+
+            Pos0 = Workspace.CurrentCamera.CFrame:PointToObjectSpace(Pos0);
+            Pos1 = Workspace.CurrentCamera.CFrame:PointToObjectSpace(Pos1);
+
+            local Size = Pos1 - Pos0;
+            local Center = (Pos0 + Pos1) / 2;
+
+            BlockMesh.Instance.Offset = Center
+            BlockMesh.Instance.Scale  = Size / 0.0101;
+
+            Part.Instance.CFrame = Workspace.CurrentCamera.CFrame;
+            Part.Instance.Transparency = self.Strength
+        end)
+
+        return self
+    end
+
+    Library.Items = Library:Create( "ScreenGui" , {
+        Parent = Services.CoreGui;
+        Name = "\0";
+        Enabled = true;
+        ZIndexBehavior = Enum.ZIndexBehavior.Global;
+        IgnoreGuiInset = true;
+        DisplayOrder = 100;
+    });
+
+    Library.Other = Library:Create( "ScreenGui" , {
+        Parent = Services.CoreGui;
+        Name = "\0";
+        Enabled = false;
+        ZIndexBehavior = Enum.ZIndexBehavior.Sibling;
+        IgnoreGuiInset = true;
+    });
+
+    Library.Elements = Library:Create( "ScreenGui" , {
+        Parent = Services.CoreGui;
+        Name = "\0";
+        Enabled = true;
+        ZIndexBehavior = Enum.ZIndexBehavior.Sibling;
+        IgnoreGuiInset = true;
+        DisplayOrder = 101;
+    });
+
+    -- // Elements
+    Library.CreateWindow = function(self, Data)
+        Data = Data or {}
+        local Self = self
+
+        local Cfg = {
+            Title = Data.Title or "Aether.lua";
+            SubText = Data.SubText or "Baseplate";
+            Size = Data.Size or UDim2.fromOffset(775, 531);
+            Image = Data.Image or "rbxassetid://95259225424429";
+            IsMobile = Data.IsMobile or false;
+
+            Position;
+            Size;
+            Items = {};
+            Tweening = false;
+            Tick = tick();
+            Fps = 0;
+            TabInfo;
+            Visible = true;
+        }
+
+        local Items = Cfg.Items; do
+            Items.Menu = Library:Create( "Frame", {
+                AnchorPoint = Vector2.new(0.5, 0.5);
+                Parent = Library.Items.Instance;
+                ClipsDescendants = true;
+                Position = UDim2.new(0.5, 0, 0.5, 75);
+                Size = Cfg.Size;
+                Visible = false;
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["Background"]
+            }):Themify("Background", "BackgroundColor3")
+
+            Library:Create( "UIScale", {
+                Parent = Items.Menu.Instance;
+                Scale = 0.65
+            })
+
+            Items.Menu.Instance.Position = UDim2.fromOffset(Items.Menu.Instance.AbsolutePosition.X, Items.Menu.Instance.AbsolutePosition.Y)
+            Items.Menu.Instance.AnchorPoint = Vector2.new(0, 0)
+
+            Items.Menu:Draggify()
+            Items.Menu:Resizify()
+
+            Library:Create( "UICorner", {
+                Parent = Items.Menu.Instance;
+                CornerRadius = UDim.new(0, 10)
+            })
+
+            Library:Create( "UIStroke", {
+                Parent = Items.Menu.Instance;
+                Transparency = 0.5
+            })
+
+            Items.SideBar = Library:Create( "Frame", {
+                Parent = Items.Menu.Instance;
+                Size = UDim2.new(0, 178, 1, 0);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["Background"]
+            }):Themify("Background", "BackgroundColor3")
+
+            Items.TabButtonHolder = Library:Create( "Frame", {
+                Parent = Items.SideBar.Instance;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 0, 0, 88);
+                Size = UDim2.new(1, 0, 1, -88);
+                BorderSizePixel = 0
+            })
+
+            Library:Create( "UIListLayout", {
+                Parent = Items.TabButtonHolder.Instance;
+                Padding = UDim.new(0, 8);
+                SortOrder = Enum.SortOrder.LayoutOrder
+            })
+
+            Library:Create( "UIPadding", {
+                Parent = Items.TabButtonHolder.Instance;
+                PaddingRight = UDim.new(0, 16);
+                PaddingLeft = UDim.new(0, 16)
+            })
+
+            Library:Create( "UICorner", {
+                Parent = Items.SideBar.Instance;
+                CornerRadius = UDim.new(0, 10)
+            })
+
+            Library:Create( "Frame", {
+                Parent = Items.SideBar.Instance;
+                Position = UDim2.new(1, 0, 0, 0);
+                Size = UDim2.new(0, 1, 1, 0);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["Inline"]
+            }):Themify("Inline", "BackgroundColor3")
+
+            Items.Pages = Library:Create( "Frame", {
+                Parent = Items.Menu.Instance;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 178, 0, 88);
+                Size = UDim2.new(1, -178, 1, -88);
+                BorderSizePixel = 0
+            })
+
+            Library:Create( "UIListLayout", {
+                FillDirection = Enum.FillDirection.Horizontal;
+                HorizontalFlex = Enum.UIFlexAlignment.Fill;
+                Parent = Items.Pages.Instance;
+                Padding = UDim.new(0, 15);
+                SortOrder = Enum.SortOrder.LayoutOrder;
+                VerticalFlex = Enum.UIFlexAlignment.Fill
+            })
+
+            Library:Create( "UIPadding", {
+                PaddingBottom = UDim.new(0, 16);
+                Parent = Items.Pages.Instance;
+                PaddingLeft = UDim.new(0, 17);
+                PaddingRight = UDim.new(0, 16)
+            })
+
+            Items.Topbar = Library:Create( "Frame", {
+                Parent = Items.Menu.Instance;
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 0, 71);
+                BorderSizePixel = 0
+            })
+
+            Items.Subtabs = Library:Create( "Frame", {
+                Parent = Items.Topbar.Instance;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 178, 0, 0);
+                Size = UDim2.new(1, -178, 1, 0);
+                BorderSizePixel = 0
+            })
+
+            Library:Create( "UIPadding", {
+                PaddingTop = UDim.new(0, 17);
+                PaddingBottom = UDim.new(0, 17);
+                Parent = Items.Subtabs.Instance;
+                PaddingRight = UDim.new(0, 15);
+                PaddingLeft = UDim.new(0, 18)
+            })
+
+            Library:Create( "Frame", {
+                Parent = Items.Topbar.Instance;
+                Position = UDim2.new(0, 0, 1, 0);
+                Size = UDim2.new(1, 0, 0, 1);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["Inline"]
+            }):Themify("Inline", "BackgroundColor3")
+
+            Items.LogoHolder = Library:Create( "Frame", {
+                Parent = Items.Topbar.Instance;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 0, 0, 1);
+                Size = UDim2.new(1, 0, 0, 82);
+                BorderSizePixel = 0
+            })
+
+            Items.Logo = Library:Create( "ImageLabel", {
+                ImageColor3 = Themes.Preset["Accent"];
+                Parent = Items.LogoHolder.Instance;
+                AnchorPoint = Vector2.new(0, 0.5);
+                Image = Cfg.Image;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 15, 0.5, -5);
+                Size = UDim2.new(0, 45, 0, 46);
+                BorderSizePixel = 0
+            }):Themify("Accent", "ImageColor3")
+
+            Library:Create( "TextLabel", {
+                FontFace = Themes.Preset.Font;
+                TextColor3 = Themes.Preset["Accent"];
+                Text = Cfg.Title;
+                Parent = Items.Logo.Instance;
+                AnchorPoint = Vector2.new(0, 0.5);
+                AutomaticSize = Enum.AutomaticSize.XY;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(1, 10, 0.25, 0);
+                BorderSizePixel = 0;
+                ZIndex = 2
+            }):Themify("Accent", "TextColor3")
+
+            Library:Create( "TextLabel", {
+                FontFace = Themes.Preset.Font;
+                TextColor3 = Themes.Preset["Unselected"];
+                Text = Cfg.SubText;
+                Parent = Items.Logo.Instance;
+                AnchorPoint = Vector2.new(0, 0.5);
+                AutomaticSize = Enum.AutomaticSize.XY;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(1, 10, 0.550000011920929, 1);
+                BorderSizePixel = 0;
+                ZIndex = 2
+            }):Themify("Unselected", "TextColor3")
+
+            Items.MobileFrame = Library:Create( "Frame", {
+                Visible = false;
+                Parent = Items.Menu.Instance;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 0, 0, 71);
+                Size = UDim2.new(1, 0, 1, -71);
+                ZIndex = 100;
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["Background"]
+            }):Themify("Background", "BackgroundColor3")
+
+            Items.MobileFrame2 = Library:Create( "Frame", {
+                Visible = false;
+                Parent = Items.Menu.Instance;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 71, 0, 0);
+                Size = UDim2.new(1, 0, 1, 0);
+                ZIndex = 100;
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["Background"]
+            }):Themify("Background", "BackgroundColor3");
+
+                        -- // keybind list top
+            Items.KeybindList = Library:Create("Frame",{ZIndex = 999; Parent = Library.HUD.Instance; Size = UDim2.new(0, 200, 0, 31); Position = UDim2.new(0, 37, 0, 401); BorderSizePixel = 0; ZIndex = 2; BackgroundColor3 = Color3.fromRGB(20, 20, 22)})
+            Items.UIStroke = Library:Create("UIStroke",{Color = Color3.fromRGB(23, 24, 27); Parent = Items.KeybindList.Instance})
+            Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 2); PaddingBottom = UDim.new(0, 2); Parent = Items.KeybindList.Instance; PaddingRight = UDim.new(0, 2); PaddingLeft = UDim.new(0, 2)})
+            Items.UICorner = Library:Create("UICorner",{Parent = Items.KeybindList.Instance})
+            Items.Titles = Library:Create("TextLabel",{LayoutOrder = 1; TextColor3 = Color3.fromRGB(245, 245, 245); Text = "Keybinds"; Parent = Items.KeybindList.Instance; AutomaticSize = Enum.AutomaticSize.XY; Position = UDim2.new(0, 0, 0, 3); BackgroundTransparency = 1; TextXAlignment = Enum.TextXAlignment.Left; BorderSizePixel = 0; ZIndex = 2; BackgroundColor3 = Color3.fromRGB(255, 255, 255)})
+            Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 4); PaddingBottom = UDim.new(0, 6); Parent = Items.Titles.Instance; PaddingRight = UDim.new(0, 5); PaddingLeft = UDim.new(0, 7)})
+            Items.Filler = Library:Create("Frame",{Parent = Items.KeybindList.Instance; Position = UDim2.new(0, -3, 1, -14); Size = UDim2.new(1, 6, 0, 18); BorderSizePixel = 0; BackgroundColor3 = Color3.fromRGB(20, 20, 22)})
+            Items.BottomFiller = Library:Create("Frame",{AnchorPoint = Vector2.new(0, 1); Parent = Items.Filler.Instance; Position = UDim2.new(0, 0, 1, 0); Size = UDim2.new(1, 0, 0, 1); BorderSizePixel = 0; BackgroundColor3 = Color3.fromRGB(23, 24, 27)})
+            Items.KeyboardIcon = Library:Create("ImageLabel",{ImageColor3 = Themes.Preset.Accent; Parent = Items.KeybindList.Instance; Size = UDim2.new(0, 18, 0, 18); AnchorPoint = Vector2.new(1, 0); Image = "rbxassetid://97239058232142"; BackgroundTransparency = 1; Position = UDim2.new(1, -5, 0, 5); ZIndex = 2; BorderSizePixel = 0; BackgroundColor3 = Color3.fromRGB(255, 255, 255)}):Themify("Accent", "ImageColor3")
+
+            Items.KeybindList:Draggify()
+
+
+            -- // Where the keybinds are parented
+            Items.KeybindHolder = Library:Create("Frame",{ZIndex = 0; Parent = Items.KeybindList.Instance; Size = UDim2.new(0, 200, 0, 0); Position = UDim2.new(0, -2, 0, 18); BorderSizePixel = 0; BackgroundColor3 = Color3.fromRGB(15, 16, 18)})
+            Items.UICorner = Library:Create("UICorner",{Parent = Items.KeybindHolder.Instance})
+            Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 18); PaddingBottom = UDim.new(0, 2); Parent = Items.KeybindHolder.Instance; PaddingRight = UDim.new(0, 2); PaddingLeft = UDim.new(0, 2)})
+            Items.UIStroke = Library:Create("UIStroke",{Color = Color3.fromRGB(23, 24, 27); Parent = Items.KeybindHolder.Instance})
+
+
+            -- // Modlist list top
+            Items.ModList = Library:Create("Frame",{ZIndex = 999; Parent = Library.HUD.Instance; Size = UDim2.new(0, 200, 0, 31); Position = UDim2.new(0, 37 + 200 + 10, 0, 401); BorderSizePixel = 0; ZIndex = 2; BackgroundColor3 = Color3.fromRGB(20, 20, 22)})
+            Items.UIStroke = Library:Create("UIStroke",{Color = Color3.fromRGB(23, 24, 27); Parent = Items.ModList.Instance})
+            Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 2); PaddingBottom = UDim.new(0, 2); Parent = Items.ModList.Instance; PaddingRight = UDim.new(0, 2); PaddingLeft = UDim.new(0, 2)})
+            Items.UICorner = Library:Create("UICorner",{Parent = Items.ModList.Instance})
+            Items.Titles = Library:Create("TextLabel",{LayoutOrder = 1; TextColor3 = Color3.fromRGB(245, 245, 245); Text = "Mods"; Parent = Items.ModList.Instance; AutomaticSize = Enum.AutomaticSize.XY; Position = UDim2.new(0, 0, 0, 3); BackgroundTransparency = 1; TextXAlignment = Enum.TextXAlignment.Left; BorderSizePixel = 0; ZIndex = 2; BackgroundColor3 = Color3.fromRGB(255, 255, 255)})
+            Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 4); PaddingBottom = UDim.new(0, 6); Parent = Items.Titles.Instance; PaddingRight = UDim.new(0, 5); PaddingLeft = UDim.new(0, 7)})
+            Items.Filler = Library:Create("Frame",{Parent = Items.ModList.Instance; Position = UDim2.new(0, -3, 1, -14); Size = UDim2.new(1, 6, 0, 18); BorderSizePixel = 0; BackgroundColor3 = Color3.fromRGB(20, 20, 22)})
+            Items.BottomFiller = Library:Create("Frame",{AnchorPoint = Vector2.new(0, 1); Parent = Items.Filler.Instance; Position = UDim2.new(0, 0, 1, 0); Size = UDim2.new(1, 0, 0, 1); BorderSizePixel = 0; BackgroundColor3 = Color3.fromRGB(23, 24, 27)})
+            Items.KeyboardIcon = Library:Create("ImageLabel",{ImageColor3 = Themes.Preset.Accent; Parent = Items.ModList.Instance; Size = UDim2.new(0, 18, 0, 18); AnchorPoint = Vector2.new(1, 0); Image = "rbxassetid://74208295465261"; BackgroundTransparency = 1; Position = UDim2.new(1, -5, 0, 5); ZIndex = 2; BorderSizePixel = 0; BackgroundColor3 = Color3.fromRGB(255, 255, 255)}):Themify("Accent", "ImageColor3")
+
+            Items.ModList:Draggify()
+
+            -- // Where the Mods are parented
+            Items.ModHolder = Library:Create("Frame",{ZIndex = 0; Parent = Items.ModList.Instance; Size = UDim2.new(0, 200, 0, 0); Position = UDim2.new(0, -2, 0, 18); BorderSizePixel = 0; BackgroundColor3 = Color3.fromRGB(15, 16, 18)})
+            Items.UICorner = Library:Create("UICorner",{Parent = Items.ModHolder.Instance})
+            Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 18); PaddingBottom = UDim.new(0, 2); Parent = Items.ModHolder.Instance; PaddingRight = UDim.new(0, 2); PaddingLeft = UDim.new(0, 2)})
+            Items.UIStroke = Library:Create("UIStroke",{Color = Color3.fromRGB(23, 24, 27); Parent = Items.ModHolder.Instance})
+        end
+
+        Items.Menu.Instance:GetPropertyChangedSignal("AbsolutePosition"):Connect(function()
+            if Cfg.Visible or Cfg.Tweening then
+                return
+            end
+
+            Cfg.Position = Items.Menu.Instance.AbsolutePosition
+        end)
+
+        Items.Menu.Instance:GetPropertyChangedSignal("AbsoluteSize"):Connect(function()
+            if not Cfg.Visible or Cfg.Tweening then
+                return
+            end
+
+            local AbsoluteSize = Items.Menu.Instance.AbsoluteSize
+            Cfg.Size = Vector2.new(AbsoluteSize.X, AbsoluteSize.Y)
+        end)
+
+        Items.Watermark = Library:Create("CanvasGroup",{Parent = Library.HUD.Instance; Position = UDim2.new(0, 30, 0, 200); BorderSizePixel = 0; AutomaticSize = Enum.AutomaticSize.XY; BackgroundColor3 = Color3.fromRGB(12, 12, 14)}):Draggify()
+        Items.Title = Library:Create("TextLabel",{LayoutOrder = 1; TextColor3 = Color3.fromRGB(245, 245, 245); Text = Cfg.Text; Parent = Items.Watermark.Instance; BackgroundTransparency = 1; BorderSizePixel = 0; AutomaticSize = Enum.AutomaticSize.XY; BackgroundColor3 = Color3.fromRGB(255, 255, 255)})
+        Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 5); PaddingBottom = UDim.new(0, 7); Parent = Items.Title.Instance; PaddingRight = UDim.new(0, 8); PaddingLeft = UDim.new(0, 8)})
+        Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 2); PaddingBottom = UDim.new(0, 2); Parent = Items.Watermark.Instance; PaddingRight = UDim.new(0, 2); PaddingLeft = UDim.new(0, 2)})
+        Items.UICorner = Library:Create("UICorner",{Parent = Items.Watermark.Instance})
+
+
+        local AbsoluteSize = Items.Menu.Instance.AbsoluteSize
+        Cfg.Size = Vector2.new(AbsoluteSize.X, AbsoluteSize.Y)
+
+        local Frames = 0
+        local FPS = 0
+        local LastTick = tick()
+        Services.RunService.RenderStepped:Connect(function()
+            Frames += 1
+            local Tick = tick()
+
+            if Tick - LastTick >= 1 then
+                FPS = Frames
+                Frames = 0
+                LastTick = Tick
+            end
+
+            Items.Title.Instance.Text = string.format("%s | FPS: %s | %s", Cfg.Title, tostring(FPS), os.date("%H:%M:%S"))
+        end)
+
+        function Cfg.SetVisible(Bool)
+            Cfg.Visible = Bool
+
+            if not Cfg.IsMobile then
+                Items.Menu:TweenDescendants(Bool, Cfg)
+                return
+            end
+
+            if not Cfg.Size then
+                return
+            end
+
+            Items.MobileFrame:Tween({BackgroundTransparency = Bool and 1 or 0})
+            Items.MobileFrame2:Tween({BackgroundTransparency = Bool and 1 or 0})
+            Items.Menu:Tween({Size = Bool and UDim2.new(0, Cfg.Size.X, 0, Cfg.Size.Y) or UDim2.new(0, 70, 0, 70)})
+
+            if not (Items.Subtabs.Instance.Visible and Bool) then
+                Items.Subtabs:TweenDescendants(Bool, Cfg)
+            end
+
+            Cfg.Tweening = false
+
+            if not (Items.SideBar.Instance.Visible and Bool) then
+                Items.SideBar:TweenDescendants(Bool, Cfg)
+            end
+        end
+
+        if Cfg.IsMobile then
+            task.delay(Library.TweeningSpeed, function()
+                Items.Menu:TweenDescendants(true, Cfg)
+            end)
+
+            Items.Logo:OnClick(function()
+                if Cfg.Tweening then
+                    return
+                end
+
+                Cfg.Visible = not Cfg.Visible
+
+                Cfg.SetVisible(Cfg.Visible)
+            end)
+        end
+
+        Library.Window = setmetatable(Cfg, Library)
+
+        return Library.Window
+    end
+
+    Library.AddTab = function(self, Data)
+        Data = Data or {}
+
+        local Cfg = {
+            Text = Data.Text or Data.Name or Data.Title or "Tab";
+            Icon = Data.Icon or "rbxassetid://108020878442937";
+            Pages = Data.Pages or {"Page 1", "Page 2"};
+
+            -- DO NOT TOUCH
+            Sections = {};
+            Enabled = false;
+            Items = {};
+            Tweening = false;
+        }
+
+        local Items = Cfg.Items; do
+            do -- Button
+                Items.Button = Library:Create( "Frame", {
+                    Parent = self.Items.TabButtonHolder.Instance;
+                    BackgroundTransparency = 1;
+                    Size = UDim2.new(1, 0, 0, 40);
+                    ZIndex = 2;
+                    BorderSizePixel = 0;
+                    BackgroundColor3 = Themes.Preset["TabButtons"]
+                }):Themify("TabButtons", "BackgroundColor3")
+
+                Library:Create( "UICorner", {
+                    Parent = Items.Button.Instance;
+                    CornerRadius = UDim.new(0, 6)
+                })
+
+                Library:Create( "ImageLabel", {
+                    Parent = Items.Button.Instance;
+                    AnchorPoint = Vector2.new(1, 0);
+                    Image = "rbxassetid://112325323968017";
+                    Size = UDim2.new(0, 5, 0, 17);
+                    Position = UDim2.new(1, -7, 0, 12);
+                    ZIndex = 2;
+                    BorderSizePixel = 0
+                })
+
+                Items.Icon = Library:Create( "ImageLabel", {
+                    ImageColor3 = Themes.Preset["Unselected"];
+                    Parent = Items.Button.Instance;
+                    Size = UDim2.new(0, 21, 0, 21);
+                    AnchorPoint = Vector2.new(0, 0.5);
+                    Image = Cfg.Icon;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 13, 0.5, 0);
+                    ZIndex = 2;
+                    BorderSizePixel = 0
+                }):Themify("Unselected", "ImageColor3"):Themify("Accent", "ImageColor3")
+
+                Items.Title = Library:Create( "TextLabel", {
+                    FontFace = Themes.Preset.Font;
+                    TextColor3 = Themes.Preset["Unselected"];
+                    Text = Cfg.Text;
+                    Parent = Items.Icon.Instance;
+                    AnchorPoint = Vector2.new(0, 0.5);
+                    AutomaticSize = Enum.AutomaticSize.XY;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(1, 10, 0.5, 0);
+                    BorderSizePixel = 0;
+                    ZIndex = 2
+                }):Themify("Unselected", "TextColor3")
+
+                Items.Glow = Library:Create( "Frame", {
+                    Parent = Items.Button.Instance;
+                    BackgroundTransparency = 1;
+                    Size = UDim2.new(0, 20, 1, 0);
+                    BorderSizePixel = 0;
+                    BackgroundColor3 = Themes.Preset["Accent"]
+                }):Themify("Accent", "BackgroundColor3")
+
+                Library:Create( "UICorner", {
+                    Parent = Items.Glow.Instance;
+                    CornerRadius = UDim.new(0, 3)
+                })
+
+                Items.GlowImage = Library:Create( "ImageLabel", {
+                    ImageColor3 = Themes.Preset["Accent"];
+                    ScaleType = Enum.ScaleType.Slice;
+                    ImageTransparency = 1;
+                    Parent = Items.Glow.Instance;
+                    BackgroundColor3 = Themes.Preset["Accent"];
+                    Size = UDim2.new(1, 20, 1, 20);
+                    Image = "rbxassetid://18245826428";
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, -20, 0, -10);
+                    ZIndex = 2;
+                    BorderSizePixel = 0;
+                    SliceCenter = Rect.new(Vector2.new(20, 20), Vector2.new(80, 80))
+                }):Themify("Accent", "ImageColor3")
+
+                Items.Background = Library:Create( "Frame", {
+                    Parent = Items.Button.Instance;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 3, 0, 0);
+                    Size = UDim2.new(1, -3, 1, 0);
+                    BorderSizePixel = 0;
+                    BackgroundColor3 = Themes.Preset["TabButtons"]
+                }):Themify("TabButtons", "BackgroundColor3")
+
+                Library:Create( "UICorner", {
+                    Parent = Items.Background.Instance;
+                    CornerRadius = UDim.new(0, 6)
+                })
+
+                Items.Filler = Library:Create( "Frame", {
+                    Parent = Items.Background.Instance;
+                    BackgroundTransparency = 1;
+                    Size = UDim2.new(0, 6, 1, 0);
+                    BorderSizePixel = 0;
+                    BackgroundColor3 = Themes.Preset["TabButtons"]
+                }):Themify("TabButtons", "BackgroundColor3")
+            end
+
+            do -- Page
+                Items.MainPage = Library:Create( "Frame", {
+                    Parent = Library.Other.Instance; -- self.Items.Main.Instance
+                    Visible = false;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 178, 0, 88);
+                    Size = UDim2.new(1, -178, 1, -88);
+                    BorderSizePixel = 0
+                })
+            end
+
+            do -- Subtabs
+                Items.Holder = Library:Create( "Frame", {
+                    Parent = Library.Other.Instance; -- self.Items.Subtabs.Instance
+                    Size = UDim2.new(0, 0, 0, 37);
+                    BorderSizePixel = 0;
+                    Visible = false;
+                    AutomaticSize = Enum.AutomaticSize.X;
+                    BackgroundColor3 = Themes.Preset["Background"]
+                }):Themify("Background", "BackgroundColor3")
+
+                Library:Create( "UICorner", {
+                    Parent = Items.Holder.Instance
+                })
+
+                Items.Outline = Library:Create( "UIStroke", {
+                    Color = Themes.Preset["ElementBackground"];
+                    Parent = Items.Holder.Instance
+                }):Themify("ElementBackground", "Color")
+
+                Library:Create( "UIPadding", {
+                    PaddingTop = UDim.new(0, 8);
+                    PaddingBottom = UDim.new(0, 8);
+                    Parent = Items.Holder.Instance;
+                    PaddingRight = UDim.new(0, 8);
+                    PaddingLeft = UDim.new(0, 7)
+                })
+
+                Library:Create( "UIListLayout", {
+                    Parent = Items.Holder.Instance;
+                    Padding = UDim.new(0, 5);
+                    SortOrder = Enum.SortOrder.LayoutOrder;
+                    FillDirection = Enum.FillDirection.Horizontal
+                })
+            end
+        end
+
+        for _,Page in Cfg.Pages do
+            local PageData = {
+               Items = {},
+               Tweening = false
+            }
+
+            local ButtonParent = Items.Holder
+            local PageParent = Items.MainPage
+
+            local MiscItems = PageData.Items; do
+                -- // Button
+                MiscItems.Button = Library:Create( "Frame", {
+                    Parent = ButtonParent.Instance;
+                    BackgroundTransparency = 1;
+                    Size = UDim2.new(0, 0, 1, 0);
+                    BorderSizePixel = 0;
+                    AutomaticSize = Enum.AutomaticSize.X;
+                    BackgroundColor3 = Themes.Preset["Accent"];
+                    ZIndex = 9999
+                }):Themify("Accent", "BackgroundColor3")
+
+                Library:Create( "UIGradient", {
+                    Parent = MiscItems.Button.Instance;
+                    Transparency = NumberSequence.new{
+                        NumberSequenceKeypoint.new(0, 0.59375),
+                        NumberSequenceKeypoint.new(1, 0)
+                    }
+                })
+
+                Library:Create( "UICorner", {
+                    Parent = MiscItems.Button.Instance;
+                    CornerRadius = UDim.new(0, 6)
+                })
+
+                MiscItems.Text = Library:Create( "TextLabel", {
+                    FontFace = Themes.Preset.Font;
+                    Parent = MiscItems.Button.Instance;
+                    TextColor3 = Themes.Preset["Unselected"];
+                    Text = Page;
+                    AutomaticSize = Enum.AutomaticSize.XY;
+                    AnchorPoint = Vector2.new(0, 0.5);
+                    Size = UDim2.new(0, 0, 1, 0);
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 8, 0.5, -1);
+                    BorderSizePixel = 0;
+                    ZIndex = 2;
+                    BackgroundColor3 = Themes.Preset["ElementBackground"]
+                }):Themify("ElementBackground", "BackgroundColor3")
+
+                Library:Create( "UIPadding", {
+                    Parent = MiscItems.Button.Instance;
+                    PaddingTop = UDim.new(0, 2);
+                    PaddingRight = UDim.new(0, 7);
+                    PaddingLeft = UDim.new(0, -3);
+                })
+
+                MiscItems.Outline = Library:Create( "UIStroke", {
+                    Color = Themes.Preset["Accent"];
+                    Transparency = 1;
+                    Parent = MiscItems.Button.Instance
+                }):Themify("Accent", "Color")
+
+                --// Page
+                MiscItems.Page = Library:Create( "Frame", {
+                    Parent = Library.Other.Instance; -- PageParent.Instance
+                    BackgroundTransparency = 1;
+                    Visible = false;
+                    Size = UDim2.new(1, 0, 1, 0);
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UIPadding", {
+                    PaddingBottom = UDim.new(0, 16);
+                    Parent = MiscItems.Page.Instance;
+                    PaddingLeft = UDim.new(0, 17);
+                    PaddingRight = UDim.new(0, 16)
+                })
+
+                Library:Create( "UIListLayout", {
+                    FillDirection = Enum.FillDirection.Horizontal;
+                    HorizontalFlex = Enum.UIFlexAlignment.Fill;
+                    Parent = MiscItems.Page.Instance;
+                    Padding = UDim.new(0, 15);
+                    SortOrder = Enum.SortOrder.LayoutOrder;
+                    VerticalFlex = Enum.UIFlexAlignment.Fill
+                })
+
+                MiscItems.Left = Library:Create( "ScrollingFrame", {
+                    ScrollBarImageColor3 = Color3.fromRGB(0, 0, 0);
+                    Active = true;
+                    AutomaticCanvasSize = Enum.AutomaticSize.Y;
+                    ScrollBarThickness = 0;
+                    Parent = MiscItems.Page.Instance;
+                    BackgroundTransparency = 1;
+                    Size = UDim2.new(0, 100, 0, 100);
+                    BorderSizePixel = 0;
+                    CanvasSize = UDim2.new(0, 0, 0, 0)
+                })
+
+                Library:Create( "UIPadding", {
+                    PaddingTop = UDim.new(0, 1);
+                    PaddingBottom = UDim.new(0, 1);
+                    Parent = MiscItems.Left.Instance;
+                    PaddingRight = UDim.new(0, 1);
+                    PaddingLeft = UDim.new(0, 1)
+                })
+
+                Library:Create( "UIListLayout", {
+                    Parent = MiscItems.Left.Instance;
+                    Padding = UDim.new(0, 15);
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+
+                MiscItems.Right = Library:Create( "ScrollingFrame", {
+                    ScrollBarImageColor3 = Color3.fromRGB(0, 0, 0);
+                    Active = true;
+                    AutomaticCanvasSize = Enum.AutomaticSize.Y;
+                    ScrollBarThickness = 0;
+                    Parent = MiscItems.Page.Instance;
+                    BackgroundTransparency = 1;
+                    Size = UDim2.new(0, 100, 0, 100);
+                    CanvasSize = UDim2.new(0, 0, 0, 0);
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UIPadding", {
+                    PaddingTop = UDim.new(0, 1);
+                    PaddingBottom = UDim.new(0, 1);
+                    Parent = MiscItems.Right.Instance;
+                    PaddingRight = UDim.new(0, 1);
+                    PaddingLeft = UDim.new(0, 1)
+                })
+
+                Library:Create( "UIListLayout", {
+                    Parent = MiscItems.Right.Instance;
+                    Padding = UDim.new(0, 15);
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+            end
+
+            PageData.OpenPage = function()
+                local OldTab = Cfg.TabInfo
+
+                if OldTab == PageData then
+                    return
+                end
+
+                if PageData.Tweening or (OldTab and OldTab.Tweening) then
+                    return
+                end
+
+                if OldTab then
+                    OldTab.Items.Text:Tween({TextColor3 = Themes.Preset.Unselected})
+                    OldTab.Items.Outline:Tween({Transparency = 1})
+                    OldTab.Items.Button:Tween({BackgroundTransparency = 1})
+
+                    OldTab.Items.Page:TweenDescendants(false, OldTab)
+                end
+
+                MiscItems.Text:Tween({TextColor3 = Themes.Preset.TextColor})
+                MiscItems.Outline:Tween({Transparency = 0})
+                MiscItems.Button:Tween({BackgroundTransparency = 0})
+                MiscItems.Page.Instance.Size = UDim2.new(1, -40, 1, -40)
+                MiscItems.Page:Tween({Size = UDim2.new(1, 0, 1, 0)})
+                MiscItems.Page:TweenDescendants(true, PageData)
+
+                Cfg.TabInfo = PageData
+            end
+
+            MiscItems.Button:OnClick(PageData.OpenPage)
+            MiscItems.Page:Reparent(PageParent.Instance)
+
+            if not Cfg.TabInfo then
+                MiscItems.Outline.Instance.Transparency = 0
+                MiscItems.Button.Instance.BackgroundTransparency = 0
+                PageData.OpenPage()
+            end
+
+            Cfg.Sections[#Cfg.Sections + 1] = setmetatable(PageData, Library)
+        end
+
+        Cfg.OpenPage = function()
+            local OldTab = self.TabInfo
+
+            if OldTab == Cfg then
+                return
+            end
+
+            if Cfg.Tweening or (OldTab and OldTab.Tweening) then
+                return
+            end
+
+            if OldTab then
+                OldTab.Items.Icon:Tween({ImageColor3 = Themes.Preset.Unselected})
+                OldTab.Items.Title:Tween({TextColor3 = Themes.Preset.Unselected})
+                OldTab.Items.GlowImage:Tween({ImageTransparency = 1})
+
+                OldTab.Items.Glow.Instance.BackgroundTransparency = 1
+                OldTab.Items.Background.Instance.BackgroundTransparency = 1
+                OldTab.Items.Filler.Instance.BackgroundTransparency = 1
+
+                OldTab.Items.MainPage:TweenDescendants(false, self)
+                self.Tweening = false
+                OldTab.Items.Holder:TweenDescendants(false, self)
+            end
+
+            Items.Icon:Tween({ImageColor3 = Themes.Preset.TextColor})
+            Items.Title:Tween({TextColor3 = Themes.Preset.TextColor})
+            Items.GlowImage:Tween({ImageTransparency = 0.69})
+
+            Items.Glow.Instance.BackgroundTransparency = 0
+            Items.Background.Instance.BackgroundTransparency = 0
+            Items.Filler.Instance.BackgroundTransparency = 0
+
+            Items.Title:Tween({TextColor3 = Themes.Preset.Accent})
+            Items.Icon:Tween({ImageColor3 = Themes.Preset.Accent})
+
+            Items.MainPage.Instance.Size = UDim2.new(1, -178 - 40, 1, -88 - 40);
+            Items.MainPage:Tween({Size = UDim2.new(1, -178, 1, -88)})
+
+            Items.MainPage:TweenDescendants(true, Cfg)
+            Cfg.Tweening = false
+            Items.Holder:TweenDescendants(true, Cfg)
+
+            self.TabInfo = Cfg
+        end
+
+        Items.Holder:Reparent(self.Items.Subtabs.Instance)
+        Items.MainPage:Reparent(self.Items.Menu.Instance)
+        Items.Button:OnClick(Cfg.OpenPage)
+
+        Items.GlowImage.Instance:GetPropertyChangedSignal("ImageColor3"):Connect(function()
+            task.wait()
+
+            if self.TabInfo == Cfg then
+                Items.Title:Tween({TextColor3 = Themes.Preset.Accent})
+                Items.Icon:Tween({ImageColor3 = Themes.Preset.Accent})
+            end
+        end)
+
+        if not self.TabInfo then
+            Cfg.OpenPage()
+        end
+
+        return unpack(Cfg.Sections)
+    end
+
+    Library.AddSection = function(self, Data)
+        Data = Data or {}
+
+        local Cfg = {
+            Title = Data.Title or Data.Text or Data.Name or "Title";
+            Side = Data.Side or "Left";
+            Collasped = Data.Collapsed or false;
+
+            Items = {};
+            Tweening = false;
+            CachedSize = 0;
+            Incrementing = false;
+        }
+
+        local ScalingSize = (self.Items and self.Items[Cfg.Side] and self.Items[Cfg.Side].Instance) and 1 or 0
+        local OffsetSize = ScalingSize == 1 and 0 or 200
+
+        local Items = Cfg.Items; do
+            Items.Section = Library:Create( "Frame", {
+                Parent = (self.Items and self.Items[Cfg.Side] and self.Items[Cfg.Side].Instance) or Library.Other.Instance;
+                Size = UDim2.new(ScalingSize, OffsetSize, 0, 0);
+                Position = UDim2.new(0, 1, 0, 0);
+                BorderSizePixel = 0;
+                ClipsDescendants = true;
+                -- AutomaticSize = Enum.AutomaticSize.Y;
+                BackgroundColor3 = Themes.Preset["SectionBackground"]
+            }):Themify("SectionBackground", "BackgroundColor3")
+
+            Library:Create( "TextLabel", {
+                FontFace = Themes.Preset.Font;
+                TextColor3 = Themes.Preset["Unselected"];
+                Text = Cfg.Title;
+                Parent = Items.Section.Instance;
+                AutomaticSize = Enum.AutomaticSize.XY;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 12, 0, 10);
+                BorderSizePixel = 0;
+                ZIndex = 2
+            }):Themify("Unselected", "TextColor3")
+
+            Items.Elements = Library:Create( "Frame", {
+                Parent = Items.Section.Instance;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 12, 0, 43);
+                Size = UDim2.new(1, -24, 0, 0);
+                BorderSizePixel = 0;
+                AutomaticSize = Enum.AutomaticSize.Y
+            })
+
+            Library:Create( "UIPadding", {
+                PaddingBottom = UDim.new(0, 8);
+                Parent = Items.Elements.Instance
+            })
+
+            Library:Create( "UIListLayout", {
+                Parent = Items.Elements.Instance;
+                Padding = UDim.new(0, 13);
+                SortOrder = Enum.SortOrder.LayoutOrder
+            })
+
+            Library:Create( "UICorner", {
+                Parent = Items.Section.Instance;
+                CornerRadius = UDim.new(0, 6)
+            })
+
+            Library:Create( "UIStroke", {
+                Color = Themes.Preset["Inline"];
+                Parent = Items.Section.Instance
+            }):Themify("Inline", "Color")
+
+            Items.TopBar = Library:Create( "Frame", {
+                Parent = Items.Section.Instance;
+                Size = UDim2.new(1, 0, 0, 35);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["ElementBackground"]
+            }):Themify("ElementBackground", "BackgroundColor3")
+
+            Items.Filler1 = Library:Create( "Frame", {
+                AnchorPoint = Vector2.new(0, 1);
+                Parent = Items.TopBar.Instance;
+                Position = UDim2.new(0, 0, 1, 0);
+                Size = UDim2.new(1, 0, 0, 6);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["ElementBackground"]
+            }):Themify("ElementBackground", "BackgroundColor3")
+
+            Items.Filler2 = Library:Create( "Frame", {
+                Parent = Items.TopBar.Instance;
+                Position = UDim2.new(0, 0, 1, -1);
+                Size = UDim2.new(1, 0, 0, 1);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["TabButtons"]
+            }):Themify("TabButtons", "BackgroundColor3")
+
+            Library:Create( "UICorner", {
+                Parent = Items.TopBar.Instance;
+                CornerRadius = UDim.new(0, 6)
+            })
+
+            Items.Image = Library:Create( "ImageLabel", {
+                Parent = Items.TopBar.Instance;
+                Size = UDim2.new(0, 9, 0, 6);
+                AnchorPoint = Vector2.new(1, 0.5);
+                Image = "rbxassetid://75133155165707";
+                BackgroundTransparency = 1;
+                Position = UDim2.new(1, -11, 0.5, 0);
+                Rotation = 0;
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset.Other
+            }):Themify("Other", "BackgroundColor3")
+        end
+
+        local Section = Items.Section.Instance
+
+        Cfg.Collapse = function(bool)
+            if Cfg.Tweening then
+                return
+            end
+
+            Cfg.Collapsed = bool
+
+            if bool then
+                Items.Section:Tween({Size = UDim2.new(ScalingSize, OffsetSize, 0, 35)})
+                Items.Filler1:Tween({BackgroundTransparency = 1})
+                Items.Filler2:Tween({BackgroundTransparency = 1})
+                Items.Image:Tween({Rotation = 180})
+
+                Items.Elements:Tween({Position = UDim2.new(0, 12, 0, 23)})
+                Items.Elements:TweenDescendants(false, Cfg)
+            else
+                Items.Section:Tween({Size = UDim2.new(ScalingSize, OffsetSize, 0, Cfg.CachedSize + 36)})
+                Items.Filler1:Tween({BackgroundTransparency = 0})
+                Items.Filler2:Tween({BackgroundTransparency = 0})
+                Items.Image:Tween({Rotation = 0})
+
+                Items.Elements:Tween({Position = UDim2.new(0, 12, 0, 43)})
+                Items.Elements:TweenDescendants(true, Cfg)
+            end
+        end
+
+        Items.Image:OnClick(function()
+            if Cfg.Tweening then
+                return
+            end
+
+            Cfg.Collapsed = not Cfg.Collapsed
+
+            Cfg.Collapse(Cfg.Collapsed)
+        end)
+
+        Cfg.UpdateSection = function(Instance)
+            task.spawn(function()
+                if not Cfg.Collapsed then
+                    Cfg.CachedSize += Instance.AbsoluteSize.Y + 13
+                    Items.Section:Tween({Size = UDim2.new(ScalingSize, OffsetSize, 0, Cfg.CachedSize + 40)})
+                end
+            end)
+        end
+
+        return setmetatable(Cfg, Library)
+    end
+
+    Library.AddToggle = function(self, Data)
+        Data = Data or {}
+
+        local Cfg = {
+            Text = Data.Text or "Toggle";
+            Flag = Data.Flag or Data.Name or Data.Text or "Toggle";
+            Enabled = Data.Default or false;
+            Callback = Data.Callback or function() end;
+
+            Items = {};
+        }
+
+        local Items = Cfg.Items; do
+            Items.Object = Library:Create( "TextButton", {
+                Parent = self.Items.Elements.Instance;
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 0, 18);
+                BorderSizePixel = 0
+            })
+
+            Items.AccentChange = Library:Create( "TextButton", {
+                Parent = Library.Other.Instance;
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 0, 18);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset.Accent
+            }):Themify("Accent", "BackgroundColor3")
+
+            Items.Text = Library:Create( "TextLabel", {
+                FontFace = Themes.Preset.Font;
+                TextColor3 = Themes.Preset["Unselected"];
+                Text = Cfg.Text;
+                Parent = Items.Object.Instance;
+                AnchorPoint = Vector2.new(0, 0.5);
+                AutomaticSize = Enum.AutomaticSize.XY;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, -1, 0.5, 0);
+                BorderSizePixel = 0;
+                ZIndex = 2
+            }):Themify("Unselected", "TextColor3"):Themify("TextColor", "TextColor3")
+
+            Items.Holder = Library:Create( "Frame", {
+                Parent = Items.Object.Instance;
+                Position = UDim2.new(1, 0, 0, 0);
+                Size = UDim2.new(0, 0, 1, 0);
+                BorderSizePixel = 0
+            })
+
+            Library:Create( "UIListLayout", {
+                FillDirection = Enum.FillDirection.Horizontal;
+                HorizontalAlignment = Enum.HorizontalAlignment.Right;
+                Parent = Items.Holder.Instance;
+                Padding = UDim.new(0, 7);
+                SortOrder = Enum.SortOrder.LayoutOrder
+            })
+
+            Items.Toggle = Library:Create( "Frame", {
+                AnchorPoint = Vector2.new(1, 0);
+                Parent = Items.Holder.Instance;
+                Position = UDim2.new(1, 0, 0, 0);
+                Size = UDim2.new(0, 34, 0, 16);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset.Other
+            }):Themify("Other", "BackgroundColor3"):Themify("Accent", "BackgroundColor3")
+
+            Items.Stroke = Library:Create( "UIStroke", {
+                Color = Themes.Preset["Inline"];
+                Parent = Items.Toggle.Instance
+            }):Themify("Inline", "Color"):Themify("Accent", "Color")
+
+            Library:Create( "UICorner", {
+                Parent = Items.Toggle.Instance;
+                CornerRadius = UDim.new(1, 0)
+            })
+
+            Items.Gradient = Library:Create( "UIGradient", {
+                Parent = Items.Toggle.Instance;
+                Transparency = NumberSequence.new{
+                    NumberSequenceKeypoint.new(0, 0.59375),
+                    NumberSequenceKeypoint.new(1, 0)
+                };
+                Enabled = false;
+            })
+
+            Items.Circle = Library:Create( "Frame", {
+                AnchorPoint = Vector2.new(0, 0.5);
+                Parent = Items.Toggle.Instance;
+                Position = UDim2.new(0, 2, 0.5, 0);
+                Size = UDim2.new(0, 12, 0, 12);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Color3.fromRGB(56, 56, 56)
+            })
+
+            Library:Create( "UICorner", {
+                Parent = Items.Circle.Instance;
+                CornerRadius = UDim.new(1, 0)
+            })
+        end
+
+        Cfg.Set = function(bool)
+            Items.Gradient.Instance.Enabled = bool
+            Cfg.Enabled = bool
+
+            if bool then
+                Items.Circle:Tween({AnchorPoint = Vector2.new(1, 0.5), Position = UDim2.new(1, -2, 0.5, 0), BackgroundColor3 = Color3.fromRGB(255, 255, 255)})
+                Items.Stroke:Tween({Color = Themes.Preset.Accent})
+                Items.Toggle:Tween({BackgroundColor3 = Themes.Preset.Accent})
+                Items.Text:Tween({TextColor3 = Themes.Preset.TextColor})
+            else
+                Items.Toggle:Tween({BackgroundColor3 = Themes.Preset.Inline})
+                Items.Circle:Tween({AnchorPoint = Vector2.new(0, 0.5), Position = UDim2.new(0, 2, 0.5, 0), BackgroundColor3 = Color3.fromRGB(56, 56, 56)})
+                Items.Stroke:Tween({Color = Themes.Preset.Inline})
+                Items.Text:Tween({TextColor3 = Themes.Preset.Unselected})
+            end
+
+            Flags[Cfg.Flag] = bool
+            Cfg.Callback(bool)
+        end
+
+        Items.Object:OnClick(function()
+            Cfg.Enabled = not Cfg.Enabled
+            Cfg.Set(Cfg.Enabled)
+        end)
+
+        Items.AccentChange.Instance:GetPropertyChangedSignal("BackgroundColor3"):Connect(function()
+        -- print("hi")
+            if Cfg.Enabled then
+                Items.Stroke:Tween({Color = Themes.Preset.Accent})
+                Items.Toggle:Tween({BackgroundColor3 = Themes.Preset.Accent})
+            end
+        end)
+
+        ConfigFlags[Cfg.Flag] = Cfg.Set
+        Cfg.Set(Cfg.Enabled)
+
+        self.UpdateSection(Items.Object.Instance)
+
+        return setmetatable(Cfg, Library)
+    end
+
+    Library.AddSlider = function(self, Data)
+        Data = Data or {}
+
+        local Cfg = {
+            Text = Data.Text or "Text",
+            Suffix = Data.Suffix or "",
+            Flag = Data.Flag or Data.Name or "Slider",
+            Callback = Data.Callback or function() end,
+
+            Min = Data.Min or 0,
+            Max = Data.Max or 100,
+            Intervals = Data.Decimal or Data.Rounding or 1,
+            Value = Data.Default or 10,
+
+            Dragging = false,
+            Items = {}
+        }
+
+        local Items = Cfg.Items; do
+            Items.Object = Library:Create( "TextButton", {
+                Parent = self.Items.Elements.Instance;
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 0, 33);
+                BorderSizePixel = 0;
+                AutomaticSize = Enum.AutomaticSize.Y;
+            })
+
+            Items.Title = Library:Create( "TextLabel", {
+                FontFace = Themes.Preset.Font;
+                TextColor3 = Color3.fromRGB(252, 252, 252);
+                Text = Cfg.Text;
+                Parent = Items.Object.Instance;
+                AutomaticSize = Enum.AutomaticSize.XY;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, -1, 0, 0);
+                BorderSizePixel = 0;
+                ZIndex = 2
+            })
+
+            Items.Value = Library:Create( "TextLabel", {
+                FontFace = Themes.Preset.Font;
+                TextColor3 = Color3.fromRGB(252, 252, 252);
+                Text = "50%";
+                Parent = Items.Object.Instance;
+                AnchorPoint = Vector2.new(1, 0);
+                AutomaticSize = Enum.AutomaticSize.XY;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(1, 0, 0, 0);
+                BorderSizePixel = 0;
+                ZIndex = 2
+            })
+
+            Items.Accent = Library:Create( "Frame", {
+                Parent = Items.Object.Instance;
+                Size = UDim2.new(0.5, -2, 0, 5);
+                Position = UDim2.new(0, 1, 0, 27);
+                ZIndex = 2;
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["Accent"]
+            }):Themify("Accent", "BackgroundColor3")
+
+            Library:Create( "UIGradient", {
+                Parent = Items.Accent.Instance;
+                Transparency = NumberSequence.new{
+                NumberSequenceKeypoint.new(0, 0.824999988079071),
+                NumberSequenceKeypoint.new(1, 0)
+            }
+            })
+
+            Library:Create( "UIStroke", {
+                Color = Themes.Preset["Accent"];
+                Parent = Items.Accent.Instance
+            }):Themify("Accent", "Color")
+
+            Library:Create( "UICorner", {
+                Parent = Items.Accent.Instance;
+                CornerRadius = UDim.new(1, 0)
+            })
+
+            Items.Circle = Library:Create( "Frame", {
+                AnchorPoint = Vector2.new(0.5, 0.5);
+                Parent = Items.Accent.Instance;
+                Position = UDim2.new(1, 0, 0.5, 0);
+                Size = UDim2.new(0, 7, 0, 7);
+                ZIndex = 2;
+                BorderSizePixel = 0;
+                BackgroundColor3 = Color3.fromRGB(246, 245, 254)
+            })
+
+            Library:Create( "UIStroke", {
+                Color = Themes.Preset["TextColor"];
+                Parent = Items.Circle.Instance
+            }):Themify("TextColor", "Color")
+
+            Library:Create( "UICorner", {
+                Parent = Items.Circle.Instance;
+                CornerRadius = UDim.new(1, 8)
+            })
+
+            Items.SliderDragger = Library:Create( "Frame", {
+                Parent = Items.Object.Instance;
+                Position = UDim2.new(0, 0, 0, 26);
+                Size = UDim2.new(1, 1, 0, 7);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["ElementBackground"]
+            }):Themify("ElementBackground", "BackgroundColor3")
+
+            Library:Create( "UICorner", {
+                Parent = Items.SliderDragger.Instance;
+                CornerRadius = UDim.new(1, 0)
+            })
+        end
+
+        Cfg.Set = function(Value)
+            Cfg.Value = math.clamp(Library:Round(Value, Cfg.Intervals), Cfg.Min, Cfg.Max)
+
+            Items.Value.Instance.Text = tostring(Cfg.Value) .. Cfg.Suffix
+            Items.Accent:Tween({Size = UDim2.new((Cfg.Value - Cfg.Min) / (Cfg.Max - Cfg.Min), -2, 0, 5)}, TweenInfo.new(Library.DraggingSpeed, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut, 0, false, 0))
+
+            Flags[Cfg.Flag] = Cfg.Value
+            Cfg.Callback(Flags[Cfg.Flag])
+        end
+
+        Cfg.UpdateSlider = function(input)
+            local Size = (input.Position.X - Items.SliderDragger.Instance.AbsolutePosition.X) / Items.SliderDragger.Instance.AbsoluteSize.X
+            local Value = ((Cfg.Max - Cfg.Min) * Size) + Cfg.Min
+
+            Cfg.Set(Value)
+        end
+
+        Cfg.Set(Cfg.Value);
+        Items.SliderDragger:OnDrag(Cfg.UpdateSlider)
+        self.UpdateSection(Items.Object.Instance)
+
+        ConfigFlags[Cfg.Flag] = Cfg.Set
+        return setmetatable(Cfg, Library)
+    end
+
+    Library.AddDropdown = function(self, Data)
+        Data = Data or {}
+
+        local Cfg = {
+            Text = Data.Text or Data.Title or Data.Name or nil;
+            Flag = Data.Flag or Data.Text or Data.Title or Data.Name or "Dropdown";
+            Options = Data.Options or Data.Values or {""};
+            Callback = Data.Callback or function() end;
+            Multi = Data.Multi or false;
+
+            -- Ignore these
+            Open = true;
+            OptionInstances = {};
+            MultiItems = {};
+            Items = {};
+            Tweening = false;
+        } Cfg.Default = Data.Default or Cfg.Options[1] or "";
+
+        local Items = Cfg.Items; do
+            do -- Outline
+                Items.Dropdown = Library:Create( "Frame", {
+                    Parent = self.Items.Elements.Instance;
+                    BackgroundTransparency = 1;
+                    Size = UDim2.new(1, 0, 0, 52);
+                    AutomaticSize = Enum.AutomaticSize.Y;
+                    BorderSizePixel = 0
+                })
+
+                Items.Text = Library:Create( "TextLabel", {
+                    FontFace = Themes.Preset.Font;
+                    TextColor3 = Color3.fromRGB(252, 252, 252);
+                    Text = Cfg.Text;
+                    Parent = Items.Dropdown.Instance;
+                    AutomaticSize = Enum.AutomaticSize.XY;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, -1, 0, 0);
+                    BorderSizePixel = 0;
+                    ZIndex = 2
+                })
+
+                Items.Outline = Library:Create( "Frame", {
+                    Parent = Items.Dropdown.Instance;
+                    Position = UDim2.new(0, 1, 0, 26);
+                    Size = UDim2.new(1, -1, 0, 24);
+                    BorderSizePixel = 0;
+                    BackgroundColor3 = Themes.Preset["ElementBackground"]
+                }):Themify("ElementBackground", "BackgroundColor3")
+
+                Library:Create( "UIStroke", {
+                    Color = Themes.Preset.ElementOutline;
+                    Parent = Items.Outline.Instance
+                }):Themify("ElementOutline", "Color")
+
+                Library:Create( "UICorner", {
+                    Parent = Items.Outline.Instance;
+                    CornerRadius = UDim.new(0, 5)
+                })
+
+                Items.Rectangles = Library:Create( "ImageLabel", {
+                    ImageColor3 = Themes.Preset.Accent;
+                    Parent = Items.Outline.Instance;
+                    AnchorPoint = Vector2.new(1, 0.5);
+                    Image = "rbxassetid://131251144676490";
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(1, -8, 0.5, 0);
+                    Size = UDim2.new(0, 12, 0, 12);
+                    BorderSizePixel = 0
+                }):Themify("Accent", "ImageColor3")
+
+                Items.Value = Library:Create( "TextLabel", {
+                    FontFace = Themes.Preset.Font;
+                    TextColor3 = Color3.fromRGB(252, 252, 252);
+                    Text = "Dropdown";
+                    Parent = Items.Outline.Instance;
+                    AnchorPoint = Vector2.new(0, 0.5);
+                    AutomaticSize = Enum.AutomaticSize.XY;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, 8, 0.5, -1);
+                    BorderSizePixel = 0;
+                    ZIndex = 2
+                })
+            end
+
+            do -- Menu
+                Items.DropdownHolder = Library:Create( "TextButton", {
+                    Size = UDim2.new(0, 248, 0, 0);
+                    Position = UDim2.new(0.05539358779788017, 0, 0.5614250898361206, 0);
+                    BorderSizePixel = 0;
+                    Visible = false;
+                    Parent = Library.Other.Instance;
+                    AutomaticSize = Enum.AutomaticSize.Y;
+                    BackgroundColor3 = Themes.Preset["ElementBackground"]
+                }):Themify("ElementBackground", "BackgroundColor3")
+
+                Library:Create( "UIStroke", {
+                    Color = Themes.Preset.ElementOutline;
+                    Parent = Items.DropdownHolder.Instance
+                }):Themify("ElementOutline", "Color")
+
+                Library:Create( "UICorner", {
+                    Parent = Items.DropdownHolder.Instance;
+                    CornerRadius = UDim.new(0, 5)
+                })
+
+                Library:Create( "UIPadding", {
+                    PaddingTop = UDim.new(0, 2);
+                    PaddingBottom = UDim.new(0, 1);
+                    Parent = Items.DropdownHolder.Instance;
+                    PaddingRight = UDim.new(0, 2);
+                    PaddingLeft = UDim.new(0, 2)
+                })
+
+                Library:Create( "UIListLayout", {
+                    Parent = Items.DropdownHolder.Instance;
+                    Padding = UDim.new(0, 5);
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+            end
+        end
+
+        Cfg.RenderOption = function(text)
+            local DropdownItems = {}
+
+            DropdownItems.Button = Library:Create( "Frame", {
+                Parent = Items.DropdownHolder.Instance;
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 0, 0);
+                BorderSizePixel = 0;
+                AutomaticSize = Enum.AutomaticSize.XY;
+                BackgroundColor3 = Themes.Preset["Accent"]
+            }):Themify("Accent", "BackgroundColor3")
+
+            Library:Create( "UIGradient", {
+                Parent = DropdownItems.Button.Instance;
+                Transparency = NumberSequence.new{
+                    NumberSequenceKeypoint.new(0, 0.59375),
+                    NumberSequenceKeypoint.new(1, 0)
+                }
+            })
+
+            Library:Create( "UICorner", {
+                Parent = DropdownItems.Button.Instance;
+                CornerRadius = UDim.new(0, 5)
+            })
+
+            DropdownItems.Text = Library:Create( "TextLabel", {
+                FontFace = Themes.Preset.Font;
+                Parent = DropdownItems.Button.Instance;
+                TextColor3 = Themes.Preset["Unselected"];
+                Text = text;
+                AutomaticSize = Enum.AutomaticSize.XY;
+                AnchorPoint = Vector2.new(0, 0.5);
+                Size = UDim2.new(0, 0, 1, 0);
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 8, 0.5, -1);
+                BorderSizePixel = 0;
+                ZIndex = 2;
+            }):Themify("Unselected", "TextColor3"):Themify("TextColor", "TextColor3")
+
+            Library:Create( "UIPadding", {
+                PaddingBottom = UDim.new(0, 10);
+                PaddingTop = UDim.new(0, 10);
+                Parent = DropdownItems.Button.Instance
+            })
+
+            DropdownItems.Stroke = Library:Create( "UIStroke", {
+                Color = Themes.Preset["Accent"];
+                Transparency = 1;
+                Parent = DropdownItems.Button.Instance
+            }):Themify("Accent", "Color")
+
+            table.insert(Cfg.OptionInstances, DropdownItems)
+
+            return DropdownItems
+        end
+
+        Cfg.SetVisible = function()
+            if Cfg.Tweening then
+                return
+            end
+
+            Cfg.Open = not Cfg.Open
+
+            local Size = Items.Outline.Instance.AbsoluteSize
+            local Position = Items.Outline.Instance.AbsolutePosition
+
+            Items.DropdownHolder.Instance.Size = UDim2.fromOffset(Size.X + 2, 0)
+
+            if Cfg.Open then
+                Items.DropdownHolder.Instance.Position = UDim2.fromOffset(Position.X, Position.Y + 75)
+                Items.DropdownHolder:Tween({Position = UDim2.fromOffset(Position.X, Position.Y + 85)})
+            else
+                Items.DropdownHolder:Tween({Position = UDim2.fromOffset(Position.X, Position.Y + 75)})
+            end
+
+            Items.DropdownHolder:TweenDescendants(Cfg.Open, Cfg)
+        end
+
+        Cfg.Set = function(Value)
+            local Selected = {}
+            local IsTable = type(Value) == "table"
+
+            for _,Option in Cfg.OptionInstances do
+                local Text = Option.Text.Instance.Text
+
+                if Text == Value or (IsTable and table.find(Value, Text)) then
+                    table.insert(Selected, Text)
+                    Cfg.MultiItems = Selected
+
+                    Option.Text:Tween({TextColor3 = Themes.Preset.TextColor})
+                    Option.Button:Tween({BackgroundTransparency = 0})
+                    Option.Stroke:Tween({Transparency = 0})
+                else
+                    Option.Text:Tween({TextColor3 = Themes.Preset.Unselected})
+                    Option.Button:Tween({BackgroundTransparency = 1})
+                    Option.Stroke:Tween({Transparency = 1})
+                end
+            end
+
+            Items.Value.Instance.Text = IsTable and table.concat(Selected, ", ") or Selected[1] or ""
+
+            Flags[Cfg.Flag] = IsTable and Selected or Selected[1]
+            Cfg.Callback(Flags[Cfg.Flag])
+        end
+
+        Cfg.RefreshOptions = function(Options)
+            for _,option in Cfg.OptionInstances do
+                option.Button.Instance:Destroy()
+            end
+
+            Cfg.OptionInstances = {}
+
+            for _,Option in Options do
+                local Button = Cfg.RenderOption(Option)
+                local Text = Button.Text.Instance.Text
+
+                Button.Button:OnClick(function()
+                    if Cfg.Multi then
+                        local Selected = table.find(Cfg.MultiItems, Text)
+
+                        if Selected then
+                            table.remove(Cfg.MultiItems, Selected)
+                        else
+                            table.insert(Cfg.MultiItems, Text)
+                        end
+
+                        Cfg.Set(Cfg.MultiItems)
+                    else
+                        Cfg.Set(Text)
+                    end
+                end)
+            end
+        end
+
+        Items.Outline:OnClick(Cfg.SetVisible)
+        Items.DropdownHolder:Reparent(Library.Elements.Instance)
+        Items.DropdownHolder:OutsideClick(Cfg)
+
+        Cfg.RefreshOptions(Cfg.Options)
+        Cfg.SetVisible()
+        Cfg.Set(Cfg.Default)
+
+        self.UpdateSection(Items.Dropdown.Instance)
+
+        return setmetatable(Cfg, Library)
+    end
+
+    Library.AddKeyPicker = function(self, Data)
+        Data = Data or {}
+
+        local Cfg = {
+            Text = Data.Text or Data.Name or Data.Title or "Keybind";
+            Flag = Data.Flag or Data.Text or Data.Name or Data.Title or "Flag";
+            Callback = Data.Callback or function() end;
+            ShowInList = Data.ShowInList or true;
+
+            Key = Data.Key or Data.Default or nil;
+            Mode = Data.Mode or "Toggle";
+            Active = Data.Active or false;
+
+            Open = false;
+            Tweening = false;
+            Binding;
+
+            Items = {};
+            Debounce = false;
+        }
+
+        Flags[Cfg.Flag] = {
+            Mode = Cfg.Mode,
+            Key = Cfg.Key,
+            Active = Cfg.Active,
+            active = Cfg.Active;
+        }
+
+        local Items = Cfg.Items; do
+            Items.Object = Library:Create( "Frame", {
+                Parent = self.Items.Elements.Instance;
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 0, 16);
+                BorderSizePixel = 0
+            })
+
+            Items.Title = Library:Create( "TextLabel", {
+                FontFace = Themes.Preset.Font;
+                TextColor3 = Color3.fromRGB(252, 252, 252);
+                Text = Cfg.Text;
+                Parent = Items.Object.Instance;
+                AnchorPoint = Vector2.new(0, 0.5);
+                AutomaticSize = Enum.AutomaticSize.XY;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, -1, 0.5, 0);
+                BorderSizePixel = 0;
+                ZIndex = 2
+            })
+
+            Items.Holder = Library:Create( "Frame", {
+                Parent = Items.Object.Instance;
+                Position = UDim2.new(1, 0, 0, 0);
+                Size = UDim2.new(0, 0, 1, 0);
+                BorderSizePixel = 0
+            })
+
+            Library:Create( "UIListLayout", {
+                FillDirection = Enum.FillDirection.Horizontal;
+                HorizontalAlignment = Enum.HorizontalAlignment.Right;
+                Parent = Items.Holder.Instance;
+                Padding = UDim.new(0, 13);
+                SortOrder = Enum.SortOrder.LayoutOrder
+            })
+
+            Items.Holder2 = Library:Create( "Frame", {
+                AnchorPoint = Vector2.new(1, 0);
+                Parent = Items.Holder.Instance;
+                Position = UDim2.new(1, 0, 0, 0);
+                Size = UDim2.new(0, 34, 0, 16);
+                BorderSizePixel = 0;
+                AutomaticSize = Enum.AutomaticSize.X;
+                BackgroundColor3 = Themes.Preset.Other
+            }):Themify("Other", "BackgroundColor3")
+
+            Library:Create( "UIStroke", {
+                Color = Themes.Preset["Inline"];
+                Parent = Items.Holder2.Instance
+            }):Themify("Inline", "Color")
+
+            Library:Create( "UIPadding", {
+                Parent = Items.Holder2.Instance;
+                PaddingRight = UDim.new(0, 8);
+                PaddingLeft = UDim.new(0, 8)
+            })
+
+            Library:Create( "UICorner", {
+                Parent = Items.Holder2.Instance;
+                CornerRadius = UDim.new(0, 5)
+            })
+
+            Items.Value = Library:Create( "TextLabel", {
+                FontFace = Themes.Preset.Font;
+                TextColor3 = Color3.fromRGB(252, 252, 252);
+                Text = "RightShift";
+                Parent = Items.Holder2.Instance;
+                AnchorPoint = Vector2.new(0, 0.5);
+                AutomaticSize = Enum.AutomaticSize.XY;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, -1, 0.5, 0);
+                BorderSizePixel = 0;
+                ZIndex = 2
+            })
+
+            do -- Keybind holder
+                local Section = Library:AddSection({Text = "Settings"})
+                Items.Dropdown = Section:AddDropdown({Text = "Mode", Flag = Cfg.Flag.."_MODE", Options = {"Toggle", "Hold", "Always"}, Callback = function(Option)
+                    if Cfg.Debounce then
+                        return
+                    end
+
+                    if Cfg.Set then
+                        Cfg.Set(Option)
+                    end
+                end})
+
+                Items.Section = Section.Items.Section
+                Items.Section.Instance.Parent = Library.Items.Instance
+                Items.Section.Instance.Visible = false
+
+                Items.Section:Reparent(Library.Elements.Instance)
+            end
+        end
+
+        local KeybindListElement = Library:AddHotKey({Key = Cfg.Key or "NONE", Name = Cfg.Text})
+
+        Cfg.SetMode = function(Mode)
+            Cfg.Mode = Mode
+
+            if Mode == "Always" then
+                Cfg.Set(true)
+            elseif Mode == "Hold" then
+                Cfg.Set(false)
+            end
+
+            Flags[Cfg.Flag].Mode = Mode
+        end
+
+        Cfg.Set = function(input)
+            if type(input) == "boolean" then
+                Cfg.Active = input
+
+                if Cfg.Mode == "Always" then
+                    Cfg.Active = true
+                end
+            elseif tostring(input):find("Enum") then
+                input = input.Name == "Escape" and "NONE" or input
+
+                Cfg.Key = input or "NONE"
+            elseif table.find({"Toggle", "Hold", "Always"}, input) then
+                if input == "Always" then
+                    Cfg.Active = true
+                end
+
+                Cfg.Mode = input
+                Cfg.SetMode(Cfg.Mode)
+            elseif type(input) == "table" then
+                input.Key = type(input.Key) == "string" and input.Key ~= "NONE" and Library:ConvertEnum(input.Key) or input.Key
+                input.Key = input.Key == Enum.KeyCode.Escape and "NONE" or input.Key
+
+                Cfg.Key = input.Key or "NONE"
+
+                if input.Active then
+                    Cfg.Active = input.Active
+                end
+
+                Cfg.SetMode(input.Mode)
+            end
+
+            Cfg.Callback(Cfg.Active)
+
+            local text = (tostring(Cfg.Key) ~= "Enums" and (Keys[Cfg.Key] or tostring(Cfg.Key):gsub("Enum.", "")) or nil)
+            local __text = text and tostring(text):gsub("KeyCode.", ""):gsub("UserInputType.", "") or ""
+
+            Items.Value.Instance.Text = string.format("Key: %s", __text)
+
+            Cfg.Debounce = true
+            Items.Dropdown.Set(Cfg.Mode)
+            Cfg.Debounce = false
+
+
+            KeybindListElement:ChangeKey(__text or "NONE")
+            KeybindListElement:SetEnabled(Cfg.Active)
+
+            Flags[Cfg.Flag] = {
+                Mode = Cfg.Mode,
+                Key = Cfg.Key,
+                Active = Cfg.Active;
+                active = Cfg.Active;
+            }
+        end
+
+        Cfg.NewKey = function()
+            task.wait()
+            Items.Value.Instance.Text = "..."
+
+            Cfg.Binding = Library:Connect(Services.UserInputService.InputBegan, function(keycode, game_event)
+                if game_event then
+                    return
+                end
+
+                Cfg.Set(keycode.KeyCode ~= Enum.KeyCode.Unknown and keycode.KeyCode or keycode.UserInputType)
+
+                Cfg.Binding.Connection:Disconnect()
+                Cfg.Binding = nil
+            end)
+        end
+
+        Cfg.SetVisible = function(bool)
+            if Cfg.Tweening then
+                return
+            end
+
+            task.wait()
+
+            local Size = Items.Section.Instance.AbsoluteSize
+            local Position = Items.Holder2.Instance.AbsolutePosition
+
+            Items.Section:TweenDescendants(bool, Cfg)
+            Items.Section:Tween({Position = UDim2.fromOffset(Position.X + 1, Position.Y + 80)})
+        end
+
+        Items.Holder2:OnClick(Cfg.NewKey)
+
+        Items.Dropdown.Items.DropdownHolder:OnClick(function()
+            task.spawn(function()
+                Cfg.Tweening = true
+                task.wait()
+                Cfg.Tweening = false
+            end)
+        end)
+
+        Items.Section:OutsideClick(Cfg)
+
+        Library:Connect(Items.Holder2.Instance.InputBegan, function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton2 then
+                Cfg.Open = not Cfg.Open
+                Cfg.SetVisible(Cfg.Open)
+            end
+        end)
+
+        Library:Connect(Services.UserInputService.InputBegan, function(input, game_event)
+            if game_event then
+                return
+            end
+
+            local SelectedKey = input.UserInputType == Enum.UserInputType.Keyboard and input.KeyCode or input.UserInputType
+
+            if SelectedKey == Cfg.Key or tostring(SelectedKey) == Cfg.Key then
+                if Cfg.Mode == "Toggle" then
+                    Cfg.Active = not Cfg.Active
+                    Cfg.Set(Cfg.Active)
+                elseif Cfg.Mode == "Hold" then
+                    Cfg.Set(true)
+                end
+            end
+        end)
+
+        Library:Connect(Services.UserInputService.InputEnded, function(input, game_event)
+            if game_event then
+                return
+            end
+
+            local SelectedKey = input.UserInputType == Enum.UserInputType.Keyboard and input.KeyCode or input.UserInputType
+
+            if SelectedKey == Cfg.Key or tostring(SelectedKey) == Cfg.Key then
+                if Cfg.Mode == "Hold" then
+                    Cfg.Set(false)
+                end
+            end
+        end)
+
+        Cfg.Set({Mode = Cfg.Mode, Active = Cfg.Active, Key = Cfg.Key})
+        ConfigFlags[Cfg.Flag] = Cfg.Set
+
+        self.UpdateSection(Items.Object.Instance)
+
+        return setmetatable(Cfg, Library)
+    end
+
+    Library.AddColorPicker = function(self, Data)
+        Data = Data or {}
+
+        local Cfg = {
+            Text = Data.Text or Data.Name or "Color",
+            Flag = Data.Flag or Data.Name or self.Name or "Colorpicker",
+            Callback = Data.Callback or function() end,
+
+            Color = Data.Color or Data.Default or Color3.new(1, 1, 1),  -- Default to white color if not provided
+            Alpha = Data.Alpha or Data.Transparency or 1,
+
+            -- Other
+            Open = false;
+            Items = {};
+        }
+
+        local Picker = self:Keypicker(Cfg)
+
+        local Items = Picker.Items; do
+            Cfg.Items = Items
+            Cfg.Set = Picker.Set
+        end;
+
+        Cfg.Set(Cfg.Color, Cfg.Alpha)
+        ConfigFlags[Cfg.Flag] = Cfg.Set
+
+        return setmetatable(Cfg, Library)
+    end
+
+    Library.AddButton = function(self, Data)
+        Data = Data or {}
+
+        local Cfg = {
+            Text = Data.Text or "Button";
+            Callback = Data.Callback or function() end;
+
+            Items = {}
+        }
+
+        local Items = Cfg.Items; do
+            Items.ButtonHolder = self.Items and self.Items.ButtonHolder
+
+            if not Items.ButtonHolder then
+                Items.ButtonHolder = Library:Create( "Frame", {
+                    Parent = self.Items.Elements.Instance;
+                    BackgroundTransparency = 1;
+                    Size = UDim2.new(1, 0, 0, 24);
+                    BorderSizePixel = 0
+                })
+
+                Library:Create( "UIListLayout", {
+                    FillDirection = Enum.FillDirection.Horizontal;
+                    HorizontalFlex = Enum.UIFlexAlignment.Fill;
+                    Parent = Items.ButtonHolder.Instance;
+                    Padding = UDim.new(0, 13);
+                    SortOrder = Enum.SortOrder.LayoutOrder
+                })
+            end
+
+            Items.Outline = Library:Create( "TextButton", {
+                Parent = Items.ButtonHolder.Instance;
+                Position = UDim2.new(0, 1, 0, 0);
+                Size = UDim2.new(1, -1, 0, 24);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["ElementBackground"]
+            }):Themify("ElementBackground", "BackgroundColor3")
+
+            Library:Create( "UIStroke", {
+                Color = Themes.Preset.ElementOutline;
+                Parent = Items.Outline.Instance
+            }):Themify("ElementOutline", "Color")
+
+            Library:Create( "UICorner", {
+                Parent = Items.Outline.Instance;
+                CornerRadius = UDim.new(0, 5)
+            })
+
+            Library:Create( "TextLabel", {
+                FontFace = Themes.Preset.Font;
+                TextColor3 = Color3.fromRGB(252, 252, 252);
+                Text = Cfg.Text;
+                Parent = Items.Outline.Instance;
+                AutomaticSize = Enum.AutomaticSize.XY;
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 1, 0);
+                BorderSizePixel = 0;
+                Position = UDim2.new(0, 0, 0, -1);
+                ZIndex = 2;
+                BackgroundColor3 = Themes.Preset["Accent"]
+            }):Themify("Accent", "BackgroundColor3")
+
+            Items.Accent = Library:Create( "Frame", {
+                Parent = Items.Outline.Instance;
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 1, 0);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["Accent"]
+            }):Themify("Accent", "BackgroundColor3")
+
+            Items.Stroke = Library:Create( "UIStroke", {
+                Color = Themes.Preset["Accent"];
+                Transparency = 1;
+                Parent = Items.Accent.Instance
+            }):Themify("Accent", "Color")
+
+            Library:Create( "UIGradient", {
+                Parent = Items.Accent.Instance;
+                Transparency = NumberSequence.new{
+                NumberSequenceKeypoint.new(0, 0.59375),
+                NumberSequenceKeypoint.new(1, 0)
+            }
+            })
+
+            Library:Create( "UICorner", {
+                Parent = Items.Accent.Instance;
+                CornerRadius = UDim.new(0, 5)
+            })
+        end
+
+        Cfg.Press = function()
+            Items.Accent.Instance.BackgroundTransparency = 0
+            Items.Accent:Tween({BackgroundTransparency = 1})
+
+            Items.Stroke.Instance.Transparency = 0
+            Items.Stroke:Tween({Transparency = 1})
+
+            Cfg.Callback()
+        end
+
+        Items.Outline:OnClick(Cfg.Press)
+
+        if self.UpdateSection then
+            self.UpdateSection(Items.ButtonHolder.Instance)
+        end
+
+        return setmetatable(Cfg, Library)
+    end
+
+    Library.AddLabel = function(self, Data)
+        local Cfg = {
+            Text = Data.Text or Data.Title or Data.Name or "Label";
+            Items = {};
+        }
+
+        local Items = Cfg.Items; do
+            Items.Object = Library:Create( "TextButton", {
+                Parent = self.Items.Elements.Instance;
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 0, 18);
+                BorderSizePixel = 0
+            })
+
+            Items.Text = Library:Create( "TextLabel", {
+                FontFace = Themes.Preset.Font;
+                TextColor3 = Themes.Preset["TextColor"];
+                Text = Cfg.Text;
+                Parent = Items.Object.Instance;
+                AnchorPoint = Vector2.new(0, 0.5);
+                AutomaticSize = Enum.AutomaticSize.XY;
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, -1, 0.5, 0);
+                BorderSizePixel = 0;
+                ZIndex = 2
+            }):Themify("TextColor", "TextColor3")
+
+            Cfg.ChangeText = function(Text)
+                Items.Text.Instance.Text = Text
+            end
+        end
+
+        self.UpdateSection(Items.Object.Instance)
+
+        return setmetatable(Cfg, Library)
+    end
+
+    Library.AddList = function(self, Data)
+        Data = Data or {}
+
+        local Cfg = {
+            Flag = Data.Flag or Data.Name or "";
+            Options = Data.Options or {"CONTACT FOR BUG"};
+            Callback = Data.Callback or function() end;
+            Multi = Data.Multi or false;
+
+            Size = Data.Size or 100;
+
+            Items = {};
+            OptionInstances = {};
+            MultiItems = {};
+        }
+
+        local Items = Cfg.Items; do
+            Items.List = Library:Create( "Frame", {
+                Parent = self.Items.Elements.Instance;
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 0, Cfg.Size);
+                BorderSizePixel = 0;
+            });
+
+            Items.Outline = Library:Create( "Frame", {
+                Parent = Items.List.Instance;
+                Size = UDim2.new(1, 0, 1, 0);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["Inlines"]
+            }):Themify("Inlines", "BackgroundColor3")
+
+            Library:Create( "UICorner", {
+                Parent = Items.Outline.Instance;
+                CornerRadius = UDim.new(0, 5)
+            })
+
+            Items.Inline = Library:Create( "Frame", {
+                Parent = Items.Outline.Instance;
+                Position = UDim2.new(0, 1, 0, 1);
+                Size = UDim2.new(1, -2, 1, -2);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset.ElementBackground
+            }):Themify("ElementBackground", "BackgroundColor3")
+
+            Items.ScrollingFrame = Library:Create( "ScrollingFrame", {
+                Active = true;
+                AutomaticCanvasSize = Enum.AutomaticSize.Y;
+                BorderSizePixel = 0;
+                CanvasSize = UDim2.new(0, 0, 0, 0);
+                ScrollingEnabled = true;
+                ScrollBarImageColor3 = Color3.fromRGB(207, 155, 166);
+                MidImage = "rbxassetid://102257413888451";
+                ScrollBarThickness = 2;
+                Parent = Items.Inline.Instance;
+                Size = UDim2.new(1, -5, 1, -10);
+                BackgroundTransparency = 1;
+                Position = UDim2.new(0, 0, 0, 5);
+                BottomImage = "rbxassetid://102257413888451";
+                TopImage = "rbxassetid://102257413888451"
+            })
+
+            Library:Create( "UIPadding", {
+                PaddingBottom = UDim.new(0, -4);
+                PaddingTop = UDim.new(0, -4);
+                Parent = Items.ScrollingFrame.Instance;
+            })
+
+            Library:Create( "UIListLayout", {
+                Parent = Items.ScrollingFrame.Instance;
+                SortOrder = Enum.SortOrder.LayoutOrder;
+                Padding = UDim.new(0, -7);
+            })
+
+            Library:Create( "UICorner", {
+                Parent = Items.ScrollingFrame.Instance;
+                CornerRadius = UDim.new(0, 3)
+            })
+
+            Library:Create( "UICorner", {
+                Parent = Items.Inline.Instance;
+                CornerRadius = UDim.new(0, 3)
+            })
+        end
+
+        Cfg.Set = function(value)
+            local Selected = {}
+            local IsTable = type(value) == "table"
+
+            for _,option in Cfg.OptionInstances do
+                if option.Instance.Text == value or (IsTable and table.find(value, option.Instance.Text)) then
+                    table.insert(Selected, option.Instance.Text)
+                    Cfg.MultiItems = Selected
+                    option:Tween({TextColor3 = Themes.Preset.Accent})
+                    option.Instance.FontFace = Fonts.Bold
+                    option.Instance.TextSize = 13
+                else
+                    option:Tween({TextColor3 = Themes.Preset.UnselectedElement})
+                    option.Instance.FontFace = Fonts.Elements
+                    option.Instance.TextSize = 13
+                end
+            end
+
+            Flags[Cfg.Flag] = if IsTable then Selected else Selected[1]
+
+            Cfg.Callback(Flags[Cfg.Flag])
+        end
+
+        Cfg.RenderOption = function(name)
+            local Button = Library:Create( "TextButton", {
+                FontFace = Themes.Preset.Font;
+                TextColor3 = Themes.Preset["Element Text"];
+                Text = name;
+                Parent = Items.ScrollingFrame.Instance;
+                Size = UDim2.new(1, 0, 0, 0);
+                Position = UDim2.new(0, 0, 0, -1);
+                BackgroundTransparency = 1;
+                TextXAlignment = Enum.TextXAlignment.Left;
+                BorderSizePixel = 0;
+                AutomaticSize = Enum.AutomaticSize.XY
+            }):Themify("Accent", "TextColor3"):Themify("Element Text", "TextColor3")
+            Button.Instance.Text = name
+
+            Library:Create( "UIPadding", {
+                PaddingBottom = UDim.new(0, 6);
+                PaddingTop = UDim.new(0, 6);
+                PaddingLeft = UDim.new(0, 6);
+                Parent = Button.Instance
+            })
+
+            Button:OnHover(
+                function()
+                    if Flags[Cfg.Flag] == Button.Instance.Text or (type(Flags[Cfg.Flag]) == "table" and table.find(Flags[Cfg.Flag], Button.Instance.Text)) then
+                        return
+                    end
+
+                    Button:Tween({TextColor3 = Themes.Preset.SelectedMultiTabText})
+                end,
+                function()
+                    if Flags[Cfg.Flag] == Button.Instance.Text or (type(Flags[Cfg.Flag]) == "table" and table.find(Flags[Cfg.Flag], Button.Instance.Text)) then
+                        return
+                    end
+
+                    Button:Tween({TextColor3 = Themes.Preset.UnselectedElement})
+                end
+            )
+
+            table.insert(Cfg.OptionInstances, Button)
+
+            return Button
+        end
+
+        Cfg.RefreshOptions = function(options)
+            for _,option in Cfg.OptionInstances do
+                option.Instance:Destroy()
+            end
+
+            Cfg.OptionInstances = {}
+
+            for _,option in options do
+                local Button = Cfg.RenderOption(option)
+
+                Button:OnClick(function()
+                    if Cfg.Multi then
+                        local Selected = table.find(Cfg.MultiItems, Button.Instance.Text)
+
+                        if Selected then
+                            table.remove(Cfg.MultiItems, Selected)
+                        else
+                            table.insert(Cfg.MultiItems, Button.Instance.Text)
+                        end
+
+                        Cfg.Set(Cfg.MultiItems)
+                    else
+                        Cfg.Set(Button.Instance.Text)
+                    end
+                end)
+            end
+        end
+
+        Flags[Cfg.Flag] = {}
+        ConfigFlags[Cfg.Flag] = Cfg.Set
+        Cfg.RefreshOptions(Cfg.Options)
+        Cfg.Set(Cfg.Default)
+
+        return setmetatable(Cfg, Library)
+    end
+
+    Library.AddInput = function(self, Data)
+        Data = Data or {}
+
+        local Cfg = {
+            Text = Data.Text or Data.Title or Data.Name or nil;
+            PlaceHolder = Data.PlaceHolder or Data.PlaceHolderText or Data.Holder or Data.HolderText or "Input here...";
+            Default = Data.Default or "";
+            Flag = Data.Flag or Data.Name or "TextBox";
+            Callback = Data.Callback or function() end;
+
+            Items = {};
+            Focused = false;
+        }
+
+        Flags[Cfg.Flag] = Cfg.Default
+
+        local Items = Cfg.Items; do
+            Items.Object = Library:Create( "Frame", {
+                Parent = self.Items.Elements.Instance;
+                BackgroundTransparency = 1;
+                Size = UDim2.new(1, 0, 0, Cfg.Text and 50 or 26);
+                BorderSizePixel = 0
+            })
+
+            if Cfg.Text then
+                Library:Create( "TextLabel", {
+                    FontFace = Themes.Preset.Font;
+                    TextColor3 = Color3.fromRGB(252, 252, 252);
+                    Text = Cfg.Text;
+                    Parent = Items.Object.Instance;
+                    AutomaticSize = Enum.AutomaticSize.XY;
+                    BackgroundTransparency = 1;
+                    Position = UDim2.new(0, -1, 0, 0);
+                    BorderSizePixel = 0;
+                    ZIndex = 2
+                })
+            end
+
+            Items.Outline = Library:Create( "Frame", {
+                Parent = Items.Object.Instance;
+                Position = UDim2.new(0, 1, 0, Cfg.Text and 26 or 0);
+                Size = UDim2.new(1, -1, 0, 24);
+                BorderSizePixel = 0;
+                BackgroundColor3 = Themes.Preset["ElementBackground"]
+            }):Themify("ElementBackground", "BackgroundColor3")
+
+            Library:Create( "UIStroke", {
+                Color = Themes.Preset.ElementOutline;
+                Parent = Items.Outline.Instance
+            }):Themify("ElementOutline", "Color")
+
+            Library:Create( "UICorner", {
+                Parent = Items.Outline.Instance;
+                CornerRadius = UDim.new(0, 5)
+            })
+
+            Items.Textbox = Library:Create( "TextBox", {
+                Parent = Items.Outline.Instance;
+                FontFace = Themes.Preset.Font;
+                Active = false;
+                ClearTextOnFocus = false;
+                Text = Cfg.Default;
+                TextColor3 = Color3.fromRGB(252, 252, 252);
+                Size = UDim2.new(1, 0, 1, 0);
+                Selectable = false;
+                BorderSizePixel = 0;
+                PlaceholderText = Cfg.PlaceHolder;
+                BackgroundTransparency = 1;
+                TextXAlignment = Enum.TextXAlignment.Left;
+                AutomaticSize = Enum.AutomaticSize.XY;
+                ZIndex = 2
+            })
+
+            Library:Create( "UIPadding", {
+                PaddingLeft = UDim.new(0, 8);
+                Parent = Items.Textbox.Instance
+            })
+        end
+
+        Cfg.Set = function(Text)
+            Flags[Cfg.Flag] = Text
+
+            Items.Textbox.Instance.Text = Text
+
+            Cfg.Callback(Text)
+        end
+
+        Items.Textbox.Instance.Focused:Connect(function()
+            Cfg.Focused = true;
+        end)
+
+        Items.Textbox.Instance.FocusLost:Connect(function()
+            Cfg.Focused = false;
+
+            Cfg.Set(Items.Textbox.Instance.Text)
+        end)
+
+        ConfigFlags[Cfg.Flag] = Cfg.Set
+
+        if self.UpdateSection then
+            self.UpdateSection(Items.Object.Instance)
+        end
+
+        return setmetatable(Cfg, Library)
+    end
+
+    Library.InitConfigs = function(self, Window)
+        local Tab = Window:AddTab({
+            Title = "Settings",
+            Icon = "rbxassetid://117366234081415",
+            Pages = {"Configs"},
+        })
+
+        local Section = Tab:AddSection({
+            Side = "Left",
+            Title = "Configs"
+        })
+
+        local ConfigText;
+        local ConfigHolder = Section:AddDropdown({Text = "Configs", Flag = "ConfigList", Callback = function(option)
+            if Text and Text.Set and option then
+                Text.Set(option)
+            end
+        end})
+
+        Text = Section:AddInput({Text = "Config Name", Default = "", PlaceHolder = "Config Name:", Flag = "config_Name_text", PlaceHolder = "Type config name here...", Callback = function(text)
+            ConfigText = text
+        end})
+
+        Section:AddButton({Text = "Save", Callback = function()
+            if not ConfigText then
+                return
+            end
+
+            Library:SaveConfig(ConfigText)
+            ConfigHolder:UpdateConfigList()
+        end}):AddButton({Text = "Load", Callback = function()
+            Window.Tweening = true
+            if not ConfigText then
+                return
+            end
+
+            for i = 1, 2 do
+                Library:LoadConfig(readfile(Library.Directory .. "/Configs/" .. ConfigText .. ".cfg"))
+            end
+
+            ConfigHolder:UpdateConfigList()
+
+            Window.Tweening = false
+        end})
+
+        Section:AddButton({Text = "Delete", Callback = function()
+            if not ConfigText then
+                return
+            end
+
+            Library:DeleteConfig(ConfigText)
+            ConfigHolder:UpdateConfigList()
+        end}):AddButton({Text = "Refresh", Callback = function()
+            ConfigHolder:UpdateConfigList()
+        end})
+
+        Section:AddButton({Text = "Set As Auto Load", Callback = function()
+            writefile(Library.Directory.."/Autoload.txt", ConfigText)
+            Label.ChangeText("Current Config: " .. readfile(Library.Directory.."/Autoload.txt"))
+        end})
+        Label = Section:AddLabel({Text = "Current Config: ".. readfile(Library.Directory.."/Autoload.txt")})
+        Section:AddButton({Text = "Remove Auto Load", Callback = function()
+            writefile(Library.Directory.."/Autoload.txt", "")
+            Label.ChangeTet("Current Config: "..readfile(Library.Directory.."/Autoload.txt"))
+        end})
+
+        local Section = Tab:AddSection({
+            Side = "Right",
+            Title = "Theming"
+        })
+
+        Section:AddColorPicker({Text = "Accent", Default = Themes.Preset.Accent, Transparency = 0, Flag = Name, Callback = function(Value, Alpha)
+            Library:Refresh("Accent", Value)
+        end})
+
+        local Section = Tab:AddSection({
+            Side = "Right",
+            Title = "Other"
+        })
+
+        Section:AddKeyPicker({Text = "Menu bind", Mode = "Toggle", ShowInList = false, Callback = function(Value)
+            Window.SetVisible(Value)
+        end})
+        Section:AddToggle({Text = "Watermark", Callback = function(Bool)
+            self.Window.Items.Watermark.Instance.Visible = Bool
+        end})
+        Section:AddToggle({Text = "Mod List", Callback = function(Bool)
+            self.Window.Items.ModList.Instance.Visible = Bool
+        end})
+        Section:AddToggle({Text = "Keybind List", Callback = function(Bool)
+            self.Window.Items.KeybindList.Instance.Visible = Bool
+        end})
+
+        ConfigHolder:UpdateConfigList();
+    end
+
+    do -- Keybind lib
+        local YOffset = 0
+        local BiggestX = 0
+
+        Library.AddHotKey = function(self, Data)
+            Data = Data or {}
+
+            local Cfg = {
+                Text = Data.Title or Data.Name or Data.Text or "Title";
+                Lifetime = Data.Lifetime or 5;
+
+                Items = {};
+                Status = true;
+                Fade = 2;
+                Tick = tick();
+                Index = #self.Keybinds + 1
+            }
+
+            local Items = Cfg.Items; do
+                Items.Keybind = Library:Create("CanvasGroup",{Parent = self.Window.Items.KeybindHolder.Instance; BackgroundTransparency = 1; Size = UDim2.new(1, 0, 0, 25); BorderSizePixel = 0; BackgroundColor3 = Color3.fromRGB(255, 255, 255)})
+                Items.Name = Library:Create("TextLabel",{LayoutOrder = 1; TextColor3 = Color3.fromRGB(245, 245, 245); Text = "Idfk"; Parent = Items.Keybind.Instance; AutomaticSize = Enum.AutomaticSize.XY; BackgroundTransparency = 1; TextXAlignment = Enum.TextXAlignment.Left; BorderSizePixel = 0; ZIndex = 2; BackgroundColor3 = Color3.fromRGB(255, 255, 255)})
+                Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 4); PaddingBottom = UDim.new(0, 6); Parent = Items.Name.Instance; PaddingRight = UDim.new(0, 5); PaddingLeft = UDim.new(0, 7)})
+                Items.Key = Library:Create("TextLabel",{LayoutOrder = 1; Parent = Items.Keybind.Instance; TextColor3 = Color3.fromRGB(170, 170, 170); Text = "[X]"; AutomaticSize = Enum.AutomaticSize.XY; AnchorPoint = Vector2.new(1, 0); Position = UDim2.new(1, 0, 0, 0); BackgroundTransparency = 1; TextXAlignment = Enum.TextXAlignment.Right; BorderSizePixel = 0; ZIndex = 2; BackgroundColor3 = Color3.fromRGB(255, 255, 255)})
+                Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 4); PaddingBottom = UDim.new(0, 6); Parent = Items.Key.Instance; PaddingRight = UDim.new(0, 5); PaddingLeft = UDim.new(0, 7)})
+            end
+
+            function Cfg:ChangeKey(Key)
+                if not Key then
+                    return
+                end
+
+                Items.Key.Instance.Text = tostring("["..Key.."]")
+            end
+
+            function Cfg:ChangeName(Name)
+                Items.Name.Instance.Text = tostring(Name)
+            end
+
+            function Cfg:SetEnabled(Bool)
+                Cfg.Status = Bool
+            end
+
+            Cfg:ChangeKey(Cfg.Key)
+            Cfg:ChangeName(Cfg.Text)
+
+            self.Keybinds[Cfg.Index] = Cfg
+
+            return setmetatable(Cfg, Library)
+        end
+
+        Library.LerpKeybinds = function(self)
+            YOffset = 0
+            BiggestX = 0
+
+            local Tick = tick()
+            for _,Object in self.Keybinds do
+                Object.Fade = Library:Lerp(Object.Fade, Object.Status and 255 or 0, 0.02)
+                local Instance = Object.Items.Keybind.Instance
+
+                local Offset = UDim2.new(0, 0, 0, 0) -- great pasting skills
+                local Transparency = 1 - (1 * (Object.Fade / 255))
+
+                Instance.Position = Offset + UDim2.new(0, -(Instance.AbsoluteSize.X - (Instance.AbsoluteSize.X * (Object.Fade / 255))), 0, YOffset)
+                Object:SetKeypickerTransparency(Transparency)
+
+                if Object.Status and BiggestX < Instance.AbsoluteSize.X then
+                    BiggestX = math.max(BiggestX, Instance.AbsoluteSize.X)
+                end
+
+                YOffset += (Instance.AbsoluteSize.Y) * (Object.Fade / 255)
+                self.Window.Items.KeybindHolder.Instance.Size = UDim2.new(0, 200, 0, YOffset + 22)
+            end
+        end
+
+        Library.SetKeypickerTransparency = function(self, Num)
+            self.Items.Keybind.Instance.GroupTransparency = Num
+        end
+    end
+
+    do -- Notification Library
+        Library.HUD = Library:Create( "ScreenGui" , {
+            Parent = Services.CoreGui;
+            Name = "\0";
+            Enabled = true;
+            IgnoreGuiInset = true;
+            ZIndexBehavior = Enum.ZIndexBehavior.Sibling;
+            DisplayOrder = 1000001;
+        });
+
+        local YOffset = 0
+        local BiggestX = 0
+
+        Library.Notify = function(self, Data)
+            Data = Data or {}
+
+            local Cfg = setmetatable({
+                Text = Data.Title or Data.Name or Data.Text or "Title";
+                Lifetime = Data.Lifetime or 5;
+
+                Items = {};
+                Status = true;
+                Fade = 2;
+                Tick = tick();
+                Index = #self.Notifications + 1
+            }, Library);
+
+            local Items = Cfg.Items; do
+                Items.Notification = Library:Create("CanvasGroup",{GroupTransparency = 1; Parent = Library.HUD.Instance; Position = UDim2.new(0, 30, 0, 60); BorderSizePixel = 0; AutomaticSize = Enum.AutomaticSize.XY; BackgroundColor3 = Color3.fromRGB(12, 12, 14)})
+                Items.Accent = Library:Create("Frame",{Parent = Items.Notification.Instance; Position = UDim2.new(0, -3, 1, -1); Size = UDim2.new(0, 0, 0, 4); BorderSizePixel = 0; BackgroundColor3 = Themes.Preset.Accent}):Themify("Accent", "BackgroundColor3")
+                Items.Icon = Library:Create("ImageLabel",{ImageColor3 = Themes.Preset.Accent; Parent = Items.Notification.Instance; AnchorPoint = Vector2.new(0, 0.5); Image = Cfg.Icon; Image = "rbxassetid://103028899808055"; BackgroundTransparency = 1; Position = UDim2.new(0, 5, 0.5, -2); Size = UDim2.new(0, 16, 0, 16); BorderSizePixel = 0; BackgroundColor3 = Color3.fromRGB(255, 255, 255)}):Themify("Accent", "ImageColor3")
+                Items.Title = Library:Create("TextLabel",{LayoutOrder = 1; TextColor3 = Color3.fromRGB(245, 245, 245); Text = Cfg.Text; Parent = Items.Notification.Instance; BackgroundTransparency = 1; BorderSizePixel = 0; AutomaticSize = Enum.AutomaticSize.XY; BackgroundColor3 = Color3.fromRGB(255, 255, 255)})
+                Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 4); PaddingBottom = UDim.new(0, 8); Parent = Items.Title.Instance; PaddingRight = UDim.new(0, 5); PaddingLeft = UDim.new(0, 24)})
+                Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 2); PaddingBottom = UDim.new(0, 2); Parent = Items.Notification.Instance; PaddingRight = UDim.new(0, 2); PaddingLeft = UDim.new(0, 2)})
+                Items.UICorner = Library:Create("UICorner",{Parent = Items.Notification.Instance})
+            end
+
+            self.Notifications.Notifs[Cfg.Index] = Cfg
+            Items.Accent:Tween({Size = UDim2.new(1, 4, 0, 4)}, TweenInfo.new(Cfg.Lifetime, Library.EasingStyle, Library.EasingDirection, 0, false, 0))
+
+            task.delay(Cfg.Lifetime + 1, function()
+                Items.Notification.Instance:Destroy()
+                self.Notifications.Notifs[Cfg.Index] = nil
+            end)
+
+            return setmetatable(Cfg, Library)
+        end
+
+        Library.LerpObjects = function(self)
+            YOffset = 0
+            BiggestX = 0
+
+            local Tick = tick()
+            for _,Object in self.Notifications.Notifs do
+                if not Object.Fade then
+                    Object.Fade = 2;
+                end;
+                Object.Fade = Library:Lerp(Object.Fade, Object.Status and 255 or 0, 0.02)
+
+                if Tick - Object.Tick >= Object.Lifetime then
+                    Object.Status = false
+                end
+
+                local Instance = Object.Items.Notification.Instance
+
+                local Offset = UDim2.new(0, 30, 0, 80)
+                local Transparency = 1 - (1 * (Object.Fade / 255))
+
+                Instance.Position = Offset + UDim2.new(0, -(Instance.AbsoluteSize.X - (Instance.AbsoluteSize.X * (Object.Fade / 255))), 0, YOffset)
+                Object:SetTransparency(Transparency)
+
+                if Object.Status and BiggestX < Instance.AbsoluteSize.X then
+                    BiggestX = math.max(BiggestX, Instance.AbsoluteSize.X)
+                end
+
+                YOffset += (Instance.AbsoluteSize.Y + 6) * (Object.Fade / 255)
+            end
+        end
+
+        Library.SetTransparency = function(self, Num)
+            self.Items.Notification.Instance.GroupTransparency = Num
+        end
+
+        Library:Notify({ Text = 'Loaded!' })
+    end
+
+    do -- Mods lib
+        local YOffset = 0
+        local BiggestX = 0
+
+        Library.AddMod = function(self, Data)
+            Data = Data or {}
+
+            local Cfg = {
+                Text = Data.Title or Data.Name or Data.Text or "Title";
+                Lifetime = Data.Lifetime or 5;
+
+                Items = {};
+                Status = true;
+                Fade = 2;
+                Tick = tick();
+                Index = #self.Mods + 1
+            }
+
+            local Items = Cfg.Items; do
+                Items.Mod = Library:Create("CanvasGroup",{Parent = self.Window.Items.ModHolder.Instance; BackgroundTransparency = 1; Size = UDim2.new(1, 0, 0, 25); BorderSizePixel = 0; BackgroundColor3 = Color3.fromRGB(255, 255, 255)})
+                Items.Name = Library:Create("TextLabel",{LayoutOrder = 1; Parent = Items.Mod.Instance; TextColor3 = Color3.fromRGB(170, 170, 170); Text = "[X]"; AutomaticSize = Enum.AutomaticSize.XY; AnchorPoint = Vector2.new(0, 0); Position = UDim2.new(0, 0, 0, 0); BackgroundTransparency = 1; TextXAlignment = Enum.TextXAlignment.Right; BorderSizePixel = 0; ZIndex = 2; BackgroundColor3 = Color3.fromRGB(255, 255, 255)})
+                Items.UIPadding = Library:Create("UIPadding",{PaddingTop = UDim.new(0, 4); PaddingBottom = UDim.new(0, 6); Parent = Items.Name.Instance; PaddingRight = UDim.new(0, 5); PaddingLeft = UDim.new(0, 7)})
+            end
+
+            function Cfg:ChangeName(Name)
+                Items.Name.Instance.Text = tostring(Name)
+            end
+
+            function Cfg:Destroy()
+                Cfg.Status = false
+
+                task.delay(1, function()
+                    Items.Mod.Instance:Destroy()
+                end)
+            end
+
+            Cfg:ChangeName(Cfg.Text)
+
+            self.Mods[Cfg.Index] = Cfg
+
+            return setmetatable(Cfg, Library)
+        end
+
+        Library.LerpMods = function(self)
+            YOffset = 0
+            BiggestX = 0
+
+            local Tick = tick()
+            for _,Object in self.Mods do
+                Object.Fade = Library:Lerp(Object.Fade, Object.Status and 255 or 0, 0.02)
+                local Instance = Object.Items.Mod.Instance
+
+                local Offset = UDim2.new(0, 0, 0, 0) -- great pasting skills
+                local Transparency = 1 - (1 * (Object.Fade / 255))
+
+                Instance.Position = Offset + UDim2.new(0, -(Instance.AbsoluteSize.X - (Instance.AbsoluteSize.X * (Object.Fade / 255))), 0, YOffset)
+                Object:SetModTransparency(Transparency)
+
+                if Object.Status and BiggestX < Instance.AbsoluteSize.X then
+                    BiggestX = math.max(BiggestX, Instance.AbsoluteSize.X)
+                end
+
+                YOffset += (Instance.AbsoluteSize.Y) * (Object.Fade / 255)
+                self.Window.Items.ModHolder.Instance.Size = UDim2.new(0, 200, 0, YOffset + 22)
+            end
+        end
+
+        Library.SetModTransparency = function(self, Num)
+            self.Items.Mod.Instance.GroupTransparency = Num
+        end
+    end
+
+    Library:Connect(Services.RunService.Heartbeat, function()
+        if not (Library.LerpObjects and Library.LerpMods) then
+            return
+        end
+
+        Library:LerpObjects()
+        Library:LerpKeybinds()
+        Library:LerpMods()
+    end)
+end
+
+return getgenv().Library
