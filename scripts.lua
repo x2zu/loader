@@ -27,6 +27,7 @@ local communityCreators = {
     [4619164]    = 'https://api.luarmor.net/files/v4/loaders/cdc1dff6e08cda01f94524ba12eed58a.lua', -- Sell Lemons
     [432538536]    = 'https://api.luarmor.net/files/v4/loaders/34be70b28ddba94170c2457e79be5405.lua', -- Grow A Garden 2
     [665060893]    = 'https://api.luarmor.net/files/v4/loaders/9211636f4c3a8d08978bf95b608e7b77.lua', -- Evomon
+    [95076810]    = 'https://api.luarmor.net/files/v4/loaders/e6c1ba1299b05ee92173287c00ada0b8.lua', -- Overkill
 }
 
 if communityCreators[creatorId] then 
