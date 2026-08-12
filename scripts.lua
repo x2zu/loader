@@ -29,6 +29,7 @@ local communityCreators = {
     [665060893]    = 'https://api.luarmor.net/files/v4/loaders/9211636f4c3a8d08978bf95b608e7b77.lua', -- Evomon
     [95076810]    = 'https://api.luarmor.net/files/v4/loaders/e6c1ba1299b05ee92173287c00ada0b8.lua', -- Overkill
     [794813948]    = 'https://api.luarmor.net/files/v4/loaders/0f149664f0ac8c90464817d8e0bf4431.lua', -- Anime Dungeons
+    [709996116]    = 'https://api.luarmor.net/files/v4/loaders/097d2ee959297dce3fd8e439a234f8f9.lua', -- Crazy Odyssey
 }
 
 if communityCreators[creatorId] then 
