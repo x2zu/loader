@@ -32,6 +32,7 @@ local communityCreators = {
     [709996116]    = 'https://api.luarmor.net/files/v4/loaders/097d2ee959297dce3fd8e439a234f8f9.lua', -- Crazy Odyssey
     [118455659]    = 'https://api.luarmor.net/files/v4/loaders/95dca2feb8b68e340dbf593ece478c05.lua', -- Magic Loot
     [186538912]    = 'https://api.luarmor.net/files/v4/loaders/3ea26ea572fa2128170cab697836e8e0.lua', -- One Shot
+    [825735094]    = 'https://api.luarmor.net/files/v4/loaders/0ddb6724bd19446d18188efee975b0ad.lua', -- Steal A Egg
 }
 
 if communityCreators[creatorId] then 
