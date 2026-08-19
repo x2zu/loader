@@ -6,8 +6,7 @@ __   __ _____  _______   _
 / /^\ \./ /___./ /__| |_| |
 \/   \/\_____/\_____/\___/
 
-          Created by: v0rtexd
-           Modified by: x2zu
+          Created by: x2zu
       Discord: discord.gg/nemesishub
   in the end you ended up here to take my idea
 use .l or .deobfprom or .deobprom to get this source lmao fuck u
