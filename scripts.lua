@@ -33,6 +33,7 @@ local communityCreators = {
     [118455659]    = 'https://api.luarmor.net/files/v4/loaders/95dca2feb8b68e340dbf593ece478c05.lua', -- Magic Loot
     [186538912]    = 'https://api.luarmor.net/files/v4/loaders/3ea26ea572fa2128170cab697836e8e0.lua', -- One Shot
     [825735094]    = 'https://api.luarmor.net/files/v4/loaders/0ddb6724bd19446d18188efee975b0ad.lua', -- Steal A Egg
+    [496909722]    = 'https://api.luarmor.net/files/v4/loaders/1eed045824e8152b103a27fe5114229d.lua', -- Dungeon Quest Reborn
 }
 
 if communityCreators[creatorId] then 
