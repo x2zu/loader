@@ -35,7 +35,8 @@ local communityCreators = {
     [825735094]    = 'https://api.luarmor.net/files/v4/loaders/0ddb6724bd19446d18188efee975b0ad.lua', -- Steal A Egg
     [496909722]    = 'https://api.luarmor.net/files/v4/loaders/1eed045824e8152b103a27fe5114229d.lua', -- Dungeon Quest Reborn
     [434582823]    = 'https://api.luarmor.net/files/v4/loaders/9d03dfe2476930d1a4a489437e8fdfd0.lua', -- gataulupa
-    [434582823]    = 'https://api.luarmor.net/files/v4/loaders/a4c0e992870c437145b94c49df06a6e5.lua', -- AnimeZero
+    [861404864]    = 'https://api.luarmor.net/files/v4/loaders/a4c0e992870c437145b94c49df06a6e5.lua', -- AnimeZero
+    [67033518]    = 'https://api.luarmor.net/files/v4/loaders/b78ac31ff144486a0481b5ee1f9936d9.lua', -- Fishing Master
 }
 
 if communityCreators[creatorId] then 
