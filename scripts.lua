@@ -39,6 +39,10 @@ local communityCreators = {
     [67033518]    = 'https://api.luarmor.net/files/v4/loaders/b78ac31ff144486a0481b5ee1f9936d9.lua', -- Fishing Master
     [335191033]    = 'https://api.luarmor.net/files/v4/loaders/0874ce5ec74a356c0c19641215978a75.lua', -- Foresters
     [32032540]    = 'https://api.luarmor.net/files/v4/loaders/2da0a674d0454f94e8e6adc1e521b38d.lua', -- Heavyweight Fishing 
+    [35289532]    = 'https://api.luarmor.net/files/v4/loaders/b84d822df496ab42d1af9a5de60f5f5c.lua', -- Dig
+    [1065149497]    = 'https://api.luarmor.net/files/v4/loaders/1692079e85ff017e5a5bd9cca39d6b07.lua', -- Dont Splash
+    [34216976]    = 'https://api.luarmor.net/files/v4/loaders/4d5797dea7a6042770216b271a9b5d43.lua', -- What If Disasters
+ 
 }
 
 if communityCreators[creatorId] then 
