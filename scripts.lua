@@ -42,6 +42,7 @@ local communityCreators = {
     [35289532]    = 'https://api.luarmor.net/files/v4/loaders/b84d822df496ab42d1af9a5de60f5f5c.lua', -- Dig
     [1065149497]    = 'https://api.luarmor.net/files/v4/loaders/1692079e85ff017e5a5bd9cca39d6b07.lua', -- Dont Splash
     [34216976]    = 'https://api.luarmor.net/files/v4/loaders/4d5797dea7a6042770216b271a9b5d43.lua', -- What If Disasters
+     [879801276]    = 'https://api.luarmor.net/files/v4/loaders/cc16ba20061be682a1a93ef0b9d9884a.lua', -- Growblox
  
 }
 
