@@ -35,7 +35,6 @@ local communityCreators = {
     [496909722]    = 'https://api.luarmor.net/files/v4/loaders/1eed045824e8152b103a27fe5114229d.lua', -- Dungeon Quest Reborn
     [434582823]    = 'https://api.luarmor.net/files/v4/loaders/9d03dfe2476930d1a4a489437e8fdfd0.lua', -- gataulupa
     [861404864]    = 'https://api.luarmor.net/files/v4/loaders/a4c0e992870c437145b94c49df06a6e5.lua', -- AnimeZero
-    [67033518]    = 'https://api.luarmor.net/files/v4/loaders/b78ac31ff144486a0481b5ee1f9936d9.lua', -- Fishing Master
     [335191033]    = 'https://api.luarmor.net/files/v4/loaders/0874ce5ec74a356c0c19641215978a75.lua', -- Foresters
     [32032540]    = 'https://api.luarmor.net/files/v4/loaders/2da0a674d0454f94e8e6adc1e521b38d.lua', -- Heavyweight Fishing 
     [35289532]    = 'https://api.luarmor.net/files/v4/loaders/b84d822df496ab42d1af9a5de60f5f5c.lua', -- Dig
